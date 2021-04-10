@@ -50,7 +50,7 @@
       <div xml:id="starts-on">
         <pb ed="#L" n="191"/>
         <!-- 3rd of 5 columns -->
-        <!--<cb ed="#L" n="c"/> a column "c" here is currently break the scta rdf builder --> 
+        <cb ed="#L" n="c"/>   
       </div>
     </front>
     <body>
@@ -63,7 +63,7 @@
           <lb ed="#L"/>QUOD DEUS EST UBIQUE
         </p>
         <p xml:id="v8naTA-d1e2263-d1e125">
-          <lb ed="#L" n="c"/>
+          <cb ed="#L" n="c"/>
           <lb ed="#L"/>Ex hoc autem apparet quod necesse est 
           <lb ed="#L"/>Deum esse ubique et in omnibus rebus.
         </p>
