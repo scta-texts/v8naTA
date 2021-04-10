@@ -49,7 +49,8 @@
     <front>
       <div xml:id="starts-on">
         <pb ed="#L" n="191"/>
-        <cb ed="#L" n="c"/> <!-- 3rd of 5 columns -->
+        <!-- 3rd of 5 columns -->
+        <!--<cb ed="#L" n="c"/> a column "c" here is currently break the scta rdf builder --> 
       </div>
     </front>
     <body>
