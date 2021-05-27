@@ -68,8 +68,8 @@
           <lb ed="#L"/>Deum esse ubique et in omnibus rebus.
         </p>
         <p xml:id="v8naTA-d1e2263-d1e134">
-          <lb ed="#L"/><pc type="indent"/><quote source="http://scta.info/resource/aristdp-d1e97-d1e520" synch="72-78"><!--synch manifestation: cod-qwzw4v-->Movens enim et motum oportet esse 
-          <lb ed="#L"/>simul</quote>, ut probat <ref xml:id="v8naTA-d1e2263-Rd1e141">philosophus in VII physicorum</ref>. Deus autem
+          <lb ed="#L"/><pc type="indent"/><quote xml:id="v8naTA-d1e2263-Qd1e138" source="http://scta.info/resource/aristdp-d1e97-d1e520" synch="72-78"><!--synch manifestation: cod-qwzw4v-->Movens enim et motum oportet esse 
+            <lb ed="#L"/>simul</quote>, ut probat <ref xml:id="v8naTA-d1e2263-Rd1e141" corresp="#v8naTA-d1e2263-Qd1e138">philosophus in VII physicorum</ref>. Deus autem
           omnia movet ad suas operationes, ut <ref xml:id="v8naTA-d1e2263-Rd1e144">ostensum est</ref>. Est igitur in omnibus rebus.
         </p>
         <p xml:id="v8naTA-d1e2263-d1e149">
