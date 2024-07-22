@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 105</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 105</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="330"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2565"><!-- v8naTA-l3c105 -->
+            <head xml:id="v8naTA-d1e2565-Hd1e101">Capitulum 105</head>
+            <head xml:id="v8naTA-d1e2565-Hd1e103" type="question-title">Unde magorum operationes efficaciam habeant.</head>
+            <p xml:id="v8naTA-d1e2565-d1e106">
+               <pb ed="#L" n="330"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=330"/>CAPITULUM CENTESIMUM QUINTUM
+<lb ed="#L" n="2"/>UNDE MAGORUM OPERATIONES EFFICACIAM HABEANT.
+</p>
+            <p xml:id="v8naTA-d1e2565-d1e117">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="3"/>INVESTIGANDUM autem reliquitur unde artes
+<lb ed="#L" n="4"/>MP magicae efficaciam habeant. Quod 
+qui<lb ed="#L" break="no" n="5"/>dem iacile perpendi potest si modus
+<lb ed="#L" n="6"/>operationis earum attendatur.
+</p>
+            <p xml:id="v8naTA-d1e2565-d1e130">
+               <lb ed="#L" n="7"/>In suis enim operationibus utuntur vocibus
+<lb ed="#L" n="8"/>quibusdam significativis ad determinatos effectus
+<lb ed="#L" n="9"/>producendos. Vox autem, inquantum est 
+signifi<lb ed="#L" break="no" n="10"/>cativa, non habet virtutem nisi ex aliquo intellectu:
+<lb ed="#L" n="11"/>vel ex intellectu proferentis; vel ex intellectu eius
+<lb ed="#L" n="12"/>ad quem profertur. Ex proferentis quidem 
+intel<lb ed="#L" break="no" n="13"/>lectu, sicut si aliquis intellectus sit tantae virtutis
+<lb ed="#L" n="14"/>quod sua conceptione res possit causare, quam
+<lb ed="#L" n="15"/>quidem conceptionem vocis officio producendis
+<lb ed="#L" n="16"/>effectibus quodammodo praesentat. Ex intellectu
+<lb ed="#L" n="17"/>autem eius ad quem sermo dirigitur, sicut cum
+<lb ed="#L" n="18"/>per significationem vocis in intellectu receptam,
+<lb ed="#L" n="19"/>audiens inducitur ad aliquid faciendum. Non
+<lb ed="#L" n="20"/>autem potest dici quod voces illae significativae a
+<lb ed="#L" n="21"/>magis prolatae efficaciam habeant ex intellectu
+<lb ed="#L" n="22"/>proferentis. Cum enim virtus essentiam 
+conse<lb ed="#L" break="no" n="23"/>quatur, virtutis diversitas essentialium 
+principio<lb ed="#L" break="no" n="24"/>rum diversitatem ostendit. Intellectus autem 
+com<lb ed="#L" break="no" n="25"/>muniter hominum huius dispositionis invenitur
+<lb ed="#L" n="26"/>quod eius cognitio ex rebus causatur, magis quam
+<lb ed="#L" n="27"/>sua conceptione res causare possit. Si igitur sint
+<lb ed="#L" n="28"/>aliqui homines qui verbis conceptionem sui 
+intel<lb ed="#L" break="no" n="29"/>lectus exprimentibus res possint transmutare 
+pro<lb ed="#L" break="no" n="30"/>pria virtute, erunt alterius speciei, et dicentur
+<lb ed="#L" n="31"/>aequivoce homines.
+</p>
+            <p xml:id="v8naTA-d1e2565-d1e188">
+               <lb ed="#L" n="32"/>Amplius. Virtus faciendi non acquiritur per
+<lb ed="#L" n="33"/>disciplinam, sed solum cognitio aliquid faciendi.
+<lb ed="#L" n="34"/>Per disciplinam autem aliqui acquirunt quod
+<lb ed="#L" n="35"/>huiusmodi operationes magicas efficiant. Non
+<lb ed="#L" n="36"/>igitur est in eis ad huiusmodi effectus 
+produ<lb ed="#L" break="no" n="37"/>cendos virtus aliqua, sed cognitio sola.
+</p>
+            <p xml:id="v8naTA-d1e2565-d1e204">
+               <lb ed="#L" n="38"/>Si quis autem dicat quod huiusmodi homines
+<lb ed="#L" n="39"/>sua nativitate, ex virtute stellarum, sortiuntur prae
+<lb ed="#L" n="40"/>ceteris virtutem praedictam, ita quod, 
+quantum<lb ed="#L" break="no" n="41"/>cumque alii instruantur, qui hoc ex nativitate
+<lb ed="#L" n="42"/>non habent, efficaces in huiusmodi operibus esse
+<lb ed="#L" n="43"/>non possunt: - primo quidem dicendum est quod
+<lb ed="#L" n="44"/>corpora caelestia super intellectum imprimere non
+<lb ed="#L" n="45"/>possunt, ut supra ostensum est. Non igitur ex
+<lb ed="#L" n="46"/>virtute stellarum sortiri potest intellectus alicuius
+<lb ed="#L" n="47"/>hanc virtutem quod repraesentatio suae 
+con<lb ed="#L" break="no" n="48"/>ceptionis per vocem sit alicuius effectiva.
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="49"/>Si autem dicatur quod etiam imaginatio aliquid
+<lb ed="#L" n="50"/>in prolatione vocum significativarum operatur,
+<lb ed="#L" n="51"/>super quam possunt corpora caelestia imprimere,
+<lb ed="#L" n="52"/>cum eius operatio sit per organum corporale: - hoc
+<lb ed="#L" n="53"/>non potest esse quantum ad omnes effectus qui
+<lb ed="#L" n="54"/>per huiusmodi artes fiunt. Ostensum est enim
+<lb ed="#L" n="55"/>quod non possunt omnes huiusmodi effectus 
+vir<lb ed="#L" break="no" n="56"/>tute stellarum produci. Ergo neque ex virtute
+<lb ed="#L" n="57"/>stellarum aliquis sortiri potest hanc virtutem ut
+<lb ed="#L" n="58"/>eosdem effectus producat.
+</p>
+            <p xml:id="v8naTA-d1e2565-d1e254">
+               <lb ed="#L" n="59"/>Relinquitur igitur quod effectus huiusmodi
+<lb ed="#L" n="60"/>compleantur per aliquem intellectum ad quem
+<lb ed="#L" n="61"/>sermo proferentis huiusmodi voces dirigitur.
+<lb ed="#L" n="62"/>Huius autem signum est: nam huiusmodi 
+signi<lb ed="#L" break="no" n="63"/>ficativae voces quibus magi utuntur, invocationes
+<lb ed="#L" n="64"/>sunt, supplicationes, adiurationes, aut etiam imperia,
+<lb ed="#L" n="65"/>quasi ad alterum colloquentis.
+</p>
+            <p xml:id="v8naTA-d1e2565-d1e272">
+               <lb ed="#L" n="66"/>Item. In observationibus huius artis utuntur
+<lb ed="#L" n="67"/>quibusdam characteribus et figuris determinatis.
+<lb ed="#L" n="68"/>Figura autem nullius actionis principium est 
+ne<lb ed="#L" break="no" n="69"/>que passionis: alias, mathematica corpora essent
+<lb ed="#L" n="70"/>activa et passiva. Non ergo potest per figuras
+<lb ed="#L" n="71"/>determinatas disponi materia ad aliquem  
+effec<lb ed="#L" break="no" n="72"/>tum naturalem suscipiendum. Non ergo utuntur
+<lb ed="#L" n="73"/>magi figuris aliquibus quasi dispositionibus. 
+Relin<lb ed="#L" break="no" n="74"/>quitur ergo quod utantur eis solum quasi signis:
+<lb ed="#L" n="75"/>non enim est aliquid tertium dare. Signis autem
+<lb ed="#L" n="76"/>non utimur nisi ad alios intelligentes. Habent
+<lb ed="#L" n="77"/>igitur magicae artes efficaciam ab alio intelligente,
+<lb ed="#L" n="78"/>ad quem sermo magi dirigitur.
+</p>
+            <p xml:id="v8naTA-d1e2565-d1e303">
+               <lb ed="#L" n="79"/>Si quis autem dicat quod figurae aliquae 
+ap<lb ed="#L" break="no" n="80"/>propriantur aliquibus caelestium corporum; et
+<lb ed="#L" n="81"/>ita corpora inferiora determinantur per aliquas
+<lb ed="#L" n="82"/>figuras ad aliquorum caelestium corporum 
+im<lb ed="#L" break="no" n="83"/>pressiones suscipiendas: - videtur non 
+ratio<lb ed="#L" break="no" n="84"/>nabiliter dici. Non enim ordinatur aliquod 
+pa<lb ed="#L" break="no" n="85"/>tiens ad suscipiendam impressionem agentis nisi
+<lb ed="#L" n="86"/>per hoc quod est in potentia. llla ergo tantum
+<lb ed="#L" n="87"/>determinant ipsum ad specialem impressionem
+<lb ed="#L" n="88"/>suscipiendum, per quae in potentia fit 
+quodam<lb ed="#L" break="no" n="89"/>modo. Per figuras autem non disponitur 
+ma<lb ed="#L" break="no" n="90"/>teria ut sit in potentia ad aliquam formam:
+<lb ed="#L" n="91"/>quia figura abstrahit, secundum suam rationem,
+<lb ed="#L" n="92"/>ab omni materia et forma sensibili, cum sit
+<lb ed="#L" n="93"/>quoddam mathematicum. Non ergo per figuras
+<lb ed="#L" n="94"/>vel characteres determinatur aliquod corpus
+<pb ed="#L" n="331"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>ad suscipiendam aliquam influentiam caelestis
+<lb ed="#L" n="2"/>corporis.
+</p>
+            <p xml:id="v8naTA-d1e2565-d1e349">
+               <lb ed="#L" n="3"/>Praeterea. Figurae aliquae appropriantur 
+cor<lb ed="#L" break="no" n="4"/>poribus caelestibus ut effectus ipsorum: nam 
+fi<lb ed="#L" break="no" n="5"/>gurae inferiorum corporum causantur a 
+corpo<lb ed="#L" break="no" n="6"/>ribus caelestibus. Praedictae autem artes non
+<lb ed="#L" n="7"/>utuntur characteribus aut figuris quasi effectibus
+<lb ed="#L" n="8"/>caelestium corporum, sed sunt effectus hominis
+<lb ed="#L" n="9"/>operantis per artem. Appropriatio igitur 
+figura<lb ed="#L" break="no" n="10"/>rum ad aliqua caelestia corpora nihil ad 
+propo<lb ed="#L" break="no" n="11"/>situm facere videtur.
+</p>
+            <p xml:id="v8naTA-d1e2565-d1e372">
+               <lb ed="#L" n="12"/>Item. Per figuras non disponitur aliqualiter
+<lb ed="#L" n="13"/>materia naturalis ad formam, ut ostensum est.
+<lb ed="#L" n="14"/>Corpora igitur in quibus sunt impressae 
+huius<lb ed="#L" break="no" n="15"/>modi figurae, sunt eiusdem habilitatis ad 
+reci<lb ed="#L" break="no" n="16"/>piendam influentiam caelestem cum aliis 
+corpo<lb ed="#L" break="no" n="17"/>ribus eiusdem speciei. Quod autem aliquid agat
+<lb ed="#L" n="18"/>in unum eorum quae sunt aequaliter disposita,
+<lb ed="#L" n="19"/>propter aliquid sibi appropriatum ibi inventum,
+<lb ed="#L" n="20"/>et non in aliud, non est operantis per necessitatem
+<lb ed="#L" n="21"/>naturae, sed per electionem. Patet ergo quod
+<lb ed="#L" n="22"/>huiusmodi artes figuris utentes ad effectus aliquos
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="23"/>producendos, non habent efficaciam ab aliquo
+<lb ed="#L" n="24"/>agente per naturam, sed ab aliqua intellectuali
+<lb ed="#L" n="25"/>substantia per intellectum agente.
+</p>
+            <p xml:id="v8naTA-d1e2565-d1e407">
+               <lb ed="#L" n="26"/>Hoc etiam demonstrat et ipsum nomen quod
+<lb ed="#L" n="27"/>talibus figuris imponunt, characteres eos dicentes.
+<lb ed="#L" n="28"/>Character enim signum est. In quo datur 
+intel<lb ed="#L" break="no" n="29"/>ligi quod figuris huiusmodi non utuntur nisi ut
+<lb ed="#L" n="30"/>signis exhibitis alicui intellectuali naturae.
+</p>
+            <p xml:id="v8naTA-d1e2565-d1e420">
+               <lb ed="#L" n="31"/>Quia vero figurae in artificialibus sunt quasi
+<lb ed="#L" n="32"/>formae specificae, potest aliquis dicere quod
+<lb ed="#L" n="33"/>nihil prohibet quin constitutionem figurae, quae
+<lb ed="#L" n="34"/>dat speciem imagini, consequatur aliqua virtus
+<lb ed="#L" n="35"/>ex influentia caelesti, non secundum quod figura
+<lb ed="#L" n="36"/>est, sed secundum quod causat speciem 
+artifi<lb ed="#L" break="no" n="37"/>ciat, quod adipiscitur virtutem ex stellis. Sed
+<lb ed="#L" n="38"/>de litteris quibus inscribitur aliquid in imagine,
+<lb ed="#L" n="39"/>et aliis characteribus, nihil aliud potest dici quam
+<lb ed="#L" n="40"/>quod signa sunt. Unde non habent ordinem nisi
+<lb ed="#L" n="41"/>ad aliquem intellectum. — Quod etiam ostenditur
+<lb ed="#L" n="42"/>per sacrificia, prostrationes, et alia huiusmodi
+<lb ed="#L" n="43"/>quibus utuntur, quae non possunt esse nisi signa
+<lb ed="#L" n="44"/>reverentiae exhibitae alicui intellectuali naturae.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

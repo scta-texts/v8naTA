@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 18</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 18</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="42"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1855"><!-- v8naTA-l3c18 -->
+            <head xml:id="v8naTA-d1e1855-Hd1e101">Capitulum 18</head>
+            <head xml:id="v8naTA-d1e1855-Hd1e103" type="question-title">Quomodo deus sit finis rerum.</head>
+            <p xml:id="v8naTA-d1e1855-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="73" type="fixed=42"/>CAPITULUM DECIMUM OCTAVUM
+<lb ed="#L" n="74"/>QUOMODO DEUS SIT FINIS RERUM.
+</p>
+            <p xml:id="v8naTA-d1e1855-d1e115">
+               <lb ed="#L" n="75"/>RESTAT igitur inquirendum quomodo Deus
+<lb ed="#L" n="76"/>sit omnium finis. Quod kr ex 
+prae<lb ed="#L" break="no" n="77"/>missis
+</p>
+            <p xml:id="v8naTA-d1e1855-d1e124">
+               <lb ed="#L" n="78"/>Sic enim
+<lb ed="#L" n="79"/>rerum quod tamen est prius omnibus in essendo 
+<lb ed="#L" n="80"/>Finis autem aliquis invenitur qui, etiam si 
+pri<lb ed="#L" break="no" n="81"/>matum obtineat in causando secundum quod est
+<lb ed="#L" n="82"/>in intentione, est tamen in essendo posterius.
+<lb ed="#L" n="83"/>Quod quidem contingit in quolibet fine quem
+<lb ed="#L" n="84"/>agens sua actione constituit: sicut medicus 
+con<lb ed="#L" break="no" n="85"/>stituit sanitatem per suam actionem in infirmo,
+<lb ed="#L" n="86"/>quae tamen est finis eius. Aliquis autem finis
+<lb ed="#L" n="87"/>invenitur qui, sicut est praecedens in causando,
+<lb ed="#L" n="88"/>ita etiam in essendo praecedit: sicut dicitur finis
+<lb ed="#L" n="89"/>id quod aliquid sua actione vel motu acquirere
+<lb ed="#L" n="90"/>intendit, ut locum sursum ignis per suum 
+mo<lb ed="#L" break="no" n="91"/>tum, et civitatem rex per pugnam. Deus igitur
+<lb ed="#L" n="92"/>sic est finis rerum sicut aliquid ab unaquaque
+<lb ed="#L" n="93"/>re suo modo obtinendum.
+</p>
+            <p xml:id="v8naTA-d1e1855-d1e162">
+               <lb ed="#L" n="94"/>Adhuc. Deus est simul ultimus rerum finis,
+<lb ed="#L" n="95"/>et primum agens, ut ostensum est. Finis 
+au<lb ed="#L" break="no" n="96"/>tem per actionem agentis constitutus, non potest
+<lb ed="#L" n="97"/>esse primum agens, sed est magis effectus agentis.
+</p>
+            <p xml:id="v8naTA-d1e1855-d1e173">
+               <lb ed="#L" n="98"/>Non potest igitur Deus sic esse finis rerum quasi :
+<lb ed="#L" n="99"/>aliquid constitutum, sed sdb quasi aliquid 
+prae<lb ed="#L" break="no" n="100"/>existens obtinendum.
+</p>
+            <p xml:id="v8naTA-d1e1855-d1e182">
+               <lb ed="#L" n="101"/>Amplius. Si aliquid agat propter rem aliquam
+<lb ed="#L" n="102"/>iam existentem, et per eius actionem aliquid
+<lb ed="#L" n="103"/>constituatur, oportet quod rei propter quam agit
+<lb ed="#L" n="104"/>aliquid acquiratur ex actione agentis: sicut si
+<lb ed="#L" n="105"/>milites pugnant propter ducem, cui aquiritur 
+vi<lb ed="#L" break="no" n="106"/>ctoria, quam milites suis actionibus causant. Deo
+<lb ed="#L" n="107"/>autem non potest aliquid acquiri ex actione 
+cu<lb ed="#L" break="no" n="108"/>iuslibet rei: est enim sua bonitas omnino 
+per<lb ed="#L" break="no" n="109"/>fecta, ut in primo libro  ostensum est. 
+Relin<lb ed="#L" break="no" n="110"/>quitur igitur quod Deus sit finis rerum, non sicut
+<lb ed="#L" n="111"/>aliquid constitutum aut effectum a rebus, neque
+<lb ed="#L" n="112"/>ita quod aliquid ei a rebus acquiratur, sed hoc
+<lb ed="#L" n="113"/>solo modo, quia ipse rebus acquiritur.
+</p>
+            <p xml:id="v8naTA-d1e1855-d1e213">
+               <lb ed="#L" n="114"/>Item. Oportet quod eo modo effectus tendat
+<lb ed="#L" n="115"/>in finem quo agens propter finem agit. Deus,
+<lb ed="#L" n="116"/>autem, qui est primum agens omnium rerum,
+<pb ed="#L" n="43"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>non sic agit quasi sua actione aliquid acquirat,
+<lb ed="#L" n="2"/>sed quasi sua actione aliquid largiatur; quia non
+<lb ed="#L" n="3"/>est in potentia ut aliquid acquirere possit, sed 
+<lb ed="#L" n="4"/>solum in actu perfecto, ex quo potest elargiri.
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="5"/>Res igitur non ordinantur in Deum sicut in
+<lb ed="#L" n="6"/>finem cui aliquid acquiratur, sed ut ab ipso
+<lb ed="#L" n="7"/>ipsummet suo modo consequantur, cum ipsemet
+<lb ed="#L" n="8"/>sit finis.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 113</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 113</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="359"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2631"><!-- v8naTA-l3c113 -->
+            <head xml:id="v8naTA-d1e2631-Hd1e101">Capitulum 113</head>
+            <head xml:id="v8naTA-d1e2631-Hd1e103" type="question-title">Quod rationalis creatura dirigitur a deo ad suos actus
+non solum secundum ordinem ad speciem,
+sed etiam secundum quod congruit individuo.</head>
+            <p xml:id="v8naTA-d1e2631-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="97" type="fixed=359"/>CAPITULUM CENTESIMUM DECIMUM TERTIUM
+<lb ed="#L" n="98"/>QUOD RATIONALIS CREATURA DIRIGITUR A DEO AD SUOS ACTUS
+<lb ed="#L" n="99"/>NON SOLUM SECUNDUM ORDINEM AD SPECIEM,
+<lb ed="#L" n="100"/>SED ETIAM SECUNDUM QUOD CONGRUIT INDIVIDUO.
+</p>
+            <p xml:id="v8naTA-d1e2631-d1e119">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="101"/>EX hoc autem apparet quod sola rationalis
+<lb ed="#L" n="102"/>creatura dirigitur a Deo ad suos actus
+<lb ed="#L" n="103"/>non solum secundum congruentiam
+<lb ed="#L" n="104"/>speciei, sed etiam secundum 
+congruen<lb ed="#L" break="no" n="105"/>tiam individui. Omnis enim res propter suam
+<lb ed="#L" n="106"/>operationem esse videtur: operatio enim est ultima
+<lb ed="#L" n="107"/>perfectio rei. Sic igitur unumquodque a Deo ad
+<lb ed="#L" n="108"/>suum actum ordinatur secundum quod divinae
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="109"/>providentiae substat. Creatura autem rationalis
+<lb ed="#L" n="110"/>divinae providentiae substat sicut secundum se
+<lb ed="#L" n="111"/>gubernata et provisa, non solum propter speciem,
+<lb ed="#L" n="112"/>ut aliae corruptibiles creaturae: quia individuum
+<lb ed="#L" n="113"/>quod gubernatur solum propter speciem, non
+<lb ed="#L" n="114"/>gubernatur propter seipsum; creatura autem 
+ra<lb ed="#L" break="no" n="115"/>tionalis propter seipsam gubernatur, ut ex dictis
+<lb ed="#L" n="116"/>manifestum est. Sic igitur solae rationales crea-
+<pb ed="#L" n="360"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>turae directionem. a. Deo ad suos actus accipiunt
+<lb ed="#L" n="2"/>non solum propter speciem, sed secundum 
+indi<lb ed="#L" break="no" n="3"/>viduum.
+</p>
+            <p xml:id="v8naTA-d1e2631-d1e171">
+               <lb ed="#L" n="4"/>Adhuc. Quaecumque directionem habentin suis
+<lb ed="#L" n="5"/>actibus solum secundum quod pertinent ad 
+spe<lb ed="#L" break="no" n="6"/>ciem, non est in ipsis agere vel non agere: quae
+<lb ed="#L" n="7"/>enim consequuntur speciem, sunt communia et
+<lb ed="#L" n="8"/>naturalia omnibus individuis sub specie contentis;
+<lb ed="#L" n="9"/>naturalia autem non sunt in nobis. Si igitur homo
+<lb ed="#L" n="10"/>haberet directionem in suis. actibus solum 
+secun<lb ed="#L" break="no" n="11"/>dum congruentiam speciei, non esset in ipso agere
+<lb ed="#L" n="12"/>vel non agere, sed oporteret quod sequeretur 
+incli<lb ed="#L" break="no" n="13"/>nationem naturalem toti speciei communem, ut
+<lb ed="#L" n="14"/>contingit in omnibus irrationalibus creaturis. 
+Ma<lb ed="#L" break="no" n="15"/>nifestum est igitur quod rationalis creaturae actus
+<lb ed="#L" n="16"/>directionem habet non solum secundum apompo
+<lb ed="#L" n="17"/>sed etiam secundum individuum.
+</p>
+            <p xml:id="v8naTA-d1e2631-d1e205">
+               <lb ed="#L" n="18"/>Amplius. Sicut supra ostensum est, divina 
+pro<lb ed="#L" break="no" n="19"/>videntia ad omnia singularia se extendit, etiam
+<lb ed="#L" n="20"/>minima. Quibuscumque igitur sunt aliquae 
+actio<lb ed="#L" break="no" n="21"/>nes praeter inclinationem speciei, oportet quod per
+<lb ed="#L" n="22"/>divinam providentiam regulentur in suis actibus
+<lb ed="#L" n="23"/>praeter directionem quae pertinet ad speciem. Sed
+<lb ed="#L" n="24"/>in rationali creatura apparent multae actiones ad
+<lb ed="#L" n="25"/>quas non sufficit inclinatio speciei: cuius signum
+<lb ed="#L" n="26"/>est quod non similes sunt in omnibus, sed variae
+<lb ed="#L" n="27"/>in diversis. Oportet igitur quod rationalis creatura
+<lb ed="#L" n="28"/>dirigatur a Deo ad suos actus non solum 
+secun<lb ed="#L" break="no" n="29"/>dum speciem, sed etiam secundum individuum.
+</p>
+            <p xml:id="v8naTA-d1e2631-d1e234">
+               <lb ed="#L" n="30"/>Item. Deus unicuique naturae providet secun- ;
+<lb ed="#L" n="31"/>dum ipsius capacitatem: tales enim singulas 
+crea<lb ed="#L" break="no" n="32"/>turas condidit quales aptas esse cognovit ut per
+<lb ed="#L" n="33"/>suam gubernationem pervenirent ad finem. Sola
+<lb ed="#L" n="34"/>autem creatura rationalis est capax directionis qua
+<lb ed="#L" n="35"/>dirigitur ad suos actus non solum secundum 
+spe<lb ed="#L" break="no" n="36"/>ciem, sed etiam secundum individuum: habet
+<lb ed="#L" n="37"/>enim intellectum et rationem, unde percipere possit
+<lb ed="#L" n="38"/>quomodo diversimode sit aliquid bonum vel ma-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="39"/>lum secundum quod congruit diversis individuis,
+<lb ed="#L" n="40"/>temporibus et locis. Sola igitur creatura rationalis -
+<lb ed="#L" n="41"/>dirigitur a Deo ad suos actus non solum 
+secun<lb ed="#L" break="no" n="42"/>dum speciem, sed etiam secundum individuum.
+</p>
+            <p xml:id="v8naTA-d1e2631-d1e267">
+               <lb ed="#L" n="43"/>Praeterea. Creatura rationalis sic providentiae
+<lb ed="#L" n="44"/>divinae subiacet quod non solum ea gubernatur,
+<lb ed="#L" n="45"/>sed etiam rationem providentiae utcumque 
+co<lb ed="#L" break="no" n="46"/>gnoscere potest: unde sibi competit etiam aliis
+<lb ed="#L" n="47"/>providentiam et gubernationem exhibere. Quod
+<lb ed="#L" n="48"/>non contingit in ceteris creaturis, quae solum 
+pro<lb ed="#L" break="no" n="49"/>videntiam participant inquantum providentiae 
+sub<lb ed="#L" break="no" n="50"/>duntur. Per hoc autem quod aliquis facultatem
+<lb ed="#L" n="51"/>providendi habet, potest etiam suos actus dirigere
+<lb ed="#L" n="52"/>et gubernare. Participat igitur rationalis creatura
+<lb ed="#L" n="53"/>divinam providentiam non solum secundum 
+gu<lb ed="#L" break="no" n="54"/>bernari, sed etiam secundum gubernare: gubernat
+<lb ed="#L" n="55"/>enim se in suis actibus propriis, et etiam alia.
+<lb ed="#L" n="56"/>Omnis autem inferior providentia divinae 
+provi<lb ed="#L" break="no" n="57"/>dentiae subditur quasi supremae. Gubernatio igitur
+<lb ed="#L" n="58"/>actuum rationalis creaturae inquantum sunt. actus
+<lb ed="#L" n="59"/>personales, ad divinam providentiam pertinet.
+</p>
+            <p xml:id="v8naTA-d1e2631-d1e306">
+               <lb ed="#L" n="60"/>Item. Actus personales rationalis creaturae sunt
+<lb ed="#L" n="61"/>proprie actus qui sunt ab anima rationali. Anima
+<lb ed="#L" n="62"/>autem rationalis non solum secundum speciem
+<lb ed="#L" n="63"/>est perpetuitatis capax, sicut aliae creaturae, sed
+<lb ed="#L" n="64"/>etiam. secundum individuum. Actus ergo 
+ratio<lb ed="#L" break="no" n="65"/>nalis creaturae a divina providentia diriguntur non
+<lb ed="#L" n="66"/>solum ea ratione qua ad speciem pertinent, sed
+<lb ed="#L" n="67"/>etiam inquantum sunt personales actus.
+</p>
+            <p xml:id="v8naTA-d1e2631-d1e326">
+               <lb ed="#L" n="68"/>Hinc est quod, licet divinae providentiae omnia
+<lb ed="#L" n="69"/>fociraneia tamen in Scripturis Sacris specialiter
+<lb ed="#L" n="70"/>ei hominum cura attribuitur: secundum illud
+<lb ed="#L" n="71"/>Psalmi vir5: Quid est homo quod memor es eius?
+<lb ed="#L" n="72"/>et. I Cor. ix: Nunquid Deo cura est de bobus?
+<lb ed="#L" n="73"/>Quae quidem. ideo. dicuntur, quia de humanis
+<lb ed="#L" n="74"/>actibus Deus curam habet non solum prout ad
+<lb ed="#L" n="75"/>speciem pertinent, sed etiam secundum quod sunt
+<lb ed="#L" n="76"/>actus personales.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 104</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 104</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="325"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2557"><!-- v8naTA-l3c104 -->
+            <head xml:id="v8naTA-d1e2557-Hd1e101">Capitulum 104</head>
+            <head xml:id="v8naTA-d1e2557-Hd1e103" type="question-title">Quod opera magorum non sunt solum ex impressione
+caelestium corporum.</head>
+            <p xml:id="v8naTA-d1e2557-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="7" type="fixed=325"/>CAPITULUM CENTESIMUM QUARTUM
+<lb ed="#L" n="8"/>QUOD OPERA MAGORUM NON SUNT SOLUM EX IMPRESSIONE
+<lb ed="#L" n="9"/>CAELESTIUM CORPORUM.
+</p>
+            <p xml:id="v8naTA-d1e2557-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="10"/>
+               <lb ed="#L" n="11"/>
+               <lb ed="#L" n="12"/>
+               <lb ed="#L" n="13"/>per artes magicas fiunt, non ab 
+ali<lb ed="#L" break="no" n="14"/>quibus spiritualibus substantiis fiunt,
+<lb ed="#L" n="15"/>sed ex virtute caelestium corporum . Cuius si- ;
+<lb ed="#L" n="16"/>gnum videtur quod ab exercentibus huiusmodi
+<lb ed="#L" n="17"/>opera stellarum certus situs consideratur. 
+Adhi<lb ed="#L" break="no" n="18"/>bentur etiam quaedam herbarum et aliarum 
+cor<lb ed="#L" break="no" n="19"/>poralium rerum auxilia, quasi ad praeparandam
+<lb ed="#L" n="20"/>inferiorem materiam ad suscipiendam influentiam
+<lb ed="#L" n="21"/>virtutis caelestis.
+</p>
+            <p xml:id="v8naTA-d1e2557-d1e148">
+               <lb ed="#L" n="22"/>Hoc autem expresse apparentibus adversatur.
+<lb ed="#L" n="23"/>Cum enim non sit possibile ex aliquibus 
+CORpo<lb ed="#L" break="no" n="24"/>reis principiis intellectum causari, ut supra  
+pro<lb ed="#L" break="no" n="25"/>batum est, impossibile est quod effectus qui sunt :: 
+<lb ed="#L" n="26"/>proprii intellectualis naturae, ex virtute caelestis
+<lb ed="#L" n="27"/>corporis causentur. In huiusmodi autem 
+opera<lb ed="#L" break="no" n="28"/>tionibus magorum apparent quaedam quae sunt
+<lb ed="#L" n="29"/>propria rationalis naturae opera: redduntur enim
+<lb ed="#L" n="30"/>responsa de furtis sublatis, et de aliis huiusmodi,
+<lb ed="#L" n="31"/>quod non posset fieri nisi per intellectum. Non
+<lb ed="#L" n="32"/>est igitur verum omnes huiusmodi effectus ex
+<lb ed="#L" n="33"/>sola virtute caelestium corporum causari.
+</p>
+            <p xml:id="v8naTA-d1e2557-d1e178">
+               <lb ed="#L" n="34"/>Praeterea. Ipsa loquela proprius actus est 
+ra<lb ed="#L" break="no" n="35"/>tionalis naturae. Apparent autem aliqui 
+collo<lb ed="#L" break="no" n="36"/>quentes hominibus in praedictis. operationibus,
+<lb ed="#L" n="37"/>et ratiocinantes de diversis. Non est igitur 
+pos<lb ed="#L" break="no" n="38"/>sibile quod huiusmodi fiant sola virtute caelestium
+<lb ed="#L" n="39"/>corporum.
+</p>
+            <p xml:id="v8naTA-d1e2557-d1e194">
+               <lb ed="#L" n="40"/>Si quis autem dicat quod huiusmodi 
+apparen<lb ed="#L" break="no" n="41"/>tiae non sunt secundum sensum exteriorem, sed
+<lb ed="#L" n="42"/>secundum imaginationem tantum : - hoc quidem,
+<lb ed="#L" n="43"/>primo, non videtur verum. Non enim alicui 
+ap<lb ed="#L" break="no" n="44"/>parent formae imaginatae quasi res verae, nisi fiat
+<lb ed="#L" n="45"/>alienatio ab exterioribus sensibus: quia non potest
+<lb ed="#L" n="46"/>esse quod similitudinibus intendatur tanquam
+<lb ed="#L" n="47"/>rebus, nisi ligato naturali iudicatorio sensus. 
+Huius<lb ed="#L" break="no" n="48"/>modi autem collocutiones et apparitiones fiunt ad
+<lb ed="#L" n="49"/>homines qui utuntur libere sensibus exterioribus.
+<lb ed="#L" n="50"/>Non est igitur possibile quod huiusmodi visa vel
+<lb ed="#L" n="51"/>audita sint secundum imaginationem tantum.
+</p>
+            <p xml:id="v8naTA-d1e2557-d1e223">
+               <lb ed="#L" n="52"/>Deinde, ex quibuscumque formis imaginatis
+<lb ed="#L" n="53"/>non potest alicui provenire intellectualis cognitio
+<lb ed="#L" n="54"/>ultra facultatem naturalem vel acquisitam sui in-
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="55"/>tellectus: quod etiam in somnis patet, in quibus,
+<lb ed="#L" n="56"/>etsi sit aliqua praesignatio futurorum, non tamen
+<lb ed="#L" n="57"/>quicumque videns somnia, eorum significata 
+in<lb ed="#L" break="no" n="58"/>telligit. Per huiusmodi autem visa vel audita
+<lb ed="#L" n="59"/>quae apparent in operibus magorum, plerumque
+<lb ed="#L" n="60"/>advenit alicui intellectualis cognitio aliquorum
+<lb ed="#L" n="61"/>quae sui intellectus. facultatem excedunt: sicut
+<lb ed="#L" n="62"/>revelatio occultorum thesaurorum, manifestatio
+<lb ed="#L" n="63"/>futurorum, et quandoque etiam de aliquibus
+<lb ed="#L" n="64"/>documentis scientiae alicuius vera respondentur.
+<lb ed="#L" n="65"/>Oportet ergo quod vel illi apparentes et .
+collo<lb ed="#L" break="no" n="66"/>quentes non videantur secundum imaginationem
+<lb ed="#L" n="67"/>tantum: vel saltem quod hoc fiat virtute alicuius
+<lb ed="#L" n="68"/>intellectus superioris, quod homo per huiusmodi
+<lb ed="#L" n="69"/>imaginationes in cognitionem talium adducatur; et
+<lb ed="#L" n="70"/>non fiat hoc virtute solum caelestium corporum.
+</p>
+            <p xml:id="v8naTA-d1e2557-d1e269">
+               <lb ed="#L" n="71"/>Adhuc. Quod virtute caelestium corporum fit,
+<lb ed="#L" n="72"/>est effectus naturalis: nam formae naturales sunt
+<lb ed="#L" n="73"/>quae in inferioribus causantur ex virtute 
+caeles<lb ed="#L" break="no" n="74"/>tium corporum. Quod igitur nulli rei potest esse
+<lb ed="#L" n="75"/>naturale, non potest fieri virtute caelestium 
+cor<lb ed="#L" break="no" n="76"/>porum. Quaedam autem talia fieri dicuntur per
+<lb ed="#L" n="77"/>operationes praedictas: sicut quod ad 
+praesen<lb ed="#L" break="no" n="78"/>tiam alicuius quaecumque sera ei pandatur, quod
+<lb ed="#L" n="79"/>aliquis invisibilis reddatur, et multa huiusmodi
+<lb ed="#L" n="80"/>narrantur. Non est igitur possibile hoc fieri 
+vir<lb ed="#L" break="no" n="81"/>tute caelestium corporum.
+</p>
+            <p xml:id="v8naTA-d1e2557-d1e295">
+               <lb ed="#L" n="82"/>Amplius. Cuicumque virtute caelestium  
+cor<lb ed="#L" break="no" n="83"/>porum confertur quod posterius est, confertur
+<lb ed="#L" n="84"/>et ei quod prius est. Moveri autem ex se 
+con<lb ed="#L" break="no" n="85"/>sequitur ad habere animam: animatorum enim
+<lb ed="#L" n="86"/>proprium est quod moveant seipsa. Impossibile
+<lb ed="#L" n="87"/>est igitur fieri virtute caelestium corporum quod
+<lb ed="#L" n="88"/>aliquod inanimatum per se moveatur. Fieri 
+au<lb ed="#L" break="no" n="89"/>tem hoc per magicas artes dicitur, quod aliqua
+<lb ed="#L" n="90"/>statua per se moveatur, aut vocem emittat. Non
+<lb ed="#L" n="91"/>est ergo. possibile quod effectus magicarum 
+ar<lb ed="#L" break="no" n="92"/>tium fiat virtute caelesti.
+</p>
+            <p xml:id="v8naTA-d1e2557-d1e321">
+               <lb ed="#L" n="93"/>Si autem dicatur quod statua illa sortitur 
+ali<lb ed="#L" break="no" n="94"/>quod principium vitae virtute caelestium 
+corpo<lb ed="#L" break="no" n="95"/>rum, hoc est impossibile. Principium enim vitae
+<lb ed="#L" n="96"/>in omnibus viventibus est forma substantialis :
+<lb ed="#L" n="97"/>vivere enim est esse viventibus, ut <ref xml:id="v8naTA-d1e2557-Rd1e334">Philosophus
+<lb ed="#L" n="98"/>dicit, in II de Anima</ref>. Impossibile est autem
+<pb ed="#L" n="326"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>quod aliquid recipiat aliquam formam 
+substan<lb ed="#L" break="no" n="2"/>tialem de novo nisi amittat formam quam prius
+<lb ed="#L" n="3"/>habuit: generatio enim unius est corruptio 
+alte<lb ed="#L" break="no" n="4"/>rius. In fabricatione autem alicuius statuae non
+<lb ed="#L" n="5"/>abiicitur aliqua forma substantialis, sed fit trans- ;
+<lb ed="#L" n="6"/>mutatio solum secundum figuram, quae est 
+ac<lb ed="#L" break="no" n="7"/>cidens: manet enim forma cupri, vel alicuius
+<lb ed="#L" n="8"/>huiusmodi. Non est igitur possibile quod: 
+huius<lb ed="#L" break="no" n="9"/>modi statuae sortiantur aliquod principium vitae.
+</p>
+            <p xml:id="v8naTA-d1e2557-d1e364">
+               <lb ed="#L" n="10"/>Adhuc. Si aliquid per principium vitae mo-:
+<lb ed="#L" n="11"/>veatur, necesse est quod habeat sensum: movens
+<lb ed="#L" n="12"/>enim est sensus vel intellectus. Intellectus autem
+<lb ed="#L" n="13"/>in generalibus et corruptibilibus non est sine
+<lb ed="#L" n="14"/>sensu. Sensus autem non potest esse ubi non
+<lb ed="#L" n="15"/>est tactus: nec tactus sine organo medie tem-:
+<lb ed="#L" n="16"/>perato. Talis autem temperies non invenitur in
+<lb ed="#L" n="17"/>lapide vel cera vel metallo, ex quo fit statua.
+<lb ed="#L" n="18"/>Non est igitur possibile quod huiusmodi statuae
+<lb ed="#L" n="19"/>moveantur per principium vitae.
+</p>
+            <p xml:id="v8naTA-d1e2557-d1e388">
+               <lb ed="#L" n="20"/>Amplius. Viventia perfecta non solum 
+gene<lb ed="#L" break="no" n="21"/>rantur virtute caelesti, sed etiam ex semine: omo
+<lb ed="#L" n="22"/>enim generat hominem et sol. Quae vero ex sola
+<lb ed="#L" n="23"/>virtute caelesti sine semine generantur, sunt 
+ani<lb ed="#L" break="no" n="24"/>malia generata ex putrefactione, quae inter alia
+<lb ed="#L" n="25"/>ignobiliora sunt. Si igitur per virtutem caelestem
+<lb ed="#L" n="26"/>solam huiusmodi statuae sortiuntur principium
+<lb ed="#L" n="27"/>vitae, per quod moveant seipsa, oportet ea esse
+<lb ed="#L" n="28"/>ignobilissima inter animalia. Quod tamen esset
+<lb ed="#L" n="29"/>falsum, si per principium vitae intrinsecum 
+ope<lb ed="#L" break="no" n="30"/>rarentur: nam in earum actibus apparent nobiles
+<lb ed="#L" n="31"/>operationes, cum respondeant de occultis. Non
+<lb ed="#L" n="32"/>est igitur possibile quod operentur vel 
+movean<lb ed="#L" break="no" n="33"/>tur per principium vitae.
+</p>
+            <p xml:id="v8naTA-d1e2557-d1e421">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="34"/>Item. Effectum naturalem virtute caelestium
+<lb ed="#L" n="35"/>corporum productum contingit. inveniri . absque
+<lb ed="#L" n="36"/>artis operatione: etsi enim aliquo artificio aliquis
+<lb ed="#L" n="37"/>operetur ad generationem ranarum, vel 
+aliquo<lb ed="#L" break="no" n="38"/>rum huiusmodi, contingit tamen generari ranas
+<lb ed="#L" n="39"/>absque omni artificio. Si ergo virtute caelestium
+<lb ed="#L" n="40"/>corporum huiusmodi statuae, quae per artem
+<lb ed="#L" n="41"/>nigromanticam fiunt, sortiantur principium vitae,
+<lb ed="#L" n="42"/>erit invenire generationem talium absque 
+huius<lb ed="#L" break="no" n="43"/>modi arte. Hoc autem non invenitur. Manifestum
+<lb ed="#L" n="44"/>est igitur quod huiusmodi statuae non habent
+<lb ed="#L" n="45"/>principium vitae, neque moventur virtute 
+cae<lb ed="#L" break="no" n="46"/>lestis corporis.
+</p>
+            <p xml:id="v8naTA-d1e2557-d1e454">
+               <lb ed="#L" n="47"/>Per haec autem excluditur positio Hermetis,
+<lb ed="#L" n="48"/>qui sic dixit, ut Augustinus refert, VIII de Civitate
+<lb ed="#L" n="49"/>Dei : Deus sicut effector est deorum caelestium, ita
+<lb ed="#L" n="50"/>homo ficlor est deorum qui in templis sunt, 
+fu<lb ed="#L" break="no" n="51"/>mana proximitale contenti: statuas dico animatas,
+<lb ed="#L" n="52"/>sensu el. spirilu plenas, tantaque facientes et talia;
+<lb ed="#L" n="53"/>statuas futurorum. praescias; easdem de somniis
+<lb ed="#L" n="54"/>et multis. alis rebus praedicentes; imbecillitates
+<lb ed="#L" n="55"/>hominibus facientes, eosque curantes; iristitiam
+<lb ed="#L" n="56"/>laetitiamque dantes pro meritis.
+</p>
+            <p xml:id="v8naTA-d1e2557-d1e478">
+               <lb ed="#L" n="57"/>Haec etiam positio auctoritate divina 
+destrui<lb ed="#L" break="no" n="58"/>tur. Dicitur enim in Psalmo: Simulacra gentium
+<lb ed="#L" n="59"/>argentum el aurum, opera manuum hominum.
+<lb ed="#L" n="60"/>Os habent et non loquentur: neque enim est 
+spi<lb ed="#L" break="no" n="61"/>ritus in ore ipsorum.
+</p>
+            <p xml:id="v8naTA-d1e2557-d1e491">
+               <lb ed="#L" n="62"/>Non videtur autem omnino negandum quin
+<lb ed="#L" n="63"/>in praedictis ex virtute caelestium corporum 
+ali<lb ed="#L" break="no" n="64"/>quid virtutis esse possit: ad illos tamen solos
+<lb ed="#L" n="65"/>effectus quos virtute caelestium corporum aliqua
+<lb ed="#L" n="66"/>inferiora corpora producere possunt .
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

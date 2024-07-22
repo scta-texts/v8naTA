@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 23</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 23</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="56"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1896"><!-- v8naTA-l3c23 -->
+            <head xml:id="v8naTA-d1e1896-Hd1e101">Capitulum 23</head>
+            <head xml:id="v8naTA-d1e1896-Hd1e103" type="question-title">Quod motus caeli est a principio intellectivo.</head>
+            <p xml:id="v8naTA-d1e1896-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="113" type="fixed=56"/>CAPITULUM VIGESIMUM TERTIUM
+<lb ed="#L" n="114"/>QUOD MOTUS CAELI EST A PRINCIPIO INTELLECTIVO.
+</p>
+            <p xml:id="v8naTA-d1e1896-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="115"/>EX praemissis etiam ostendi potest 
+pri<lb ed="#L" break="no" n="116"/>mum motivum motus caeli esse aliquid
+<lb ed="#L" n="117"/>intellectivum.
+</p>
+            <p xml:id="v8naTA-d1e1896-d1e126">
+               <lb ed="#L" n="118"/>Nihil enim secundum propriam 
+spe<lb ed="#L" break="no" n="119"/>ciem agens intendit formam altiorem sua forma
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="120"/>intendit enim omne agens sibi simile . Corpus
+<lb ed="#L" n="121"/>autem caeleste, secundum quod agit per motum
+<lb ed="#L" n="122"/>suum, intendit ultimam formam, quae est 
+intel<lb ed="#L" break="no" n="123"/>lectus humanus, quae quidem est altior omni
+<lb ed="#L" n="124"/>corporali forma, ut ex praemissis  patet. Corpus
+<pb ed="#L" n="57"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>igitur caeli non agit ad generationem secundum
+<lb ed="#L" n="2"/>propriam speciem, sicut agens principale, sed 
+se<lb ed="#L" break="no" n="3"/>cundum speciem alicuius superioris agentis 
+in<lb ed="#L" break="no" n="4"/>tellectualis, ad quod se habet corpus caeleste sicut
+<lb ed="#L" n="5"/>instrumentum ad agens principale. Agit autem
+<lb ed="#L" n="6"/>caelum ad generationem secundum quod 
+mo<lb ed="#L" break="no" n="7"/>vetur. Movetur igitur corpus caeleste ab aliqua
+<lb ed="#L" n="8"/>intellectuali substantia.
+</p>
+            <p xml:id="v8naTA-d1e1896-d1e169">
+               <lb ed="#L" n="9"/>Adhuc. Omne quod movetur, necesse est ab
+<lb ed="#L" n="10"/>alio moveri, ut superius  probatum est. Corpus
+<lb ed="#L" n="11"/>igitur caeli ab alio movetur. Aut ergo illud aliud
+<lb ed="#L" n="12"/>est omnino separatum ab eo: aut. est ei unitum,
+<lb ed="#L" n="13"/>ita quod compositum ex caelo et movente 
+di<lb ed="#L" break="no" n="14"/>catur movere seipsum, inquantum una pars eius
+<lb ed="#L" n="15"/>est movens et alia mota. Si autem sic est; omne
+<lb ed="#L" n="16"/>autem movens seipsum est vivum et animatum :
+<lb ed="#L" n="17"/>sequitur quod caelum sit animatum. Non autem.
+<lb ed="#L" n="18"/>alia anima quam intellectuali: non enim 
+nutri<lb ed="#L" break="no" n="19"/>iva, cum in eo non sit generatio et corruptio;
+<lb ed="#L" n="20"/>neque sensitiva, cum non habeat organorum 
+di<lb ed="#L" break="no" n="21"/>versitatem. Sequitur ergo quod moveatur ab
+<lb ed="#L" n="22"/>anima intellectiva. — Si autem movetur a motore
+<lb ed="#L" n="23"/>extrinseco, aut illud erit corporeum, aut 
+incor<lb ed="#L" break="no" n="24"/>poreum. Et si quidem corporeum, non movet
+<lb ed="#L" n="25"/>nisi motum: nullum enim corpus movet nisi
+<lb ed="#L" n="26"/>motum, ut ex superioribus  patet. Oportebit
+<lb ed="#L" n="27"/>ergo et illud ab. alio moveri. Cum autem non
+<lb ed="#L" n="28"/>sit procedere in infinitum in corporibus, 
+opor<lb ed="#L" break="no" n="29"/>tebit devenire ad primum movens incorporeum.
+<lb ed="#L" n="30"/>Quod autem est penitus a corpore separatum,
+<lb ed="#L" n="31"/>oportet esse intellectuale, ut ex Superioribus "
+<lb ed="#L" n="32"/>patet. Motus igitur caeli, quod est primum 
+cor<lb ed="#L" break="no" n="33"/>poreum, est ab intellectuali substantia.
+</p>
+            <p xml:id="v8naTA-d1e1896-d1e226">
+               <lb ed="#L" n="34"/>Item. Corpora gravia et levia moventur a 
+ge<lb ed="#L" break="no" n="35"/>nerante et removente prohibens, ut probatur in
+<lb ed="#L" n="36"/>VIII Physicorum. : non enim potest esse quod
+<lb ed="#L" n="37"/>forma in eis sit movens et materia mota, nihil
+<lb ed="#L" n="38"/>enim movetur nisi corpus. Sicut autem 
+elemen<lb ed="#L" break="no" n="39"/>torum corpora sunt simplicia, et non est in eis
+<lb ed="#L" n="40"/>compositio nisi materiae et formae, ita et corpora
+<lb ed="#L" n="41"/>caelestia sunt simplicia, Si igitur moventur sicut
+<lb ed="#L" n="42"/>gravia et levia, oportet quod moveantur a.
+gene<lb ed="#L" break="no" n="43"/>rante per se, et a removente prohibens per 
+acci<lb ed="#L" break="no" n="44"/>dens. Hoc autem est impossibile: nam illa corpora
+<lb ed="#L" n="45"/>ingenerabilia sunt, utpote non habentia 
+contra<lb ed="#L" break="no" n="46"/>rietatem; et motus eorum impediri non possunt.
+<lb ed="#L" n="47"/>Oportet igitur quod moveantur illa corpora a
+<lb ed="#L" n="48"/>moventibus per apprehensionem. Non autem
+<lb ed="#L" n="49"/>sensitivam, ut ostensum est. Ergo intellectivam.
+</p>
+            <p xml:id="v8naTA-d1e1896-d1e263">
+               <lb ed="#L" n="50"/>Amplius. Si principium ruiotus caeli est sola 
+na<lb ed="#L" break="no" n="51"/>tura, absque apprehensione aliqua, oportet quod
+<lb ed="#L" n="52"/>principium motus caeli sit forma caelestis corporis,
+<lb ed="#L" n="53"/>sicut et in elementis: licet enim formae simplices
+<lb ed="#L" n="54"/>non sint moventes, sunt tamen principia 
+mo<lb ed="#L" break="no" n="55"/>tuum, ad eas enim consequuntur motus 
+natu<lb ed="#L" break="no" n="56"/>rales, sicut et omnes aliae naturales proprietates.
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="57"/>Non autem potest esse quod motus caelestis 
+se<lb ed="#L" break="no" n="58"/>quatur formam caelestis corporis sicut principium
+<lb ed="#L" n="59"/>activum. Sic enim forma est principium motus
+<lb ed="#L" n="60"/>localis, inquantum alicui corpori, secundum suam
+<lb ed="#L" n="61"/>formam, debetur aliquis locus, in quem movetur
+<lb ed="#L" n="62"/>ex vi suae formae tendentis in locum illum, quam
+<lb ed="#L" n="63"/>quia dat generans, dicitur esse motor: sicut igni
+<lb ed="#L" n="64"/>secundum suam formam competit esse sursum.
+<lb ed="#L" n="65"/>Corpori autem caelesti, secundum suam formam,
+<lb ed="#L" n="66"/>non magis congruit unum zbi quam aliud. Non
+<lb ed="#L" n="67"/>igitur motus caelestis principium est sola natura.
+<lb ed="#L" n="68"/>Oportet igitur quod principium motus eius sit
+<lb ed="#L" n="69"/>aliquid per apprehensionem movens.
+</p>
+            <p xml:id="v8naTA-d1e1896-d1e311">
+               <lb ed="#L" n="70"/>Adhuc. Natura semper ad unum tendit: unde
+<lb ed="#L" n="71"/>quae sunt a natura, semper sunt eodem modo,
+<lb ed="#L" n="72"/>nisi impediantur; quod est in paucioribus. Quod
+<lb ed="#L" n="73"/>igitur ex sui ratione habet difformitatem, 
+impos<lb ed="#L" break="no" n="74"/>sibile est quod sit finis in quem tendit natura.
+<lb ed="#L" n="75"/>Motus autem secundum rationem suam est 
+hu<lb ed="#L" break="no" n="76"/>iusmodi: quod enim movetur, inquantum 
+huius<lb ed="#L" break="no" n="77"/>modi, dissimiliter se habet et nunc et prius . 
+lm<lb ed="#L" break="no" n="78"/>possibile est igitur quod natura intendat motum
+<lb ed="#L" n="79"/>propter seipsum. Intendit igitur quietem per 
+mo<lb ed="#L" break="no" n="80"/>tum, quae se habet ad motum sicut unum ad
+<lb ed="#L" n="81"/>multa: quiescit enim quod similiter se habet nunc
+<lb ed="#L" n="82"/>el prius. Si igitur motus caeli sit a natura 
+tan<lb ed="#L" break="no" n="83"/>tum, esset ordinatus in aliquam quietem. Cuius
+<lb ed="#L" n="84"/>contrarium apparet: cum sit continuus. Non est
+<lb ed="#L" n="85"/>igitur motus caeli a natura sicut a principio activo,
+<lb ed="#L" n="86"/>sed magis a substantia intelligente.
+</p>
+            <p xml:id="v8naTA-d1e1896-d1e350">
+               <lb ed="#L" n="87"/>Item. Omni motui qui est a natura sicut a
+<lb ed="#L" n="88"/>principio activo, oportet quod, si accessus ad 
+ali<lb ed="#L" break="no" n="89"/>quid est naturalis, quod recessus ab eodem sit
+<lb ed="#L" n="90"/>innaturalis et contra naturam: sicut grave accedit
+<lb ed="#L" n="91"/>deorsum naturaliter, recedit autem inde contra
+<lb ed="#L" n="92"/>naturam. Si igitur motus caeli esset naturalis, cum
+<lb ed="#L" n="93"/>tendat ad occidentem naturaliter, contra naturam
+<lb ed="#L" n="94"/>ab occidente recedens in orientem rediret. Hoc
+<lb ed="#L" n="95"/>autem est impossibile: in motu enim caelesti nihil
+<lb ed="#L" n="96"/>est violentum et contra naturam. Impossibile est
+<lb ed="#L" n="97"/>igitur quod principium activum motus. caelestis
+<lb ed="#L" n="98"/>sit natura. Est igitur principium activum eius 
+ali<lb ed="#L" break="no" n="99"/>qua vis apprehensiva, et per intellectum, ut ex
+<lb ed="#L" n="100"/>praedictis patet. Movetur igitur corpus caeleste
+<lb ed="#L" n="101"/>a substantia intellectuali.
+</p>
+            <p xml:id="v8naTA-d1e1896-d1e385">
+               <lb ed="#L" n="102"/>Non tamen, est negandum motum caelestem
+<lb ed="#L" n="103"/>esse naturalem. Dicitur enim esse motus aliquis
+<lb ed="#L" n="104"/>naturalis, non solum propter activum principium,
+<lb ed="#L" n="105"/>sed etiam propter passivum: $icut patet in 
+ge<lb ed="#L" break="no" n="106"/>neratione simplicium corporum. Quae quidem
+<lb ed="#L" n="107"/>non potest dici naturalis ratione principii activi:
+<lb ed="#L" n="108"/>movetur enim id .naturaliter a. principio activo
+<lb ed="#L" n="109"/>cuius principium activum est intra, natura enim
+<lb ed="#L" n="110"/>est principium motus in eo in quo est; 
+princi<lb ed="#L" break="no" n="111"/>pium autem activum in generatione simplicis 
+cor<lb ed="#L" break="no" n="112"/>poris est extra. Non est igitur naturalis ratione
+<pb ed="#L" n="58"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>principii activi, sed solum ratione principii passivi,
+<lb ed="#L" n="2"/>quod est materia, cui inest naturalis appetitus ad
+<lb ed="#L" n="3"/>formam naturalem. Sic ergo motus caelestis 
+cor<lb ed="#L" break="no" n="4"/>poris, quantum ad activum principium, non est
+<lb ed="#L" n="5"/>naturalis, sed magis voluntarius et intellectualis:
+<lb ed="#L" n="6"/>quantum vero ad principium passivum est 
+na<lb ed="#L" break="no" n="7"/>turalis, nam corpus caeleste habet naturalem 
+apti<lb ed="#L" break="no" n="8"/>tudinem ad talem motum.
+</p>
+            <p xml:id="v8naTA-d1e1896-d1e434">
+               <lb ed="#L" n="9"/>Hoc autem manifeste apparet si habitudo 
+con<lb ed="#L" break="no" n="10"/>sideretur caelestis corporis ad suum «ufi. Patitur
+<lb ed="#L" n="11"/>enim et movetur unumquodque secundum quod
+<lb ed="#L" n="12"/>est in potentia, agit vero et movet secundum
+<lb ed="#L" n="13"/>quod est actu. Corpus autem caeleste, secundum
+<lb ed="#L" n="14"/>suam substantiam consideratum, invenitur ut in
+<lb ed="#L" n="15"/>potentia indifferenter se habens ad quodlibet uPi,
+<lb ed="#L" n="16"/>sicut materia prima ad quamlibet formam, sicut
+<lb ed="#L" n="17"/>praedictum est . Aliter autem est de corpore gravi
+<lb ed="#L" n="18"/>et levi, quod, in sua natura consideratum, non
+<lb ed="#L" n="19"/>est indifferens ad omnem locum, sed ex ratione
+<lb ed="#L" n="20"/>suae formae determinatur sibi locus. Natura
+<lb ed="#L" n="21"/>igitur corporis gravis et levis est principium
+<lb ed="#L" n="22"/>activum motus eius: natura vero corporis 
+cae<lb ed="#L" break="no" n="23"/>lestis est motus ipsius passivum principium. Unde
+<lb ed="#L" n="24"/>non debet alicui videri quod violenter moveatur,
+<lb ed="#L" n="25"/>sicut corpora gravia et levia, quae a nobis 
+mo<lb ed="#L" break="no" n="26"/>ventur per intellectum. Corporibus enim gravibus
+<lb ed="#L" n="27"/>et levibus inest naturalis aptitudo ad contrarium
+<lb ed="#L" n="28"/>motum ei quo moventur a nobis, et ideo a nobis
+<lb ed="#L" n="29"/>moventur per violentiam: licet motus corporis
+<lb ed="#L" n="30"/>animalis, quo movetur ab anima, non sit ei 
+vio<lb ed="#L" break="no" n="31"/>lentus inquantum est animatum, etsi sit ei 
+vio<lb ed="#L" break="no" n="32"/>lentus inquantum est grave quoddam. Corpora
+<lb ed="#L" n="33"/>autem caelestia non habent aptitudinem ad 
+mo<lb ed="#L" break="no" n="34"/>tum contrarium, sed ad illum quo moventur a
+<lb ed="#L" n="35"/>substantia intelligente. Unde simul est voluntarius,
+<lb ed="#L" n="36"/>quantum ad principium activum; et naturalis,
+<lb ed="#L" n="37"/>quantum ad principium passivum.
+</p>
+            <p xml:id="v8naTA-d1e1896-d1e499">
+               <lb ed="#L" n="38"/>Quod autem motus caeli est. voluntarius 
+se<lb ed="#L" break="no" n="39"/>cundum activum principium, non repugnat 
+uni<lb ed="#L" break="no" n="40"/>tati et conformitati caelestis motus, ex hoc quod
+<lb ed="#L" n="41"/>voluntas ad multa se habet, et non est 
+determi<lb ed="#L" break="no" n="42"/>nata ad unum. Quia sicut natura determinatur
+<lb ed="#L" n="43"/>ad unum per suam virtutem, ita voluntas 
+deter<lb ed="#L" break="no" n="44"/>minatur ad unum per suam sapientiam, qua 
+vo<lb ed="#L" break="no" n="45"/>luntas dirigitur infallibiliter ad unum finem.
+<lb ed="#L" n="46"/>Patet etiam. ex praemissis quod in motu 
+cae<lb ed="#L" break="no" n="47"/>lesti non est contra naturam neque accessus ad
+<lb ed="#L" n="48"/>aliquod u£i, neque recessus ab eo. Hoc enim 
+ac<lb ed="#L" break="no" n="49"/>cidit in motu gravium et levium propter duo:
+<lb ed="#L" n="50"/>primo quidem, quia intentio naturae est 
+deter<lb ed="#L" break="no" n="51"/>minata in gravibus et levibus ad unum locum,
+<lb ed="#L" n="52"/>unde, sicut naturaliter tendit in ipsum, ita contra
+<lb ed="#L" n="53"/>naturam recedit ab eo; secundo, quia duo motus
+<lb ed="#L" n="54"/>quorum unus accedit ad terminum, et alter 
+re<lb ed="#L" break="no" n="55"/>cedit, sunt contrarii. Si autem accipiatur in motu
+<lb ed="#L" n="56"/>gravium et levium non ultimus locus, sed 
+me<lb ed="#L" break="no" n="57"/>dius, sicut ad ipsum acceditur naturaliter, ita ab
+<lb ed="#L" n="58"/>ipso naturaliter receditur: quia totum stat sub
+<lb ed="#L" n="59"/>una intentione naturae; et non sunt motus 
+con<lb ed="#L" break="no" n="60"/>trarii, sed unus et continuus. Ita autem est in
+<lb ed="#L" n="61"/>motu caelestium corporum: quia naturae intentio
+<lb ed="#L" n="62"/>non est ad aliquod ubi determinatum, ut iam
+<lb ed="#L" n="63"/>dictum est; motus etiam quo recedit corpus 
+cir<lb ed="#L" break="no" n="64"/>culariter motum ab aliquo signo, non est 
+con<lb ed="#L" break="no" n="65"/>trarius motui quo illuc accedit, sed est unus
+<lb ed="#L" n="66"/>motus et continuus. Unde quodlibet ubi in. motu
+<lb ed="#L" n="67"/>caeli est sicut medium, et non sicut extremum
+<lb ed="#L" n="68"/>in motu recto.
+</p>
+            <p xml:id="v8naTA-d1e1896-d1e569">
+               <lb ed="#L" n="69"/>Non differt autem, quantum ad praesentem
+<lb ed="#L" n="70"/>intentionem, utrum corpus caeleste moveatur a
+<lb ed="#L" n="71"/>substantia intellectuali coniuncta, quae sit anima
+<lb ed="#L" n="72"/>eius, vel a substantia separata; et utrum 
+unum<lb ed="#L" break="no" n="73"/>quodque corporum caelestium moveatur a Deo
+<lb ed="#L" n="74"/>immediate, vel nullum, sed mediantibus 
+substan<lb ed="#L" break="no" n="75"/>tiis intellectualibus creatis; aut primum tantum
+<lb ed="#L" n="76"/>immediate a Deo, alia vero mediantibus 
+substan<lb ed="#L" break="no" n="77"/>tis creatis; dummodo habeatur quod motus 
+cae<lb ed="#L" break="no" n="78"/>lestis est a substantia intellectuali.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

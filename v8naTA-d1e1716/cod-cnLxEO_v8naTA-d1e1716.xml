@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 1</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 1</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="3"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1716"><!-- v8naTA-l3c1 -->
+            <head xml:id="v8naTA-d1e1716-Hd1e101">Capitulum 1</head>
+            <p xml:id="v8naTA-d1e1716-d1e103">
+               <pb ed="#L" n="3"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=3"/>D. THOMAE ACUINATIS
+<lb ed="#L" n="2"/>SUMMA CONTRA GENTILES
+<lb ed="#L" n="3"/>CUM COMMENTARIIS
+<lb ed="#L" n="4"/>FRATRIS FRANCISCI DE SYLVESTRIS FERRARIENSIS
+</p>
+            <p xml:id="v8naTA-d1e1716-d1e119">
+               <lb ed="#L" n="5"/>LIBER TERTIUS
+<lb ed="#L" n="6"/>CAPITULUM PRIMUM
+<lb ed="#L" n="7"/>PROOEMIUM.
+</p>
+            <p xml:id="v8naTA-d1e1716-d1e128">
+               <lb ed="#L" n="8"/>DEUS MAGNUS DOMINUS ET REX MAGNUS SUPER OMNES
+<lb ed="#L" n="9"/>DEOS. QUONIAM NON REPELLET DOMINUS PLEBEM SUAM.
+<lb ed="#L" n="10"/>QUIA IN MANU EIUS SUNT OMNES FINES TERRAE, ET ALTITUDINES MONTIUM IPSIUS SUNT. QUONIAM IPSIUS
+<lb ed="#L" n="11"/>EST MARE ET IPSE FECIT ILLUD, ET SICCAM MANUS EIUS FORMAVERUNT. (PSALM. xciv, 3 500].
+</p>
+            <p xml:id="v8naTA-d1e1716-d1e139">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="12"/>UNUM esse primum entium, totius esse.
+<lb ed="#L" n="13"/>perfectionem plenam possidens, quod
+<lb ed="#L" n="14"/>Deum dicimus, in superioribus est
+<lb ed="#L" n="15"/>ostensum, qui ex sui perfectionis 
+abun<lb ed="#L" break="no" n="16"/>dantia omnibus existentibus esse largitur, ut non
+<lb ed="#L" n="17"/>solum primum entium, sed et principium omnium
+<lb ed="#L" n="18"/>esse comprobetur. Esse autem aliis tribuit non
+<lb ed="#L" n="19"/>necessitate naturae, sed secundum suae arbitrium
+<lb ed="#L" n="20"/>voluntatis, ut ex superioribus est manifestum.
+<lb ed="#L" n="21"/>Unde consequers est ut factorum suorum sit 
+Do<lb ed="#L" break="no" n="22"/>minus: nam super ea quae nostrae voluntati 
+sub<lb ed="#L" break="no" n="23"/>duntur, dominamur. Hoc autem dominium super
+<lb ed="#L" n="24"/>res a se productas perfectum habet, utpote qui
+<lb ed="#L" n="25"/>ad eas producendas nec exterioris agentis 
+admi<lb ed="#L" break="no" n="26"/>niculo indiget, nec materiae fundamento: cum
+<lb ed="#L" n="27"/>sit totius esse universalis: effector.
+</p>
+            <p xml:id="v8naTA-d1e1716-d1e179">
+               <lb ed="#L" n="28"/>Eorum autem quae per voluntatem 
+produ<lb ed="#L" break="no" n="29"/>cuntur agentis, unumquodque ab agente in finem
+<lb ed="#L" n="30"/>aliquem ordinatur: .bonum enim et finis est 
+ob<lb ed="#L" break="no" n="31"/>iectum proprium voluntatis, unde necesse est ut
+<lb ed="#L" n="32"/>quae ex voluntate procedunt, ad finem aliquem
+<lb ed="#L" n="33"/>ordinentur. Finem autem ultimum unaquaeque
+<lb ed="#L" n="34"/>res per suam consequitur actionem, quam oportet
+<lb ed="#L" n="35"/>in-finem dirigi. ab eo qui prinape rebus dedit
+<lb ed="#L" n="36"/>per quae agunt.
+</p>
+            <p xml:id="v8naTA-d1e1716-d1e201">
+               <lb ed="#L" n="37"/>Necesse est igitur ut Deus, qui est in se 
+uni<lb ed="#L" break="no" n="38"/>versaliter perfectus, et omnibus entibus ex sua
+<lb ed="#L" n="39"/>potestate esse largitur, omnium entium rector
+<lb ed="#L" n="40"/>existat, a nullo utique directus: nec est aliquid
+<lb ed="#L" n="41"/>quod ab eius regimine excusetur, sicut nec est
+<lb ed="#L" n="42"/>aliquid quod ab ipso esse non sortiatur. Est igitur,
+<lb ed="#L" n="43"/>sicut perfectus in essendo et causando, ita etiam
+<lb ed="#L" n="44"/>et in regendo perfectus.
+</p>
+            <p xml:id="v8naTA-d1e1716-d1e221">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="45"/>Huius vero regiminis effectus in diversis. 
+ap<lb ed="#L" break="no" n="46"/>paret diversimode, secundum differentiam 
+natu<lb ed="#L" break="no" n="47"/>rarum. Quaedam namque sic a Deo producta
+<lb ed="#L" n="48"/>sunt ut, intellectum habentia, eius similitudinem
+<lb ed="#L" n="49"/>gerant et imaginem repraesentent: unde et ipsa
+<lb ed="#L" n="50"/>non solum sunt directa, sed et seipsa dirigentia
+<lb ed="#L" n="51"/>secundum proprias actiones in debitum finem.
+<lb ed="#L" n="52"/>Quae si in sua directione divino subdantur 
+re<lb ed="#L" break="no" n="53"/>gimini, ad ultimum finem consequendum ex 
+di<lb ed="#L" break="no" n="54"/>vino regimine admittuntur: repelluntur autem si
+<lb ed="#L" n="55"/>secus in sua directione processerint.
+</p>
+            <p xml:id="v8naTA-d1e1716-d1e250">
+               <lb ed="#L" n="56"/>Alia vero, intellectu carentia, seipsa in suum
+<lb ed="#L" n="57"/>finem non dirigunt, sed ab alio diriguntur. 
+Quo<lb ed="#L" break="no" n="58"/>rum quaedam, incorruptibilia existentia, sicut in
+<lb ed="#L" n="59"/>esse naturali pati non possunt defectum, ita in
+<lb ed="#L" n="60"/>propriis actionibus ab ordine in finem eis 
+prae<lb ed="#L" break="no" n="61"/>stitutum nequaquam exorbitant, sed indeficienter
+<lb ed="#L" n="62"/>regimini primi regentis subduntur: sicut sunt 
+cor<lb ed="#L" break="no" n="63"/>pora caelestia, quorum motus be e uniformiter
+<lb ed="#L" n="64"/>procedunt.
+</p>
+            <p xml:id="v8naTA-d1e1716-d1e272">
+               <lb ed="#L" n="65"/>Alia vero, corruptibilia existentia, naturalis esse
+<lb ed="#L" n="66"/>pati possunt defectum, qui tamen per alterius
+<lb ed="#L" n="67"/>profectum suppletur: nam, uno corrupto, aliud
+<lb ed="#L" n="68"/>generatur. Et similiter in actionibus propriis'.a
+<lb ed="#L" n="69"/>naturali ordine deficiunt, qui tamen defectus per
+<lb ed="#L" n="70"/>aliquod bonum inde proveniens compensatur. Ex
+<lb ed="#L" n="71"/>quo apparet quod nec illa quae ab ordine primi
+<lb ed="#L" n="72"/>regiminis exorbitare videntur, potestatem primi
+<lb ed="#L" n="73"/>regentis evadunt:: nam et haec corruptibilia 
+cor<lb ed="#L" break="no" n="74"/>pora, sicut ab ipso Deo condita sunt, ita 
+pote<lb ed="#L" break="no" n="75"/>stati eius perfecte subduntur.
+<lb ed="#L" n="76"/>Hoc igitur, divino repletus Spiritu, Psalmista
+<lb ed="#L" n="77"/>considerans, ut nobis divinum regimen demon-
+<pb ed="#L" n="4"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>straret, primo describit nobis primi regentis 
+per<lb ed="#L" break="no" n="2"/>fectionem: naturae quidem, in. hoc quod dicit
+<lb ed="#L" n="3"/>Deus; potestatis, in hoc: quod dicit magnus 
+Do<lb ed="#L" break="no" n="4"/>minus, quasi nullo indigens ad'suae potestatis
+<lb ed="#L" n="5"/>effectum producendum; auctoritatis, in hoc quod
+<lb ed="#L" n="6"/>dicit rex magnus. super omnes deos, quia, etsi
+<lb ed="#L" n="7"/>sint multi regentes, omnes tamen eius regimini
+<lb ed="#L" n="8"/>subduntur.
+</p>
+            <p xml:id="v8naTA-d1e1716-d1e324">
+               <lb ed="#L" n="9"/>Secundo autem nobis describit regiminis 
+mo<lb ed="#L" break="no" n="10"/>dum. Et quidem quantum ad intellectualia, quae, 
+<lb ed="#L" n="11"/>eius regimen sequentia, ab ipso consequuntur 
+ul<lb ed="#L" break="no" n="12"/>timum finem, qui est ipse: et ideo dicit, Quia non
+<lb ed="#L" n="13"/>repellet Dominus plebem suam. Quantum vero ad
+<lb ed="#L" n="14"/>corruptibilia, quae, etiam si exorbitent interdum
+<lb ed="#L" n="15"/>a propriis actionibus, a potestate tamen primi 
+re<lb ed="#L" break="no" n="16"/>gentis non excluduntur, dicit, Quia in manu eius
+<lb ed="#L" n="17"/>sunt omnes fines terrae. Quantum vero ad 
+caele<lb ed="#L" break="no" n="18"/>stia corpora, quae omnem altitudinem terrae 
+ex<lb ed="#L" break="no" n="19"/>cedunt, idest corruptibilium corporum, et semper
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="20"/>rectum ordinem divini regiminis servant, "en
+<lb ed="#L" n="21"/>et altitudines montium ipsius sunt.
+</p>
+            <p xml:id="v8naTA-d1e1716-d1e358">
+               <lb ed="#L" n="22"/>Tertio vero ipsius universalis regiminis 
+ratio<lb ed="#L" break="no" n="23"/>nem assignat: 'quia necesse est ut ea quae a Deo
+<lb ed="#L" n="24"/>sunt condita, ab ipso etiam regantur. Et hoc est
+<lb ed="#L" n="25"/>quod dicit; Quoniam ipsius est mare etc.
+</p>
+            <p xml:id="v8naTA-d1e1716-d1e369">
+               <lb ed="#L" n="26"/>Quia ergo in Primo Libro de perfectione 
+di<lb ed="#L" break="no" n="27"/>vinae naturae prosecuti sumus; in Secundo autem
+<lb ed="#L" n="28"/>de perfectione potestatis ipsius, secundum quod
+<lb ed="#L" n="29"/>est rerum omnium productor, et dominus: restat
+<lb ed="#L" n="30"/>in hoc Tertio Libro prosequi de perfecta: 
+aucto<lb ed="#L" break="no" n="31"/>ritate sive dignitate ipsius, secundum quod est
+<lb ed="#L" n="32"/>rerum omnium finis et rector. Erit ergo hoc 
+or<lb ed="#L" break="no" n="33"/>dine procedendum: ut primo agatur de ipso 
+se<lb ed="#L" break="no" n="34"/>cundum quod est rerum omnium finis; secundo,
+<lb ed="#L" n="35"/>de regimine universali ipsius, secundum quod
+<lb ed="#L" n="36"/>omnem creaturam gubernat; tertio, de speciali
+<lb ed="#L" n="37"/>regimine, prout gubernat creaturas intellectum
+<lb ed="#L" n="38"/>habentes.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

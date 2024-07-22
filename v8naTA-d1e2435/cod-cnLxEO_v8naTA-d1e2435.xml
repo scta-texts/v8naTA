@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 89</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 89</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="272"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2435"><!-- v8naTA-l3c89 -->
+            <head xml:id="v8naTA-d1e2435-Hd1e101">Capitulum 89</head>
+            <head xml:id="v8naTA-d1e2435-Hd1e103" type="question-title">Quod motus voluntatis causatur a deo,
+et non solum potentia voluntatis.</head>
+            <p xml:id="v8naTA-d1e2435-d1e106">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="89" type="fixed=272"/>CAPITULUM OCTOGESIMUM NONUM
+<lb ed="#L" n="90"/>QUOD MOTUS VOLUNTATIS CAUSATUR A DEO,
+<lb ed="#L" n="91"/>ET NON SOLUM POTENTIA VOLUNTATIS.
+</p>
+            <p xml:id="v8naTA-d1e2435-d1e117">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="92"/>QUIDAM vero, non intelligentes qualiter
+<lb ed="#L" n="93"/>motum voluntatis Deus in nobis causare
+<lb ed="#L" n="94"/>possit absque praeiudicio libertatis 
+vo<lb ed="#L" break="no" n="95"/>luntatis, conati sunt has auctoritates 
+<lb ed="#L" n="96"/>male exponere: ut scilicet dicerent quod Deus
+<lb ed="#L" n="97"/>causat in nobis velle et perficere, inquantum causat
+<lb ed="#L" n="98"/>nobis virtutem volendi, non autem sic quod faciat
+<lb ed="#L" n="99"/>nos velle hoc vel illud; sicut Origenes exponit
+<lb ed="#L" n="100"/>in III Periarchon , liberum arbitrium defendens
+<lb ed="#L" n="101"/>contra auctoritates praedictas.
+</p>
+            <p xml:id="v8naTA-d1e2435-d1e143">
+               <lb ed="#L" n="102"/>Et ex hoc processisse videtur opinio quorundam
+<lb ed="#L" n="103"/>qui dicebant quod providentia non est de his quae
+<cb ed="#L" n="d"/>
+               <lb ed="#L" n="104"/>subsunt libero arbitrio, scilicet de electionibus, sed
+<lb ed="#L" n="105"/>providentia refertur ad exteriores eventus. Non
+<lb ed="#L" n="106"/>enim qui eligit aliquid consequi vel perficere,
+<lb ed="#L" n="107"/>puta aedificare vel ditari, semper poterit ad hoc
+<lb ed="#L" n="108"/>pervenire: et sic eventus. actionum nostrarum
+<lb ed="#L" n="109"/>non subiacent libero arbitrio, sed providentia
+<lb ed="#L" n="110"/>disponuntur.
+</p>
+            <p xml:id="v8naTA-d1e2435-d1e168">
+               <lb ed="#L" n="111"/>Quibus quidem auctoritatibus Sacrae Scripturae
+<lb ed="#L" n="112"/>resistitur evidenter. Dicitur enim Z$aiae xxvi":
+<lb ed="#L" n="113"/>Omnia opera nostra operatus es in nobis, Domine.
+<lb ed="#L" n="114"/>Unde non solum virtutem volendi a Deo habemus,
+<lb ed="#L" n="115"/>sed etiam operationem.
+</p>
+            <p xml:id="v8naTA-d1e2435-d1e181">
+               <pb ed="#L" n="273"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>Praeterea. Hoc ipsum quod Salomon dicit,
+<lb ed="#L" n="2"/>Quocumque voluerit, vertet illud , ostendit non
+<lb ed="#L" n="3"/>solum divinam causalitatem ad potentiam 
+volun<lb ed="#L" break="no" n="4"/>tatis extendi, sed etiam ad actum ipsius.
+</p>
+            <p xml:id="v8naTA-d1e2435-d1e197">
+               <lb ed="#L" n="5"/>Item. Deus non solum dat rebus virtutes, sed
+<lb ed="#L" n="6"/>etiam nulla res potest propria virtute agere nisi
+<lb ed="#L" n="7"/>Capixwnzxs, ugat in virtute ipsius, ut supra  ostensum est.
+<lb ed="#L" n="8"/>Ergo homo non potest virtute. voluntatis sibi
+<lb ed="#L" n="9"/>data uti nisi inquantum agit in virtute Dei. Illud
+<lb ed="#L" n="10"/>autem in cuius virtute agens agit, est causa non
+<lb ed="#L" n="11"/>solum virtutis, sed etiam actus. Quod in artifice
+<lb ed="#L" n="12"/>apparet, in cuius virtute agit instrumentum, etiam
+<lb ed="#L" n="13"/>quod ab hoc artifice propriam formam non accipit,
+<lb ed="#L" n="14"/>sed solum ab ipso applicatur ad actum. Deus
+<lb ed="#L" n="15"/>igitur est causa nobis non solum voluntatis, sed
+<lb ed="#L" n="16"/>etiam volendi.
+</p>
+            <p xml:id="v8naTA-d1e2435-d1e226">
+               <lb ed="#L" n="17"/>Amplius. Perfectius invenitur ordo in 
+spiri<lb ed="#L" break="no" n="18"/>tualibus quam in corporalibus. In corporalibus
+<lb ed="#L" n="19"/>autem omnis motus causatur a primo motu.
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="20"/>Oportet igitur quod et in spiritualibus omnis
+<lb ed="#L" n="21"/>motus voluntatis a prima voluntate causetur,
+<lb ed="#L" n="22"/>quae est voluntas Dei. 
+</p>
+            <p xml:id="v8naTA-d1e2435-d1e244">
+               <lb ed="#L" n="23"/>Adhuc. Superius  est ostensum quod Deus est
+<lb ed="#L" n="24"/>causa omnis actionis, et operatur in omni agente.
+<lb ed="#L" n="25"/>Est igitur causa motuum voluntatis.
+</p>
+            <p xml:id="v8naTA-d1e2435-d1e253">
+               <lb ed="#L" n="26"/>Item. Argumentatur ad hoc Aristoteles, in
+<lb ed="#L" n="27"/>VIII Eudemicae Ethicae , per hunc modum.
+<lb ed="#L" n="28"/>Huius quod aliquis intelligat et consilietur et
+<lb ed="#L" n="29"/>eligat et velit, oportet aliquid esse causam: quia
+<lb ed="#L" n="30"/>omne novum oportet quod ^habeat aliquam
+<lb ed="#L" n="31"/>causam. Si autem est causa eius aliud consilium
+<lb ed="#L" n="32"/>et alia voluntas praecedens, cum non sit 
+proce<lb ed="#L" break="no" n="33"/>dere in his in infinitum, oportet devenire ad
+<lb ed="#L" n="34"/>aliquid primum. Huiusmodi autem primum 
+opor<lb ed="#L" break="no" n="35"/>tet esse aliquid quod est melius ratione. Nihil
+<lb ed="#L" n="36"/>autem est melius intellectu et ratione nisi Deus.
+<lb ed="#L" n="37"/>Est igitur Deus primum principium nostrorum
+<lb ed="#L" n="38"/>consiliorum et voluntatum.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

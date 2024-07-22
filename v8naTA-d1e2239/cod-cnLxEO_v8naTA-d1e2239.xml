@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 65</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 65</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="183"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2239"><!-- v8naTA-l3c65 -->
+            <head xml:id="v8naTA-d1e2239-Hd1e101">Capitulum 65</head>
+            <head xml:id="v8naTA-d1e2239-Hd1e103" type="question-title">Quod deus conservat res in esse.</head>
+            <p xml:id="v8naTA-d1e2239-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="55" type="fixed=183"/>CAPITULUM SEXAGESIMUM QUINTUM
+<lb ed="#L" n="56"/>QUOD DEUS CONSERVAT RES IN ESSE.
+</p>
+            <p xml:id="v8naTA-d1e2239-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="57"/>Ex eo autem quod Deus res sua 
+pro<lb ed="#L" break="no" n="58"/>videntia regit, sequitur quod in esse
+<lb ed="#L" n="59"/>conservet.
+</p>
+            <p xml:id="v8naTA-d1e2239-d1e126">
+               <lb ed="#L" n="60"/>Ad gubernationem enim aliquorum
+<lb ed="#L" n="61"/>pertinet omne illud per quod suum finem 
+con<lb ed="#L" break="no" n="62"/>sequuntur: secundum hoc enim,aliqua regi vel
+<lb ed="#L" n="63"/>gubernari dicuntur, quod ordinantur in finem.
+<lb ed="#L" n="64"/>In finem autem ultimum quem Deus intendit,
+<lb ed="#L" n="65"/>scilicet bonitatem divinam, ordinantur res non
+<lb ed="#L" n="66"/>solum per hoc quod operantur, sed etiam per
+<lb ed="#L" n="67"/>hoc quod sunt; quia inquantum. sunt, divinae
+<lb ed="#L" n="68"/>bonitatis similitudinem gerunt, quod est finis
+<lb ed="#L" n="69"/>rerum, ut supra ostensum est. Ad divinam
+<lb ed="#L" n="70"/>igitur providentiam pertinet quod res 
+conser<lb ed="#L" break="no" n="71"/>ventur in esse.
+</p>
+            <p xml:id="v8naTA-d1e2239-d1e156">
+               <lb ed="#L" n="72"/>Item. Oportet quod idem sit causa rei, et 
+con<lb ed="#L" break="no" n="73"/>servationis ipsius: nam conservatio rei non est
+<lb ed="#L" n="74"/>nisi continuatio esse ipsius. Ostensum est autem
+<lb ed="#L" n="75"/>supra  quod Deus per suum intellectum et 
+vo<lb ed="#L" break="no" n="76"/>Iuntatem est causa essendi omnibus rebus. Igitur
+<lb ed="#L" n="77"/>per suum intellectum et voluntatem conservat
+<lb ed="#L" n="78"/>res omnes in esse. |
+</p>
+            <p xml:id="v8naTA-d1e2239-d1e174">
+               <lb ed="#L" n="79"/>Item. Nullum particulare agens univocum 
+po<lb ed="#L" break="no" n="80"/>test esse simpliciter causa speciei: sicut hic homo
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="81"/>non potest esse causa speciei humanae; esset
+<lb ed="#L" n="82"/>enim causa omnis hominis, et per consequens
+<lb ed="#L" n="83"/>sui ipsius, quod est impossibile. Est autem causa
+<lb ed="#L" n="84"/>hic homo huius hominis, per se loquendo. Hic
+<lb ed="#L" n="85"/>autem homo est per hoc quod natura humana
+<lb ed="#L" n="86"/>est in hac materia, quae est individuationis 
+prin<lb ed="#L" break="no" n="87"/>cipium. Hic igitur homo non est causa hominis
+<lb ed="#L" n="88"/>nisi inquantum est causa quod forma humana
+<lb ed="#L" n="89"/>fiat in hac materia. Hoc autem est esse 
+prin<lb ed="#L" break="no" n="90"/>cipium generationis huius hominis. Patet ergo
+<lb ed="#L" n="91"/>quod nec hic homo, nec aliquod aliud agens
+<lb ed="#L" n="92"/>univocum in natura, est causa nisi generationis
+<lb ed="#L" n="93"/>huius vel illius rei. Oportet autem ipsius speciei
+<lb ed="#L" n="94"/>humanae esse aliquam per se causam agentem:
+<lb ed="#L" n="95"/>quod ipsius compositio ostendit, et. ordinatio
+<lb ed="#L" n="96"/>partium, quae eodem modo se habet in omnibus,
+<lb ed="#L" n="97"/>nisi per accidens impediatur. Et eadem ratio est
+<lb ed="#L" n="98"/>de omnibus aliis speciebus rerum naturalium.
+<lb ed="#L" n="99"/>Haec autem causa est Deus, vel mediate vel
+<lb ed="#L" n="100"/>immediate: ostensum enim est quod ipse est
+<lb ed="#L" n="101"/>prima omnium rerum causa. Oportet ergo quod
+<lb ed="#L" n="102"/>ipse hoc modo se habeat ad species rerum sicut
+<lb ed="#L" n="103"/>se habet hic generans in natura ad generationem,
+<lb ed="#L" n="104"/>cuius est per se causa. Generatio autem cessat,
+<pb ed="#L" n="184"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>cessante operatione generantis. Ergo et omnes
+<lb ed="#L" n="2"/>species rerum cessarent, cessante operatione 
+di<lb ed="#L" break="no" n="3"/>vina. lgitur ipse per suam operationem 
+con<lb ed="#L" break="no" n="4"/>servat res in esse.
+</p>
+            <p xml:id="v8naTA-d1e2239-d1e248">
+               <lb ed="#L" n="5"/>Adhuc. Licet alicui existenti accidat motus,
+<lb ed="#L" n="6"/>tamen motus est praeter esse rei. Nullum autem
+<lb ed="#L" n="7"/>corporeum est causa alicuius rei nisi inquantum
+<lb ed="#L" n="8"/>movetur: quia nullum corpus agit nisi per motum,
+<lb ed="#L" n="9"/>ut Aristoteles probat . Nullum igitur corpus est
+<lb ed="#L" n="10"/>causa esse alicuius rei inquantum est esse, sed est
+<lb ed="#L" n="11"/>causa eius quod est moveri ad esse, quod est fieri
+<lb ed="#L" n="12"/>rei. Esse autem cuiuslibet rei est esse participatum:
+<lb ed="#L" n="13"/>cum non sit res aliqua praeter Deum suum esse,
+<lb ed="#L" n="14"/>ut supra  probatum est. Et sic oportet quod ipse
+<lb ed="#L" n="15"/>Deus, qui est suum esse, sit primo et per se causa
+<lb ed="#L" n="16"/>omnis esse. Sic igitur se habet ad esse rerum
+<lb ed="#L" n="17"/>operatio divina, sicut motio corporis moventis
+<lb ed="#L" n="18"/>ad fieri et moveri rerum factarum vel motarum.
+<lb ed="#L" n="19"/>Impossibile autem: est quod fieri et moveri 
+ali<lb ed="#L" break="no" n="20"/>cuius rei maneat, cessante motione moventis.
+<lb ed="#L" n="21"/>Impossibile ergo est quod esse alicuius rei 
+re<lb ed="#L" break="no" n="22"/>maneat nisi per operationem divinam.
+</p>
+            <p xml:id="v8naTA-d1e2239-d1e290">
+               <lb ed="#L" n="23"/>Amplius. Sicut opus artis praesupponit opus
+<lb ed="#L" n="24"/>naturae, ita opus naturae praesupponit opus Dei
+<lb ed="#L" n="25"/>creantis: nam materia artificialium est a natura,
+<lb ed="#L" n="26"/>naturalium vero per creationem a Deo. Artificialia
+<lb ed="#L" n="27"/>autem conservantur in esse virtute naturalium:
+<lb ed="#L" n="28"/>sicut domus per soliditatem lapidum. Omnia igitur
+<lb ed="#L" n="29"/>naturalia non conservantur in esse nisi virtute Dei.
+</p>
+            <p xml:id="v8naTA-d1e2239-d1e308">
+               <lb ed="#L" n="30"/>Item. Impressio agentis non remanet in effectu,
+<lb ed="#L" n="31"/>cessante actione agentis, nisi vertatur in naturam
+<lb ed="#L" n="32"/>effectus. Formae enim generatorum, et 
+proprie<lb ed="#L" break="no" n="33"/>tates ipsorum, usque in finem manent in eis
+<lb ed="#L" n="34"/>post generationem, quia efficiuntur eis naturales.
+<lb ed="#L" n="35"/>Et similiter habitus sunt difficile mobiles, quia
+<lb ed="#L" n="36"/>vertuntur in naturam: dispositiones autem et
+<lb ed="#L" n="37"/>passiones, sive corporales sive animales, manent
+<lb ed="#L" n="38"/>aliquantum post actionem agentis, sed non semper,
+<lb ed="#L" n="39"/>quia insunt ut in via ad naturam. Quod autem
+<lb ed="#L" n="40"/>pertinet ad naturam superioris generis, nullo
+<lb ed="#L" n="41"/>modo manet post actionem agentis: sicut lumen
+<lb ed="#L" n="42"/>non manet in diaphano, recedente illuminante.
+<lb ed="#L" n="43"/>Esse autem non est natura vel essentia alicuius
+<lb ed="#L" n="44"/>rei creatae, sed solius Dei, ut in Primo  
+osten<lb ed="#L" break="no" n="45"/>sum est. Nulla igitur res remanere potest in esse, 
+<lb ed="#L" n="46"/>cessante operatione divina.
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="47"/>Adhuc. Circa rerum originem duplex est po- -
+<lb ed="#L" n="48"/>sitio: una fidei, quod res de novo fuerint a
+<lb ed="#L" n="49"/>Deo productae in esse; et positio quorundam
+<lb ed="#L" n="50"/>philosophorum, quod res a Deo ab aeterno
+<lb ed="#L" n="51"/>effluxerint . Secundum autem utramque 
+posi<lb ed="#L" break="no" n="52"/>tionem oportet dicere quod res conserventur in
+<lb ed="#L" n="53"/>esse a Deo. Nam si res a Deo productae sunt
+<lb ed="#L" n="54"/>in esse postquam non fuerant, oportet quod
+<lb ed="#L" n="55"/>esse rerum divinam voluntatem consequatur, et
+<lb ed="#L" n="56"/>similiter non esse: quia permisit res non esse
+<lb ed="#L" n="57"/>quando voluit, et fecit res esse cum voluit.
+<lb ed="#L" n="58"/>Tandiu igitur sunt quandiu eas esse vult. Sua
+<lb ed="#L" n="59"/>igitur voluntas conservatrix est rerum. - Si
+<lb ed="#L" n="60"/>autem res ab aeterno a Deo effluxerunt, non
+<lb ed="#L" n="61"/>est dare tempus aut instans in quo primo a
+<lb ed="#L" n="62"/>Deo effluxerint. Aut igitur nunquam a Deo 
+pro<lb ed="#L" break="no" n="63"/>ductae sunt: aut semper a Deo esse earum 
+pro<lb ed="#L" break="no" n="64"/>cedit quandiu sunt. Sua igitur operatione res in
+<lb ed="#L" n="65"/>esse conservat.
+</p>
+            <p xml:id="v8naTA-d1e2239-d1e391">
+               <lb ed="#L" n="66"/>Hinc est quod dicitur Heb. 1: <quote xml:id="v8naTA-d1e2239-Qd1e395">Portans omnia
+<lb ed="#L" n="67"/>verbo virtutis suae</quote>. — Et <ref xml:id="v8naTA-d1e2239-Rd1e400">Augustinus dicit, IV super
+<lb ed="#L" n="68"/>Gen. ad litt.</ref>: <quote xml:id="v8naTA-d1e2239-Qd1e405">Creatoris potentia, et omnipotentis
+<lb ed="#L" n="69"/>aique omnitenentis virlus, causa esl subsistendi
+<lb ed="#L" n="70"/>omnis creaturae. Quae virlus ab eis quae creata
+<lb ed="#L" n="71"/>sunt regendis si aliquando cessaret, simul et eorum
+<lb ed="#L" n="72"/>cessaret species, omnisque natura concideret. Neque
+<lb ed="#L" n="73"/>enim. sicul, siructuram aedium cum  fabricaverit
+<lb ed="#L" n="74"/>quis, abscedit, atque, illo cessante atque abscedente,
+<lb ed="#L" n="75"/>stat opus eius, ita mundus vel in ictu oculi stare
+<lb ed="#L" n="76"/>poterit, si ei regimen Deus subtraxerit</quote>.
+</p>
+            <p xml:id="v8naTA-d1e2239-d1e427">
+               <lb ed="#L" n="77"/>Per hoc autem excluditur quorundam 
+Loquen<lb ed="#L" break="no" n="78"/>tium in lege Maurorum positio , qui, ad hoc
+<lb ed="#L" n="79"/>quod sustinere possent mundum Dei 
+conserva<lb ed="#L" break="no" n="80"/>tione indigere, posuerunt omnes formas esse 
+ac<lb ed="#L" break="no" n="81"/>cidentia, et quod nullum accidens durat per duo
+<lb ed="#L" n="82"/>instantia, ut sic semper rerum formatio esset in
+<lb ed="#L" n="83"/>fieri: quasi res non indigeret causa agente nisi
+<lb ed="#L" n="84"/>dum est in fieri. — Unde et aliqui eorum ponere
+<lb ed="#L" n="85"/>dicuntur quod corpora indivisibilia, ex quibus
+<lb ed="#L" n="86"/>omnes substantias dicunt esse compositas, quae
+<lb ed="#L" n="87"/>sola, secundum eos, firmitatem habent, possunt
+<lb ed="#L" n="88"/>ad horam aliquam remanere, si Deus suam 
+gu<lb ed="#L" break="no" n="89"/>bernationem rebus subtraheret. - Quorum etiam
+<lb ed="#L" n="90"/>quidam dicunt quod res esse non desineret nisi
+<lb ed="#L" n="91"/>Deus in ipsa accidens desitionis causaret. - Quae
+<lb ed="#L" n="92"/>omnia patet esse absurda.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

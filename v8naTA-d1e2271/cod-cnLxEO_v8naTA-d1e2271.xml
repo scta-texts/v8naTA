@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 69</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 69</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="199"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2271"><!-- v8naTA-l3c69 -->
+            <head xml:id="v8naTA-d1e2271-Hd1e101">Capitulum 69</head>
+            <head xml:id="v8naTA-d1e2271-Hd1e103" type="question-title">De opinione eorum qui rebus naturalibus
+proprias subtrahunt actiones.</head>
+            <p xml:id="v8naTA-d1e2271-d1e106">
+               <pb ed="#L" n="199"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=199"/>CAPITULUM SEXAGESIMUM NONUM
+<lb ed="#L" n="2"/>DE OPINIONE EORUM QUI REBUS NATURALIBUS
+<lb ed="#L" n="3"/>PROPRIAS SUBTRAHUNT ACTIONES.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e119">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="4"/>Ex hoc autem quidam occasionem 
+er<lb ed="#L" break="no" n="5"/>randi sumpserunt, putantes quod nulla
+<lb ed="#L" n="6"/>creatura habet aliquam actionem in
+<lb ed="#L" n="7"/>productione effectuum naturalium: ita
+<lb ed="#L" n="8"/>scilicet quod ignis non calefacit, sed Deus causat
+<lb ed="#L" n="9"/>calorem praesente igne; et similiter dicunt in
+<lb ed="#L" n="10"/>omnibus aliis effectibus naturalibus .
+<lb ed="#L" n="11"/>Hunc autem errorem rationibus confirmare
+<lb ed="#L" n="12"/>conati sunt, ostendentes nullam formam, neque
+<lb ed="#L" n="13"/>substantialem neque accidentalem, nisi per viam
+<lb ed="#L" n="14"/>creationis. produci in esse. Non enim possunt
+<lb ed="#L" n="15"/>formae et accidentia fieri ex materia: cum non
+<lb ed="#L" n="16"/>habeant materiam partem sui. Unde, si fiunt,
+<lb ed="#L" n="17"/>oportet quod fiant ex nihilo, quod est creari.
+<lb ed="#L" n="18"/>Et quia creatio solius Dei actus est, ut in 
+Se<lb ed="#L" break="no" n="19"/>cundo  ostensum est, sequi videtur quod solus
+<lb ed="#L" n="20"/>Deus tam formas substantiales quam 
+acciden<lb ed="#L" break="no" n="21"/>tales in natura producat.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e163">
+               <lb ed="#L" n="22"/>Huic autem positioni partim etiam quorundam
+<lb ed="#L" n="23"/>philosophorum opinio concordavit. Quia enim
+<lb ed="#L" n="24"/>omne quod per se non est, ab eo quod est per
+<lb ed="#L" n="25"/>se derivatum invenitur, videtur quod formae
+<lb ed="#L" n="26"/>rerum quae non sunt per se existentes sed in
+<lb ed="#L" n="27"/>materia, proveniant ex formis quae per se sine
+<lb ed="#L" n="28"/>materia sint: quasi formae in materia existentes
+<lb ed="#L" n="29"/>sint quaedam participationes illarum formarum
+<lb ed="#L" n="30"/>quae sine materia sunt. Et propter hoc Plato
+<lb ed="#L" n="31"/>posuit species rerum sensibilium esse quasdam
+<lb ed="#L" n="32"/>formas separatas, quae sunt causae essendi his
+<lb ed="#L" n="33"/>sensibilibus, secundum quod eas participant .
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e193">
+               <lb ed="#L" n="34"/>Avicenna vero posuit omnes formas 
+substan<lb ed="#L" break="no" n="35"/>tiales ab intelligentia agente effluere. Accidentales
+<lb ed="#L" n="36"/>autem formas esse ponebat materiae 
+disposi<lb ed="#L" break="no" n="37"/>tiones, quae ex actione inferiorum agentium
+<lb ed="#L" n="38"/>materiam disponentium proveniebant: in quo a
+<lb ed="#L" n="39"/>priore stultitia declinabat.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e209">
+               <lb ed="#L" n="40"/>Huius autem signum esse videbatur quod nulla
+<lb ed="#L" n="41"/>virtus activa invenitur esse in istis corporibus nisi
+<lb ed="#L" n="42"/>accidentalis forma, sicut qualitates activae et 
+pas<lb ed="#L" break="no" n="43"/>sivae, quae non videntur esse ad hoc sufficientes
+<lb ed="#L" n="44"/>quod formas substantiales causare possint.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e222">
+               <lb ed="#L" n="45"/>Inveniuntur etiam quaedam in istis inferioribus
+<lb ed="#L" n="46"/>quae non generantur ex sibi similibus, sicut 
+ani<lb ed="#L" break="no" n="47"/>malia ex putrefactione generata. Unde videtur
+<lb ed="#L" n="48"/>quod horum formae ex altioribus principiis pro- 
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="49"/>veniant. Et pari ratione aliae formae, quarum
+<lb ed="#L" n="50"/>quaedam sunt multo nobiliores.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e240">
+               <lb ed="#L" n="51"/>Quidam vero ad hoc argumentum assumunt
+<lb ed="#L" n="52"/>ex naturalium corporum imbecillitate ad 
+agen<lb ed="#L" break="no" n="53"/>s: dum. Nam omnis corporis forma est adiuncta
+<lb ed="#L" n="54"/>quantitati. Quantitas autem impedit actionem
+<lb ed="#L" n="55"/>et motum: cuius signum ponunt quia quantum
+<lb ed="#L" n="56"/>additur in quantitate alicui corpori, tanto fit
+<lb ed="#L" n="57"/>ponderosius, et tardatur motus eius. Unde ex
+<lb ed="#L" n="58"/>sed passivum tantum.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e260">
+               <lb ed="#L" n="59"/>Hoc etiam ostendere nituntur per hoc' quod
+<lb ed="#L" n="60"/>omne patiens est subiectum agenti; et omne
+<lb ed="#L" n="61"/>agens praeter primum, quod creat, requirit 
+sub<lb ed="#L" break="no" n="62"/>jectum inferius se. Nulla autem substantia est
+<lb ed="#L" n="63"/>inferior corporali. Unde videtur quod nullum
+<lb ed="#L" n="64"/>corpus sit activum.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e276">
+               <lb ed="#L" n="65"/>Addunt etiam ad hoc quod corporalis 
+sub<lb ed="#L" break="no" n="66"/>stantia est in ultima distantia a primo agente:
+<lb ed="#L" n="67"/>unde non videtur eis quod virtus activa 
+per<lb ed="#L" break="no" n="68"/>veniat usque ad substantiam corporalem ; sed,
+<lb ed="#L" n="69"/>sicut Deus est agens tantum, ita substantia 
+cor<lb ed="#L" break="no" n="70"/>poralis, cum sit infima in genere rerum, sit 
+pas<lb ed="#L" break="no" n="71"/>siva tantum.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e295">
+               <lb ed="#L" n="72"/>Propter has igitur rationes ponit Avicebron,
+<lb ed="#L" n="73"/>in libro Fontis Vitae, quod nullum corpus est
+<lb ed="#L" n="74"/>activum; sed virtus substantiae spiritualis, 
+per<lb ed="#L" break="no" n="75"/>transiens per corpora, agit actiones quae per
+<lb ed="#L" n="76"/>corpora fieri videntur.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e308">
+               <lb ed="#L" n="77"/>Quidam etiam Loquentes in lege Maurorum
+<lb ed="#L" n="78"/>dicuntur ad hoc rationem inducere quod etiam
+<lb ed="#L" n="79"/>accidentia non sint ex actione corporum, quia
+<lb ed="#L" n="80"/>accidens non transit a subiecto in subiectum.
+<lb ed="#L" n="81"/>Unde reputant impossibile quod calor transeat
+<lb ed="#L" n="82"/>a corpore calido in aliud corpus ab ipso 
+cale<lb ed="#L" break="no" n="83"/>factum: sed dicunt omnia huiusmodi accidentia
+<lb ed="#L" n="84"/>creari a Deo .
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e328">
+               <lb ed="#L" n="85"/>Ad praemissas autem positiones multa incon- 2o
+<lb ed="#L" n="86"/>venientia sequuntur. Si enim nulla inferior causa,
+<lb ed="#L" n="87"/>et maxime corporalis, aliquid operatur, sed Deus
+<lb ed="#L" n="88"/>operatur in omnibus solus; Deus autem non
+<lb ed="#L" n="89"/>variatur per hoc quod operatur in rebus diversis:
+<lb ed="#L" n="90"/>non sequetur diversus effectus ex diversitate
+<lb ed="#L" n="91"/>rerum in quibus Deus operatur. Hoc autem ad
+<lb ed="#L" n="92"/>sensum apparet falsum: non enim ex appositione
+<pb ed="#L" n="200"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>calidi sequitur infrigidatio, sed calefactio tantum;
+<lb ed="#L" n="2"/>neque ex semine hominis sequitur generatio nisi
+<lb ed="#L" n="3"/>hominis. Non ergo causalitas effectuum 
+inferio<lb ed="#L" break="no" n="4"/>rum est ita attribuenda divinae virtuti quod
+<lb ed="#L" n="5"/>subtrahatur causalitas inferiorum agentium.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e363">
+               <lb ed="#L" n="6"/>Item. Contra rationem sapientiae est ut sit
+<lb ed="#L" n="7"/>aliquid frustra in operibus sapientis. Si autem
+<lb ed="#L" n="8"/>res creatae nullo modo operarentur ad effectus
+<lb ed="#L" n="9"/>producendos, sed solus Deus operaretur omnia
+<lb ed="#L" n="10"/>immediate, frustra essent adhibitae.ab ipso aliae
+<lb ed="#L" n="11"/>res ad producendos effectus. Repugnat igitur
+<lb ed="#L" n="12"/>praedicta positio divinae sapientiae.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e381">
+               <lb ed="#L" n="13"/>Adhuc. Quod dat alicui aliquod principale,
+<lb ed="#L" n="14"/>dat eidem omnia quae consequuntur ad illud:
+<lb ed="#L" n="15"/>sicut causa quae dat corpori elementari 
+gravi<lb ed="#L" break="no" n="16"/>tatem, dat ei motum deorsum. Facere autem
+<lb ed="#L" n="17"/>aliquid actu consequitur ad hoc quod est esse
+<lb ed="#L" n="18"/>actu, ut patet in Deo: ipse enim est actus purus,
+<lb ed="#L" n="19"/>et est etiam prima causa essendi omnibus, ut
+<lb ed="#L" n="20"/>supra  ostensum est. Si igitur communicavit
+<lb ed="#L" n="21"/>alis similitudinem suam quantum ad esse, 
+in<lb ed="#L" break="no" n="22"/>quantum res in esse produxit, consequens est
+<lb ed="#L" n="23"/>quod communicaverit eis similitudinem suam
+<lb ed="#L" n="24"/>quantum ad agere, ut etiam res creatae habeant
+<lb ed="#L" n="25"/>proprias actiones.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e412">
+               <lb ed="#L" n="26"/>Amplius. Perfectio effectus demonstrat 
+per<lb ed="#L" break="no" n="27"/>fectionem causae: maior enim virtus perfectiorem
+<lb ed="#L" n="28"/>effectum inducit. Deus autem est perfectissimum
+<lb ed="#L" n="29"/>agens. Oportet igitur quod res ab ipso creatae
+<lb ed="#L" n="30"/>perfectionem ab ipso consequantur. Detrahere
+<lb ed="#L" n="31"/>ergo perfectioni creaturarum est detrahere 
+per<lb ed="#L" break="no" n="32"/>fectioni divinae virtutis. Sed si nulla creatura
+<lb ed="#L" n="33"/>habet aliquam actionem ad aliquem effectum 
+pro<lb ed="#L" break="no" n="34"/>ducendum, multum detrahitur perfectioni 
+crea<lb ed="#L" break="no" n="35"/>turae: ex abundantia enim perfectionis est quod
+<lb ed="#L" n="36"/>perfectionem quam aliquid habet, possit alteri
+<lb ed="#L" n="37"/>communicare. Detrahit igitur haec positio divinae
+<lb ed="#L" n="38"/>virtuti.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e444">
+               <lb ed="#L" n="39"/>Item. Sicut est boni bonum facere, ita est
+<lb ed="#L" n="40"/>summi boni aliquid optime facere. Deus autem
+<lb ed="#L" n="41"/>est summum bonum, ut in Primo  ostensum
+<lb ed="#L" n="42"/>est. Igitur eius est optime facere omnia. Melius
+<lb ed="#L" n="43"/>autem est quod bonum alicui collatum sit 
+mul<lb ed="#L" break="no" n="44"/>torum commune, quam quod sit proprium: quia
+<lb ed="#L" n="45"/>bonum commune semper invenitur esse divinius ; 
+<lb ed="#L" n="46"/>quam bonum unius tantum . Sed bonum unius
+<lb ed="#L" n="47"/>fit multis commune si ab uno in alia derivatur,
+<lb ed="#L" n="48"/>quod non potest esse nisi inquantum diffundit
+<lb ed="#L" n="49"/>ipsum in alia per propriam actionem: si vero
+<lb ed="#L" n="50"/>potestatem non habet illud in alia transfundendi,
+<lb ed="#L" n="51"/>manet sibi ipsi proprium. Sic igitur Deus rebus
+<lb ed="#L" n="52"/>creatis suam bonitatem communicavit ut una
+<lb ed="#L" n="53"/>res, quod accepit, possit in aliam transfundere.
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="54"/>Detrahere ergo actiones proprias rebus, est 
+di<lb ed="#L" break="no" n="55"/>vinae bonitati derogare.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e486">
+               <lb ed="#L" n="56"/>Adhuc. Subtrahere ordinem rebus creatis est
+<lb ed="#L" n="57"/>eis subtrahere id quod optimum habent: nam
+<lb ed="#L" n="58"/>singula in seipsis sunt bona, simul autem omnia
+<lb ed="#L" n="59"/>sunt optima, propter ordinem universi; semper
+<lb ed="#L" n="60"/>enim totum est melius partibus et finis ipsarum.
+<lb ed="#L" n="61"/>Si autem rebus subtrahantur actiones, subtrahitur
+<lb ed="#L" n="62"/>ordo rerum ad invicem: rerum enim quae sunt
+<lb ed="#L" n="63"/>diversae secundum suas naturas, non est 
+colli<lb ed="#L" break="no" n="64"/>gatio in ordinis unitatem nisi per hoc quod
+<lb ed="#L" n="65"/>quaedam agunt et quaedam patiuntur. 
+Inconve<lb ed="#L" break="no" n="66"/>niens igitur est dicere quod res non habeant
+<lb ed="#L" n="67"/>proprias actiones.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e515">
+               <lb ed="#L" n="68"/>Amplius. Si effectus non producuntur ex
+<lb ed="#L" n="69"/>actione rerum creatarum, sed solum ex actione
+<lb ed="#L" n="70"/>Dei, impossibile est quod per effectus manifestetur '
+<lb ed="#L" n="71"/>virtus alicuius causae creatae: non enim effectus
+<lb ed="#L" n="72"/>ostendit virtutem causae nisi ratione actionis quae,
+<lb ed="#L" n="73"/>a virtute procedens, ad effectum terminatur. 
+Na<lb ed="#L" break="no" n="74"/>tura autem causae non cognoscitur per effectum
+<lb ed="#L" n="75"/>nisi inquantum per ipsum cognoscitur virtus
+<lb ed="#L" n="76"/>eius, quae naturam consequitur. Si igitur res
+<lb ed="#L" n="77"/>creatae non habeant actiones ad producendos
+<lb ed="#L" n="78"/>effectus, sequetur quod nunquam natura alicuius '
+<lb ed="#L" n="79"/>rei creatae poterit cognosci per effectum. Et sic
+<lb ed="#L" n="80"/>subtrahitur nobis omnis cognitio scientiae 
+natu<lb ed="#L" break="no" n="81"/>ralis, in qua praecipue demonstrationes per 
+ef<lb ed="#L" break="no" n="82"/>fectum sumuntur.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e550">
+               <lb ed="#L" n="83"/>Item. Apparet per inductionem in omnibus
+<lb ed="#L" n="84"/>quod simile agat suum simile. ld autem quod
+<lb ed="#L" n="85"/>generatur in rebus inferioribus non est forma
+<lb ed="#L" n="86"/>tantum, sed compositum ex materia et forma:
+<lb ed="#L" n="87"/>nam omnis generatio ex aliquo est, scilicet ex
+<lb ed="#L" n="88"/>materia, et ad aliquid, scilicet formam . Oportet
+<lb ed="#L" n="89"/>ergo quod generans non sit forma tantum, sed (6
+<lb ed="#L" n="90"/>compositum ex materia et forma. Non igitur
+<lb ed="#L" n="91"/>species rerum separatae, ut Platonici posuerunt;
+<lb ed="#L" n="92"/>neque intelligentia agens, ut posuit Avicenna, est
+<lb ed="#L" n="93"/>causa formarum quae sunt in materiis, sed magis
+<lb ed="#L" n="94"/>hoc compositum ex materia et forma.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e579">
+               <lb ed="#L" n="95"/>Item. Si agere sequitur ad esse in actu , 
+incon<lb ed="#L" break="no" n="96"/>veniens est quod actus perfectior actione 
+desti<lb ed="#L" break="no" n="97"/>tuatur. Perfectior autem actus est forma 
+substan<lb ed="#L" break="no" n="98"/>tialis quam accidentalis. Si igitur formae 
+acci<lb ed="#L" break="no" n="99"/>dentales quae sunt in rebus corporalibus habent
+<lb ed="#L" n="100"/>proprias actiones , multo magis forma 
+substan<lb ed="#L" break="no" n="101"/>tialis habet aliquam propriam actionem. Non
+<lb ed="#L" n="102"/>est autem eius propria actio disponere materiam:
+<lb ed="#L" n="103"/>quia hoc fit per alterationem, ad quam 
+suffi<lb ed="#L" break="no" n="104"/>ciunt formae accidentales. Igitur forma 
+substan<lb ed="#L" break="no" n="105"/>tialis generantis est principium actionis ut forma
+<lb ed="#L" n="106"/>substantialis introducatur in generatum.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e608">
+               <pb ed="#L" n="201"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>Rationes autem quas inducunt, facile est solvere.
+<lb ed="#L" n="2"/>Cum enim ad hoc aliquid fiat ut sit, sicut forma
+<lb ed="#L" n="3"/>non dicitur ens quasi ipsa habeat esse, sed quia
+<lb ed="#L" n="4"/>per eam compositum est; ita nec forma proprie
+<lb ed="#L" n="5"/>fit, sed incipit esse per hoc quod compositum
+<lb ed="#L" n="6"/>sit reductum de potentia in actum, qui est forma.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e629">
+               <lb ed="#L" n="7"/>Neque etiam oportet ut omne quod habet
+<lb ed="#L" n="8"/>aliquam formam quasi participatam, recipiat eam
+<lb ed="#L" n="9"/>immediate ab .eo quod est essentialiter forma:
+<lb ed="#L" n="10"/>sed immediate quidem ab alio quod habet 
+simi<lb ed="#L" break="no" n="11"/>lem formam, simili modo scilicet participatam,
+<lb ed="#L" n="12"/>quod tamen agat in virtute illius formae 
+sepa<lb ed="#L" break="no" n="13"/>ratae, si qua sit talis. Sic enim agens similem
+<lb ed="#L" n="14"/>sibi effectum producit .
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e649">
+               <lb ed="#L" n="15"/>Similiter etiam non oportet quod, quia omnis
+<lb ed="#L" n="16"/>actio inferiorum corporum fit per qualitates 
+acti<lb ed="#L" break="no" n="17"/>vas et passivas, quae sunt accidentia, quod non
+<lb ed="#L" n="18"/>producatur ex actione eorum nisi accidens. Quia
+<lb ed="#L" n="19"/>illae formae accidentales, sicut causantur a forma
+<lb ed="#L" n="20"/>substantiali, quae simul. cum materia est causa
+<lb ed="#L" n="21"/>omnium propriorum accidentium, ita agunt 
+vir<lb ed="#L" break="no" n="22"/>tute formae substantialis. Quod autem agit in
+<lb ed="#L" n="23"/>virtute alterius, producit effectum similem non
+<lb ed="#L" n="24"/>sibi tantum, sed magis ei in cuius virtute agit:
+<lb ed="#L" n="25"/>sicut ex actione instrumenti fit in artificiato 
+si<lb ed="#L" break="no" n="26"/>militudo formae artis; Ex quo sequitur quod
+<lb ed="#L" n="27"/>ex actione formarum accidentalium producuntur
+<lb ed="#L" n="28"/>formae substantiales, inquantum agunt 
+instrumen<lb ed="#L" break="no" n="29"/>taliter in virtute substantialium formarum.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e684">
+               <lb ed="#L" n="30"/>In animalibus autem quae ex putrefactione
+<lb ed="#L" n="31"/>generantur, causatur forma substantialis ex agente
+<lb ed="#L" n="32"/>corporali, scilicet corpore caelesti, quod est 
+pri<lb ed="#L" break="no" n="33"/>mum alterans, unde oportet quod omnia 
+mo<lb ed="#L" break="no" n="34"/>ventia ad formam in istis inferioribus, agant in
+<lb ed="#L" n="35"/>virtute illius. Et propter hoc, ad producendas
+<lb ed="#L" n="36"/>aliquas formas imperfectas sufficit virtus caelestis,
+<lb ed="#L" n="37"/>absque agente univoco. Ad producendas autem
+<lb ed="#L" n="38"/>formas perfectiores, sicut sunt animae animalium
+<lb ed="#L" n="39"/>perfectorum, requiritur etiam cum agente caelesti
+<lb ed="#L" n="40"/>agens univocum: talia enim animalia non 
+gene<lb ed="#L" break="no" n="41"/>rantur nisi'ex semine. Et propter hoc dicit 
+Aristo<lb ed="#L" break="no" n="42"/>teles, in II Phys. , quod Aomo generat hominem
+<lb ed="#L" n="43"/>et. sol.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e717">
+               <lb ed="#L" n="44"/>Non est autem verum quod quantitas impediat
+<lb ed="#L" n="45"/>actionem formae, nisi per accidens: inquantum
+<lb ed="#L" n="46"/>scilicet omnis quantitas continua est in materia;
+<lb ed="#L" n="47"/>forma autem in materia existens, cum sit minoris
+<lb ed="#L" n="48"/>actualitatis, est per consequens minoris virtutis
+<lb ed="#L" n="49"/>in agendo. Unde corpus quod habet minus de
+<lb ed="#L" n="50"/>materia et plus de forma, scilicet ignis, est magis
+<lb ed="#L" n="51"/>activum. Supposito autem modo actionis quam
+<lb ed="#L" n="52"/>forma in materia existens habere potest, quantitas
+<lb ed="#L" n="53"/>co-auget magis quam minuat actionem. Nam
+<lb ed="#L" n="54"/>quanto corpus calidum fuerit maius, supposita
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="55"/>aeque intensa caliditate, tanto magis calefacit; et
+<lb ed="#L" n="56"/>supposita gravitate aeque intensa, quanto maius
+<lb ed="#L" n="57"/>fuerit corpus grave, tanto velocius movebitur
+<lb ed="#L" n="58"/>motu naturali; et inde est quod tardius movetur
+<lb ed="#L" n="59"/>; motu innaturali. Quod ergo corpora gravia sunt
+<lb ed="#L" n="60"/>tardioris motus innaturalis cum fuerint maioris
+<lb ed="#L" n="61"/>quantitatis, non ostendit quod quantitas impediat
+<lb ed="#L" n="62"/>actionem, sed magis quod co-augeat ipsam.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e763">
+               <lb ed="#L" n="63"/>Non oportet etiam quod corpus omne careat
+<lb ed="#L" n="64"/>actione propter hoc quod in ordine rerum 
+sub<lb ed="#L" break="no" n="65"/>stantia corporalis est infima secundum. suum
+<lb ed="#L" n="66"/>genus. Quia etiam inter corpora unum est 
+su<lb ed="#L" break="no" n="67"/>perius altero, et formalius et magis activum: sicut
+<lb ed="#L" n="68"/>ignis respectu inferiorum corporum. Nec tamen
+<lb ed="#L" n="69"/>etiam. infimum corpus excluditur ab agendo.
+<lb ed="#L" n="70"/>Manifestum est enim quod corpus non potest
+<lb ed="#L" n="71"/>agere se toto, cum sit compositum ex materia,
+<lb ed="#L" n="72"/>quae est ens in potentia, et ex forma, quae est
+<lb ed="#L" n="73"/>actus: agit enim unumquodque secundum quod
+<lb ed="#L" n="74"/>est actu. Et propter hoc omne: corpus agit 
+se<lb ed="#L" break="no" n="75"/>cundum suam formam: ad quam comparatur
+<lb ed="#L" n="76"/>aliud corpus, scilicet patiens, secundum suam
+<lb ed="#L" n="77"/>materiam ut subiectum, inquantum materia eius
+<lb ed="#L" n="78"/>est in potentia ad formam agentis. Si autem e
+<lb ed="#L" n="79"/>converso ad formam corporis patientis sit in
+<lb ed="#L" n="80"/>potentia materia corporis agentis, erunt agentia
+<lb ed="#L" n="81"/>et patientia ad invicem: sicut accidit in duobus
+<lb ed="#L" n="82"/>corporibus elementaribus. Sin autem, erit unum
+<lb ed="#L" n="83"/>tantum agens, et alterum tantum patiens respectu
+<lb ed="#L" n="84"/>illius: sicut est comparatio corporis caelestis ad
+<lb ed="#L" n="85"/>corpus elementare. Sic igitur corpus agens agit
+<lb ed="#L" n="86"/>in subiectum non ratione totius corporis, sed
+<lb ed="#L" n="87"/>formae per quam agit.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e820">
+               <lb ed="#L" n="88"/>Non est etiam verum quod corpora sint in
+<lb ed="#L" n="89"/>ultima remotione a Deo. Cum enim Deus sit
+<lb ed="#L" n="90"/>actus purus, secundum hoc aliqua magis vel
+<lb ed="#L" n="91"/>minus ab eo distant, quod sunt plus vel minus
+<lb ed="#L" n="92"/>in actu vel in potentia. Illud igitur in entibus
+<lb ed="#L" n="93"/>est extreme distans a Deo quod est potentia
+<lb ed="#L" n="94"/>tantum, scilicet materia prima. Unde eius est
+<lb ed="#L" n="95"/>pati tantum et non agere. Corpora vero, cum
+<lb ed="#L" n="96"/>sint composita ex materia et forma, accedunt
+<lb ed="#L" n="97"/>ad divinam similitudinem inquantum habent
+<lb ed="#L" n="98"/>formam, quam Aristoteles, in I Phys. , nominat
+<lb ed="#L" n="99"/>divinum quiddam. Et propter hoc, secundum
+<lb ed="#L" n="100"/>quod habent formam, agunt: secundum vero
+<lb ed="#L" n="101"/>quod habent materiam, patiuntur.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e854">
+               <lb ed="#L" n="102"/>Ridiculum autem est dicere quod ideo corpus
+<lb ed="#L" n="103"/>non agat quia accidens non transit de subiecto in
+<lb ed="#L" n="104"/>subiectum. Non enim hoc modo dicitur corpus
+<lb ed="#L" n="105"/>calidum calefacere quod idem numero calor qui
+<lb ed="#L" n="106"/>est in calefaciente corpore, transeat ad corpus 
+ca<lb ed="#L" break="no" n="107"/>lefactum: sed quia virtute caloris qui est in 
+cor<lb ed="#L" break="no" n="108"/>pore calefaciente, alius calor numero fit actu in
+<pb ed="#L" n="202"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>corpore calefacto, qui prius erat in eo in potentia.
+<lb ed="#L" n="2"/>Agens enim naturale non est traducens propriam
+<lb ed="#L" n="3"/>formam in alterum subiectum: sed reducens 
+su<lb ed="#L" break="no" n="4"/>biectum quod patitur, de potentia in actum.
+</p>
+            <p xml:id="v8naTA-d1e2271-d1e885">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="5"/>Non igitur auferimus proprias actiones rebus
+<lb ed="#L" n="6"/>creatis, quamvis omnes effectus rerum creatarum
+<lb ed="#L" n="7"/>Deo attribuamus quasi in omnibus operanti.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

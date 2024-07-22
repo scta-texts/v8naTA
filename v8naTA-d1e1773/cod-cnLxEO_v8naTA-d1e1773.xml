@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 8</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 8</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="20"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1773"><!-- v8naTA-l3c8 -->
+            <head xml:id="v8naTA-d1e1773-Hd1e101">Capitulum 8</head>
+            <head xml:id="v8naTA-d1e1773-Hd1e103" type="question-title">Rationes quibus videtur probari quod malum sit natura
+vel res aliqua.</head>
+            <p xml:id="v8naTA-d1e1773-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="90" type="fixed=20"/>CAPITULUM OCTAVUM ET NONUM
+<lb ed="#L" n="91"/>RATIONES QUIBUS VIDETUR PROBARI QUOD MALUM SIT NATURA
+<lb ed="#L" n="92"/>VEL RES ALIQUA.
+</p>
+            <p xml:id="v8naTA-d1e1773-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="93"/>VIDETUR autem quibusdam rationibus 
+prae<lb ed="#L" break="no" n="94"/>dictae sententiae posse obviari.
+</p>
+            <p xml:id="v8naTA-d1e1773-d1e126">
+               <lb ed="#L" n="95"/>Ex propria enim differentia specifica
+<lb ed="#L" n="96"/>unumquodque speciem sortitur. Malum
+<lb ed="#L" n="97"/>autem est differentia specifica in aliquibus 
+gene<lb ed="#L" break="no" n="98"/>ribus, scilicet in habitibus et actibus moralibus:
+<lb ed="#L" n="99"/>sicut enim virtus secundum suam speciem est
+<lb ed="#L" n="100"/>bonus habitus, ita contrarium vitium est malus
+<lb ed="#L" n="101"/>habitus secundum suam speciem; et similiter de
+<lb ed="#L" n="102"/>actibus virtutum et vitiorum. Malum igitur est:
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="103"/>dans speciem aliquibus rebus. Est igitur aliqua
+<lb ed="#L" n="104"/>essentia, et aliquibus rebus naturalis.
+</p>
+            <p xml:id="v8naTA-d1e1773-d1e153">
+               <lb ed="#L" n="105"/>Praeterea. Utrumque contrariorum est natura
+<lb ed="#L" n="106"/>quaedam: si enim nihil poneret, alterum 
+contra<lb ed="#L" break="no" n="107"/>riorum esset privatio vel negatio pura. Sed 
+bo<lb ed="#L" break="no" n="108"/>num et malum dicuntur esse contraria. Malum
+<lb ed="#L" n="109"/>igitur est natura aliqua.
+</p>
+            <p xml:id="v8naTA-d1e1773-d1e166">
+               <lb ed="#L" n="110"/>Item. Bonum, et malum dicuntur esse genera
+<lb ed="#L" n="111"/>contrariorum ab Aristotele, in Praedicamentis
+<lb ed="#L" n="112"/>Cuiuslibet autem generis est essentia et natura
+<pb ed="#L" n="21"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>aliqua: nam non entis non sunt species neque
+<lb ed="#L" n="2"/>differentiae, et ita quod non est, non potest esse
+<lb ed="#L" n="3"/>genus. Malum igitur est aliqua essentia et natura.
+</p>
+            <p xml:id="v8naTA-d1e1773-d1e186">
+               <lb ed="#L" n="4"/>Adhuc. Omne quod agit, est res aliqua. Malum
+<lb ed="#L" n="5"/>autem agit inquantum malum: repugnat enim
+<lb ed="#L" n="6"/>bono et corrumpit ipsum. Malum igitur, 
+inquan<lb ed="#L" break="no" n="7"/>tum malum, est res aliqua.
+</p>
+            <p xml:id="v8naTA-d1e1773-d1e197">
+               <lb ed="#L" n="8"/>Amplius. In quibuscumque invenitur magis et
+<lb ed="#L" n="9"/>minus, oportet quod sint res aliquae habentes
+<lb ed="#L" n="10"/>ordinem: negationes enim et privationes non 
+su<lb ed="#L" break="no" n="11"/>scipiunt magis et minus. Invenitur autem inter
+<lb ed="#L" n="12"/>mala unum altero peius. Oportet igitur, ut 
+vide<lb ed="#L" break="no" n="13"/>tur, quod malum sit res aliqua. -
+</p>
+            <p xml:id="v8naTA-d1e1773-d1e213">
+               <lb ed="#L" n="14"/>Praeterea. Res et ens convertuntur. Est autem
+<lb ed="#L" n="15"/>malum in mundo. Ergo est res aliqua et natura.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

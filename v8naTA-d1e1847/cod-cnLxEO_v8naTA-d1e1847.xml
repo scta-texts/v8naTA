@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 17</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 17</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="40"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1847"><!-- v8naTA-l3c17 -->
+            <head xml:id="v8naTA-d1e1847-Hd1e101">Capitulum 17</head>
+            <head xml:id="v8naTA-d1e1847-Hd1e103" type="question-title">Quod omnia ordinantur in unum finem, qui est deus.</head>
+            <p xml:id="v8naTA-d1e1847-d1e106">
+               <pb ed="#L" n="40"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=40"/>CAPITULUM DECIMUM SEPTIMUM
+<lb ed="#L" n="2"/>QUOD OMNIA ORDINANTUR IN UNUM FINEM, QUI EST DEUS.
+</p>
+            <p xml:id="v8naTA-d1e1847-d1e117">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="3"/>Ex hoc autem apparet quod. omnia 
+or<lb ed="#L" break="no" n="4"/>dinantur in. unum bonum sicut in. 
+ul<lb ed="#L" break="no" n="5"/>timum finem.
+</p>
+            <p xml:id="v8naTA-d1e1847-d1e128">
+               <lb ed="#L" n="6"/>Si enim nihil tendit in aliquid sicut
+<lb ed="#L" n="7"/>in finem nisi inquantum ipsum est bonum, ergo
+<lb ed="#L" n="8"/>oportet quod bonum inquantum bonum sit finis.
+<lb ed="#L" n="9"/>Quod igitur est summum bonum, est maxime
+<lb ed="#L" n="10"/>omnium finis. Sed summum bonum est unum
+<lb ed="#L" n="11"/>tantum, quod est Deus: ut in primo libro  
+pro<lb ed="#L" break="no" n="12"/>batum est. Omnia igitur ordinantur sicut in 
+fi<lb ed="#L" break="no" n="13"/>nem in unum bonum quod est Deus.
+</p>
+            <p xml:id="v8naTA-d1e1847-d1e149">
+               <lb ed="#L" n="14"/>Item. Quod est maximum in unoquoque genere,
+<lb ed="#L" n="15"/>est causa omnium illorum quae sunt illius 
+gene<lb ed="#L" break="no" n="16"/>ris; sicut ignis, qui est calidissimus, est causa
+<lb ed="#L" n="17"/>caliditatis in aliis corporibus. Summum igitur
+<lb ed="#L" n="18"/>bonum, quod est Deus, est causa bonitatis in
+<lb ed="#L" n="19"/>omnibus bonis. Ergo et est causa cuiuslibet finis
+<lb ed="#L" n="20"/>quod sit finis: cum quidquid est finis, sit 
+huius<lb ed="#L" break="no" n="21"/>modi inquantum est bonum. Propter quod autem
+<lb ed="#L" n="22"/>est unumquodque, el illud magis . Deus igitur
+<lb ed="#L" n="23"/>maxime est omnium rerum finis.
+</p>
+            <p xml:id="v8naTA-d1e1847-d1e173">
+               <lb ed="#L" n="24"/>Adhuc. In quolibet genere causarum causa
+<lb ed="#L" n="25"/>prima est magis causa quam causa secunda: nam
+<lb ed="#L" n="26"/>causa secunda non est causa nisi per causam
+<lb ed="#L" n="27"/>primam. Illud igitur quod est causa prima in
+<lb ed="#L" n="28"/>ordine causarum finalium, oportet quod sit magis
+<lb ed="#L" n="29"/>causa finalis cuiuslibet quam causa finalis proxima.
+<lb ed="#L" n="30"/>Sed Deus est prima causa in ordine causarum
+<lb ed="#L" n="31"/>finalium: cum sit summum in ordine bonorum.
+<lb ed="#L" n="32"/>Est igitur magis finis uniuscuiusque rei quam
+<lb ed="#L" n="33"/>aliquis finis proximus.
+</p>
+            <p xml:id="v8naTA-d1e1847-d1e197">
+               <lb ed="#L" n="34"/>Amplius. In omnibus finibus ordinatis oportet
+<lb ed="#L" n="35"/>quod ultimus finis sit finis omnium praecedentium
+<lb ed="#L" n="36"/>finium: sicut, si potio conficitur ut detur 
+ae<lb ed="#L" break="no" n="37"/>groto, datur autem ut purgetur, purgatur autem ut
+<lb ed="#L" n="38"/>extenuetur, extenuatur autem ut sanetur; oportet
+<lb ed="#L" n="39"/>quod sanitas sit finis et extenuationis et 
+purga<lb ed="#L" break="no" n="40"/>tionis et aliorum praecedentium: Sed omnia 
+in<lb ed="#L" break="no" n="41"/>veniuntur in diversis gradibus bonitatis ordinata
+<lb ed="#L" n="42"/>sub uno summo bono, quod est causa omnis
+<lb ed="#L" n="43"/>bonitatis; ac per hoc, cum bonum habeat 
+ratio<lb ed="#L" break="no" n="44"/>nem finis, omnia ordinantur sub Deo sicut fines
+<lb ed="#L" n="45"/>praecedentes sub fine ultimo. portat. igitur quod
+<lb ed="#L" n="46"/>omnium finis sit Deus.
+</p>
+            <p xml:id="v8naTA-d1e1847-d1e228">
+               <lb ed="#L" n="47"/>Praeterea. Bonum particulare —— in 
+bo<lb ed="#L" break="no" n="48"/>num, commune sicut in. finem: esse enim partis
+<lb ed="#L" n="49"/>est propter esse totius; unde et bonum gentis est
+<lb ed="#L" n="50"/>divinius quam bonum unius hominis . Bonum 
+au<lb ed="#L" break="no" n="51"/>tem summum, quod est Deus, est bonum 
+com<lb ed="#L" break="no" n="52"/>mune, cum ex eo universorum bonum 
+depen<lb ed="#L" break="no" n="53"/>deat: bonum autem quo quaelibet res bona est,
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="54"/>est bonum particulare ipsius et aliorum quae ab
+<lb ed="#L" n="55"/>ipso dependent. Omnes igitur res ordinantur sicut
+<lb ed="#L" n="56"/>in finem in unum bonum, quod est Deus.
+</p>
+            <p xml:id="v8naTA-d1e1847-d1e254">
+               <lb ed="#L" n="57"/>Item. Ad ordinem agentium sequitur ordo in
+<lb ed="#L" n="58"/>finibus: nam sicut supremum agens movet omnia
+<lb ed="#L" n="59"/>secunda agentia, ita ad finem supremi agentis
+<lb ed="#L" n="60"/>oportet quod ordinentur omnes fines 
+secundo<lb ed="#L" break="no" n="61"/>rum agentium; quidquid enim agit supremum
+<lb ed="#L" n="62"/>agens, agit propter finem suum. Agit autem 
+su<lb ed="#L" break="no" n="63"/>premum actiones omnium inferiorum ageritium,
+<lb ed="#L" n="64"/>movendo omnes ad suas actiones, et per 
+conse<lb ed="#L" break="no" n="65"/>quens ad suos fines. Unde sequitur quod omnes
+<lb ed="#L" n="66"/>fines secundorum agentium ordinentur a primo
+<lb ed="#L" n="67"/>agente in finem suum proprium.: Agens autem
+<lb ed="#L" n="68"/>primum rerum omnium est Deus, ut in Secundo 
+<lb ed="#L" n="69"/>probatum est. Voluntatis autem ipsius nihil aliud
+<lb ed="#L" n="70"/>finis est quam sua bonitas, quae est ipsemet, ut
+<lb ed="#L" n="71"/>in Primo probatum est. Omnia igitur 
+quaecum<lb ed="#L" break="no" n="72"/>que sunt facta vel ab ipso immediate, vel 
+me<lb ed="#L" break="no" n="73"/>diantibus causis secundis, in Deum ordinantur
+<lb ed="#L" n="74"/>sicut in finem. Omnia autem entia sunt 
+huius<lb ed="#L" break="no" n="75"/>modi: nam, sicut in Secundo probatur, nihil
+<lb ed="#L" n="76"/>esse potest quod ab ipso non habeat esse. Omnia
+<lb ed="#L" n="77"/>igitur ordinantur in Deum sicut in finem.
+<lb ed="#L" n="78"/>Adhuc. Finis ultimus cuiuslibet facientis, 
+in<lb ed="#L" break="no" n="79"/>quantum est faciens, est ipsemet: utimur enim
+<lb ed="#L" n="80"/>factis a nobis propter nos; et si aliquid aliquando
+<lb ed="#L" n="81"/>propter aliud homo faciat, hoc refertur in bonum
+<lb ed="#L" n="82"/>suum vel utile vel delectabile vel honestum. Deus
+<lb ed="#L" n="83"/>autem est causa factiva rerum omnium, 
+quorun<lb ed="#L" break="no" n="84"/>dam quidem immediate, quorundam autem 
+me<lb ed="#L" break="no" n="85"/>diantibus aliis causis, ut ex praemissis  est 
+mani<lb ed="#L" break="no" n="86"/>festum. Est igitur ipsemet finis rerum omnium.
+</p>
+            <p xml:id="v8naTA-d1e1847-d1e322">
+               <lb ed="#L" n="87"/>Praeterea. Finis inter alias causas primatum
+<lb ed="#L" n="88"/>obtinet, et ab ipso omnes aliae causae habent
+<lb ed="#L" n="89"/>quod sint causae in actu: agens enim non agit
+<lb ed="#L" n="90"/>nisi propter finem, ut ostensum est . Ex agente
+<lb ed="#L" n="91"/>autem. materia in actum formae reducitur: unde
+<lb ed="#L" n="92"/>materia fit actu huius rei materia, et similiter
+<lb ed="#L" n="93"/>forma huius rei forma, per actionem agentis, et
+<lb ed="#L" n="94"/>per consequens per finem. Finis etiam posterior
+<lb ed="#L" n="95"/>est causa quod praecedens finis. intendatur ut
+<lb ed="#L" n="96"/>finis: non enim movetur aliquid in finem 
+proxi<lb ed="#L" break="no" n="97"/>mum -nisi propter finem postremum. Est igitur
+<lb ed="#L" n="98"/>finis ultimus prima omnium causa. Esse autem.
+<lb ed="#L" n="99"/>primam omnium causam necesse est primo enti
+<lb ed="#L" n="100"/>convenire, quod Deus est, ut <ref xml:id="v8naTA-d1e1847-Rd1e354">supra ostensum</ref>
+               <lb ed="#L" n="101"/>est. Deus igitur est ultimus omnium finis.
+<lb ed="#L" n="102"/>Hinc est quod dicitur <ref xml:id="v8naTA-d1e1847-Rd1e361">Proverb. xvi</ref>: <quote xml:id="v8naTA-d1e1847-Qd1e363">Universa
+<lb ed="#L" n="103"/>propter semetipsum operatus est Deus</quote>. Et <ref xml:id="v8naTA-d1e1847-Rd1e368">Apoc. ult.</ref>:
+<quote xml:id="v8naTA-d1e1847-Qd1e370">Ego sum Alpha et Omega, primus et novissimus.</quote>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

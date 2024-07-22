@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 20</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 20</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="46"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1871"><!-- v8naTA-l3c20 -->
+            <head xml:id="v8naTA-d1e1871-Hd1e101">Capitulum 20</head>
+            <head xml:id="v8naTA-d1e1871-Hd1e103" type="question-title">Quomodo res imitentur divinam bonitatem.</head>
+            <p xml:id="v8naTA-d1e1871-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="11" type="fixed=46"/>CAPITULUM VIGESIMUM
+<lb ed="#L" n="12"/>QUOMODO RES IMITENTUR DIVINAM BONITATEM.
+</p>
+            <p xml:id="v8naTA-d1e1871-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="13"/>PATET ergo ex his quae dicta sunt quod  
+<lb ed="#L" n="14"/>assimilari ad Deum est ultimus omnium — 
+<lb ed="#L" n="15"/>fini. Id autem. quod proprie habet 
+<lb ed="#L" n="16"/>J/^ rationem finis, est bonum. Tendunt 
+<lb ed="#L" n="17"/>igitur res in hoc quod assimilentur. Deo proprie : 
+<lb ed="#L" n="18"/>inquantum est bonus. 
+</p>
+            <p xml:id="v8naTA-d1e1871-d1e133">
+               <lb ed="#L" n="19"/>Bonitatem autem creaturae non assequuntur 
+<lb ed="#L" n="20"/>eo modo sicut in Deo est, licet divinam 
+boni<lb ed="#L" break="no" n="21"/>tatem unaquaeque res imitetur secundum suum 
+<lb ed="#L" n="22"/>modum. Divina enim bonitas simplex est, quasi 
+<lb ed="#L" n="23"/>tota in uno consistens. Ipsum enim divinum esse 
+<lb ed="#L" n="24"/>omnem plenitudinem perfectionis obtinet, ut in 
+<lb ed="#L" n="25"/>primo libro  probatum est. Unde, cum unum- 
+</p>
+            <p xml:id="v8naTA-d1e1871-d1e152">
+               <lb ed="#L" n="26"/>quodque in tantum sit bonum in quantum est 
+<lb ed="#L" n="27"/>esse, sed secundum aliquid sui, scilicet secundum ;
+<lb ed="#L" n="28"/>perfectum, ipsum divinum esse est eius perfecta
+<lb ed="#L" n="29"/>bonitas: idem enim est Deo esse, vivere, 
+sapien<lb ed="#L" break="no" n="30"/>tem esse, beatum esse, et quidquid aliud ad 
+per<lb ed="#L" break="no" n="31"/>fectionem et bonitatem pertinere videtur, quasi 
+<lb ed="#L" n="32"/>tota divina bonitas sit ipsum divinum esse. 
+<lb ed="#L" n="33"/>Rursumque ipsum divinum esse est ipsius Dei: 
+<lb ed="#L" n="34"/>existentis substantia. In aliis autem rebus hoc 
+<lb ed="#L" n="35"/>accidere non potest. Ostensum est enim in 
+Se<lb ed="#L" break="no" n="36"/>cundo  quod nulla substantia creata est ipsum — 
+<lb ed="#L" n="37"/>suum esse. Unde, si secundum quod res 
+quae<lb ed="#L" break="no" n="38"/>libet est, bona est; non est autem earum aliqua 
+<lb ed="#L" n="39"/>suum esse: nulla earum est sua bonitas, sed earum — 
+<lb ed="#L" n="40"/>quaelibet bonitatis participatione bona est, sicut 
+<lb ed="#L" n="41"/>et ipsius esse participatione est ens. 
+</p>
+            <p xml:id="v8naTA-d1e1871-d1e189">
+               <lb ed="#L" n="42"/>Rursus. Non omnes creaturae in uno gradu 
+<lb ed="#L" n="43"/>bonitatis constituuntur. Nam quorundam 
+sub<lb ed="#L" break="no" n="44"/>stantia forma et actus est: scilicet cui secundum 
+<lb ed="#L" n="45"/>id quod est, competit esse actu et bonum esse. 
+<lb ed="#L" n="46"/>Quorundam vero substantia ex materia et forma 
+<lb ed="#L" n="47"/>composita est: cui competit actu esse et bonum 
+<lb ed="#L" n="48"/>formam. Divina igitur substantia sua bonitas est; 
+<lb ed="#L" n="49"/>substantia vero simplex bonitatem participat 
+se<lb ed="#L" break="no" n="50"/>cundum id quod est; substantia autem composita 
+<lb ed="#L" n="51"/>secundum aliquid sui. 
+</p>
+            <p xml:id="v8naTA-d1e1871-d1e213">
+               <lb ed="#L" n="52"/>In hoc autem tertio gradu substantiarum ite-, 
+<lb ed="#L" n="53"/>rum diversitas invenitur quantum ad ipsum esse. 
+<lb ed="#L" n="54"/>Nam quorundam ex materia et forma 
+compo<lb ed="#L" break="no" n="55"/>sitorum totam materiae potentiam forma adim- 
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="56"/>plet, ita quod non remanet in materia potentia
+<lb ed="#L" n="57"/>ad aliam formam: et per consequens nec in 
+ali<lb ed="#L" break="no" n="58"/>qua alia materia potentia ad hanc formam. Et
+<lb ed="#L" n="59"/>huiusmodi sunt corpora caelestia, quae ex tota
+<lb ed="#L" n="60"/>materia sua constant. - Quorundam vero forma
+<lb ed="#L" n="61"/>non replet totam materiae potentiam: unde adhuc
+<lb ed="#L" n="62"/>in materia remanet potentia ad aliam formam;
+<lb ed="#L" n="63"/>et in alia materiae parte remanet potentia ad
+<lb ed="#L" n="64"/>hanc formam; sicut patet in elementis et 
+elemen<lb ed="#L" break="no" n="65"/>tatis. Quia vero privatio est negatio in substantia
+<lb ed="#L" n="66"/>eius quod substantiae potest inesse, manifestum
+<lb ed="#L" n="67"/>est quod cum hac forma quae non implet totam
+<lb ed="#L" n="68"/>materiae potentiam, adiungitur privatio formae:
+<lb ed="#L" n="69"/>quae quidem adiungi non potest substantiae cuius
+<lb ed="#L" n="70"/>forma implet totam materiae potentiam; neque
+<lb ed="#L" n="71"/>illi quae est forma per suam essentiam; et multo
+<lb ed="#L" n="72"/>minus illi cuius essentia est ipsum suum esse.
+<lb ed="#L" n="73"/>Cum autem manifestum sit quod motus non
+<lb ed="#L" n="74"/>potest esse ubi non est potentia ad aliud, quia
+<lb ed="#L" n="75"/>motus est actus existentis in potentia ; itemque
+<lb ed="#L" n="76"/>manifestum sit quod malum est ipsa privatio
+<lb ed="#L" n="77"/>boni: planum est quod in hoc ultimo 
+substan<lb ed="#L" break="no" n="78"/>tiarum ordine est bonum mutabile et 
+permixtio<lb ed="#L" break="no" n="79"/>nem mali oppositi habens; quod in superioribus
+<lb ed="#L" n="80"/>substantiarum ordinibus accidere non potest. 
+Pos<lb ed="#L" break="no" n="81"/>sidet igitur haec substantia ultimo modo dicta,
+<lb ed="#L" n="82"/>sicut ultimum gradum in esse, ita ultimum 
+gra<lb ed="#L" break="no" n="83"/>dum in bonitate.
+</p>
+            <p xml:id="v8naTA-d1e1871-d1e287">
+               <lb ed="#L" n="84"/>Inter partes etiam huius substantiae ex materia
+<lb ed="#L" n="85"/>et forma compositae, bonitatis ordo invenitur.
+<lb ed="#L" n="86"/>Cum enim materia sit ens in potentia secundum
+<lb ed="#L" n="87"/>se considerata, forma vero sit actus eius; 
+sub<lb ed="#L" break="no" n="88"/>stantia vero composita sit actu existens per 
+for<lb ed="#L" break="no" n="89"/>mam: forma quidem erit secundum se bona,
+<lb ed="#L" n="90"/>substantia vero composita prout actu habet 
+for<lb ed="#L" break="no" n="91"/>mam; materia vero secundum quod est in 
+po<lb ed="#L" break="no" n="92"/>tentia ad formam. Et licet unumquodque sit 
+bo<lb ed="#L" break="no" n="93"/>num inquantum est ens, non tamen oportet quod
+<lb ed="#L" n="94"/>materia, quae est ens solum in potentia, sit bona
+<lb ed="#L" n="95"/>solum in potentia. Ens enim absolute dicitur,
+<lb ed="#L" n="96"/>bonum autem etiam in ordine consistit: non enim
+<lb ed="#L" n="97"/>solum aliquid bonum dicitur quia est finis, vel
+<lb ed="#L" n="98"/>quia est obtinens finem ; sed, etiam si nondum
+<pb ed="#L" n="47"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>ad finem pervenerit, dummodo sit ordinatum in
+<lb ed="#L" n="2"/>finem, ex hoc ipso dicitur bonum. Materia ergo
+<lb ed="#L" n="3"/>non potest simpliciter dici ens ex hoc quod est
+<lb ed="#L" n="4"/>potentia ens, in quo importatur ordo. ad esse:
+<lb ed="#L" n="5"/>potest autem ex hoc simpliciter dici bona, 
+pro<lb ed="#L" break="no" n="6"/>pter ordinem ipsum. In quo apparet quod 
+bo<lb ed="#L" break="no" n="7"/>num quodammodo amplioris est ambitus quam
+<lb ed="#L" n="8"/>ens: BEOpISr quod Dionysius dicit, iv cap. de Div.
+<lb ed="#L" n="9"/>Nom., quod bonum se extendit ad existentia. et
+<lb ed="#L" n="10"/>non existentia. Nam et ipsa non existentia, 
+sci<lb ed="#L" break="no" n="11"/>licet materia secundum quod intelligitur 
+priva<lb ed="#L" break="no" n="12"/>tioni subiecta, appetit bonum, scilicet esse. Ex
+<lb ed="#L" n="13"/>quo patet quod etiam sit bona: nihil enim 
+ap<lb ed="#L" break="no" n="14"/>petit bonum nisi bonum.
+</p>
+            <p xml:id="v8naTA-d1e1871-d1e357">
+               <lb ed="#L" n="15"/>Est et alio modo creaturae bonitas a bonitate
+<lb ed="#L" n="16"/>divina deficiens. Nam, sicut dictum est, Deus in
+<lb ed="#L" n="17"/>ipso suo esse summam perfectionem obtinet 
+bo<lb ed="#L" break="no" n="18"/>nitatis. Res autem creata suam perfectionem non
+<lb ed="#L" n="19"/>possidet in uno, sed. in multis: quod enim est in
+<lb ed="#L" n="20"/>supremo unitum, multiplex in infimis invenitur .
+<lb ed="#L" n="21"/>Unde Deus secundum idem dicitur esse virtuosus,
+<lb ed="#L" n="22"/>sapiens et operans, creatura.vero secundum 
+di<lb ed="#L" break="no" n="23"/>versa: tantoque perfecta bonitas alicuius creaturae
+<lb ed="#L" n="24"/>maiorem multiplicitatem requirit, quanto magis
+<lb ed="#L" n="25"/>a prima bonitate distans invenitur. Si vero 
+per<lb ed="#L" break="no" n="26"/>fectam bonitatem non potest attingere, 
+imperfe<lb ed="#L" break="no" n="27"/>ctam retinebit in paucis. Et inde est quod, licet
+<lb ed="#L" n="28"/>primum et summum bonum sit omnino simplex;
+<lb ed="#L" n="29"/>substantiaeque ei in bonitate propinquae, sint 
+pa<lb ed="#L" break="no" n="30"/>riter et quantum ad simplicitatem vicinae: infimae
+<lb ed="#L" n="31"/>tamen substantiae inveniuntur simpliciores qui-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="32"/>busdam superioribus eis, sicut elementa 
+anima<lb ed="#L" break="no" n="33"/>libus et hominibus, quia non possunt pertingere
+<lb ed="#L" n="34"/>ad perfectionem cognitionis et intellectus, quam
+<lb ed="#L" n="35"/>consequuntur animalia et homines.
+</p>
+            <p xml:id="v8naTA-d1e1871-d1e407">
+               <lb ed="#L" n="36"/>Manifestum est ergo ex dictis quod, licet Deus
+<lb ed="#L" n="37"/>secundum suum simplex esse perfectam et totam
+<lb ed="#L" n="38"/>suam bonitatem habeat, creaturae tamen ad 
+per<lb ed="#L" break="no" n="39"/>fectionem suae bonitatis non pertingunt per solum
+<lb ed="#L" n="40"/>suum. esse, sed per plura. Unde, licet quaelibet
+<lb ed="#L" n="41"/>earum sit bona inquantum est, non tamen potest
+<lb ed="#L" n="42"/>simpliciter bona dici si aliis careat quae ad ipsius
+<lb ed="#L" n="43"/>bonitatem requiruntur: sicut homo qui, virtute
+<lb ed="#L" n="44"/>spoliatus, vitiis est subiectus, dicitur quidem 
+bo<lb ed="#L" break="no" n="45"/>nus secundum quid, scilicet inquantum est ens et
+<lb ed="#L" n="46"/>inquantum est homo, non tamen bonus simpliciter,
+<lb ed="#L" n="47"/>sed magis malus. Non igitur cuilibet creaturarum
+<lb ed="#L" n="48"/>idem est esse et bonum esse simpliciter: licet
+<lb ed="#L" n="49"/>quaelibet earum bona sit inquantum est. Deo
+<lb ed="#L" n="50"/>vero simpliciter idem est esse et esse bonum.
+</p>
+            <p xml:id="v8naTA-d1e1871-d1e443">
+               <lb ed="#L" n="51"/>Si autem res quaelibet tendit in divinae 
+bo<lb ed="#L" break="no" n="52"/>nitatis similitudinem sicut in finem; divinae autem
+<lb ed="#L" n="53"/>bonitati assimilatur aliquid quantum ad omnia
+<lb ed="#L" n="54"/>quae ad propriam pertinent bonitatem; bonitas
+<lb ed="#L" n="55"/>autem rei non solum in esse suo consistit, sed
+<lb ed="#L" n="56"/>in omnibus aliis quae ad suam perfectionem 
+re<lb ed="#L" break="no" n="57"/>quiruntur, ut ostensum est: manifestum est quod
+<lb ed="#L" n="58"/>res ordinantur in Deum sicut in finem non solum
+<lb ed="#L" n="59"/>secundum esse substantiale, sed etiam secundum
+<lb ed="#L" n="60"/>ea quae ei accidunt pertinentia ad perfectionem ;
+<lb ed="#L" n="61"/>et etiam secundum propriam operationem, quae
+<lb ed="#L" n="62"/>etiam pertinet ad perfectionem rei.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

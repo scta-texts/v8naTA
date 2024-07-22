@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 25</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 25</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="65"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1912"><!-- v8naTA-l3c25 -->
+            <head xml:id="v8naTA-d1e1912-Hd1e101">Capitulum 25</head>
+            <head xml:id="v8naTA-d1e1912-Hd1e103" type="question-title">Ouod intelligere deum est finis
+omnis intellectualis substantiae.</head>
+            <p xml:id="v8naTA-d1e1912-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="73" type="fixed=65"/>CAPITULUM VIGESIMUM QUINTUM
+<lb ed="#L" n="74"/>OUOD INTELLIGERE DEUM EST FINIS
+<lb ed="#L" n="75"/>OMNIS INTELLECTUALIS SUBSTANTIAE.
+</p>
+            <p xml:id="v8naTA-d1e1912-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="76"/>Cum autem omnes creaturae, etiam 
+in<lb ed="#L" break="no" n="77"/>tellectu carentes, ordinentur in Deum
+<lb ed="#L" n="78"/>sicut in finem ultimum; ad hunc 
+au<lb ed="#L" break="no" n="79"/>tem finem pertingunt omnia 
+inquan<lb ed="#L" break="no" n="80"/>tum de similitudine eius aliquid participant : 
+in<lb ed="#L" break="no" n="81"/>tellectuales creaturae aliquo specialiori modo ad
+<lb ed="#L" n="82"/>ipsum pertingunt, scilicet per propriam 
+opera<lb ed="#L" break="no" n="83"/>tionem intelligendo ipsum. Unde oportet quod
+<lb ed="#L" n="84"/>hoc sit finis intellectualis creaturae, scilicet 
+intel<lb ed="#L" break="no" n="85"/>ligere Deum.
+</p>
+            <p xml:id="v8naTA-d1e1912-d1e143">
+               <lb ed="#L" n="86"/>Ultimus enim finis cuiuslibet rei est Deus, ut
+<lb ed="#L" n="87"/>ostensum est . Intendit igitur unumquodque sicut
+<lb ed="#L" n="88"/>ultimo fini Deo coniungi quanto magis sibi 
+pos<lb ed="#L" break="no" n="89"/>sibile est. Vicinius autem coniungitur aliquid
+<lb ed="#L" n="90"/>Deo per hoc quod ad ipsam substantiam eius
+<lb ed="#L" n="91"/>aliquo modo pertingit, quod fit dum aliquid quis
+<lb ed="#L" n="92"/>cognoscit de divina substantia, quam dum 
+con<lb ed="#L" break="no" n="93"/>sequitur eius aliquam similitudinem. Substantia
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="94"/>igitur intellectualis tendit in divinam cognitionem
+<lb ed="#L" n="95"/>sicut in ultimum finem. '
+</p>
+            <p xml:id="v8naTA-d1e1912-d1e170">
+               <lb ed="#L" n="96"/>Item. Propria operatio cuiuslibet rei est finis
+<lb ed="#L" n="97"/>eius: est enim secunda perfectio ipsius; unde
+<lb ed="#L" n="98"/>quod ad propriam operationem bene se habet,
+<lb ed="#L" n="99"/>dicitur virtruosum et bonum. Intelligere autem
+<lb ed="#L" n="100"/>est propria operatio substantiae intellectualis. Ipsa
+<lb ed="#L" n="101"/>igitur est finis eius. Quod igitur est 
+perfectissi<lb ed="#L" break="no" n="102"/>mum in hac operatione, hoc est ultimus finis:
+<lb ed="#L" n="103"/>et praecipue in operationibus quae non 
+ordi<lb ed="#L" break="no" n="104"/>nantur ad aliqua operata, sicut est intelligere et
+<lb ed="#L" n="105"/>sentire. Cum autem huiusmodi operationes ex
+<lb ed="#L" n="106"/>obiectis speciem recipiant, per quae etiam 
+co<lb ed="#L" break="no" n="107"/>gnoscuntur, oportet quod tanto sit perfectior 
+ali<lb ed="#L" break="no" n="108"/>qua istarum operationum, quanto eius obiectum
+<lb ed="#L" n="109"/>est perfectius. Et sic intelligere perfectissimum
+<lb ed="#L" n="110"/>intelligibile, quod Deus est, est perfectissimum in
+<lb ed="#L" n="111"/>genere huius operationis quae est intelligere. Co-
+<pb ed="#L" n="66"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>gnoscere igitur Deuim intelligendo est . ultimus
+<lb ed="#L" n="2"/>finis-cuiuslibet intellectualis substantiae.
+</p>
+            <p xml:id="v8naTA-d1e1912-d1e216">
+               <lb ed="#L" n="3"/>Potest autem aliquis dicere intellectualis 
+qui<lb ed="#L" break="no" n="4"/>dem substantiae ultimum finem consistere in 
+in<lb ed="#L" break="no" n="5"/>telligendo optimum intelligibile: non tamen illud
+<lb ed="#L" n="6"/>quod. est optimum intelligibile huius vel illius
+<lb ed="#L" n="7"/>intellectualis substantiae; est optimum intelligibile
+<lb ed="#L" n="8"/>simpliciter, sed quanto aliqua intellectualis 
+sub<lb ed="#L" break="no" n="9"/>stantia est altior, tanto suum intelligibile optimum
+<lb ed="#L" n="10"/>est altius. Et ideo forte suprema. intellectualis
+<lb ed="#L" n="11"/>substantia creata habet. pro intelligibili optimo
+<lb ed="#L" n="12"/>illud quod est optimum simpliciter, unde eius
+<lb ed="#L" n="13"/>felicitas erit in intelligendo Deum: cuiuslibet vero
+<lb ed="#L" n="14"/>inferioris substantiae intellectualis felicitas erit 
+in<lb ed="#L" break="no" n="15"/>telligere. aliquod inferius intelligibile, . quod est
+<lb ed="#L" n="16"/>tamen altissimum eorum. quae ab ipsa 
+intelli<lb ed="#L" break="no" n="17"/>guntur. Et praecipue intellectus humani videtur
+<lb ed="#L" n="18"/>quod non sit intelligere optimum intelligibile 
+sim<lb ed="#L" break="no" n="19"/>pliciter, propter. eius debilitatem: habet enim. se
+<lb ed="#L" n="20"/>ad. cognoscendum illud. quod est maximum 
+in<lb ed="#L" break="no" n="21"/>telligibile scit oculus noctuae ad solem .-
+
+<lb ed="#L" n="22"/>Sed manifeste apparet quod finis cuiuslibet
+<lb ed="#L" n="23"/>substantiae intellectualis, etiam infimae, est 
+in<lb ed="#L" break="no" n="24"/>telligere Deum. Ostensum est enim supra  quod
+<lb ed="#L" n="25"/>omnium entium ultimus finis in quem tendunt,
+<lb ed="#L" n="26"/>est Deus. Intellectus autem humanus, etsi sit 
+in<lb ed="#L" break="no" n="27"/>fimus in ordine intellectualium substantiarum,
+<lb ed="#L" n="28"/>est tamen superior omnibus intellectu carentibus.
+<lb ed="#L" n="29"/>Cum ergo nobilioris substantiae non sit 
+ignobi<lb ed="#L" break="no" n="30"/>lior finis, erit etiam intellectus humani finis ipse
+<lb ed="#L" n="31"/>Deus. Unumquodque autem intelligens 
+conse<lb ed="#L" break="no" n="32"/>quitur suum finem ultimum per hoc quod ipsum
+<lb ed="#L" n="33"/>intelligit, ut ostensum est. Intelligendo igitur 
+per<lb ed="#L" break="no" n="34"/>tingit intellectus humanus ad Deum sicut ad .
+<lb ed="#L" n="35"/>finem.
+</p>
+            <p xml:id="v8naTA-d1e1912-d1e290">
+               <lb ed="#L" n="36"/>Adhuc. Sicut res intellectu carentes tendunt
+<lb ed="#L" n="37"/>in Deum sicut in finem per viam assimilationis,
+<lb ed="#L" n="38"/>ita substantiae intellectuales per viam cognitionis,
+<lb ed="#L" n="39"/>ut ex praedictis patet. Res autem intellectu 
+ca<lb ed="#L" break="no" n="40"/>rentes, etsi tendant in similitudinem proximorum
+<lb ed="#L" n="41"/>agentium, non tamen ibi quiescit naturae 
+inten<lb ed="#L" break="no" n="42"/>tio, sed habet pro fine assimilationem ad. 
+sum<lb ed="#L" break="no" n="43"/>mum bonum, ut ex dictis patet, etsi 
+imperfectis<lb ed="#L" break="no" n="44"/>sime ad hanc similitudinem possint pertingere.
+<lb ed="#L" n="45"/>Intellectus igitur quantumcumque modicum possit
+<lb ed="#L" n="46"/>de divina cognitione percipere, illud erit sibi pro
+<lb ed="#L" n="47"/>ultimo fine, magis quam perfecta cognitio 
+infe<lb ed="#L" break="no" n="48"/>riorum intelligibilium.
+</p>
+            <p xml:id="v8naTA-d1e1912-d1e321">
+               <lb ed="#L" n="49"/>Amplius. Unumquodque maxime desiderat
+<lb ed="#L" n="50"/>suum finem ultimum. Intellectus autem humanus 
+<lb ed="#L" n="51"/>magis desiderat, et amat, et delectatur in 
+cogni<lb ed="#L" break="no" n="52"/>tione divinorum, quamvis modicum quidem de
+<lb ed="#L" n="53"/>illis. percipere. possit, quam in perfecta 
+cogni<lb ed="#L" break="no" n="54"/>tione quam habet de rebus infimis. Est igitur
+<lb ed="#L" n="55"/>ultimus finis hominis intelligere quoquo modo s; 
+<lb ed="#L" n="56"/>Deum.
+</p>
+            <p xml:id="v8naTA-d1e1912-d1e341">
+               <lb ed="#L" n="57"/>Adhuc. Unumquodque tendit in divinam 
+simi<lb ed="#L" break="no" n="58"/>litudinem sicut in proprium finem. lllud igitur
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="59"/>per quod unumquodque maxime Deo 
+assimila<lb ed="#L" break="no" n="60"/>tur, est ultimus finis eius. Deo autem assimilatur
+<lb ed="#L" n="61"/>maxime creatura intellectualis per hoc quod 
+in<lb ed="#L" break="no" n="62"/>tellectualis est: hanc enim similitudinem. habet
+<lb ed="#L" n="63"/>prae ceteris creaturis, et haec includit omnes
+<lb ed="#L" n="64"/>alias. In. genere autem huius similitudinis magis
+<lb ed="#L" n="65"/>assimilatur Deo secundum quod intelligit actu,
+<lb ed="#L" n="66"/>quam secundum quod intelligit in habitu vel 
+po<lb ed="#L" break="no" n="67"/>tentia; quia Deus semper actu intelligens est, ut
+<lb ed="#L" n="68"/>» in Primo  probatum est. Et in hoc quod intelligit
+<lb ed="#L" n="69"/>actu, maxime assimilatur Deo secundum quod
+<lb ed="#L" n="70"/>intelligit ipsum Deum: nam ipse Deus 
+intelli<lb ed="#L" break="no" n="71"/>gendo se intelligit omnia alia, ut in Primo  
+pro<lb ed="#L" break="no" n="72"/>batum est. Intelligere igitur Deum est ultimus
+<lb ed="#L" n="73"/>finis omnis intellectualis substantiae. t
+<lb ed="#L" n="74"/>Item. Quod est tantum propter aliud diligibile,
+<lb ed="#L" n="75"/>est propter illud quod est tantum propter se 
+di<lb ed="#L" break="no" n="76"/>ligibile: non enim est abire in infinitum in 
+ap<lb ed="#L" break="no" n="77"/>petitu naturae, quia desiderium naturae 
+frustra<lb ed="#L" break="no" n="78"/>retur, cum non sit possibile pertransire infinita.
+<lb ed="#L" n="79"/>Omnes autem scientiae et artes et potentiae 
+pra<lb ed="#L" break="no" n="80"/>cticae sunt tantum propter aliud diligibiles: nam
+<lb ed="#L" n="81"/>in eis finis non est scire, sed operari. Scientiae
+<lb ed="#L" n="82"/>autem speculativae sunt propter seipsas 
+diligi<lb ed="#L" break="no" n="83"/>biles: nam finis earum est ipsum scire. Nec 
+in<lb ed="#L" break="no" n="84"/>venitur aliqua actio in rebus humanis quae non
+<lb ed="#L" n="85"/>ordinetur ad alium finem, nisi consideratio 
+spe<lb ed="#L" break="no" n="86"/>culativa. Nam etiam ipsae actiones ludicrae, quae
+<lb ed="#L" n="87"/>videntur absque fine fieri, habent aliquem finem
+<lb ed="#L" n="88"/>debitum, scilicet ut per eas quodammodo mente
+<lb ed="#L" n="89"/>relevati, magis simus postmodum potentes ad
+<lb ed="#L" n="90"/>studiosas operationes: alias esset semper 
+luden<lb ed="#L" break="no" n="91"/>dum, si ludus propter se quaereretur, quod est
+<lb ed="#L" n="92"/>inconveniens. Ordinantur igitur artes practicae
+<lb ed="#L" n="93"/>ad speculativas, et similiter omnis humana 
+ope<lb ed="#L" break="no" n="94"/>ratio ad speculationem intellectus, sicut ad finem.
+<lb ed="#L" n="95"/>In omnibus autem scientiis et artibus ordinatis
+<lb ed="#L" n="96"/>"ad illam videtur pertinere ultimus finis quae est
+<lb ed="#L" n="97"/>praeceptiva et architectonica aliarum: sicut ars
+<lb ed="#L" n="98"/>gubernatoria, ad quam pertinet finis navis, qui
+<lb ed="#L" n="99"/>est usus ipsius, est architectonica et praeceptiva
+<lb ed="#L" n="100"/>respectu navisfactivae. Hoc autem modo se habet
+<lb ed="#L" n="101"/>philosophia prima ad alias scientias speculativas,
+<lb ed="#L" n="102"/>nam ab ipsa omnes aliae dependent, utpote ab
+<lb ed="#L" n="103"/>ipsa accipientes sua principia, et. directionem
+<lb ed="#L" n="104"/>contra negantes principia: ipsaque prima 
+philo<lb ed="#L" break="no" n="105"/>sophia tota ordinatur ad Dei cognitionem sicut
+<lb ed="#L" n="106"/>ad ultimum finem, unde et scientia divina 
+no<lb ed="#L" break="no" n="107"/>minatur. Est ergo cognitio divina finis ultimus
+<lb ed="#L" n="108"/>omnis humanae cognitionis et operationis.
+</p>
+            <p xml:id="v8naTA-d1e1912-d1e458">
+               <lb ed="#L" n="109"/>Adhuc. In omnibus agentibus et moventibus
+<lb ed="#L" n="110"/>ordinatis oportet quod finis primi agentis et 
+mo<lb ed="#L" break="no" n="111"/>toris sit ultimus finis omnium: sicut finis ducis
+<lb ed="#L" n="112"/>exercitus est finis omnium sub eo militantium. .
+<lb ed="#L" n="113"/>Inter omnes autem hominis partes, intellectus 
+in<lb ed="#L" break="no" n="114"/>venitur superior motor: nam intellectus movet
+<lb ed="#L" n="115"/>appetitum, proponendo ei suum obiectum; 
+appe<lb ed="#L" break="no" n="116"/>titus autem intellectivus, qui est voluntas, movet
+<pb ed="#L" n="67"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>appetitus sensitivos, qui sunt irascibilis et 
+con<lb ed="#L" break="no" n="2"/>cupiscibilis, unde et concupiscentiae non 
+obedi<lb ed="#L" break="no" n="3"/>mus nisi voluntatis imperium adsit; appetitus
+<lb ed="#L" n="4"/>autem sensitivus, adveniente consensu voluntatis,
+<lb ed="#L" n="5"/>movet iam corpus. Finis igitur intellectus est finis
+<lb ed="#L" n="6"/>omnium actionum humanarum. inis auiem et
+<lb ed="#L" n="7"/>bonum intellectus-est. verum: et per consequens
+<lb ed="#L" n="8"/>ultimus finis primum verum. Est igitur ultimus
+<lb ed="#L" n="9"/>finis totius hominis, et omnium operationum et
+<lb ed="#L" n="10"/>desideriorum eius, cognoscere primum verum,
+<lb ed="#L" n="11"/>quod est Deus.
+</p>
+            <p xml:id="v8naTA-d1e1912-d1e507">
+               <lb ed="#L" n="12"/>Amplius. Naturaliter inest omnibus hominibus
+<lb ed="#L" n="13"/>desiderium cognoscendi causas eorum quae 
+vi<lb ed="#L" break="no" n="14"/>dentur: unde propter admirationem eorum quae
+<lb ed="#L" n="15"/>videbantur, quorum causae latebant, homines 
+pri<lb ed="#L" break="no" n="16"/>mo philosophari coeperunt, invenientes autem
+<lb ed="#L" n="17"/>causam quiescebant. Nec sistit inquisitio 
+quous<lb ed="#L" break="no" n="18"/>que perveniatur ad primam causam: et turc 
+per<lb ed="#L" break="no" n="19"/>fecte nos scire arbitramur quando primam causam
+<lb ed="#L" n="20"/>cognoscimus . Desiderat igitur homo naturaliter 
+<lb ed="#L" n="21"/>cognoscere primam causam quasi ultimum 
+fi<lb ed="#L" break="no" n="22"/>nem. Prima autem omnium causa Deus est. Est
+<lb ed="#L" n="23"/>igitur ultimus finis hominis cognoscere Deum.
+</p>
+            <p xml:id="v8naTA-d1e1912-d1e536">
+               <lb ed="#L" n="24"/>Praeterea. Cuiuslibet effectus cogniti 
+natura<lb ed="#L" break="no" n="25"/>liter homo scire causam desiderat. Intellectus 
+au<lb ed="#L" break="no" n="26"/>tem humanus cognoscit ens universale. 
+Desi<lb ed="#L" break="no" n="27"/>derat igitur naturaliter cognoscere causam eius,
+<lb ed="#L" n="28"/>quae solum Deus est, ut in Secundo  probatum
+<lb ed="#L" n="29"/>est. Non est autem aliquis assecutus finem 
+ulti<lb ed="#L" break="no" n="30"/>mum quousque naturale desiderium quiescat.
+<lb ed="#L" n="31"/>Non sufficit igitur ad felicitatem humanam, quae
+<lb ed="#L" n="32"/>est ultimus finis, qualiscumque intelligibilis 
+co<lb ed="#L" break="no" n="33"/>gnitio, nisi divina cognitio adsit, quae terminat
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="34"/>naturale desiderium sicut ultimus finis. Est igitur
+<lb ed="#L" n="35"/>ultimus finis hominis ipsa Dei cognitio.
+</p>
+            <p xml:id="v8naTA-d1e1912-d1e567">
+               <lb ed="#L" n="36"/>Amplius. Corpus, quod naturali appetitu tendit
+<lb ed="#L" n="37"/>in suum ubi, .tanto vehementius et velocius mo-.
+<lb ed="#L" n="38"/>vetur, quanto magis appropinquat fini: unde 
+pro<lb ed="#L" break="no" n="39"/>bat <ref xml:id="v8naTA-d1e1912-Rd1e577">Aristoteles, in I de Caelo</ref> , quod motus 
+na<lb ed="#L" break="no" n="40"/>turalis rectus non potest esse ad infinitum, quia
+<lb ed="#L" n="41"/>non magis moveretur postea quam. prius. Quod
+<lb ed="#L" n="42"/>igitur vehementius in aliquid tendit post quam
+<lb ed="#L" n="43"/>prius, non movetur ad infinitum, sed ad aliquid
+<lb ed="#L" n="44"/>determinatum tendit. Hoc autem invenimus in
+<lb ed="#L" n="45"/>desiderio sciendi: quanto enim aliquis plura scit,
+<lb ed="#L" n="46"/>tanto maiori desiderio affectat scire. Tendit igitur
+<lb ed="#L" n="47"/>desiderium naturale hominis in sciendo ad ali-.
+<lb ed="#L" n="48"/>quem determinatum finem. Hoc autem non 
+pot<lb ed="#L" break="no" n="49"/>est esse aliud quam nobilissimum scibile, quod
+<lb ed="#L" n="50"/>Deus est. Est igitur cognitio divina finis ultimus
+<lb ed="#L" n="51"/>hominis.
+</p>
+            <p xml:id="v8naTA-d1e1912-d1e606">
+               <lb ed="#L" n="52"/>Ultimus autem finis hominis, et. cuiuslibet in-.
+<lb ed="#L" n="53"/>tellectualis substantiae, felicitas sive beatitudo 
+no<lb ed="#L" break="no" n="54"/>minatur: hoc enim est quod omnis substantia
+<lb ed="#L" n="55"/>intellectualis desiderat tanquam ultimum finem,
+<lb ed="#L" n="56"/>et propter se tantum. Est igitur beatitudo et 
+fe<lb ed="#L" break="no" n="57"/>licitas ultima cuiuslibet substantiae intellectualis
+<lb ed="#L" n="58"/>cognoscere Deum.
+</p>
+            <p xml:id="v8naTA-d1e1912-d1e624">
+               <lb ed="#L" n="59"/>Hinc est quod dicitur Matth. v: Beati mundo
+<lb ed="#L" n="60"/>corde, quoniam ipsi Deum videbunt. Et Ioan. xvir?:
+<lb ed="#L" n="61"/>Haec est vila aeterna, ut cognoscant te, Deum
+<lb ed="#L" n="62"/>verum.
+</p>
+            <p xml:id="v8naTA-d1e1912-d1e635">
+               <lb ed="#L" n="63"/>Huic etiam sententiae Aristoteles, in ultimo
+<lb ed="#L" n="64"/>Ethicorum , concordat, ubi ultimam hominis 
+fe<lb ed="#L" break="no" n="65"/>licitatem dicit esse speculativam, quantum ad 
+spe<lb ed="#L" break="no" n="66"/>culationem optimi speculabilis.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

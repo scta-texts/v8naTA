@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 115</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 115</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="365"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2647"><!-- v8naTA-l3c115 -->
+            <head xml:id="v8naTA-d1e2647-Hd1e101">Capitulum 115</head>
+            <head xml:id="v8naTA-d1e2647-Hd1e103" type="question-title">Quod lex divina principaliter hominem ordinat in deum.</head>
+            <p xml:id="v8naTA-d1e2647-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="18" type="fixed=364"/>CAPITULUM CENTESIMUM DECIMUM QUINTUM
+<lb ed="#L" n="19"/>QUOD LEX DIVINA PRINCIPALITER HOMINEM ORDINAT IN DEUM.
+</p>
+            <p xml:id="v8naTA-d1e2647-d1e115">
+               <lb ed="#L" n="20"/>Ex hoc autem sumi potest ad quid lex
+<lb ed="#L" n="21"/>divinitus data principaliter tendat.
+</p>
+            <p xml:id="v8naTA-d1e2647-d1e122">
+               <lb ed="#L" n="22"/>Manifestum est enim quod 
+unus<lb ed="#L" break="no" n="23"/>quisque legislator ad suum finem
+<lb ed="#L" n="24"/>principaliter per leges homines dirigere 
+in<lb ed="#L" break="no" n="25"/>tendit: sicut dux exercitus ad victoriam, et
+<lb ed="#L" n="26"/>rector civitatis ad pacem. Finis autem quem
+<lb ed="#L" n="27"/>Deus intendit, est ipsemet Deus. Lex igitur 
+di<lb ed="#L" break="no" n="28"/>vina hominem principaliter in Deum ordinare
+<lb ed="#L" n="29"/>intendit.
+</p>
+            <p xml:id="v8naTA-d1e2647-d1e143">
+               <lb ed="#L" n="30"/>Adhuc. Lex, sicut dictum est, est quaedam
+<lb ed="#L" n="31"/>ratio divinae providentiae gubernantis rationali
+<lb ed="#L" n="32"/>creaturae proposita. Sed gubernatio providentis
+<lb ed="#L" n="33"/>Dei singula ad proprios fines ducit, Per legem
+<lb ed="#L" n="34"/>igitur divinitus datam homo ad suum finem
+<lb ed="#L" n="35"/>praecipue ordinatur. Finis autem humanae 
+crea<lb ed="#L" break="no" n="36"/>turae est adhaerere Deo: in hoc enim felicitas
+<lb ed="#L" n="37"/>eius consistit, sicut supra ostensum est. Ad hoc
+<lb ed="#L" n="38"/>igitur principaliter lex divina hominem dirigit, ut
+<lb ed="#L" n="39"/>Deo adhaereat.
+</p>
+            <p xml:id="v8naTA-d1e2647-d1e167">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="40"/>Amplius. Intentio cuiuslibet legislatoris est eos
+<lb ed="#L" n="41"/>quibus legem dat, facere bonos: unde praecepta
+<lb ed="#L" n="42"/>legis debent esse de actibus virtutum . Illi igitur
+<lb ed="#L" n="43"/>actus a lege divina praecipue intenduntur qui sunt
+<lb ed="#L" n="44"/>optimi. Sed inter omnes humanos actus illi sunt
+<lb ed="#L" n="45"/>optimi quibus homo adhaeret Deo, utpote fini
+<lb ed="#L" n="46"/>propinquiores, Ergo ad hos actus praecipue lex
+<lb ed="#L" n="47"/>divina homines ordinat.
+</p>
+            <p xml:id="v8naTA-d1e2647-d1e189">
+               <lb ed="#L" n="48"/>Item. Illud praecipuum debet esse in lege ex
+<lb ed="#L" n="49"/>quo lex efficaciam habet. Sed lex divinitus data
+<lb ed="#L" n="50"/>ex hoc apud homines efficaciam habet quod homo
+<lb ed="#L" n="51"/>subditur Deo: non enim aliquis alicuius regis lege
+<lb ed="#L" n="52"/>arctatur qui ei subditus non est. Hoc igitur 
+praeci<lb ed="#L" break="no" n="53"/>puum in divina lege esse debet, ut mens humana
+<lb ed="#L" n="54"/>Deo adhaeret.
+</p>
+            <p xml:id="v8naTA-d1e2647-d1e207">
+               <lb ed="#L" n="55"/>Hinc est quod dicitur Deut. x^: Et nunc, Israel,
+<lb ed="#L" n="56"/>quid Dominus Deus tuus petit a te, nisi ut timeas
+<lb ed="#L" n="57"/>Dominum Deum tuum, et ambules in vus eius, et
+<lb ed="#L" n="58"/>diligas eum, ac servias Domino Deo tuo in toto
+<lb ed="#L" n="59"/>corde tuo et in tota anima tua?
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

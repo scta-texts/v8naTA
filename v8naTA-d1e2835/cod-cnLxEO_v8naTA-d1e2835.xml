@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 138</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 138</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="415"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2835"><!-- v8naTA-l3c138 -->
+            <head xml:id="v8naTA-d1e2835-Hd1e101">Capitulum 138</head>
+            <head xml:id="v8naTA-d1e2835-Hd1e103" type="question-title">Contra eos qui vota impugnant.</head>
+            <p xml:id="v8naTA-d1e2835-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="86" type="fixed=415"/>CAPITULUM CENTESIMUM TRIGESIMUM OCTAVUM
+<lb ed="#L" n="87"/>CONTRA EOS QUI VOTA IMPUGNANT.
+</p>
+            <p xml:id="v8naTA-d1e2835-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="88"/>QUIBUSDAM autem visum est stultum esse
+<lb ed="#L" n="89"/>obligare se voto ad obediendum alicui,
+<lb ed="#L" n="90"/>aut ad quodcumque servandum. 
+Unum<lb ed="#L" break="no" n="91"/>quodque enim bonum, quanto liberius
+<lb ed="#L" n="92"/>agitur, tanto virtuosius esse videtur. Quanto autem
+<lb ed="#L" n="93"/>e maiori necessitate quis ad aliquid. observandum
+<lb ed="#L" n="94"/>adstringitur, tanto minus libere id agi videtur.
+<lb ed="#L" n="95"/>Videtur igitur derogari laudabilitati virtuosorum
+<lb ed="#L" n="96"/>actuum per hoc quod ex necessitate obedientiae
+<lb ed="#L" n="97"/>vel voti fiunt.
+</p>
+            <p xml:id="v8naTA-d1e2835-d1e141">
+               <lb ed="#L" n="98"/>Videntur autem huiusmodi homines 
+necessi<lb ed="#L" break="no" n="99"/>tatis rationem ignorare. Est enim. duplex neces-
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="100"/>sitas. Quaedam coactionis. Et haec laudem 
+vir<lb ed="#L" break="no" n="101"/>tuosorum actuum diminuit, quia voluntario 
+con<lb ed="#L" break="no" n="102"/>trariatur: coactum enim est quod est voluntati
+<lb ed="#L" n="103"/>contrarium. — Est autem quaedam necessitas ex
+<lb ed="#L" n="104"/>interiori inclinatione proveniens. Et haec laudem
+<lb ed="#L" n="105"/>virtuosi actus non minuit, sed auget: facit enim
+<lb ed="#L" n="106"/>voluntatem :magis intense tendere in actum 
+vir<lb ed="#L" break="no" n="107"/>tutis. Patet enim. quod habitus virtutis, quanto
+<lb ed="#L" n="108"/>fuerit perfectior, tanto vehementius voluntatem
+<lb ed="#L" n="109"/>facit tendere in bonum virtutis, et minus ab eo
+<lb ed="#L" n="110"/>deficere. Quod si ad finem perfectionis devenerit,
+<lb ed="#L" n="111"/>quandam necessitatem infert ad bene agendum,
+<pb ed="#L" n="416"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>sicut est in Beatis, qui peccare non possunt, ut
+<lb ed="#L" n="2"/>infra  patebit: nec tamen propter hoc aut 
+liber<lb ed="#L" break="no" n="3"/>tati voluntatis aliquid deperit, aut actus bonitati.
+</p>
+            <p xml:id="v8naTA-d1e2835-d1e188">
+               <lb ed="#L" n="4"/>Est autem et alia necessitas ex fine: sicut cum
+<lb ed="#L" n="5"/>dicitur alicui necesse esse habere navem ut 
+trans<lb ed="#L" break="no" n="6"/>eat mare. Patet autem quod nec haec necessitas
+<lb ed="#L" n="7"/>libertatem voluntatis diminuit, nec actuum 
+bo<lb ed="#L" break="no" n="8"/>nitatem. Quin potius quod quis agit quasi 
+ne<lb ed="#L" break="no" n="9"/>cessarium ad finem, ex hoc ipso laudabile est:
+<lb ed="#L" n="10"/>et tanto laudabilius, quanto finis fuerit melior.
+</p>
+            <p xml:id="v8naTA-d1e2835-d1e206">
+               <lb ed="#L" n="11"/>Patet autem quod necessitas observandi quae
+<lb ed="#L" n="12"/>quis vovit, aut obediendi ei cui se supposuit,
+<lb ed="#L" n="13"/>non est necessitas coactionis; nec etiam ex 
+in<lb ed="#L" break="no" n="14"/>teriori inclinatione proveniens; sed ex ordine ad
+<lb ed="#L" n="15"/>finem: est enim necessarium voventi hoc vel
+<lb ed="#L" n="16"/>illud agere, si debet votum impleri, aut 
+obe<lb ed="#L" break="no" n="17"/>dientia servari. Cum igitur hi fines laudabiles
+<lb ed="#L" n="18"/>sint, utpote quibus homo Deo se subiicit, 
+neces<lb ed="#L" break="no" n="19"/>sitas praedicta nihil diminuit de laude virtutis.
+</p>
+            <p xml:id="v8naTA-d1e2835-d1e228">
+               <lb ed="#L" n="20"/>Est autem ulterius considerandum quod, dum
+<lb ed="#L" n="21"/>implentur aliqua quae quis vovit, vel quae sibi
+<lb ed="#L" n="22"/>praecipiuntur ab eo cui se subdidit propter Deum,
+<lb ed="#L" n="23"/>maiori laude et remuneratione sunt digna. 
+Con<lb ed="#L" break="no" n="24"/>tingit enim unum actum duorum vitiorum esse,
+<lb ed="#L" n="25"/>dum actus unius vitii ad finem alterius vitii 
+or<lb ed="#L" break="no" n="26"/>dinatur: ut, cum quis furatur ut fornicetur, actus
+<lb ed="#L" n="27"/>quidem secundum speciem suam est avaritiae,
+<lb ed="#L" n="28"/>secundum intentionem vero luxuriae . Eodem
+<lb ed="#L" n="29"/>autem modo et in virtutibus contingit quod actus
+<lb ed="#L" n="30"/>unius virtutis ad aliam virtutem ordinatur : sicut,
+<lb ed="#L" n="31"/>cum quis sua dat ut cum altero amicitiam habeat
+<lb ed="#L" n="32"/>caritatis, actus quidem ex sua specie est 
+libera<lb ed="#L" break="no" n="33"/>litatis, ex fine autem caritatis. Huiusmodi autem
+<lb ed="#L" n="34"/>actus maiorem laudem habet ex maiore virtute,
+<lb ed="#L" n="35"/>scilicet ex caritate, quam ex liberalitate. Unde, etsi
+<lb ed="#L" n="36"/>remittatur in eo quod liberalitatis est ex eo quod
+<lb ed="#L" n="37"/>ad caritatem ordinatur, laudabilior, et maiori 
+mer<lb ed="#L" break="no" n="38"/>cede dignus erit quam si liberalius ageretur non
+<lb ed="#L" n="39"/>in ordine ad caritatem.
+</p>
+            <p xml:id="v8naTA-d1e2835-d1e274">
+               <lb ed="#L" n="40"/>Ponamus ergo aliquem opus aliquod virtutis 
+<lb ed="#L" n="41"/>agentem, puta ieiunantem, vel continentem se a
+<lb ed="#L" n="42"/>venereis: — et quidem si absque voto haec fa-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="43"/>ciat, erit actus vel castitatis vel abstinentiae; si
+<lb ed="#L" n="44"/>autem ex voto, referetur ulterius ad aliam 
+vir<lb ed="#L" break="no" n="45"/>tutem, cuius est Deo aliquid vovere, scilicet ad
+<lb ed="#L" n="46"/>religionem, quae potior est castitate vel 
+absti<lb ed="#L" break="no" n="47"/>nentia, utpote faciens nos recte habere ad Deum.
+<lb ed="#L" n="48"/>Erit ergo actus abstinentiae vel continentiae 
+lau<lb ed="#L" break="no" n="49"/>dabilior in eo qui ex voto facit, etiam si non ita
+<lb ed="#L" n="50"/>delectetur in abstinentia vel continentia, ex eo
+<lb ed="#L" n="51"/>quod delectatur in potiori virtute, quae est religio.
+</p>
+            <p xml:id="v8naTA-d1e2835-d1e305">
+               <lb ed="#L" n="52"/>Item. Id quod potissimum est in virtute, est
+<lb ed="#L" n="53"/>debitus finis: nam ex fine principaliter ratio boni
+<lb ed="#L" n="54"/>manat. Si ergo finis fuerit eminentior, etiam si
+<lb ed="#L" n="55"/>in actu aliquis se remissius habeat, erit eius actus
+<lb ed="#L" n="56"/>virtuosior: sicut, si aliquis proponat propter 
+bo<lb ed="#L" break="no" n="57"/>num. virtutis longam viam agere, alius autem
+<lb ed="#L" n="58"/>brevem, laudabilior erit qui maius aliquid 
+pro<lb ed="#L" break="no" n="59"/>pter virtutem intendit, licet in progressu viae
+<lb ed="#L" n="60"/>lentius procedat. Si autem aliquis facit aliquid
+<lb ed="#L" n="61"/>propter Deum, illum actum Deo offert: sed si
+<lb ed="#L" n="62"/>ex. voto hoc faciat, non solum actum, sed etiam
+<lb ed="#L" n="63"/>potentiam offert Deo. Et sic patet quod 
+propo<lb ed="#L" break="no" n="64"/>situm suum est ad aliquid maius Deo 
+exhiben<lb ed="#L" break="no" n="65"/>dum. Erit ergo actus eius virtuosior ratione
+<lb ed="#L" n="66"/>maioris boni intenti, etiam si in executione alius
+<lb ed="#L" n="67"/>videatur ferventior.
+</p>
+            <p xml:id="v8naTA-d1e2835-d1e342">
+               <lb ed="#L" n="68"/>Praeterea. Voluntas praecedens actum manet
+<lb ed="#L" n="69"/>virtute in tota prosecutione actus, et ipsum 
+lau<lb ed="#L" break="no" n="70"/>dabilem reddit, etiam quando de proposito 
+vo<lb ed="#L" break="no" n="71"/>luntatis propter quod actum incipit, in 
+execu<lb ed="#L" break="no" n="72"/>tione operis non cogitabit: non enim oportet ut
+<lb ed="#L" n="73"/>qui propter Deum aliquod iter arripit, in- 
+qua<lb ed="#L" break="no" n="74"/>libet parte itineris de Deo cogitet actu. Patet
+<lb ed="#L" n="75"/>autem quod ille qui vovet se aliquid facturum,
+<lb ed="#L" n="76"/>intensius illud voluit quam qui simpliciter facere
+<lb ed="#L" n="77"/>disponit: quia non solum facere voluit, sed 
+vo<lb ed="#L" break="no" n="78"/>luit se firmare ut non deficeret a faciendo. Ex
+<lb ed="#L" n="79"/>hac igitur voluntatis intentione redditur executio
+<lb ed="#L" n="80"/>voti cum intensione quadam laudabilis, etiam
+<lb ed="#L" n="81"/>quando voluntas vel non actu fertur in opus, vel
+</p>
+            <p xml:id="v8naTA-d1e2835-d1e376">
+               <lb ed="#L" n="82"/>Sic ergo laudabilius fit quod e voto fit, quam
+<lb ed="#L" n="83"/>quod fit sine voto: ceteris tamen paribus.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

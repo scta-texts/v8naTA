@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 84</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 84</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="248"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2394"><!-- v8naTA-l3c84 -->
+            <head xml:id="v8naTA-d1e2394-Hd1e101">Capitulum 84</head>
+            <head xml:id="v8naTA-d1e2394-Hd1e103" type="question-title">Quod corpora caelestia non imprimant
+in intellectus nostros.</head>
+            <p xml:id="v8naTA-d1e2394-d1e106">
+               <cb ed="#L" n="f"/>
+               <lb ed="#L" n="31" type="fixed=248"/>CAPITULUM OCTOGESIMUM QUARTUM
+<lb ed="#L" n="32"/>QUOD CORPORA CAELESTIA NON IMPRIMANT
+<lb ed="#L" n="33"/>IN INTELLECTUS NOSTROS.
+</p>
+            <p xml:id="v8naTA-d1e2394-d1e117">
+               <cb ed="#L" n="g"/>
+               <lb ed="#L" n="34"/>Ex his autem quae praemissa sunt, in
+<lb ed="#L" n="35"/>promptu apparet quod eorum quae
+<lb ed="#L" n="36"/>sunt circa intellectum, corpora caelestia
+<lb ed="#L" n="37"/>€ causae esse non possunt. lam enim
+<lb ed="#L" n="38"/>ostensum est  quod divinae providentiae ordo est
+<lb ed="#L" n="39"/>ut per superiora regantur inferiora et moveantur.
+<lb ed="#L" n="40"/>Intellectus autem naturae ordine omnia corpora
+<lb ed="#L" n="41"/>excedit: ut etiam ex praedictis  patet. Impossibile
+<lb ed="#L" n="42"/>est igitur quod corpora caelestia agant in 
+intel<lb ed="#L" break="no" n="43"/>lectum directe. Non igitur possunt esse causa per
+<lb ed="#L" n="44"/>se eorum quae sunt circa intellectum.
+</p>
+            <p xml:id="v8naTA-d1e2394-d1e146">
+               <lb ed="#L" n="45"/>Adhuc. Nullum corpus agit nisi per motum:
+<lb ed="#L" n="46"/>ut probatur in VIII PAys. Quae autem sunt
+<lb ed="#L" n="47"/>immobilia, non causantur ex motu: nihil enim
+<lb ed="#L" n="48"/>causatur ex motu alicuius agentis nisi inquantum
+<lb ed="#L" n="49"/>movet passum dum movetur. Quae igitur sunt
+<lb ed="#L" n="50"/>omnino extra motum, non possunt esse causata
+<lb ed="#L" n="51"/>a corporibus caelestibus. Sed ea quae sunt circa
+<lb ed="#L" n="52"/>intellectum, sunt omnino extra motum, per se
+<lb ed="#L" n="53"/>loquendo, sicut patet per Philosophum in VII
+<lb ed="#L" n="54"/>Phys.: quinimmo per. quietem .a motibus fit
+<lb ed="#L" n="55"/>anima prudens et sciens, ut ibidem dicitur. 
+Im<lb ed="#L" break="no" n="56"/>possibile est ergo quod corpora caelestia sint per
+<lb ed="#L" n="57"/>se causa eorum quae circa intellectum sunt.
+</p>
+            <p xml:id="v8naTA-d1e2394-d1e178">
+               <lb ed="#L" n="58"/>Amplius. Si nihil causatur ab aliquo corpore
+<lb ed="#L" n="59"/>nisi inquantum movet dum movetur, oportet
+<lb ed="#L" n="60"/>omne illud quod recipit impressionem alicuius
+<lb ed="#L" n="61"/>corporis, moveri. Nihil autem movetur nisi 
+cor<lb ed="#L" break="no" n="62"/>pus, ut probatur in VI PAys.  Oportet ergo omne
+<lb ed="#L" n="63"/>quod recipit impressionem alicuius corporis, esse 
+<cb ed="#L" n="h"/>
+               <lb ed="#L" n="64"/>corpus, vel aliquam virtutem corpoream. 
+Osten<lb ed="#L" break="no" n="65"/>sum est autem in Secundo  quod intellectus
+<lb ed="#L" n="66"/>neque est corpus neque virtus corporea. 
+Impos<lb ed="#L" break="no" n="67"/>sibile est igitur quod corpora caelestia directe
+<lb ed="#L" n="68"/>imprimant in intellectum.
+</p>
+            <p xml:id="v8naTA-d1e2394-d1e207">
+               <lb ed="#L" n="69"/>Item. Omne quod movetur ab aliquo, 
+redu<lb ed="#L" break="no" n="70"/>citur ab eo de potentia in actum. Nihil autem
+<lb ed="#L" n="71"/>reducitur ab aliquo de potentia in actum nisi
+<lb ed="#L" n="72"/>per id quod est actu. Oportet ergo omne agens
+<lb ed="#L" n="73"/>et movens esse aliquo modo in actu respectu
+<lb ed="#L" n="74"/>eorum ad quae passum et motum est in potentia.
+<lb ed="#L" n="75"/>Corpora autem caelestia non sunt actu 
+intelli<lb ed="#L" break="no" n="76"/>gibilia: cum sint quaedam singularia sensibilia.
+<lb ed="#L" n="77"/>Cum igitur intellectus noster non sit in potentia
+<lb ed="#L" n="78"/>nisi ad intelligibilia in actu, impossibile est quod
+<lb ed="#L" n="79"/>corpora caelestia directe agant in intellectum.
+</p>
+            <p xml:id="v8naTA-d1e2394-d1e233">
+               <lb ed="#L" n="80"/>Adhuc. Propria operatio rei consequitur 
+na<lb ed="#L" break="no" n="81"/>turam ipsius, quae rebus generatis per 
+generatio<lb ed="#L" break="no" n="82"/>nem acquiritur, simul cum propria operatione:
+<lb ed="#L" n="83"/>sicut patet de gravi et levi, quae habent statim
+<lb ed="#L" n="84"/>proprium motum in termino suae generationis,
+<lb ed="#L" n="85"/>nisi sit aliquid impediens, ratione cuius generans
+<lb ed="#L" n="86"/>dicitur movens. Illud ergo quod secundum 
+prin<lb ed="#L" break="no" n="87"/>cipium suae naturae non est subiectum actionibus
+<lb ed="#L" n="88"/>corporum caelestium, neque secundum suam 
+ope<lb ed="#L" break="no" n="89"/>rationem potest esse eis subiectum. Pars autem
+<lb ed="#L" n="90"/>intellectiva non causatur ab aliquibus principiis
+<lb ed="#L" n="91"/>corporalibus, sed est omnino ab extrinseco, ut
+<lb ed="#L" n="92"/>supra  est probatum. Operatio igitur intellectus
+<lb ed="#L" n="93"/>non. subiacet directe corporibus caelestibus.
+</p>
+            <p xml:id="v8naTA-d1e2394-d1e266">
+               <pb ed="#L" n="249"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>Amplius. Ea quae causantur ex motibus 
+cae<lb ed="#L" break="no" n="2"/>lestibus, tempori subduntur, quod est numerus 
+<lb ed="#L" n="3"/>primi motus caelestis. Quae igitur omnino 
+abstra<lb ed="#L" break="no" n="4"/>hunt a tempore, non sunt caelestibus motibus 
+<lb ed="#L" n="5"/>subiecta. Intellectus autem in sua operatione abs- ; 
+<lb ed="#L" n="6"/>trahit a tempore, sicut et a loco: considerat 
+<lb ed="#L" n="7"/>enim universale, quod est abstractum ab hic et 
+<lb ed="#L" n="8"/>nunc. Non igitur operatio intellectualis subditur 
+<lb ed="#L" n="9"/>caelestibus motibus. 
+</p>
+            <p xml:id="v8naTA-d1e2394-d1e292">
+               <lb ed="#L" n="10"/>Adhuc. Nihil agit ultra suam speciem. Ipsum  
+<lb ed="#L" n="11"/>autem intelligere transcendit speciem et formam — 
+<lb ed="#L" n="12"/>cuiuscumque corporis agentis: quia omnis forma 
+<lb ed="#L" n="13"/>corporea est materialis et individuata; ipsum 
+<lb ed="#L" n="14"/>autem intelligere habet speciem a suo obiecto, 
+<lb ed="#L" n="15"/>quod est universale et immateriale. Unde nullum : 
+<lb ed="#L" n="16"/>corpus per formam suam corpoream intelligere 
+<lb ed="#L" n="17"/>potest. Multo igitur minus potest quodcumque 
+<lb ed="#L" n="18"/>corpus causare ipsum intelligere in alio. 
+</p>
+            <p xml:id="v8naTA-d1e2394-d1e314">
+               <lb ed="#L" n="19"/>Item. Secundum illud quo aliquid unitur 
+su<lb ed="#L" break="no" n="20"/>perioribus, non est inferioribus subiectum. Anima
+<lb ed="#L" n="21"/>autem nostra, secundum quod intelligit, unitur 
+<lb ed="#L" n="22"/>substantiis intellectualibus, quae sunt superiores 
+<lb ed="#L" n="23"/>ordine naturae corporibus caelestibus; non enim 
+<lb ed="#L" n="24"/>potest anima nostra intelligere nisi secundum 
+<lb ed="#L" n="25"/>quod lumen intellectuale inde sortitur. Impos- : 
+<lb ed="#L" n="26"/>sibile est ergo quod intellectualis operatio directe — 
+<lb ed="#L" n="27"/>motibus caelestibus subdatur. 
+</p>
+            <p xml:id="v8naTA-d1e2394-d1e337">
+               <lb ed="#L" n="28"/>Praeterea. Huic rei fidem. faciet si 
+considere<lb ed="#L" break="no" n="29"/>mus ea quae a philosophis circa hoc sunt dicta. 
+<lb ed="#L" n="30"/>Antiqui enim philosophi Naturales, ut. Demo- :»» 
+<lb ed="#L" n="31"/>critus, Empedocles, et huiusmodi, posuerunt quod  
+<lb ed="#L" n="32"/>intellectus non differt a sensu: ut patet in <ref xml:id="v8naTA-d1e2394-Rd1e350">IV 
+<lb ed="#L" n="33"/>Melaph.</ref>, et in <ref xml:id="v8naTA-d1e2394-Rd1e355">III de Anima</ref>. Et ideo 
+seque<lb ed="#L" break="no" n="34"/>batur quod, cum sensus sit quaedam virtus 
+cor<lb ed="#L" break="no" n="35"/>porea sequens corporum transmutationem, quod s; 
+<lb ed="#L" n="36"/>ita esset etiam de intellectu. Et propter hoc 
+di<lb ed="#L" break="no" n="37"/>xerunt quod, cumr transmutatio inferiorum 
+cor<lb ed="#L" break="no" n="38"/>porum sequatur transmutationem corporum 
+supe<lb ed="#L" break="no" n="39"/>riorum, intellectualis operatio sequatur corporum 
+<lb ed="#L" n="40"/>caelestium motus: secundum illud Homeri : » 
+<lb ed="#L" n="41"/>Talis est intellectus in diis el hominibus terrenis 
+<lb ed="#L" n="42"/>qualem in die ducit Pater virorum deorumque: idest | 
+<lb ed="#L" n="43"/>sol; vel magis lupiter, quem dicebant summum . 
+<lb ed="#L" n="44"/>deum, intelligentes per ipsum totum caelum, ut 
+<lb ed="#L" n="45"/>patet per Augustinum, in libro de. Civitate Dei . 
+</p>
+            <p xml:id="v8naTA-d1e2394-d1e384">
+               <lb ed="#L" n="46"/>Hinc etiam processit Stoicorum opinio, qui 
+di<lb ed="#L" break="no" n="47"/>cebant cognitionem intellectus causari ex hoc 
+<lb ed="#L" n="48"/>quod imagines corporum nostris mentibus 
+im<lb ed="#L" break="no" n="49"/>primuntur, sicut speculum quoddam, vel sicut 
+<lb ed="#L" n="50"/>pagina recipit litteras impressas, absque hoc quod ;» 
+<lb ed="#L" n="51"/>aliquid agat: ut <ref xml:id="v8naTA-d1e2394-Rd1e399">Boetius narrat in V de 
+Conso<lb ed="#L" break="no" n="52"/>latione</ref>. Secundum quorum sententiam 
+seque<lb ed="#L" break="no" n="53"/>batur quod maxime ex impressione corporum 
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="54"/>caelestium intellectuales notiones nobis 
+impri<lb ed="#L" break="no" n="55"/>merentur. Unde et Stoici fuerunt qui praecipue
+<lb ed="#L" n="56"/>necessitate quadam fatali hominum vitam duci
+<lb ed="#L" n="57"/>posuerunt. — Sed haec positio inde falsa apparet,
+<lb ed="#L" n="58"/>ut Boetius ibidem dicit, quia intellectus componit
+<lb ed="#L" n="59"/>et dividit, et comparat suprema ad infima, et
+<lb ed="#L" n="60"/>cognoscit universalia et simplices formas, quae
+<lb ed="#L" n="61"/>in corporibus non inveniuntur. Et sic manifestum
+<lb ed="#L" n="62"/>est quod intellectus non est sicut recipiens tantum
+<lb ed="#L" n="63"/>imagines corporum, sed habet aliquam virtutem
+<lb ed="#L" n="64"/>corporibus altiorem: nam sensus exterior, qui
+<lb ed="#L" n="65"/>solum imagines corporum recipit, ad praedicta
+<lb ed="#L" n="66"/>non se extendit.
+</p>
+            <p xml:id="v8naTA-d1e2394-d1e437">
+               <lb ed="#L" n="67"/>Omnes autem sequentes philosophi, intellectum
+<lb ed="#L" n="68"/>a sensu. discernentes, causam nostrae scientiae
+<lb ed="#L" n="69"/>non aliquibus corporibus, sed rebus 
+immateria<lb ed="#L" break="no" n="70"/>libus attribuerunt: sicut Plato posuit causam
+<lb ed="#L" n="71"/>nostrae scientiae esse ;deas; Aristoteles autem
+<lb ed="#L" n="72"/>intellectum agentem.
+</p>
+            <p xml:id="v8naTA-d1e2394-d1e453">
+               <lb ed="#L" n="73"/>Ex his omnibus est accipere quod ponere
+<lb ed="#L" n="74"/>corpora caelestia esse causam nobis intelligendi,
+<lb ed="#L" n="75"/>est consequens opinioni eorum qui ponebant
+<lb ed="#L" n="76"/>intellectum a sensu non differre: ut patet etiam
+<lb ed="#L" n="77"/>per Aristotelem, in libro de Azima . Hanc autem
+<lb ed="#L" n="78"/>opinionem manifestum est esse falsam. Igitur 
+ma<lb ed="#L" break="no" n="79"/>nifestum est et eam esse falsam quae ponit 
+cor<lb ed="#L" break="no" n="80"/>pora caelestia esse nobis causa intelligendi directe.
+</p>
+            <p xml:id="v8naTA-d1e2394-d1e473">
+               <lb ed="#L" n="81"/>Hinc est etiam quod Sacra Scriptura causam
+<lb ed="#L" n="82"/>nostrae intelligentiae attribuit, non alicui corpori,
+<lb ed="#L" n="83"/>sed Deo: Job xxxv, Ubi est Deus: qui fecit
+<lb ed="#L" n="84"/>me, qui dedit carmina in nocte, qui docet nos
+<lb ed="#L" n="85"/>super iumenta terrae, super volucres caeli erudit
+<lb ed="#L" n="86"/>nos? et in Psalmo , Qui docet hominem scientiam.
+</p>
+            <p xml:id="v8naTA-d1e2394-d1e489">
+               <lb ed="#L" n="87"/>Sciendum est. tamen quod, licet corpora 
+cae<lb ed="#L" break="no" n="88"/>lestia directe intelligentiae nostrae causae esse
+<lb ed="#L" n="89"/>non possint, aliquid tamen ad hoc operantur
+<lb ed="#L" n="90"/>indirecte. Licet enim intellectus non sit virtus
+<lb ed="#L" n="91"/>corporea, tamen in nobis operatio intellectus 
+com<lb ed="#L" break="no" n="92"/>pleri non potest sine operatione virtutum 
+corpo<lb ed="#L" break="no" n="93"/>rearum, quae sunt imaginatio et vis memorativa
+<lb ed="#L" n="94"/>et cogitativa, ut ex superioribus  patet. Et inde
+<lb ed="#L" n="95"/>est quod, impeditis harum virtutum operationibus
+<lb ed="#L" n="96"/>propter aliquam corporis indispositionem. 
+impe<lb ed="#L" break="no" n="97"/>ditur operatio intellectus: sicut patet in 
+phrene<lb ed="#L" break="no" n="98"/>ticis et lethargicis, et aliis huiusmodi. Et propter
+<lb ed="#L" n="99"/>hoc etiam bonitas dispositionis corporis humani
+<lb ed="#L" n="100"/>facit aptum ad bene intelligendum, inquantum
+<lb ed="#L" n="101"/>ex hoc praedictae vires fortiores existunt: unde
+<lb ed="#L" n="102"/>dicitur in <ref xml:id="v8naTA-d1e2394-Rd1e525">II de Anima</ref> quod <quote xml:id="v8naTA-d1e2394-Qd1e528">molles carne bene
+<lb ed="#L" n="103"/>aptos mente videmus</quote>. Dispositio autem corporis
+<lb ed="#L" n="104"/>humani subiacet caelestibus motibus. Dicit enim
+<ref xml:id="v8naTA-d1e2394-Rd1e535">Augustinus, in V de Civitate Dei</ref>, quod non
+<lb ed="#L" n="105"/>usquequaque absurde dici potest ad solas corporum
+<pb ed="#L" n="250"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>differentias. afflatus. quosdam valere sidereos. Et 
+<lb ed="#L" n="2"/>Damascenus dicit in secundo libro, quod alii et
+<lb ed="#L" n="3"/>alii planetae diversas complexiones et habitus et 
+<lb ed="#L" n="4"/>dispositiones in nobis constituunt. Et ideo indirecte 
+<lb ed="#L" n="5"/>corpora caelestia ad bonitatem intelligentiae ope- ; 
+<lb ed="#L" n="6"/>rantur. Et sic, sicut. medici. possunt iudicare de
+<lb ed="#L" n="7"/>bonitate intellectus ex corporis complexione sicut 
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="8"/>ex dispositione proxima, ita astrologus ex 
+moti<lb ed="#L" break="no" n="9"/>bus caelestibus sicut ex causa remota talis 
+dispo<lb ed="#L" break="no" n="10"/>sitionis. Et per hunc modum potest verificari
+<lb ed="#L" n="11"/>quod Ptolomaeus in Centilogio  dicit: Cum fuerit
+<lb ed="#L" n="12"/>Mercurius in nativitate alicuius in. aliqua. 
+domo<lb ed="#L" break="no" n="13"/>rum Saturni, et ipse fortis in esse suo, dat 
+boni<lb ed="#L" break="no" n="14"/>tatem intelligentiae medullitus in rebus.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

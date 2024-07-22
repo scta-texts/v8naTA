@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 73</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 73</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="215"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2304"><!-- v8naTA-l3c73 -->
+            <head xml:id="v8naTA-d1e2304-Hd1e101">Capitulum 73</head>
+            <head xml:id="v8naTA-d1e2304-Hd1e103" type="question-title">Quod divina providentia non excludit arbitrii libertatem.</head>
+            <p xml:id="v8naTA-d1e2304-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="87" type="fixed=215"/>CAPITULUM SEPTUAGESIMUM TERTIUM
+<lb ed="#L" n="88"/>QUOD DIVINA PROVIDENTIA NON EXCLUDIT ARBITRII LIBERTATEM.
+</p>
+            <p xml:id="v8naTA-d1e2304-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="89"/>Ex quo etiam patet quod providentia
+<lb ed="#L" n="90"/>voluntatis libertati non repugnat.
+</p>
+            <p xml:id="v8naTA-d1e2304-d1e124">
+               <lb ed="#L" n="91"/>Cuiuslibet enim providentis 
+guber<lb ed="#L" break="no" n="92"/>natio ad perfectionem rerum 
+guber<lb ed="#L" break="no" n="93"/>natarum ordinatur vel adipiscendam, vel 
+augen<lb ed="#L" break="no" n="94"/>dam, vel conservandam. Quod igitur perfectionis
+<lb ed="#L" n="95"/>est, magis conservandum est per providentiam
+<lb ed="#L" n="96"/>quam quod est imperfectionis et defectus. In
+<lb ed="#L" n="97"/>rebus autem inanimatis causarum contingentia
+<lb ed="#L" n="98"/>ex imperfectione et defectu est: secundum enim
+<lb ed="#L" n="99"/>suam naturam sunt determinata ad unum ef-
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="100"/>fectum, quem semper consequuntur nisi sit 
+im<lb ed="#L" break="no" n="101"/>pedimentum vel ex debilitate virtutis, vel ex aliquo
+<lb ed="#L" n="102"/>exteriori agente, vel ex materiae indispositione;
+<lb ed="#L" n="103"/>et propter hoc causae naturales agentes non sunt
+<lb ed="#L" n="104"/>ad utrumque, sed ut frequentius eodem modo
+<lb ed="#L" n="105"/>suum effectum producunt, deficiunt autem raro.
+<lb ed="#L" n="106"/>Quod autem voluntas sit causa contingens, ex
+<lb ed="#L" n="107"/>ipsius perfectione provenit: quia non habet 
+vir<lb ed="#L" break="no" n="108"/>tutem limitatam ad unum, sed habet in potestate
+<lb ed="#L" n="109"/>producere hunc effectum vel illum; propter quod
+<lb ed="#L" n="110"/>est contingens ad utrumlibet. Magis igitur per-
+<pb ed="#L" n="216"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>tinet ad providentiam divinam conservare 
+liber<lb ed="#L" break="no" n="2"/>tatem voluntatis quam contingentiam in 
+natu<lb ed="#L" break="no" n="3"/>ralibus causis.
+</p>
+            <p xml:id="v8naTA-d1e2304-d1e184">
+               <lb ed="#L" n="4"/>Amplius. Ad providentiam divinam pertinet ut
+<lb ed="#L" n="5"/>rebus utatur secundum modum earum. Modus
+<lb ed="#L" n="6"/>autem agendi cuiuslibet rei consequitur formam
+<lb ed="#L" n="7"/>eius, quae est principium actionis. Forma autem
+<lb ed="#L" n="8"/>per quam agit voluntarie agens, non est 
+deter<lb ed="#L" break="no" n="9"/>minata: agit enim voluntas per formam 
+appre<lb ed="#L" break="no" n="10"/>hensam ab intellectu, nam bonum apprehensum
+<lb ed="#L" n="11"/>movet voluntatem ut eius obiectum; intellectus
+<lb ed="#L" n="12"/>autem non habet unam formam effectus 
+deter<lb ed="#L" break="no" n="13"/>minatam, sed de ratione sua est ut multitudinem
+<lb ed="#L" n="14"/>formarum comprehendat. Et propter hoc 
+vo<lb ed="#L" break="no" n="15"/>luntas multiformes effectus producere potest. Non
+<lb ed="#L" n="16"/>igitur ad rationem providentiae pertinet quod
+<lb ed="#L" n="17"/>excludat voluntatis libertatem.
+</p>
+            <p xml:id="v8naTA-d1e2304-d1e217">
+               <lb ed="#L" n="18"/>Item. Per gubernationem cuiuscumque 
+provi<lb ed="#L" break="no" n="19"/>dentis res gubernatae deducuntur ad finem 
+con<lb ed="#L" break="no" n="20"/>venientem: unde et de providentia divina 
+Gre<lb ed="#L" break="no" n="21"/>gorius Nyssenus dicit  quod est voluntas Dei per
+<lb ed="#L" n="22"/>quam omnia quae sunt, convenientem deductionem
+<lb ed="#L" n="23"/>accipiunt. Finis autem ultimus cuiuslibet 
+crea<lb ed="#L" break="no" n="24"/>turae est ut consequatur divinam similitudinem,
+<lb ed="#L" n="25"/>sicut supra  ostensum est. T Esset igitur 
+provi<lb ed="#L" break="no" n="26"/>dentiae repugnans si alicui rei subtraheretur illud
+<lb ed="#L" n="27"/>per quod assequitur similitudinem divinam. Agens
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="28"/>autem voluntarium assequitur divinam 
+similitu<lb ed="#L" break="no" n="29"/>dinem in hoc quod libere agit: ostensum est
+<lb ed="#L" n="30"/>enim in Primo  liberum arbitrium in Deo esse.
+<lb ed="#L" n="31"/>Non igitur per providentiam subtrahitur 
+volun<lb ed="#L" break="no" n="32"/>tatis libertas.
+</p>
+            <p xml:id="v8naTA-d1e2304-d1e254">
+               <lb ed="#L" n="33"/>Adhuc. Providentia est multiplicativa bonorum
+<lb ed="#L" n="34"/>in rebus gubernatis. Illud ergo per quod multa
+<lb ed="#L" n="35"/>bona subtraherentur a rebus, non pertinet ad
+<lb ed="#L" n="36"/>providentiam. Si autem libertas voluntatis 
+tolle<lb ed="#L" break="no" n="37"/>retur, multa bona subtraherentur. Tolleretur enim
+<lb ed="#L" n="38"/>laus virtutis humanae, quae nulla est si homo
+<lb ed="#L" n="39"/>libere non agit. Tolleretur etiam iustitia 
+prae<lb ed="#L" break="no" n="40"/>miantis et punientis, si non libere homo ageret
+<lb ed="#L" n="41"/>bonum vel malum. Cessaret etiam circumspectio
+<lb ed="#L" n="42"/>in consiliis, quae de his quae ex necessitate
+<lb ed="#L" n="43"/>aguntur, frustra tractantur. Esset igitur contra
+<lb ed="#L" n="44"/>providentiae rationem si subtraheretur 
+volun<lb ed="#L" break="no" n="45"/>tatis libertas.
+</p>
+            <p xml:id="v8naTA-d1e2304-d1e285">
+               <lb ed="#L" n="46"/>Hinc est quod dicitur Eccli. xv: Deus ab
+<lb ed="#L" n="47"/>initio constituit hominem, et reliquit eum in manu
+<lb ed="#L" n="48"/>consili sui. Et iterum : Ante hominem vita et
+<lb ed="#L" n="49"/>mors, bonum et malum: quod placuerit ei, 
+dabi<lb ed="#L" break="no" n="50"/>tur illi.
+</p>
+            <p xml:id="v8naTA-d1e2304-d1e298">
+               <lb ed="#L" n="51"/>Per haec autem excluditur opinio Stoicorum ,
+<lb ed="#L" n="52"/>qui secundum ordinem quendam causarum 
+in<lb ed="#L" break="no" n="53"/>transgressibilem, quem Graeci ymarmenen 
+voca<lb ed="#L" break="no" n="54"/>bant, omnia ex necessitate dicebant provenire. t
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

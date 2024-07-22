@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 75</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 75</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="220"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2320"><!-- v8naTA-l3c75 -->
+            <head xml:id="v8naTA-d1e2320-Hd1e101">Capitulum 75</head>
+            <head xml:id="v8naTA-d1e2320-Hd1e103" type="question-title">Quod providentia dei sit singularium contingentium.</head>
+            <p xml:id="v8naTA-d1e2320-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="61" type="fixed=220"/>CAPITULUM SEPTUAGESIMUM QUINTUM
+<lb ed="#L" n="62"/>QUOD PROVIDENTIA DEI SIT SINGULARIUM CONTINGENTIUM.
+</p>
+            <p xml:id="v8naTA-d1e2320-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="63"/>Ex his autem quae ostensa sunt, 
+mani<lb ed="#L" break="no" n="64"/>festum fit quod divina providentia 
+per<lb ed="#L" break="no" n="65"/>venit usque ad singularia generabilium
+<lb ed="#L" n="66"/>et corruptibilium.
+</p>
+            <p xml:id="v8naTA-d1e2320-d1e128">
+               <lb ed="#L" n="67"/>Non enim videtur horum non esse-providentia
+<lb ed="#L" n="68"/>nisi propter eorum contingentiam, et quia multa
+<lb ed="#L" n="69"/>in eis casualiter et fortuito eveniunt: in hoc enim
+<lb ed="#L" n="70"/>solum differunt ab incorruptibilibus et 
+univer<lb ed="#L" break="no" n="71"/>salibus corruptibilium, quorum dicunt 
+providen<lb ed="#L" break="no" n="72"/>tiam esse. Providentiae autem non repugnat 
+con<lb ed="#L" break="no" n="73"/>tingentia, et casus et fortuna, neque voluntarium,
+<lb ed="#L" n="74"/>ut ostensum est . Nihil igitur prohibet et horum
+<lb ed="#L" n="75"/>providentiam esse, sicut incorruptibilium et 
+uni<lb ed="#L" break="no" n="76"/>versalium.
+</p>
+            <p xml:id="v8naTA-d1e2320-d1e153">
+               <lb ed="#L" n="77"/>Adhuc. Si Deus horum singularium 
+provi<lb ed="#L" break="no" n="78"/>dentiam. non habet, aut hoc est quia non 
+co<lb ed="#L" break="no" n="79"/>gnoscit ea; aut quia non potest; aut quia non
+<lb ed="#L" n="80"/>vult eorum curam habere. Non autem potest
+<lb ed="#L" n="81"/>dici quod Deus singularia non cognoscat: 
+osten<lb ed="#L" break="no" n="82"/>sum enim est supra  quod Deus eorum notitiam
+<lb ed="#L" n="83"/>habet. Neque etiam potest dici quod Deus eorum
+<lb ed="#L" n="84"/>curam habere non possit: cum eius potentia sit
+<lb ed="#L" n="85"/>infinita, ut supra  probatum est. Nec etiam haec
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="86"/>singularia gubernationis non capacia sunt: cum
+<lb ed="#L" n="87"/>videamus ea gubernari rationis industria, sicut
+<lb ed="#L" n="88"/>patet in hominibus; et per naturalem instinctum,
+<lb ed="#L" n="89"/>sicut patet in apibus et multis animalibus brutis,
+<lb ed="#L" n="90"/>quae quodam naturali instinctu. gubernantur.
+<lb ed="#L" n="91"/>Neque etiam potest dici quod Deus non velit ea
+<lb ed="#L" n="92"/>gubernare: cum voluntas ipsius sit universaliter
+<lb ed="#L" n="93"/>omnis boni ; bonum autem eorum quae 
+guber<lb ed="#L" break="no" n="94"/>nantur, in ordine gubernationis maxime consistit.
+</p>
+            <p xml:id="v8naTA-d1e2320-d1e197">
+               <lb ed="#L" n="95"/>Non igitur potest dici quod Deus horum 
+singu<lb ed="#L" break="no" n="96"/>larium curam non habeat.
+</p>
+            <p xml:id="v8naTA-d1e2320-d1e204">
+               <lb ed="#L" n="97"/>Amplius. Omnes causae secundae, in hoc
+<lb ed="#L" n="98"/>quod causae existunt, divinam similitudinem 
+con<lb ed="#L" break="no" n="99"/>sequuntur, ut ex supra dictis patet. Invenitur
+<lb ed="#L" n="100"/>aliquid, quod curam habent eorum quae 
+pro<lb ed="#L" break="no" n="101"/>ducunt: sicut animalia naturaliter nutriunt foetus
+<lb ed="#L" n="102"/>suos. Deus igitur curam habet eorum quorum
+<lb ed="#L" n="103"/>causa existit. Est autem causa etiam istorum
+<lb ed="#L" n="104"/>particularium, ut ex supra  dictis patet. Habet
+<lb ed="#L" n="105"/>igitur eorum curam.
+</p>
+            <p xml:id="v8naTA-d1e2320-d1e226">
+               <lb ed="#L" n="106"/>Item. Ostensum est supra  quod Deus in rebus
+<lb ed="#L" n="107"/>creatis non ex necessitate naturae agit, sed per
+<pb ed="#L" n="221"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>voluntatem et intellectum. Ea autem quae 
+agun<lb ed="#L" break="no" n="2"/>tur per intellectum et voluntatem, curae 
+provi<lb ed="#L" break="no" n="3"/>dentis subduntur, quae in hoc consistere videtur
+<lb ed="#L" n="4"/>quod per intellectum aliqua dispensentur. Divinae
+<lb ed="#L" n="5"/>ergo providentiae subduntur ea quae ab ipso
+<lb ed="#L" n="6"/>aguntur. Ostensum est autem supra  quod Deus
+<lb ed="#L" n="7"/>operatur in omnibus causis secundis, et omnes
+<lb ed="#L" n="8"/>earum effectus reducuntur in Deum sicut in
+<lb ed="#L" n="9"/>causam: et sic oportet quod ea quae in istis
+<lb ed="#L" n="10"/>singularibus aguntur, sint ipsius opera. lgitur
+<lb ed="#L" n="11"/>haec singularia, et motus et operationes ipsorum,
+<lb ed="#L" n="12"/>divinae providentiae subiacent.
+</p>
+            <p xml:id="v8naTA-d1e2320-d1e263">
+               <lb ed="#L" n="13"/>Praeterea. Stulta est providentia alicuius qui
+<lb ed="#L" n="14"/>non curat ea sine quibus ea quae curat esse
+<lb ed="#L" n="15"/>non possunt. Constat autem quod, si omnia 
+de<lb ed="#L" break="no" n="16"/>ficerent particularia, quod universalia eorum 
+re<lb ed="#L" break="no" n="17"/>manere non possent. Si igitur Deus universalia
+<lb ed="#L" n="18"/>tantum curat, singularia vero ista omnino 
+dere<lb ed="#L" break="no" n="19"/>linquit, stulta et imperfecta erit eius providentia.
+</p>
+            <p xml:id="v8naTA-d1e2320-d1e281">
+               <lb ed="#L" n="20"/>Si autem dicat aliquis quod horum 
+singula<lb ed="#L" break="no" n="21"/>rium Deus curam habet usque ad hoc quod
+<lb ed="#L" n="22"/>conserventur in esse, non autem quantum ad alia:
+<lb ed="#L" n="23"/>hoc omnino esse non potest Nam omnia alia
+<lb ed="#L" n="24"/>quae circa singularia accidunt, ad. eorum 
+con<lb ed="#L" break="no" n="25"/>servationem vel corruptionem ordinantur. Si ergo
+<lb ed="#L" n="26"/>Deus habet curam singularium quantum ad eorum
+<lb ed="#L" n="27"/>conservationem, habet curam omnium circa ea
+<lb ed="#L" n="28"/>contingentium.
+</p>
+            <p xml:id="v8naTA-d1e2320-d1e304">
+               <lb ed="#L" n="29"/>Potest autem aliquis dicere quod sola cura
+<lb ed="#L" n="30"/>universalium sufficit ad particularium 
+conserva<lb ed="#L" break="no" n="31"/>tionem in esse. Provisa sunt enim cuilibet speciei
+<lb ed="#L" n="32"/>ea per quae quodlibet individuum speciei illius
+<lb ed="#L" n="33"/>potest conservari in esse: sicut data sunt 
+ani<lb ed="#L" break="no" n="34"/>malibus organa ad cibum sumendum et 
+dige<lb ed="#L" break="no" n="35"/>rendum, et cornua ad protegendum se. Utilitates
+<lb ed="#L" n="36"/>autem horum non deficiunt nisi in minori parte:
+<lb ed="#L" n="37"/>cum ea quae sunt a natura, producant effectus
+<lb ed="#L" n="38"/>suos vel semper, vel frequenter. Et sic non
+<lb ed="#L" n="39"/>possunt omnia individua deficere, etsi aliquod
+<lb ed="#L" n="40"/>deficiat.
+</p>
+            <p xml:id="v8naTA-d1e2320-d1e333">
+               <lb ed="#L" n="41"/>Sed secundum hanc rationem, omnia quae
+<lb ed="#L" n="42"/>circa individua contingunt. providentiae 
+subia<lb ed="#L" break="no" n="43"/>cebunt, sicut et conservatio eorum in esse: quia
+<lb ed="#L" n="44"/>circa singularia alicuius speciei nihil potest 
+acci<lb ed="#L" break="no" n="45"/>dere quod non reducatur aliquo modo ad 
+prin<lb ed="#L" break="no" n="46"/>cipia illius speciei. Sic igitur singularia non magis
+<lb ed="#L" n="47"/>subiacent divinae providentiae quantum ad 
+con<lb ed="#L" break="no" n="48"/>servationem in esse, quam quantum ad alia.
+</p>
+            <p xml:id="v8naTA-d1e2320-d1e353">
+               <lb ed="#L" n="49"/>Praeterea. In comparatione rerum ad finem
+<lb ed="#L" n="50"/>talis ordo apparet quod accidentia sunt propter
+<lb ed="#L" n="51"/>substantias, ut per ea perficiantur; in substantiis
+<lb ed="#L" n="52"/>vero materia est propter formam; per hanc
+<lb ed="#L" n="53"/>enim participat divinam bonitatem, propter quam
+<lb ed="#L" n="54"/>omnia facta sunt, ut supra  ostensum est. Ex
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="55"/>quo patet quod singularia sunt propter naturam
+<lb ed="#L" n="56"/>universalem. Cuius signum est quod in his in
+<lb ed="#L" n="57"/>quibus potest natura universalis conservari per
+<lb ed="#L" n="58"/>unum individuum, non sunt multa individua
+<lb ed="#L" n="59"/>unius speciei: sicut patet in sole et luna. Cum
+<lb ed="#L" n="60"/>autem providentia sit ordinativa aliquorum in
+<lb ed="#L" n="61"/>finem, oportet quod ad providentiam pertineant
+<lb ed="#L" n="62"/>et fines, et ea quae sunt ad finem. Subiacent
+<lb ed="#L" n="63"/>igitur providentiae non solum universalia, sed
+<lb ed="#L" n="64"/>etiam singularia.
+</p>
+            <p xml:id="v8naTA-d1e2320-d1e392">
+               <lb ed="#L" n="65"/>Adhuc. Haec est differentia inter cognitionem
+<lb ed="#L" n="66"/>speculativam et practicam, quod cognitio 
+specu<lb ed="#L" break="no" n="67"/>lativa, et ea quae ad ipsam pertinent, perficiuntur
+<lb ed="#L" n="68"/>in universali; ea vero quae pertinent ad 
+cogni<lb ed="#L" break="no" n="69"/>tionem practicam, perficiuntur in particulari: nam
+<lb ed="#L" n="70"/>finis speculativae est veritas, quae primo et per
+<lb ed="#L" n="71"/>se in immaterialibus consistit et in universalibus;
+<lb ed="#L" n="72"/>finis vero practicae est operatio, quae est circa
+<lb ed="#L" n="73"/>singularia. Unde medicus non curat hominem in
+<lb ed="#L" n="74"/>universali, sed hunc hominem: et ad hoc est tota
+<lb ed="#L" n="75"/>scientia medicinae ordinata. Constat autem quod
+<lb ed="#L" n="76"/>providentia ad practicam cognitionem pertinet:
+<lb ed="#L" n="77"/>cum sit ordinativa rerum in finem. Esset igitur
+<lb ed="#L" n="78"/>imperfectissima Dei providentia si in universalibus
+<lb ed="#L" n="79"/>consisteret, et usque ad singularia non perveniret.
+</p>
+            <p xml:id="v8naTA-d1e2320-d1e427">
+               <lb ed="#L" n="80"/>Item. Cognitio speculativa magis perficitur in
+<lb ed="#L" n="81"/>universali quam in particulari: quia magis 
+sciun<lb ed="#L" break="no" n="82"/>tur universalia quam particularia; et propter hoc
+<lb ed="#L" n="83"/>universalissimorum principiorum cognitio 
+omni<lb ed="#L" break="no" n="84"/>bus est communis. llle vero perfectior est in
+<lb ed="#L" n="85"/>scientia speculativa qui non solum universalem,
+<lb ed="#L" n="86"/>sed propriam cognitionem de rebus habet: nam
+<lb ed="#L" n="87"/>qui cognoscit in universali tantum, cognoscit rem
+<lb ed="#L" n="88"/>solum in potentia. Propter quod discipulus de
+<lb ed="#L" n="89"/>universali cognitione principiorum reducitur in
+<lb ed="#L" n="90"/>propriam cognitionem conclusionum per 
+ma<lb ed="#L" break="no" n="91"/>gistrum, qui utramque cognitionem habet: sicut
+<lb ed="#L" n="92"/>aliquid reducitur de potentia in actu per ens
+<lb ed="#L" n="93"/>actu. Multo igitur magis in scientia practica 
+per<lb ed="#L" break="no" n="94"/>fectior est qui non solum in universali, sed etiam
+<lb ed="#L" n="95"/>in particulari res disponit ad actum. Divina igitur
+<lb ed="#L" n="96"/>providentia, quae est perfectissima, usque ad
+<lb ed="#L" n="97"/>singularia se extendit.
+</p>
+            <p xml:id="v8naTA-d1e2320-d1e469">
+               <lb ed="#L" n="98"/>Amplius. Cum Deus sit causa entis inquantum
+<lb ed="#L" n="99"/>est ens, ut supra  ostensum est, oportet quod
+<lb ed="#L" n="100"/>ipse sit provisor entis,inquantum est ens: 
+pro<lb ed="#L" break="no" n="101"/>videt enim rebus inquantum est causa earum.
+<lb ed="#L" n="102"/>Quicquid ergo quocumque modo est, sub eius
+<lb ed="#L" n="103"/>providentia cadit. Singularia autem sunt entia,
+<lb ed="#L" n="104"/>et magis quam universalia: quia universalia non
+<lb ed="#L" n="105"/>subsistunt per se, sed sunt solum in singularibus.
+<lb ed="#L" n="106"/>Est igitur divina providentia etiam singularium.
+</p>
+            <p xml:id="v8naTA-d1e2320-d1e492">
+               <lb ed="#L" n="107"/>Item. Res creatae providentiae divinae 
+sub<lb ed="#L" break="no" n="108"/>duntur prout ab ipso in finem ultimum ordi-
+<pb ed="#L" n="222"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>nantur, qui est bonitas sua. Participatio ergo 
+di<lb ed="#L" break="no" n="2"/>vinae bonitatis a rebus creatis est per 
+provi<lb ed="#L" break="no" n="3"/>dentiam divinam. Bonitatem autem divinam 
+par<lb ed="#L" break="no" n="4"/>ticipant etiam singularia contingentia. Oportet
+<lb ed="#L" n="5"/>ergo quod etiam ad ea divina providentia se
+<lb ed="#L" n="6"/>extendat.
+</p>
+            <p xml:id="v8naTA-d1e2320-d1e516">
+               <lb ed="#L" n="7"/>Hinc est quod dicitur Matt. vi: Duo passeres
+<lb ed="#L" n="8"/>asse veneunt, et unus ex eis non cadit in terra sine
+<lb ed="#L" n="9"/>Patre meo. Et Sap. viu': Attingil a fine usque
+<lb ed="#L" n="10"/>ad finem fortiter: idest, a primis creaturis usque
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="11"/>ad infimas earum. Ezechiel etiam 1x? arguitur
+<lb ed="#L" n="12"/>opinio quorundam qui dicebant, Dereliquit 
+Do<lb ed="#L" break="no" n="13"/>minus terram, Dominus non videt; et Iob. xxu',
+<lb ed="#L" n="14"/>Circa cardines caeli perambulat, nec nostra 
+con<lb ed="#L" break="no" n="15"/>siderat.
+</p>
+            <p xml:id="v8naTA-d1e2320-d1e540">
+               <lb ed="#L" n="16"/>Per haec autem excluditur opinio quorundam
+<lb ed="#L" n="17"/>qui dixerunt quod divina providentia non se
+<lb ed="#L" n="18"/>extendit usque ad haec singularia. Quam quidem
+<lb ed="#L" n="19"/>opinionem quidam Aristoteli imponunt, licet ex
+<lb ed="#L" n="20"/>verbis eius haberi non possit.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 74</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 74</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="218"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2312"><!-- v8naTA-l3c74 -->
+            <head xml:id="v8naTA-d1e2312-Hd1e101">Capitulum 74</head>
+            <head xml:id="v8naTA-d1e2312-Hd1e103" type="question-title">Quod divina providentia non excludit fortunam et casum.</head>
+            <p xml:id="v8naTA-d1e2312-d1e106">
+               <pb ed="#L" n="218"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=218"/>CAPITULUM SEPTUAGESIMUM QUARTUM
+<lb ed="#L" n="2"/>QUOD DIVINA PROVIDENTIA NON EXCLUDIT FORTUNAM ET CASUM.
+</p>
+            <p xml:id="v8naTA-d1e2312-d1e117">
+               <lb ed="#L" n="3"/>Ex praemissis etiam apparet quod divina 
+<lb ed="#L" n="4"/>providentia non subtrahit a rebus 
+for<lb ed="#L" break="no" n="5"/>tunam et casum. 
+</p>
+            <p xml:id="v8naTA-d1e2312-d1e126">
+               <lb ed="#L" n="6"/>In his enim quae in minori parte 
+<lb ed="#L" n="7"/>accidunt, dicitur esse fortuna et casus . Si autem 
+<lb ed="#L" n="8"/>non provenirent aliqua ut in minori parte, omnia 
+<lb ed="#L" n="9"/>ex necessitate acciderent: nam ea quae sunt 
+con<lb ed="#L" break="no" n="10"/>tingentia ut in pluribus, in hoc solo a necessariis 
+<lb ed="#L" n="11"/>differunt, quod possunt in minori parte deficere. 
+<lb ed="#L" n="12"/>Esset autem contra rationem providentiae divinae 
+<lb ed="#L" n="13"/>si omnia ex necessitate contingerent, ut ostensum 
+<lb ed="#L" n="14"/>est. Igitur et contra rationem providentiae 
+di<lb ed="#L" break="no" n="15"/>vinae esset si nihil foret fortuitum et casuale in 
+<lb ed="#L" n="16"/>rebus. 
+</p>
+            <p xml:id="v8naTA-d1e2312-d1e153">
+               <lb ed="#L" n="17"/>Amplius. Contra rationem providentiae esset:; 
+<lb ed="#L" n="18"/>si res providentiae subiectae non agerent propter 
+<lb ed="#L" n="19"/>finem: cum providentiae sit omnia ordinare in 
+<lb ed="#L" n="20"/>finem. Esset etiam contra perfectionem universi 
+<lb ed="#L" n="21"/>si nulla res corruptibilis esset, nec aliqua virtus 
+<lb ed="#L" n="22"/>deficere potens, ut ex supra  dictis patet. Ex 
+<lb ed="#L" n="23"/>hoc autem quod aliquod agens propter finem 
+<lb ed="#L" n="24"/>deficit ab eo quod intendit, sequitur aliqua casu 
+<lb ed="#L" n="25"/>contingere. Esset igitur contra rationem 
+provi<lb ed="#L" break="no" n="26"/>dentiae, et perfectionis rerum, si non essent aliqua 
+<lb ed="#L" n="27"/>casualia. 
+</p>
+            <p xml:id="v8naTA-d1e2312-d1e179">
+               <lb ed="#L" n="28"/>Adhuc. Multitudo et diversitas causarum ex 
+<lb ed="#L" n="29"/>ordine divinae providentiae et dispositionis 
+pro<lb ed="#L" break="no" n="30"/>cedit. Supposita autem causarum diversitate, 
+<lb ed="#L" n="31"/>oportet unam alteri quandoque concurrere per 
+<lb ed="#L" n="32"/>quam impediatur, vel iuvetur, ad suum effectum 
+<lb ed="#L" n="33"/>producendum. Ex concursu autem duarum vel 
+<lb ed="#L" n="34"/>plurium causarum contingit aliquid casualiter 
+<lb ed="#L" n="35"/>evenire, dum finis non intentus ex concursu 
+ali<lb ed="#L" break="no" n="36"/>cuius causae provenit: sicut inventio debitoris 
+<lb ed="#L" n="37"/>ab eo qui ibat ad forum causa emendi aliquid, 
+<lb ed="#L" n="38"/>provenit ex hoc quod debitor etiam ad forum ivit. 
+<lb ed="#L" n="39"/>Non est igitur divinae providentiae contrarium  
+<lb ed="#L" n="40"/>quod sint aliqua fortuita et casualia in rebus. 
+</p>
+            <p xml:id="v8naTA-d1e2312-d1e210">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="41"/>Item. Quod non est, non potest esse alicuius
+<lb ed="#L" n="42"/>causa. Unde oportet quod unumquodque, sicut
+<lb ed="#L" n="43"/>se habet ad esse, ita se habeat ad hoc quod sit
+<lb ed="#L" n="44"/>causa. Oportet igitur quod secundum diversitatem
+<lb ed="#L" n="45"/>ordinis in entibus sit etiam diversitas ordinis in
+<lb ed="#L" n="46"/>causis. Ad perfectionem autem rerum requiritur
+<lb ed="#L" n="47"/>quod non solum sint in rebus entia per se, sed
+<lb ed="#L" n="48"/>etiam entia per accidens: res enim quae non
+<lb ed="#L" n="49"/>habent in sua substantia ultimam perfectionem,
+<lb ed="#L" n="50"/>oportet quod perfectionem aliquam consequantur
+<lb ed="#L" n="51"/>per accidentia; et tanto per plura, quanto magis
+<lb ed="#L" n="52"/>distant a simplicitate Dei. Ex hoc autem quod
+<lb ed="#L" n="53"/>aliquod subiectum habet multa accidentia, 
+se<lb ed="#L" break="no" n="54"/>quitur quod sit aliquod ens per accidens: nam
+<lb ed="#L" n="55"/>subiectum et accidens, et etiam duo accidentia
+<lb ed="#L" n="56"/>unius subiecti, sunt unum et ens per accidens;
+<lb ed="#L" n="57"/>sicut homo albus, et musicum album. Oportet
+<lb ed="#L" n="58"/>igitur ad perfectionem rerum quod sint etiam
+<lb ed="#L" n="59"/>causae quaedam per accidens. Ea autem quae
+<lb ed="#L" n="60"/>ex causis aliquibus procedunt per accidens, 
+di<lb ed="#L" break="no" n="61"/>cuntur accidere a casu vel fortuna. Non est igitur
+<lb ed="#L" n="62"/>contra rationem providentiae, quae perfectionem
+<lb ed="#L" n="63"/>rerum conservat, ut aliqua fiant a casu vel fortuna.
+</p>
+            <p xml:id="v8naTA-d1e2312-d1e265">
+               <lb ed="#L" n="64"/>Praeterea. Ad ordinem divinae providentiae
+<lb ed="#L" n="65"/>pertinet ut sit ordo et gradus in causis. Quanto
+<lb ed="#L" n="66"/>autem aliqua causa est superior, tanto est maioris
+<lb ed="#L" n="67"/>virtutis: unde eius causalitas ad plura se extendit.
+<lb ed="#L" n="68"/>Nullius autem causae naturalis intentio se extendit
+<lb ed="#L" n="69"/>ultra virtutem eius: esset enim frustra. Oportet
+<lb ed="#L" n="70"/>ergo quod intentio causae particularis non se
+<lb ed="#L" n="71"/>extendat ad omnia quae contingere possunt. Ex
+<lb ed="#L" n="72"/>hoc autem contingit aliquid casualiter vel 
+for<lb ed="#L" break="no" n="73"/>tuito, quod eveniunt aliqua praeter intentionem
+<lb ed="#L" n="74"/>agentium. Ordo igitur divinae providentiae exigit
+<lb ed="#L" n="75"/>quod sit casus et fortuna in rebus.
+</p>
+            <p xml:id="v8naTA-d1e2312-d1e294">
+               <lb ed="#L" n="76"/>Hinc est quod dicitur Eccle. ix": Vidi nec
+<lb ed="#L" n="77"/>velocium esse cursum etc., sed tempus casumque
+<lb ed="#L" n="78"/>in omnibus, scilicet inferioribus.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

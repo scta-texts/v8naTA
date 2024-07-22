@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 108</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 108</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="339"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2590"><!-- v8naTA-l3c108 -->
+            <head xml:id="v8naTA-d1e2590-Hd1e101">Capitulum 108</head>
+            <head xml:id="v8naTA-d1e2590-Hd1e103" type="question-title">Rationes quibus probari videtur quod in daemonibus
+possit esse peccatum.</head>
+            <p xml:id="v8naTA-d1e2590-d1e106">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="6" type="fixed=339"/>CAPITULUM CENTESIMUM OCTAVUM
+<lb ed="#L" n="7"/>RATIONES QUIBUS PROBARI VIDETUR QUOD IN DAEMONIBUS
+<lb ed="#L" n="8"/>POSSIT ESSE PECCATUM.
+</p>
+            <p xml:id="v8naTA-d1e2590-d1e117">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="9"/>Si autem in daemonibus non est 
+natu<lb ed="#L" break="no" n="10"/>ralis malitia; ostensum autem est eos 
+<lb ed="#L" n="11"/>esse malos: necessario relinquitur quod 
+<lb ed="#L" n="12"/>sint voluntate mali. Oportet igitur 
+in<lb ed="#L" break="no" n="13"/>quirere quomodo hoc possibile sit. 
+</p>
+            <p xml:id="v8naTA-d1e2590-d1e133">
+               <lb ed="#L" n="14"/>Videtur enim omnino hoc jmpossibile esse. 
+<lb ed="#L" n="15"/>Ostensum est enim in Secundo  nullam 
+substan<lb ed="#L" break="no" n="16"/>tiam intellectualem esse corpori naturaliter unitam 
+<lb ed="#L" n="17"/>nisi animam humanam: vel, secundum quosdam, 
+<lb ed="#L" n="18"/>animas corporum caelestium , - de quibus 
+in<lb ed="#L" break="no" n="19"/>conveniens est aestimare quod sint malae, cum 
+<lb ed="#L" n="20"/>motus caelestium corporum sit ordinatissimus, et 
+<lb ed="#L" n="21"/>totius ordinis naturalis quodammodo principium. 
+</p>
+            <p xml:id="v8naTA-d1e2590-d1e154">
+               <lb ed="#L" n="22"/>Omnis autem alia cognoscitiva potentia praeter 
+<lb ed="#L" n="23"/>intellectum utitur organis corporalibus animatis. 
+<lb ed="#L" n="24"/>Non est ergo possibile quod in huiusmodi 
+sub<lb ed="#L" break="no" n="25"/>stantiis sit aliqua virtus cognoscitiva nisi 
+intel<lb ed="#L" break="no" n="26"/>lectus. Quicquid igitur cognoscunt, intelligunt. In 
+<lb ed="#L" n="27"/>eo autem quod quis intelligit, non errat: ex 
+de<lb ed="#L" break="no" n="28"/>fectu enim intelligendi provenit omnis error. Non  
+<lb ed="#L" n="29"/>potest igitur esse aliquis error in cognitione 
+sub<lb ed="#L" break="no" n="30"/>stantiarum talium. Nullum autem voluntatis 
+pec<lb ed="#L" break="no" n="31"/>catum potest esse absque errore: quia voluntas 
+<lb ed="#L" n="32"/>semper tendit in bonum apprehensum; unde, 
+<lb ed="#L" n="33"/>nisi in apprehensione boni erretur, non potests 
+<lb ed="#L" n="34"/>esse in voluntate peccatum. Videtur igitur quod 
+<lb ed="#L" n="35"/>in huiusmodi substantiis non possit esse 
+volun<lb ed="#L" break="no" n="36"/>tatis peccatum. 
+</p>
+            <p xml:id="v8naTA-d1e2590-d1e189">
+               <lb ed="#L" n="37"/>Adhuc. In nobis peccatum voluntatis accidit 
+<lb ed="#L" n="38"/>circa ea de quibus in universali scientiam veram 
+<lb ed="#L" n="39"/>habemus, per hoc quod in particulari impeditur 
+<lb ed="#L" n="40"/>iudicium rationis ex aliqua passione rationem — 
+<lb ed="#L" n="41"/>ligante. Hae autem. passiones in daemonibus esse  
+<lb ed="#L" n="42"/>non possunt: quia hae passiones sunt partis 
+sen<lb ed="#L" break="no" n="43"/>sitivae,quae nullam habet operationem sine organo 
+<lb ed="#L" n="44"/>corporali. Si igitur huiusmodi substantiae 
+sepa<lb ed="#L" break="no" n="45"/>ratae habent rectam scientiam in universali, 
+im<lb ed="#L" break="no" n="46"/>possibile est quod per defectum cognitionis in 
+<lb ed="#L" n="47"/>particulari voluntas in malum tendat. 
+</p>
+            <p xml:id="v8naTA-d1e2590-d1e215">
+               <lb ed="#L" n="48"/>Amplius. Nulla virtus cognoscitiva circa 
+pro<lb ed="#L" break="no" n="49"/>prium obiectum decipitur, sed solum circa .
+ex<lb ed="#L" break="no" n="50"/>traneum: visus enim non decipitur in iudicio 
+<lb ed="#L" n="51"/>colorum; sed, dum homo per visum iudicat de 
+<cb ed="#L" n="d"/>
+               <lb ed="#L" n="52"/>sapore vel de specie rei, in hoc deceptio accidit.
+<lb ed="#L" n="53"/>Proprium autem obiectum intellectus est 
+quid<lb ed="#L" break="no" n="54"/>ditas rei. In cognitione igitur intellectus deceptio 
+<lb ed="#L" n="55"/>accidere non potest, si puras rerum quidditates
+<lb ed="#L" n="56"/>apprehendat, sed omnis deceptio intellectus 
+ac<lb ed="#L" break="no" n="57"/>cidere videtur ex hoc quod apprehendit formas
+<lb ed="#L" n="58"/>rerum permixtas phantasmatibus, ut in nobis
+<lb ed="#L" n="59"/>accidit. Talis autem modus cognoscendi non est
+<lb ed="#L" n="60"/>in substantiis intellectualibus corpori non unitis:
+<lb ed="#L" n="61"/>quia phantasmata non possunt esse absque 
+cor<lb ed="#L" break="no" n="62"/>pore. Non est igitur possibile quod in substantiis
+<lb ed="#L" n="63"/>separatis accidat error in cognitione. Ergo neque
+<lb ed="#L" n="64"/>peccatum voluntatis.
+</p>
+            <p xml:id="v8naTA-d1e2590-d1e257">
+               <lb ed="#L" n="65"/>Item. In nobis falsitas accidit in operatione
+<lb ed="#L" n="66"/>intellectus componentis et dividentis, ex hoc quod
+<lb ed="#L" n="67"/>non absolute rei quidditatem apprehendit, sed rei
+<lb ed="#L" n="68"/>apprehensae aliquid componit. In operatione
+<lb ed="#L" n="69"/>autem intellectus qua apprehendit quod quid est,
+<lb ed="#L" n="70"/>non accidit falsum nisi per accidens, secundum
+<lb ed="#L" n="71"/>quod in hac etiam operatione permiscetur aliquid
+<lb ed="#L" n="72"/>de operatione intellectus componentis et dividentis.
+<lb ed="#L" n="73"/>Quod quidem contingit inquantum intellectus
+<lb ed="#L" n="74"/>noster non statim, sed cum quodam inquisitionis
+<lb ed="#L" n="75"/>ordine ad cognoscendam quidditatem alicuius
+<lb ed="#L" n="76"/>rei pertingit: sicut cum primo apprehendimus
+<lb ed="#L" n="77"/>animal, et. dividentes per oppositas differentias,
+<lb ed="#L" n="78"/>altera relicta, unam generi apponimus, quousque
+<lb ed="#L" n="79"/>perveniamus ad definitionem speciei. In. quo
+<lb ed="#L" n="80"/>quidem processu potest falsitas accidere, si 
+acci<lb ed="#L" break="no" n="81"/>piatur ut differentia generis quod non est generis
+<lb ed="#L" n="82"/>differentia. Sic autem procedere ad 
+cognoscen<lb ed="#L" break="no" n="83"/>dum de aliquo quid est, est intellectus ratiocinando
+<lb ed="#L" n="84"/>discurrentis de uno ad aliud. Quod non competit
+<lb ed="#L" n="85"/>substantiis intellectualibus separatis, ut supra
+<lb ed="#L" n="86"/>ostensum est. Non videtur igitur quod possit
+<lb ed="#L" n="87"/>aliquis error accidere in cognitione huiusmodi
+<lb ed="#L" n="88"/>substantiarum. Unde nec in voluntate earum 
+pec<lb ed="#L" break="no" n="89"/>catum accidere potest.
+</p>
+            <p xml:id="v8naTA-d1e2590-d1e314">
+               <lb ed="#L" n="90"/>Praeterea. Cum nullius rei appetitus tendat nisi
+<lb ed="#L" n="91"/>in proprium bonum, impossibile videtur id cuius
+<lb ed="#L" n="92"/>est singulariter unum solum bonum, quod in suo
+<lb ed="#L" n="93"/>appetitu erret. Et propter hoc, etsi peccatum
+<lb ed="#L" n="94"/>accidat in rebus naturalibus propter defectum
+<pb ed="#L" n="340"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>contingentem in executione appetitus, nunquam
+<lb ed="#L" n="2"/>peccatum accidit in appetitu naturali: semper
+<lb ed="#L" n="3"/>enim lapis tendit deorsum, sive perveniat sive
+<lb ed="#L" n="4"/>impediatur. In nobis autem peccatum accidit in
+<lb ed="#L" n="5"/>appetendo, quia, cum sit natura nostra compo- ;
+<lb ed="#L" n="6"/>sita ex spirituali et corporali, sunt in nobis plura
+<lb ed="#L" n="7"/>bona: aliud enim est bonum nostrum secundum
+<lb ed="#L" n="8"/>intellectum, et aliud secundum sensum, vel etiam
+<lb ed="#L" n="9"/>secundum corpus. Horum autem diversorum quae
+<lb ed="#L" n="10"/>sunt hominis bona, ordo quidam est, secundum :» 
+<lb ed="#L" n="11"/>quod id quod est minus principale, ad 
+princi<lb ed="#L" break="no" n="12"/>palius referendum est. Unde peccatum voluntatis
+<lb ed="#L" n="13"/>in nobis accidit cum, tali ordine non servato,
+<lb ed="#L" n="14"/>appetimus id quod est nobis bonum secundum 
+<lb ed="#L" n="15"/>quid, contra id quod est bonum simpliciter. Talis
+<lb ed="#L" n="16"/>autem compositio et diversitas bonorum non est
+<lb ed="#L" n="17"/>in substantiis separatis: quinimmo omne eorum
+<lb ed="#L" n="18"/>bonum est secundum intellectum. Non est igitur
+<lb ed="#L" n="19"/>in eis possibile quod sit peccatum voluntatis,
+<lb ed="#L" n="20"/>ut videtur.
+</p>
+            <p xml:id="v8naTA-d1e2590-d1e375">
+               <lb ed="#L" n="21"/>Adhuc. In nobis peccatum voluntatis accidit ex
+<lb ed="#L" n="22"/>superabundantia vel defectu, in quorum medio
+<lb ed="#L" n="23"/>virtus consistit - Unde in his in quibus non
+<lb ed="#L" n="24"/>est accipere superabundantiam et defectum, sed
+<lb ed="#L" n="25"/>solum medium, non contingit non voluntatem peccare:
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="26"/>nullus enim peccare potest in appetendo iustitiam;
+<lb ed="#L" n="27"/>nam ipsa iustitia medium quoddam est. 
+Substan<lb ed="#L" break="no" n="28"/>tiae autem intellectuales separatae non. possunt
+<lb ed="#L" n="29"/>appetere nisi bona intellectualia: ridiculum enim
+<lb ed="#L" n="30"/>est dicere quod bona corporalia appetant qui 
+se<lb ed="#L" break="no" n="31"/>cundum suam naturam incorporei sunt, aut bona
+<lb ed="#L" n="32"/>sensibilia quibus non est sensus. In bonis autem
+<lb ed="#L" n="33"/>intellectualibus non est accipere 
+superabundan<lb ed="#L" break="no" n="34"/>tiam; nam secundum se media sunt 
+superabun<lb ed="#L" break="no" n="35"/>dantiae et defectus; sicut verum medium est inter
+<lb ed="#L" n="36"/>duos errores, quorum unus est secundum plus,
+<lb ed="#L" n="37"/>alter secundum minus; unde et sensibilia et 
+cor<lb ed="#L" break="no" n="38"/>poralia bona in medio - 'sunt prout secundum
+<lb ed="#L" n="39"/>rationem sunt. Non videtur igitur quod 
+substan<lb ed="#L" break="no" n="40"/>tiae intellectuales separatae secundum voluntatem
+<lb ed="#L" n="41"/>peccare possint.
+</p>
+            <p xml:id="v8naTA-d1e2590-d1e426">
+               <lb ed="#L" n="42"/>Amplius. Magis a defectibus remota videtur
+<lb ed="#L" n="43"/>substantia incorporea quam corporalis. In 
+sub<lb ed="#L" break="no" n="44"/>stantiis autem corporeis quae sunt a contrarietate
+<lb ed="#L" n="45"/>remotae, nullus defectus accidere potest: scilicet
+<lb ed="#L" n="46"/>in corporibus. caelestibus. Multo igitur minus in
+<lb ed="#L" n="47"/>substantiis separatis, et a contrarietate remotis, et
+<lb ed="#L" n="48"/>a materia, et a motu, ex quibus videtur defectus
+<lb ed="#L" n="49"/>aliquis posse contingere, aliquod peccatum 
+con<lb ed="#L" break="no" n="50"/>tingere potest.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

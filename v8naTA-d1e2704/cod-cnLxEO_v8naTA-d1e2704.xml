@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 122</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 122</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="378"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2704"><!-- v8naTA-l3c122 -->
+            <head xml:id="v8naTA-d1e2704-Hd1e101">Capitulum 122</head>
+            <head xml:id="v8naTA-d1e2704-Hd1e103" type="question-title">Qua ratione fornicatio simplex 
+secundum legem divinam sit peccatum:
+et quod matrimonium sit naturale.</head>
+            <p xml:id="v8naTA-d1e2704-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="47" type="fixed=378"/>CAPITULUM CENTESIMUM VIGESIMUM SECUNDUM
+<lb ed="#L" n="48"/>QUA RATIONE FORNICATIO SIMPLEX 
+<lb ed="#L" n="49"/>SECUNDUM LEGEM DIVINAM SIT PECCATUM:
+<lb ed="#L" n="50"/>ET QUOD MATRIMONIUM SIT NATURALE.
+</p>
+            <p xml:id="v8naTA-d1e2704-d1e119">
+               <lb ed="#L" n="51"/>Ex hoc autem apparet vanam esse 
+ratio<lb ed="#L" break="no" n="52"/>nem quorundam dicentium 
+fornicatio<lb ed="#L" break="no" n="53"/>nem simplicem non esse peccatum.
+<lb ed="#L" n="54"/>Dicunt enim: Sit aliqua mulier a viro
+<lb ed="#L" n="55"/>soluta, quae sub nullius potestate, ut patris vel
+<lb ed="#L" n="56"/>alicuius alterius, existat. Si quis ad eam accedat
+<lb ed="#L" n="57"/>ea volente, non facit illi iniuriam : quia sibi placet,
+<lb ed="#L" n="58"/>et sui corporis habet potestatem. Alteri non facit
+<lb ed="#L" n="59"/>iniuriam: quia sub nullius potestate ponitur esse.
+<lb ed="#L" n="60"/>Non videtur igitur esse peccatum.
+</p>
+            <p xml:id="v8naTA-d1e2704-d1e143">
+               <lb ed="#L" n="61"/>Non videtur autem esse responsio sufficiens si
+<lb ed="#L" n="62"/>quis dicat quod facit iniuriam Deo. - Non enim
+<lb ed="#L" n="63"/>Deus a nobis offenditur nisi ex eo quod contra
+<lb ed="#L" n="64"/>nostrum bonum agimus, ut dictum est. Hoc
+<lb ed="#L" n="65"/>autem non apparet esse contra hominis bonum.
+<lb ed="#L" n="66"/>Unde ex hoc non videtur Deo aliqua iniuria fieri.
+</p>
+            <p xml:id="v8naTA-d1e2704-d1e160">
+               <lb ed="#L" n="67"/>Similiter etiam non videtur sufficiens responsio
+<lb ed="#L" n="68"/>quod per hoc fiat iniuria proximo, qui 
+scanda<lb ed="#L" break="no" n="69"/>lizatur. — Contingit enim de aliquo quod 
+secun<lb ed="#L" break="no" n="70"/>dum se non est peccatum, aliquem scandalizari:
+<lb ed="#L" n="71"/>et sic fit peccatum per accidens. Nunc autem non
+<lb ed="#L" n="72"/>agimus an fornicatio simplex sit peccatum per
+<lb ed="#L" n="73"/>accidens, sed per se.
+</p>
+            <p xml:id="v8naTA-d1e2704-d1e178">
+               <lb ed="#L" n="74"/>Oportet igitur ex superioribus solutionem 
+quae<lb ed="#L" break="no" n="75"/>rere. Dictum est enim  quod Deus uniuscuiusque
+<lb ed="#L" n="76"/>curam habet secundum id quod est ei bonum.
+<lb ed="#L" n="77"/>Est autem bonum uniuscuiusque quod finem
+<cb ed="#L" n="d"/>
+               <lb ed="#L" n="78"/>suum consequatur: malum autem eius est quod
+<lb ed="#L" n="79"/>debito fine divertat. Sicut autem in toto, ita
+<lb ed="#L" n="80"/>et in partibus hoc considerari oportet: ut scilicet
+<lb ed="#L" n="81"/>unaquaeque pars hominis, et quilibet actus eius,
+<lb ed="#L" n="82"/>finem debitum sortiatur. Semen autem, etsi sit
+<lb ed="#L" n="83"/>superfluum quantum ad individui 
+conservatio<lb ed="#L" break="no" n="84"/>nem, est tamen necessarium quantum ad 
+propa<lb ed="#L" break="no" n="85"/>gationem speciei. Alia vero superflua, ut egestio,
+<lb ed="#L" n="86"/>urina, sudor, et similia, ad nihil necessaria sunt:
+<lb ed="#L" n="87"/>unde ad bonum hominis pertinet solum quod
+<lb ed="#L" n="88"/>emittantur. Non hoc autem solum quaeritur in
+<lb ed="#L" n="89"/>semine, sed ut emittatur ad generationis 
+utilita<lb ed="#L" break="no" n="90"/>tem, ad quam coitus ordinatur. Frustra autem
+<lb ed="#L" n="91"/>esset hominis generatio nisi et debita nutritio 
+se<lb ed="#L" break="no" n="92"/>queretur: quia generatum non permaneret, debita
+<lb ed="#L" n="93"/>nutritione subtracta. Sic igitur ordinata esse 
+se<lb ed="#L" break="no" n="94"/>minis debet emiissio ut sequi possit et generatio
+<lb ed="#L" n="95"/>conveniens, et geniti educatio.
+</p>
+            <p xml:id="v8naTA-d1e2704-d1e230">
+               <lb ed="#L" n="96"/>Ex quo patet quod contra bonum hominis est
+<lb ed="#L" n="97"/>omnis emissio seminis tali modo quod generatio
+<lb ed="#L" n="98"/>sequi non possit. Et si ex proposito hoc agatur,
+<lb ed="#L" n="99"/>oportet esse peccatum. — Dico autem. modum ex
+<lb ed="#L" n="100"/>quo generatio sequi non potest secundum se: sicut
+<lb ed="#L" n="101"/>omnis emissio seminis sine naturali coniunctione
+<lb ed="#L" n="102"/>maris et feminae; propter quod huiusmodi 
+pec<lb ed="#L" break="no" n="103"/>cata contra naluram dicuntur. Si autem per 
+ac<lb ed="#L" break="no" n="104"/>cidens generatio ex emissione seminis sequi non
+<pb ed="#L" n="379"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>possit, non propter hoc est contra naturam, nec 
+pec<lb ed="#L" break="no" n="2"/>catum: sicut si contingat mulierem sterilem esse.
+</p>
+            <p xml:id="v8naTA-d1e2704-d1e261">
+               <lb ed="#L" n="3"/>Similiter etiam oportet contra bonum hominis
+<lb ed="#L" n="4"/>esse si semen taliter emittatur quod generatio sequi
+<lb ed="#L" n="5"/>possit, sed. conveniens educatio impediatur. Est
+<lb ed="#L" n="6"/>enim considerandum quod in animalibus in 
+qui<lb ed="#L" break="no" n="7"/>bus sola femina sufficit ad prolis educationem,
+<lb ed="#L" n="8"/>mas et femina post coitum nullo tempore 
+com<lb ed="#L" break="no" n="9"/>manent, sicut patet in canibus. Quaecumque vero
+<lb ed="#L" n="10"/>animalia sunt in quibus femina non sufficit ad
+<lb ed="#L" n="11"/>educationem prolis, mas et femina simul post
+<lb ed="#L" n="12"/>coitum commanent quousque necessarium est ad
+<lb ed="#L" n="13"/>prolis educationem et instructionem: sicut patet
+<lb ed="#L" n="14"/>in quibusdam avibus, quarum pulli non statim
+<lb ed="#L" n="15"/>postquam. nati sunt possunt sibi cibum quaerere.
+<lb ed="#L" n="16"/>Cum enim avis non nutriat lacte pullos, quod
+<lb ed="#L" n="17"/>in promptu est, velut a natura praeparatum, sicut
+<lb ed="#L" n="18"/>in quadrupedibus accidit, sed oportet quod cibum
+<lb ed="#L" n="19"/>aliunde pullis quaerat, et praeter hoc, incubando
+<lb ed="#L" n="20"/>eos ioveat: non sufficeret ad hoc sola femella.
+<lb ed="#L" n="21"/>Unde ex divina providentia est naturaliter 
+indi<lb ed="#L" break="no" n="22"/>tum mari in talibus animalibus, ut commaneat
+<lb ed="#L" n="23"/>femellae ad educationem fetus. — Manifestum est
+<lb ed="#L" n="24"/>autem quod in specie humana femina minime
+<lb ed="#L" n="25"/>sufficeret sola ad prolis educationem: cum 
+ne<lb ed="#L" break="no" n="26"/>cessitas humanae vitae multa requirat quae per
+<lb ed="#L" n="27"/>unum solum parari non possunt. Est igitur 
+con<lb ed="#L" break="no" n="28"/>veniens secundum naturam humanam ut homo
+<lb ed="#L" n="29"/>post coitum mulieri commaneat, et non statim
+<lb ed="#L" n="30"/>abscedat, indifferenter ad quamcumque accedens,
+<lb ed="#L" n="31"/>Sicut apud fornicantes accidit.
+<lb ed="#L" n="32"/>^ Non autem huic rationi obstat quod aliqua
+<lb ed="#L" n="33"/>mulier suis divitiis potens est ut sola nutriat 
+fe<lb ed="#L" break="no" n="34"/>tum. Quia rectitudo naturalis in humanis actibus
+<lb ed="#L" n="35"/>non est secundum ea quae per accidens 
+contin<lb ed="#L" break="no" n="36"/>gunt in uno individuo, sed secundum ea quae
+<lb ed="#L" n="37"/>totam speciem consequuntur.
+</p>
+            <p xml:id="v8naTA-d1e2704-d1e339">
+               <lb ed="#L" n="38"/>Rursus considerandum est quod in specie 
+hu<lb ed="#L" break="no" n="39"/>mana proles non indiget solum nutritione quantum
+<lb ed="#L" n="40"/>ad corpus, ut in aliis animalibus; sed etiam 
+instru<lb ed="#L" break="no" n="41"/>ctione quantum ad animam. Nam alia animalia
+<lb ed="#L" n="42"/>naturaliter habent suas prudentias, quibus sibi
+<lb ed="#L" n="43"/>providere possunt: homo autem ratione vivit,
+<lb ed="#L" n="44"/>quam per longi temporis experimentum ad 
+pru<lb ed="#L" break="no" n="45"/>dentiam pervenire oportet; unde necesse est ut
+<lb ed="#L" n="46"/>filii a parentibus, quasi iam expertis, instruantur.
+<lb ed="#L" n="47"/>Nec huius instructionis sunt capaces mox geniti,
+<lb ed="#L" n="48"/>sed post longum tempus, et praecipue cum ad
+<lb ed="#L" n="49"/>annos discretionis perveniunt. Ad hanc etiam
+<lb ed="#L" n="50"/>instructionem longum tempus requiritur. Et tunc
+<lb ed="#L" n="51"/>etiam, propter impetus passionum, quibus 
+cor<lb ed="#L" break="no" n="52"/>rumpitur aestimatio prudentiae , indigent non so-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="53"/>lum instructione, sed etiam repressione. Ad haec
+<lb ed="#L" n="54"/>autem mulier sola non sufficit, sed magis in hoc
+<lb ed="#L" n="55"/>requiritur opus maris, in quo est et ratio 
+perfe<lb ed="#L" break="no" n="56"/>ctior ad instruendum, et virtus potentior ad 
+casti<lb ed="#L" break="no" n="57"/>gandum. Oportet igitur in specie humana non
+<lb ed="#L" n="58"/>per parvum tempus insistere promotioni prolis,
+<lb ed="#L" n="59"/>sicut in avibus, sed per magnum spatium vitae.
+<lb ed="#L" n="60"/>Unde, cum necessarium sit marem feminae 
+com<lb ed="#L" break="no" n="61"/>manere in omnibus animalibus quousque opus
+<lb ed="#L" n="62"/>patris necessarium est proli, naturale est homini
+<lb ed="#L" n="63"/>quod non ad modicum tempus, sed diuturnam
+<lb ed="#L" n="64"/>societatem habeat vir ad determinatam mulierem.
+<lb ed="#L" n="65"/>Hanc autem societatem matrimonium vocamus.
+<lb ed="#L" n="66"/>Est igitur matrimonium homini naturale: et 
+for<lb ed="#L" break="no" n="67"/>nicarius coitus, qui est praeter matrimonium, est
+<lb ed="#L" n="68"/>contra hominis bonum. Et propter hoc oportet
+<lb ed="#L" n="69"/>ipsum esse peccatum.
+</p>
+            <p xml:id="v8naTA-d1e2704-d1e413">
+               <lb ed="#L" n="70"/>Nec tamen oportet reputari leve peccatum
+<lb ed="#L" n="71"/>esse si quis seminis emissionem procuret praeter
+<lb ed="#L" n="72"/>debitum generationis et educationis finem, 
+pro<lb ed="#L" break="no" n="73"/>pter hoc quod aut leve aut nullum peccatum est
+<lb ed="#L" n="74"/>si quis aliqua sui corporis parte utatur ad alium
+<lb ed="#L" n="75"/>usum quam ad eum ad quem est ordinata 
+secun<lb ed="#L" break="no" n="76"/>dum naturam, ut si quis, verbi gratia, manibus
+<lb ed="#L" n="77"/>ambulet, aut pedibus aliquid operetur manibus
+<lb ed="#L" n="78"/>operandum: quia per huiusmodi inordinatos usus
+<lb ed="#L" n="79"/>bonum hominis non multum impeditur; 
+inor<lb ed="#L" break="no" n="80"/>dinata vero seminis emissio repugnat bono 
+na<lb ed="#L" break="no" n="81"/>turae, quod est conservatio speciei. Unde post
+<lb ed="#L" n="82"/>peccatum homicidii, quo natura humana iam in
+<lb ed="#L" n="83"/>actu existens destruitur, huiusmodi genus peccati
+<lb ed="#L" n="84"/>videtur secundum locum tenere, quo impeditur
+<lb ed="#L" n="85"/>generatio humanae naturae.
+</p>
+            <p xml:id="v8naTA-d1e2704-d1e451">
+               <lb ed="#L" n="86"/>Haec autem quae praemissa sunt, divina
+<lb ed="#L" n="87"/>auctoritate firmantur. Quod enim emissio seminis
+<lb ed="#L" n="88"/>ex qua proles sequi non potest, sit illicita, patet.
+<lb ed="#L" n="89"/>Dicitur enim Levit. xvin ??: Cum masculo. non
+<lb ed="#L" n="90"/>commisceberis coitu femineo: et cum omni pecore
+<lb ed="#L" n="91"/>non coibis. Et I Cor. vi'?: Neque molles, neque
+<lb ed="#L" n="92"/>masculorum. concubitores, gnum Dei non 
+pos<lb ed="#L" break="no" n="93"/>sidebunt.
+</p>
+            <p xml:id="v8naTA-d1e2704-d1e471">
+               <lb ed="#L" n="94"/>Quod etiam fornicatio, et omnis coitus praeter
+<lb ed="#L" n="95"/>propriam uxorem, sit illicitus, patet. Dicitur enim
+<lb ed="#L" n="96"/>Deut. xxii": Non erit meretrix de filiabus Israel,
+<lb ed="#L" n="97"/>nec scortator de filiis Israel. Et Tobiae v ^: Attende
+<lb ed="#L" n="98"/>tibi ab omni fornicatione, et praeter uxorem tuam,
+<lb ed="#L" n="99"/>non patiaris crimen scire. Et 1 Cor. vi^: Fugite
+<lb ed="#L" n="100"/>fornicationem.
+</p>
+            <p xml:id="v8naTA-d1e2704-d1e489">
+               <lb ed="#L" n="101"/>Per haec autem excluditur error dicentium in
+<lb ed="#L" n="102"/>emissione seminis non esse maius peccatum quam
+<lb ed="#L" n="103"/>in aliarum superfluitatum emissione; et dicentium
+<lb ed="#L" n="104"/>fornicationem non esse peccatum.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

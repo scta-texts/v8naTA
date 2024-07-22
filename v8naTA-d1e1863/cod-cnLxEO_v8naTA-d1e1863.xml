@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 19</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 19</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="46"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1863"><!-- v8naTA-l3c19 -->
+            <head xml:id="v8naTA-d1e1863-Hd1e101">Capitulum 19</head>
+            <head xml:id="v8naTA-d1e1863-Hd1e103" type="question-title">Quod omnia intendunt assimilari deo.</head>
+            <p xml:id="v8naTA-d1e1863-d1e106">
+               <cb ed="#L" n="f"/>
+               <lb ed="#L" n="70" type="fixed=43"/>CAPITULUM DECIMUM NONUM
+<lb ed="#L" n="71"/>QUOD OMNIA INTENDUNT ASSIMILARI DEO.
+</p>
+            <p xml:id="v8naTA-d1e1863-d1e115">
+               <cb ed="#L" n="g"/>
+               <lb ed="#L" n="72"/>Ex hoc autem quod acquirunt divinam
+<lb ed="#L" n="73"/>bonitatem, res creatae similes Deo 
+con<lb ed="#L" break="no" n="74"/>stituuntur. Si igitur res omnes in Deum
+<lb ed="#L" n="75"/>£j sicut in ultimum finem tendunt ut ipsius
+<lb ed="#L" n="76"/>bonitatem consequantur , sequitur quod ultimus
+<lb ed="#L" n="77"/>rerum finis sit Deo assimilari.
+</p>
+            <p xml:id="v8naTA-d1e1863-d1e133">
+               <lb ed="#L" n="78"/>Amplius. Agens dicitur esse finis effectus 
+in<lb ed="#L" break="no" n="79"/>quantum effectus tendit in similitudinem agentis:
+<lb ed="#L" n="80"/>unde forma generantis est finis generationis . Sed
+<lb ed="#L" n="81"/>Deus ita est finis rerum quod est etiam primum
+<lb ed="#L" n="82"/>agens earum. Omnia igitur intendunt, sicut 
+ulti<lb ed="#L" break="no" n="83"/>mum finem, Deo assimilari.
+</p>
+            <p xml:id="v8naTA-d1e1863-d1e150">
+               <lb ed="#L" n="84"/>Item. In rebus evidenter apparet quod esse
+<lb ed="#L" n="85"/>appetunt naturaliter: unde et si qua corrumpi
+<lb ed="#L" n="86"/>possunt, naturaliter corrumpentibus resistunt, et
+<lb ed="#L" n="87"/>tendunt illuc ubi conserventur, sicut ignis 
+sur<lb ed="#L" break="no" n="88"/>sum et terra deorsum. Secundum hoc autem
+<lb ed="#L" n="89"/>esse habent omnia quod Deo assimilantur, qui
+<cb ed="#L" n="h"/>
+               <lb ed="#L" n="90"/>est ipsum esse subsistens: cum omnia sint solum
+<lb ed="#L" n="91"/>quasi esse participantia. Omnia igitur appetunt
+<lb ed="#L" n="92"/>quasi ultimum finem Deo assimilari.
+</p>
+            <p xml:id="v8naTA-d1e1863-d1e174">
+               <lb ed="#L" n="93"/>Praeterea. Res omnes creatae sunt quaedam
+<lb ed="#L" n="94"/>imagines primi agentis, scilicet Dei: agens enim
+<lb ed="#L" n="95"/>agit sibi simile . Perfectio autem imaginis est
+<lb ed="#L" n="96"/>ut repraesentet. suum exemplar per 
+similitu<lb ed="#L" break="no" n="97"/>dinem ad ipsum: ad hoc enim imago 
+consti<lb ed="#L" break="no" n="98"/>tuitur. Sunt igitur res omnes propter divinam
+<lb ed="#L" n="99"/>similitudinem consequendam sicut propter 
+ulti<lb ed="#L" break="no" n="100"/>mum finem.
+</p>
+            <p xml:id="v8naTA-d1e1863-d1e194">
+               <lb ed="#L" n="101"/>Adhuc. Omnis res per suum motum vel 
+actio<lb ed="#L" break="no" n="102"/>nem tendit in aliquod bonum sicut in finem, ut
+<lb ed="#L" n="103"/>supra ostensum est. In tantum autem aliquid de
+<lb ed="#L" n="104"/>bono participat, in quantum assimilatur primae
+<lb ed="#L" n="105"/>bonitati, quae Deus est. Omnia igitur per motus
+<lb ed="#L" n="106"/>suos et actiones tendunt in divinam 
+similitudi<lb ed="#L" break="no" n="107"/>nem sicut in finem ultimum.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

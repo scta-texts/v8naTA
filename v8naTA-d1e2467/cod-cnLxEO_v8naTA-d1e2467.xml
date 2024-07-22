@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 93</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 93</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="287"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2467"><!-- v8naTA-l3c93 -->
+            <head xml:id="v8naTA-d1e2467-Hd1e101">Capitulum 93</head>
+            <head xml:id="v8naTA-d1e2467-Hd1e103" type="question-title">De fato: an sit, et quid sit.</head>
+            <p xml:id="v8naTA-d1e2467-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="27" type="fixed=286"/>CAPITULUM NONAGESIMUM TERTIUM
+<lb ed="#L" n="28"/>DE FATO: AN SIT, ET QUID SIT.
+</p>
+            <p xml:id="v8naTA-d1e2467-d1e115">
+               <lb ed="#L" n="29"/>Ex his autem. quae praemissa sunt, 
+ap<lb ed="#L" break="no" n="30"/>paret quid sit de fato sentiendum.
+</p>
+            <p xml:id="v8naTA-d1e2467-d1e122">
+               <lb ed="#L" n="31"/>Videntes enim homines multa in hoc
+<lb ed="#L" n="32"/>mundo per accidens contingere, si
+<lb ed="#L" n="33"/>causae particulares considerentur, posuerunt 
+qui<lb ed="#L" break="no" n="34"/>dam quod nec etiam ab aliquibus superioribus
+<lb ed="#L" n="35"/>causis ordinentur. Et his videbatur fatum nihil
+<lb ed="#L" n="36"/>esse omnino.
+</p>
+            <p xml:id="v8naTA-d1e2467-d1e139">
+               <lb ed="#L" n="37"/>Quidam. vero ea in aliquas altiores causas
+<lb ed="#L" n="38"/>reducere sunt conati, ex quibus cum quadam
+<lb ed="#L" n="39"/>dispositione ordinate procedant. Et hi fatum 
+po<lb ed="#L" break="no" n="40"/>suerunt: quasi ea quae videntur a casu 
+contin<lb ed="#L" break="no" n="41"/>gere, sint ab aliquo effaia, sive praelocuta , et
+<lb ed="#L" n="42"/>praeordinata ut essent.
+</p>
+            <p xml:id="v8naTA-d1e2467-d1e155">
+               <lb ed="#L" n="43"/>Horum ergo quidam omnia quae hic accidunt
+<lb ed="#L" n="44"/>a casu contingentia, reducere sunt conati sicut
+<lb ed="#L" n="45"/>in causas in caelestia corpora, etiam electiones
+<lb ed="#L" n="46"/>humanas, vim dispositionis siderum, cui omnia
+<lb ed="#L" n="47"/>cum quadam necessitate subdi ponebant, fatum
+<lb ed="#L" n="48"/>appellantes. Quae quidem positio impossibilis
+<lb ed="#L" n="49"/>est, et a fide aliena, ut ex superioribus  patet.
+</p>
+            <p xml:id="v8naTA-d1e2467-d1e173">
+               <lb ed="#L" n="50"/>Quidam vero in dispositionem divinae 
+provi<lb ed="#L" break="no" n="51"/>dentiae omnia reducere voluerunt, quaecumque
+<lb ed="#L" n="52"/>in his inferioribus a casu contingere videntur.
+<lb ed="#L" n="53"/>Unde omnia fato agi dixerunt, ordinationem quae 
+<cb ed="#L" n="d"/>
+               <lb ed="#L" n="54"/>est in rebus ex divina providentia fatum 
+nomi<lb ed="#L" break="no" n="55"/>nantes. Unde Boetius dicit  quod fatum est 
+inhae<lb ed="#L" break="no" n="56"/>rens rebus mobilibus dispositio, per quam 
+provi<lb ed="#L" break="no" n="57"/>dentia suis quaeque nectit ordinibus. In qua fati
+<lb ed="#L" n="58"/>descriptione, dispositio pro ordinatione ponitur; 
+<lb ed="#L" n="59"/>in rebus autem inhaerens ponitur ut distinguatur
+<lb ed="#L" n="60"/>fatum a providentia: nam ipsa ordinatio 
+secun<lb ed="#L" break="no" n="61"/>dum quod in mente divina est, nondum rebus
+<lb ed="#L" n="62"/>impressa, providentia est; secundum vero quod
+<lb ed="#L" n="63"/>jam est explicata in rebus, fatum nominatur; —
+<lb ed="#L" n="64"/>mobilibus autem dicit ut ostendat quod ordo
+<lb ed="#L" n="65"/>providentiae rebus contingentiam et mobilitatem
+<lb ed="#L" n="66"/>non aufert, ut quidam posuerunt.
+</p>
+            <p xml:id="v8naTA-d1e2467-d1e215">
+               <lb ed="#L" n="67"/>Secundum hanc ergo acceptionem, negare fatum
+<lb ed="#L" n="68"/>est providentiam divinam negare.Sed quia cum 
+in<lb ed="#L" break="no" n="69"/>fidelibus nec nomina debemus habere communia,
+<lb ed="#L" n="70"/>ne ex consortio nominum possit sumi erroris 
+oc<lb ed="#L" break="no" n="71"/>casio; nomine fati non est a fidelibus utendum,
+<lb ed="#L" n="72"/>ne videamur illis assentire qui male de fato 
+sense<lb ed="#L" break="no" n="73"/>runt, omnia necessitati siderum subiicientes. Unde
+<lb ed="#L" n="74"/>Augustinus dicit, in V de Civitate Dei: Si quis
+<lb ed="#L" n="75"/>voluntatem vel polestatem Dei fati nomine appellat,
+<lb ed="#L" n="76"/>sententiam teneat, linguam corrigat. Et Gregorius,
+<lb ed="#L" n="77"/>secundum eundem intellectum, dicit : Absit a
+<lb ed="#L" n="78"/>fidelium mentibus ut fatum aliquid esse dicant.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

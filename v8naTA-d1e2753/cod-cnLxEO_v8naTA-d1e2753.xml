@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 128</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 128</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="392"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2753"><!-- v8naTA-l3c128 -->
+            <head xml:id="v8naTA-d1e2753-Hd1e101">Capitulum 128</head>
+            <head xml:id="v8naTA-d1e2753-Hd1e103" type="question-title">Quomodo secundum legem dei homo ordinatur ad proximum.</head>
+            <p xml:id="v8naTA-d1e2753-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="19" type="fixed=392"/>CAPITULUM CENTESIMUM VIGESIMUM OCTAVUM
+<lb ed="#L" n="20"/>QUOMODO SECUNDUM LEGEM DEI HOMO ORDINATUR AD PROXIMUM.
+</p>
+            <p xml:id="v8naTA-d1e2753-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="21"/>EX his ergo quae dicta sunt, manifestum 
+<lb ed="#L" n="22"/>est quod secundum legem divinam 
+<lb ed="#L" n="23"/>homo inducitur ut ordinem rationis 
+<lb ed="#L" n="24"/>servet in omnibus quae in eius usum 
+<lb ed="#L" n="25"/>venire possunt. Inter omnia autem quae in usum ; 
+<lb ed="#L" n="26"/>hominis veniunt, praecipua sunt etiam alii 
+ho<lb ed="#L" break="no" n="27"/>mines. Ho;no enim naturaliter est animal sociale: 
+<lb ed="#L" n="28"/>indiget enim multis quae per unum solum 
+pa<lb ed="#L" break="no" n="29"/>rari non possunt. Oportet igitur quod ex lege 
+<lb ed="#L" n="30"/>divina instituatur homo ut secundum ordinem 
+<lb ed="#L" n="31"/>rationis se habeat ad alios homines. 
+</p>
+            <p xml:id="v8naTA-d1e2753-d1e144">
+               <lb ed="#L" n="32"/>Adhuc. Finis divinae legis est ut homo Deo 
+<lb ed="#L" n="33"/>adhaereat . luvatur autem unus homo in hoc ex 
+<lb ed="#L" n="34"/>alio tam quantum ad cognitionem, quam etiam 
+<lb ed="#L" n="35"/>quantum ad affectionem: iuvant enim se homines : 
+<lb ed="#L" n="36"/>mutuo in cognitione veritatis; et unus alium 
+pro<lb ed="#L" break="no" n="37"/>vocat ad bonum, et retrahit a malo. Unde Prov. 
+<lb ed="#L" n="38"/>xxvi7 dicitur: Ferrum ferro acuitur, et homo | 
+<lb ed="#L" n="39"/>exacuil faciem amici sui. Et Eccle. iv? dicitur: 
+<lb ed="#L" n="40"/>Melius est duos esse quam unum: habent enim emo- » 
+<lb ed="#L" n="41"/>iumentum societalis; siunus ceciderit, ab altero 
+ful<lb ed="#L" break="no" n="42"/>cietur. Vae soli: qui cum ceciderit, non habet 
+suble<lb ed="#L" break="no" n="43"/>vantem. Et si dormierint duo, fovebunt se mutuo: 
+<lb ed="#L" n="44"/>unus quomodo calefiet? Et si quis praevaluerit contra — 
+<lb ed="#L" n="45"/>unum, duo resistunt ei. Oportuit igitur lege divina s: 
+<lb ed="#L" n="46"/>ordinari societatem hominum ad invicem. 
+</p>
+            <p xml:id="v8naTA-d1e2753-d1e180">
+               <lb ed="#L" n="47"/>Amplius. Lex divina est quaedam ratio divinae  
+<lb ed="#L" n="48"/>providentiae ad homines gubernandos . Ad 
+divi<lb ed="#L" break="no" n="49"/>nam autem providentiam pertinet singula quae 
+<lb ed="#L" n="50"/>ei subsunt, sub debito ordine continere: ut 
+sci<lb ed="#L" break="no" n="51"/>licet suum locum et gradum teneat 
+unumquod<lb ed="#L" break="no" n="52"/>que. Lex igitur divina sic homines ad invicem 
+<lb ed="#L" n="53"/>ordinat ut unusquisque suum ordinem teneat. 
+<lb ed="#L" n="54"/>Quod est homines pacem habere ad invicem: 
+<lb ed="#L" n="55"/>pax enim hominum nihil aliud est quam ordinata s: 
+<lb ed="#L" n="56"/>concordia, ut Augustinus dicit . 
+</p>
+            <p xml:id="v8naTA-d1e2753-d1e204">
+               <lb ed="#L" n="57"/>Item. Quandocumque aliqua ordinantur sub 
+<lb ed="#L" n="58"/>aliquo, oportet illa concorditer esse ordinata ad  
+<lb ed="#L" n="59"/>invicem: alias se invicem impedirent in 
+conse<lb ed="#L" break="no" n="60"/>cutione finis communis; sicut patet in exercitu,
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="61"/>qui concorditer ordinatur ad victoriam, quae est
+<lb ed="#L" n="62"/>finis ducis. Unusquisque autem homo per legem
+<lb ed="#L" n="63"/>divinam ordinatur ad Deum . Oportuit igitur per
+<lb ed="#L" n="64"/>legem divinam inter homines, ne se invicem 
+impe<lb ed="#L" break="no" n="65"/>dirent, ordinatam concordiam esse, quod est pax .
+</p>
+            <p xml:id="v8naTA-d1e2753-d1e228">
+               <lb ed="#L" n="66"/>Hinc est quod in Psalmo  dicitur: Qui posuit
+<lb ed="#L" n="67"/>fines tuos. pacem. Et Dominus dicit, Zoan. xvi:
+<lb ed="#L" n="68"/>Haec locutus sum vobis ut in me pacem habeatis.
+</p>
+            <p xml:id="v8naTA-d1e2753-d1e237">
+               <lb ed="#L" n="69"/>Tunc autem ordinata concordia inter homines
+<lb ed="#L" n="70"/>servatur, quando unicuique quod suum est 
+red<lb ed="#L" break="no" n="71"/>ditur: quod est iustitiae . Et ideo dicitur Isaiae
+<lb ed="#L" n="72"/>xxxi: Opus iustitiae pax. Oportuit igitur per
+<lb ed="#L" n="73"/>legem divinam iustitiae praecepta dari, ut 
+unus<lb ed="#L" break="no" n="74"/>quisque alteri redderet quod suum est, et 
+absti<lb ed="#L" break="no" n="75"/>neret a nocumentis alteri inferendis.
+</p>
+            <p xml:id="v8naTA-d1e2753-d1e255">
+               <lb ed="#L" n="76"/>Inter homines autem maxime aliquis est 
+pa<lb ed="#L" break="no" n="77"/>rentibus debitor. Et ideo inter praecepta legis
+<lb ed="#L" n="78"/>quae nos ad proximum ordinant, Exod. xx,
+<lb ed="#L" n="79"/>primo ponitur, Honora patrem tuum el matrem
+<lb ed="#L" n="80"/>tuam: in. quo intelligitur praecipi ut tam 
+paren<lb ed="#L" break="no" n="81"/>tibus quam etiam aliis unusquisque reddat quod
+<lb ed="#L" n="82"/>debet, secundum illud Rom. xu: Reddite 
+omni<lb ed="#L" break="no" n="83"/>bus debita. - Deinde ponuntur praecepta quibus
+<lb ed="#L" n="84"/>praecipitur abstinendum esse a nocumentis 
+pro<lb ed="#L" break="no" n="85"/>ximo inferendis. Ut neque factis eum offendamus
+<lb ed="#L" n="86"/>in persona propria, quia dictum est, Nom 
+oc<lb ed="#L" break="no" n="87"/>cides; neque in persona coniuncta, quia scriptum
+<lb ed="#L" n="88"/>est, Non moechaberis; neque etiam exterioribus
+<lb ed="#L" n="89"/>rebus, quia scriptum est, Non furtum facies. 
+Pro<lb ed="#L" break="no" n="90"/>hibemur etiam ne contra iustitiam proximum
+<lb ed="#L" n="91"/>verbo offendamus: quia scriptum est, Nom 
+lo<lb ed="#L" break="no" n="92"/>queris contra proximum tuum falsum testimonium.
+<lb ed="#L" n="93"/>Et quia Deus etiam cordium iudex est, 
+prohi<lb ed="#L" break="no" n="94"/>bemur ne corde proximum offendamus, 
+concu<lb ed="#L" break="no" n="95"/>piscendo scilicet uxorem, aut aliquam rem eius.
+</p>
+            <p xml:id="v8naTA-d1e2753-d1e301">
+               <lb ed="#L" n="96"/>Ad huiusmodi autem iustitiam observandam,
+<lb ed="#L" n="97"/>quae lege divina statuitur, dupliciter homo 
+in<lb ed="#L" break="no" n="98"/>clinatur: uno modo, ab interiori; alio modo, ab
+<lb ed="#L" n="99"/>exteriori. Ab interiori quidem, dum homo 
+vo<lb ed="#L" break="no" n="100"/>luntarius est ad observandum ea quae praecipit
+<pb ed="#L" n="393"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>lex divina. Quod quidem fit per amorem hominis
+<lb ed="#L" n="2"/>ad Deum et proximum: qui enim diligit aliquem,
+<lb ed="#L" n="3"/>sponte et delectabiliter ei reddit quod debet, et
+<lb ed="#L" n="4"/>etiam liberaliter superaddit. Unde tota legis 
+im<lb ed="#L" break="no" n="5"/>pletio ex dilectione dependet: secundum illud
+<lb ed="#L" n="6"/>Apostoli Rom. xm'^: Plenitudo legis est dilectio.
+<lb ed="#L" n="7"/>Et Dominus dicit, Matth. xxi?, quod in duobus
+<lb ed="#L" n="8"/>praeceptis, scilicet in dilectione Dei et proximi,
+<lb ed="#L" n="9"/>universa lex pendet. - Sed quia aliqui interius
+<lb ed="#L" n="10"/>non sunt sic dispositi ut ex seipsis sponte faciant
+<lb ed="#L" n="11"/>quod lex iubet, ab exteriori trahendi sunt ad
+<lb ed="#L" n="12"/>iustitiam legis implendam. Quod quidem fit dum
+<lb ed="#L" n="13"/>timore poenarum, non liberaliter, sed serviliter
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="14"/>legem implent. Unde dicitur Zsaiae xxvi?: Cum
+<lb ed="#L" n="15"/>feceris iudicia tua in terra, scilicet puniendo malos,
+<lb ed="#L" n="16"/>iustitiam. discent omnes habilatores orbis.
+<lb ed="#L" n="17"/>Primi igitur sibi ipsi sunt lex , habentes 
+cari<lb ed="#L" break="no" n="18"/>tatem, quae eos loco legis inclinat et liberaliter
+<lb ed="#L" n="19"/>operari facit. Lex igitur exterior non fuit 
+neces<lb ed="#L" break="no" n="20"/>sarium quod propter eos poneretur: sed propter
+<lb ed="#L" n="21"/>illos qui ex seipsis non inclinantur ad bonum.
+<lb ed="#L" n="22"/>Unde dicitur I 77m. 1?: Iusto lex non est posita, sed
+<lb ed="#L" n="23"/>iniustis. Quod non est sic intelligendum quasi iusti
+<lb ed="#L" n="24"/>non teneantur ad legem implendam, ut quidam
+<lb ed="#L" n="25"/>male intellexerunt: sed quia isti inclinantur ex
+<lb ed="#L" n="26"/>seipsis ad iustitiam faciendam, etiam sine lege.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

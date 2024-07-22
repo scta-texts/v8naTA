@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 15</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 15</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="37"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1830"><!-- v8naTA-l3c15 -->
+            <head xml:id="v8naTA-d1e1830-Hd1e101">Capitulum 15</head>
+            <head xml:id="v8naTA-d1e1830-Hd1e103" type="question-title">Quod non est summum malum.</head>
+            <p xml:id="v8naTA-d1e1830-d1e106">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="84" type="fixed=37"/>CAPITULUM DECIMUM QUINTUM
+<lb ed="#L" n="85"/>QUOD NON EST SUMMUM MALUM.
+</p>
+            <p xml:id="v8naTA-d1e1830-d1e115">
+               <cb ed="#L" n="e"/>
+               <lb ed="#L" n="86"/>EX hoc autem patet quod non potest esse
+<lb ed="#L" n="87"/>aliquod summum malum, quod sit
+<lb ed="#L" n="88"/>omnium malorum principium.
+</p>
+            <p xml:id="v8naTA-d1e1830-d1e126">
+               <lb ed="#L" n="89"/>Summum enim malum oportet esse
+<lb ed="#L" n="90"/>absque consortio omnis boni: sicut et summum
+<lb ed="#L" n="91"/>bonum est quod est omnino separatum a malo.
+<lb ed="#L" n="92"/>Non potest autem esse aliquod malum omnino 
+se<lb ed="#L" break="no" n="93"/>paratum a bono: cum ostensum sit  quod malum
+<lb ed="#L" n="94"/>fundatur in bono. Ergo nihil est summe malum.
+</p>
+            <p xml:id="v8naTA-d1e1830-d1e143">
+               <lb ed="#L" n="95"/>Adhuc. Si aliquid est summe malum, oportet
+<lb ed="#L" n="96"/>quod per essentiam suam sit malum: sicut et
+<lb ed="#L" n="97"/>summe bonum est quod per suam essentiam
+<lb ed="#L" n="98"/>bonum est. Hoc autem est impossibile: cum 
+ma<lb ed="#L" break="no" n="99"/>lum non habeat aliquam essentiam, ut supra
+<cb ed="#L" n="f"/>
+               <lb ed="#L" n="100"/>probatum est. Impossibile est igitur ponere 
+sum<lb ed="#L" break="no" n="101"/>mum malum, quod sit malorum principium.
+</p>
+            <p xml:id="v8naTA-d1e1830-d1e163">
+               <lb ed="#L" n="102"/>Item. Illud quod est primum principium, non
+<lb ed="#L" n="103"/>est ab aliquo. causatum. Omne autem malum
+<lb ed="#L" n="104"/>causatur a bono, ut ostensum est Non est
+<lb ed="#L" n="105"/>igitur malum primum principium.
+</p>
+            <p xml:id="v8naTA-d1e1830-d1e174">
+               <lb ed="#L" n="106"/>Amplius. Malum non agit nisi virtute boni,
+<lb ed="#L" n="107"/>ut ex praemissis  patet. Primum autem 
+princi<lb ed="#L" break="no" n="108"/>pium agit virtute propria. Malum igitur non 
+pot<lb ed="#L" break="no" n="109"/>est esse primum principium.
+</p>
+            <p xml:id="v8naTA-d1e1830-d1e185">
+               <lb ed="#L" n="110"/>Praeterea. Cum id quod est per accidens, sit
+<lb ed="#L" n="111"/>posterius eo quod est per se , impossibile est quod
+<lb ed="#L" n="112"/>sit primum id quod est per accidens. Malum
+<lb ed="#L" n="113"/>autem non evenit nisi per accidens et praeter
+<pb ed="#L" n="38"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>intentionem, ut probatum est . Impossibile est
+<lb ed="#L" n="2"/>igitur quod malum sit primum principium.
+</p>
+            <p xml:id="v8naTA-d1e1830-d1e205">
+               <lb ed="#L" n="3"/>Adhuc. Omne malum habet causam per 
+ac<lb ed="#L" break="no" n="4"/>cidens, ut probatum est . Primum autem 
+prin<lb ed="#L" break="no" n="5"/>cipium non habet causam neque per se neque
+<lb ed="#L" n="6"/>per accidens. Malum igitur non potest esse 
+pri<lb ed="#L" break="no" n="7"/>mum principium in aliquo genere.
+</p>
+            <p xml:id="v8naTA-d1e1830-d1e218">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="8"/>Item. Causa per se prior est ea quae est per
+<lb ed="#L" n="9"/>accidens . Sed malum non est causa nisi per
+<lb ed="#L" n="10"/>accidens, ut ostensum est . Malum igitur non
+<lb ed="#L" n="11"/>potest esse primum principium.
+</p>
+            <p xml:id="v8naTA-d1e1830-d1e232">
+               <lb ed="#L" n="12"/>Per hoc autem excluditur error 
+Manichaeo<lb ed="#L" break="no" n="13"/>rum, ponentium aliquod summum malum, quod
+<lb ed="#L" n="14"/>est principium primum omnium malorum .
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

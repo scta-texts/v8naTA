@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 80</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 80</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="232"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2361"><!-- v8naTA-l3c80 -->
+            <head xml:id="v8naTA-d1e2361-Hd1e101">Capitulum 80</head>
+            <head xml:id="v8naTA-d1e2361-Hd1e103" type="question-title">De ordinatione angelorum ad invicem.</head>
+            <p xml:id="v8naTA-d1e2361-d1e106">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="56" type="fixed=232"/>CAPITULUM OCTOGESIMUM
+<lb ed="#L" n="57"/>DE ORDINATIONE ANGELORUM AD INVICEM.
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e115">
+               <cb ed="#L" n="e"/>
+               <lb ed="#L" n="58"/>CUM autem corporalia per spiritualia 
+re<lb ed="#L" break="no" n="59"/>gantur, ut ostensum est ; corporalium
+<lb ed="#L" n="60"/>autem est quidam ordo: oportet quod
+<lb ed="#L" n="61"/>superiora corpora per superiores 
+intel<lb ed="#L" break="no" n="62"/>lectuales substantias regantur, inferiora vero per
+<lb ed="#L" n="63"/>inferiores. Quia autem quanto aliqua substantia
+<lb ed="#L" n="64"/>est superior, tanto virtus eius est universalior;
+<lb ed="#L" n="65"/>virtus vero intellectualis substantiae est 
+univer<lb ed="#L" break="no" n="66"/>salior virtute corporis: superiores quidem inter
+<lb ed="#L" n="67"/>intellectuales substantias habent virtutes non 
+ex<lb ed="#L" break="no" n="68"/>plicabiles per aliquam virtutem corpoream, et
+<lb ed="#L" n="69"/>ideo non sunt corporibus unitae; inferiores vero
+<lb ed="#L" n="70"/>habent virtutes particulatas explicabiles per aliqua
+<lb ed="#L" n="71"/>corporea instrumenta, et ideo oportet quod 
+cor<lb ed="#L" break="no" n="72"/>poribus uniantur.
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e152">
+               <lb ed="#L" n="73"/>Sicut autem superiores inter substantias 
+intel<lb ed="#L" break="no" n="74"/>lectuales sunt universalioris virtutis, ita etiam 
+per<lb ed="#L" break="no" n="75"/>fectius divinam dispositionem ab ipso recipiunt,
+<lb ed="#L" n="76"/>in hoc quod usque ad singula ordinis rationem
+<lb ed="#L" n="77"/>cognoscunt per hoc quod a Deo accipiunt. Haec
+<lb ed="#L" n="78"/>autem divinae ordinationis manifestatio divinitus
+<lb ed="#L" n="79"/>facta usque ad ultimas intellectualium | 
+substan<lb ed="#L" break="no" n="80"/>tiarum pertingit: sicut dicitur Job xxv?: Nunquid 
+<lb ed="#L" n="81"/>est. numerus: militum eius, el super quem non
+<cb ed="#L" n="f"/>
+               <lb ed="#L" n="82"/>splendet lumen eius? Sed inferiores intellectus non
+<lb ed="#L" n="83"/>in ea perfectione ipsam recipiunt quod per eam
+<lb ed="#L" n="84"/>singula quae ad ordinem providentiae spectant,
+<lb ed="#L" n="85"/>ab ipsis exequenda, cognoscere possint, sed solum
+<lb ed="#L" n="86"/>in quadam communitate: quantoque sunt 
+infe<lb ed="#L" break="no" n="87"/>riores, tanto per primam illuminationem divinitus.
+<lb ed="#L" n="88"/>acceptam minus in speciali divini ordinis 
+cogni<lb ed="#L" break="no" n="89"/>tionem accipiunt; in tantum quod intellectus 
+hu<lb ed="#L" break="no" n="90"/>manus, qui est infimus secundum naturalem
+<lb ed="#L" n="91"/>cognitionem, solum quorundam 
+universalissimo<lb ed="#L" break="no" n="92"/>rum notitiam habet.
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e201">
+               <lb ed="#L" n="93"/>Sic igitur substantiae intellectuales superiores
+<lb ed="#L" n="94"/>perfectionem cognitionis praedicti ordinis 
+imme<lb ed="#L" break="no" n="95"/>diate consequuntur a Deo, quam quidem 
+per<lb ed="#L" break="no" n="96"/>fectionem oportet quod aliae inferiores per eas
+<lb ed="#L" n="97"/>consequantur: sicut supra  diximus quod 
+uni<lb ed="#L" break="no" n="98"/>versalis discipuli cognitio per cognitionem 
+ma<lb ed="#L" break="no" n="99"/>gistri, qui in speciali cognoscit, perducitur ad.
+<lb ed="#L" n="100"/>perfectum. Hinc est quod Dionysius de supremis
+<lb ed="#L" n="101"/>intellectualibus substantiis, quas primae 
+Aierar<lb ed="#L" break="no" n="102"/>chiae, idest sacri principatus nominat, vir cap.
+<lb ed="#L" n="103"/>Cael. Hier., dicit quod non per alias substantias
+<lb ed="#L" n="104"/>sanctificatae, sed ab ipsa divinitate in ipsam 
+im<lb ed="#L" break="no" n="105"/>mediate exlenduntur, et ad immalerialem et invi-
+<pb ed="#L" n="233"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>sibilem pulcritudinem, quantum. fas est, in. 
+con<lb ed="#L" break="no" n="2"/>templationem adducuntur, et ad divinorum operum
+<lb ed="#L" n="3"/>scibiles rationes; et per has dicit suppositas 
+cae<lb ed="#L" break="no" n="4"/>lestium. essentiarum dispositiones erudiri. Sic ergo
+<lb ed="#L" n="5"/>altiores intellectus in altiori principio cognitionis
+<lb ed="#L" n="6"/>perfectionem suscipiunt.
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e249">
+               <lb ed="#L" n="7"/>In qualibet autem dispositione providentiae
+<lb ed="#L" n="8"/>ipsa ordinatio effectuum ex forma agentis 
+deri<lb ed="#L" break="no" n="9"/>vatur: oportet enim effectus a causa secundum
+<lb ed="#L" n="10"/>aliquam similitudinem procedere. Quod autem
+<lb ed="#L" n="11"/>agens suae formae similitudinem effectibus 
+com<lb ed="#L" break="no" n="12"/>municet, est propter aliquem finem. Primum
+<lb ed="#L" n="13"/>ergo principium in dispositione providentiae est
+<lb ed="#L" n="14"/>finis; secundum, forma agentis; tertium, ipsa
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e269">
+               <lb ed="#L" n="15"/>dispositio ordinis effectuum. Supremum igitur 
+<lb ed="#L" n="16"/>in ordine intellectus est quod in fine ordinis ratio
+<lb ed="#L" n="17"/>attendatur; secundum autem, quod in forma;
+<lb ed="#L" n="18"/>tertium vero, quod ipsa ordinis dispositio in
+<lb ed="#L" n="19"/>seipsa. non in aliquo altiori principio 
+cognosca<lb ed="#L" break="no" n="20"/>tur. Unde et ars quae considerat finem, est 
+archi<lb ed="#L" break="no" n="21"/>tectonica respectu eius quae. considerat formam,
+<lb ed="#L" n="22"/>sicut gubernatoria respectu navis factivae; ea vero
+<lb ed="#L" n="23"/>quae considerat formam, respectu eius quae 
+con<lb ed="#L" break="no" n="24"/>siderat solum ordines motuum qui ordinantur
+<lb ed="#L" n="25"/>ad formam, sicut navis factiva respectu manu
+<lb ed="#L" n="26"/>artificum.
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e298">
+               <lb ed="#L" n="27"/>Sic ergo inter illos intellectus qui immediate
+<lb ed="#L" n="28"/>in ipso Deo perfectam cognitionem ordinis 
+pro<lb ed="#L" break="no" n="29"/>videntiae divinae percipiunt, est quidam ordo.
+<lb ed="#L" n="30"/>Quia supremi et primi ordinis providentiae 
+ra<lb ed="#L" break="no" n="31"/>tionem percipiunt in ipso ultimo fine, qui est
+<lb ed="#L" n="32"/>divina bonitas: quidam tamen eorum aliis clarius.
+<lb ed="#L" n="33"/>Et isti dicuntur Seraphim, quasi ardentes vel 
+in<lb ed="#L" break="no" n="34"/>cendentes, quia per incendium designari solet 
+in<lb ed="#L" break="no" n="35"/>tensio amoris vel desiderii, quae sunt de fine.
+<lb ed="#L" n="36"/>Unde Dionysius dicit, vr cap. Cael. Hier., quod
+<lb ed="#L" n="37"/>ex hoc eorum nomine designatur mobilitas eorum
+<lb ed="#L" n="38"/>circa divina, fervens et flexibilis, et reductio 
+infe<lb ed="#L" break="no" n="39"/>riorum in Deum, sicut in finem.
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e329">
+               <lb ed="#L" n="40"/>Secundi autem rationem ordinis providentiae
+<lb ed="#L" n="41"/>in ipsa forma divina perfecte cognoscunt. Et hi
+<lb ed="#L" n="42"/>dicuntur Cherubim, quod interpretatur scientiae
+<lb ed="#L" n="43"/>plenitudo: scientia enim per formam scibilis 
+per<lb ed="#L" break="no" n="44"/>ficitur. Unde dicit Dionysius  quod talis 
+nomi<lb ed="#L" break="no" n="45"/>natio significat, quod sunt contemplativi in prima
+<lb ed="#L" n="46"/>operatrice viriute divinae pulcritudinis.
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e347">
+               <lb ed="#L" n="47"/>Tertii vero ipsam dispositionem divinorum
+<lb ed="#L" n="48"/>iudiciorum in seipsa considerant. Et hi dicuntur
+<lb ed="#L" n="49"/>Throni: nam per thronum potestas iudiciaria de-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="50"/>signatur, secundum illud: Sedes super thronum
+<lb ed="#L" n="51"/>et iudicas iustitiam . Unde dicit Dionysius  quod
+<lb ed="#L" n="52"/>per hanc nominationem designatur quod sunt
+<lb ed="#L" n="53"/>deiferi, el ad omnes divinas susceptiones 
+familia<lb ed="#L" break="no" n="54"/>riter aperli.
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e370">
+               <lb ed="#L" n="55"/>Non autem sic praemissa intelligenda sunt
+<lb ed="#L" n="56"/>quasi aliud sit divina bonitas, aliud divina 
+es<lb ed="#L" break="no" n="57"/>sentia, et aliud eius scientia rerum dispositionem.
+<lb ed="#L" n="58"/>continens: sed quia secundum haec alia et alia.
+<lb ed="#L" n="59"/>est eius consideratio.
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e383">
+               <lb ed="#L" n="60"/>Inter ipsos etiam inferiores spiritus, qui divini
+<lb ed="#L" n="61"/>ordinis per eos exequendi perfectam cognitionem.
+<lb ed="#L" n="62"/>per superiores spiritus consequuntur, oportet 
+or<lb ed="#L" break="no" n="63"/>dinem esse. Nam quae inter eos sunt altiora,
+<lb ed="#L" n="64"/>virtutis etiam sunt universalioris in cognoscendo:
+<lb ed="#L" n="65"/>unde cognitionem ordinis providentiae in 
+prin<lb ed="#L" break="no" n="66"/>cipis et causis magis universalibus adipiscuntur;
+<lb ed="#L" n="67"/>inferiores vero in causis magis particularibus;
+<lb ed="#L" n="68"/>altioris enim intellectus esset homo qui ordinem.
+<lb ed="#L" n="69"/>omnium naturalium considerare posset in 
+cor<lb ed="#L" break="no" n="70"/>poribus caelestibus, quam qui indiget ad 
+per<lb ed="#L" break="no" n="71"/>fectam cognitionem ad inferiora corpora 
+prospi<lb ed="#L" break="no" n="72"/>cere. llli igitur qui in causis universalibus, quae
+<lb ed="#L" n="73"/>sunt mediae inter Deum, qui est universalissima
+<lb ed="#L" n="74"/>causa, et causas particulares, possunt ordinem
+<lb ed="#L" n="75"/>providentiae perfecte cognoscere, medii sunt inter
+<lb ed="#L" n="76"/>illos qui in ipso Deo rationem praedicti ordinis
+<lb ed="#L" n="77"/>considerare sufficiunt, et eos qui in causis 
+par<lb ed="#L" break="no" n="78"/>ticularibus necesse habent considerare. Et hi a
+<lb ed="#L" n="79"/>Dionysio ponuntur in media hierarchia, quae,
+<lb ed="#L" n="80"/>sicut a suprema dirigitur, ita dirigit infimam: ut
+<lb ed="#L" n="81"/>dicit in vir cap. Cael. Hier.
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e433">
+               <lb ed="#L" n="82"/>Inter has etiam intellectuales substantias oportet
+<lb ed="#L" n="83"/>quod ordo quidam existat. Nam ipsa universalis
+<lb ed="#L" n="84"/>providentiae dispositio distribuitur quidem, primo,
+<lb ed="#L" n="85"/>in multos executores. Quod quidem fit per 
+or<lb ed="#L" break="no" n="86"/>dinem Dominationum: dominorum enim est 
+prae<lb ed="#L" break="no" n="87"/>cipere quid alii exequantur. Unde Dionysius dicit,
+<lb ed="#L" n="88"/>vir cap. Cael. Hier., quod nomen Dominationis
+<lb ed="#L" n="89"/>designat aliquam anagogen superposilam omni
+<lb ed="#L" n="90"/>servituti, et omni subiectione superiorem.
+<lb ed="#L" n="91"/>Secundo autem, ab operante et exequente 
+distri<lb ed="#L" break="no" n="92"/>buitur et multiplicatur ad varios effectus. Quod
+<lb ed="#L" n="93"/>quidem fit per ordinem Virlutum, quarum nomen,
+<lb ed="#L" n="94"/>ut Dionysius ibidem dicit, significat quandam
+<lb ed="#L" n="95"/>fortem virilitatem in omnes deiformes operationes,
+<lb ed="#L" n="96"/>non relinquentem suimel imbecillitate aliquem 
+dei<lb ed="#L" break="no" n="97"/>formem motum. In quo patet quod principium
+<lb ed="#L" n="98"/>universalis operationis ad hunc ordinem pertinet.
+<pb ed="#L" n="234"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>Unde videtur. quod. ad hunc ordinem pertineat
+<lb ed="#L" n="2"/>motus caelestium corporum, ex quibus, sicut ex
+<lb ed="#L" n="3"/>quibusdam universalibus causis, consequuntur
+<lb ed="#L" n="4"/>particulares effectus in natura: et ideo Virtutes
+<lb ed="#L" n="5"/>caelorum nominantur Luc. xxi^, ubi dicitur:
+<lb ed="#L" n="6"/>Virtutes. caelorum movebuntur. Ad eos etiam 
+spi<lb ed="#L" break="no" n="7"/>ritus pertinere videtur executio divinorum operum
+<lb ed="#L" n="8"/>quae praeter naturae ordinem fiunt, nam ista sunt
+<lb ed="#L" n="9"/>sublimissima in-divinis ministeriis: propter quod
+<lb ed="#L" n="10"/>Gregorius  dicit quod Virtutes. dicuntur. ilii .
+spi<lb ed="#L" break="no" n="11"/>ritus per quos signa frequentius fiunt. Et si quid
+<lb ed="#L" n="12"/>aliud universale et primum est in ministeriis 
+di<lb ed="#L" break="no" n="13"/>vinis exequendis, conveniens est ad hunc 
+ordi<lb ed="#L" break="no" n="14"/>nem pertinere.
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e507">
+               <lb ed="#L" n="15"/>Tertio vero, universalis providentiae ordo, iam
+<lb ed="#L" n="16"/>in effectibus institutus, inconfusus custoditur, dum
+<lb ed="#L" n="17"/>cohibentur ea quae possent hunc ordinem 
+per<lb ed="#L" break="no" n="18"/>turbare. Quod quidem pertinet ad ordinem 
+7o<lb ed="#L" break="no" n="19"/>testatum. Unde Dionysius ibidem dicit quod 
+no<lb ed="#L" break="no" n="20"/>men Potestatum importat quandam bene ordinatam
+<lb ed="#L" n="21"/>et inconfusam circa divinas. suscepliones  
+ordina<lb ed="#L" break="no" n="22"/>lionem. Et ideo Gregorius dicit quod ad hunc
+<lb ed="#L" n="23"/>ordinem pertinet contrarias potestates arcere.
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e529">
+               <lb ed="#L" n="24"/>Infimi autem inter superiores intellectuales 
+sub<lb ed="#L" break="no" n="25"/>stantias. sunt qui ordinem divinae providentiae
+<lb ed="#L" n="26"/>ut in particularibus causis cognoscibilem divinitus
+<lb ed="#L" n="27"/>accipiunt: et hi immediate rebus humanis 
+prae<lb ed="#L" break="no" n="28"/>ponuntur. Unde de eis Dionysius dicit  quod
+<lb ed="#L" n="29"/>ista terlia . dispositio spirituum humanis. hierarchiis
+<lb ed="#L" n="30"/>per consequentiam praecipit. Per res autem 
+hu<lb ed="#L" break="no" n="31"/>manas intelligendae sunt omnes inferiores naturae
+<lb ed="#L" n="32"/>et causae particulares, quae ad hominem  
+ordi<lb ed="#L" break="no" n="33"/>nantur et in usum hominis cedunt, sicut patet
+<lb ed="#L" n="34"/>ex praemissis .
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e555">
+               <lb ed="#L" n="35"/>Inter hos etiam quidam ordo existit. Nam in
+<lb ed="#L" n="36"/>rebus humanis est aliquod. bonum commune,
+<lb ed="#L" n="37"/>quod quidem est bonum civitatis vel gentis ,
+<lb ed="#L" n="38"/>quod videtur ad Principatuum ordinem pertinere.
+<lb ed="#L" n="39"/>Unde Dionysius eodem capitulo  dicit quod
+<lb ed="#L" n="40"/>nomen JPrincipatuum designat quiddam ductivum
+<lb ed="#L" n="41"/>cum ordine sacro. Propter quod et Damn. x''5,
+<lb ed="#L" n="42"/>fit mentio de Michaele principe ludaeorum, et
+<lb ed="#L" n="43"/>principe Persarum, et Graecorum. Et sic dispositio
+<lb ed="#L" n="44"/>regnorum, et mutatio dominationis a gente in
+<lb ed="#L" n="45"/>gentem, ad ministerium huius ordinis pertinere
+<lb ed="#L" n="46"/>oportet. Instructio etiam eorum qui inter homines
+<lb ed="#L" n="47"/>existunt principes, de his quae ad 
+administra<lb ed="#L" break="no" n="48"/>tionem sui regiminis pertinent, ad hunc ordinem
+<lb ed="#L" n="49"/>spectare videtur.
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e591">
+               <lb ed="#L" n="50"/>Est etiam aliquod humanum bonum quod non
+<lb ed="#L" n="51"/>in communitate consistit, sed ad unum aliquem
+<lb ed="#L" n="52"/>pertinet secundum seipsum, non tamen uni soli
+<lb ed="#L" n="53"/>utilia, sed multis: sicut quae sunt ab omnibus
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="54"/>et singulis credenda et observanda, sicut ea quae
+<lb ed="#L" n="55"/>sunt fidei, et cultus divinus, et alia huiusmodi.
+<lb ed="#L" n="56"/>Et hoc ad Archangelos pertinet, de quibus 
+Gre<lb ed="#L" break="no" n="57"/>gorius dicit  quod summa nuntiant: sicut 
+Ga<lb ed="#L" break="no" n="58"/>brielem Archangelum nominamus, qui Virgini
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e615">
+               <lb ed="#L" n="59"/>Verbi incarnationem nuntiavit, ab omnibus 
+cre<lb ed="#L" break="no" n="60"/>dendam.
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e622">
+               <lb ed="#L" n="61"/>Quoddam vero humanum bonum est ad 
+unum<lb ed="#L" break="no" n="62"/>quemque singulariter pertinens. Et huiusmodi
+<lb ed="#L" n="63"/>ad ordinem pertinent Angelorum, de quibus
+<lb ed="#L" n="64"/>Gregorius dicit  quod infima nuntiant: unde et
+<lb ed="#L" n="65"/>hominum custodes esse dicuntur, secundum illud
+<lb ed="#L" n="66"/>Psalmi : Angelis suis mandavit de te, ut. 
+custo<lb ed="#L" break="no" n="67"/>diant te in omnibus vus tuis. Unde et Dionysius
+<lb ed="#L" n="68"/>dicit  quod Archangeli medii sunt inter 
+Princi<lb ed="#L" break="no" n="69"/>patus et Angelos, habentes aliquid commune cum
+<lb ed="#L" n="70"/>utrisque: cum Principatibus quidem, inquantum
+<lb ed="#L" n="71"/>inferioribus Angelis ducatum praestant, nec À
+imme<lb ed="#L" break="no" n="72"/>rito, quia quae sunt propria in humanis, 
+secun<lb ed="#L" break="no" n="73"/>dum ea quae sunt communia dispensari oportet ;
+<lb ed="#L" n="74"/>cum Angelis vero, quia annunciant Angelis, et per
+<lb ed="#L" n="75"/>Angelos nobis, quorum est manifestare hominibus,
+<lb ed="#L" n="76"/>quae ad eos pertinent secundum uniuscuiusque 
+ana<lb ed="#L" break="no" n="77"/>logiam. Propter quod et commune nomen 
+ulti<lb ed="#L" break="no" n="78"/>mus ordo quasi speciale sibi assumit: quia 
+sci<lb ed="#L" break="no" n="79"/>licet officium habet nobis immediate nuntiandi.
+<lb ed="#L" n="80"/>Et propter hoc Archangeli nomen. compositum
+<lb ed="#L" n="81"/>habent ex utroque: dicuntur enim Archangeli
+<lb ed="#L" n="82"/>quasi Principes Angeli.
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e672">
+               <lb ed="#L" n="83"/>Assignat autem et Gregorius aliter caelestium
+<lb ed="#L" n="84"/>spirituum ordinationem : nam Principatus inter
+<lb ed="#L" n="85"/>medios spiritus connumerat, post Dominationes
+<lb ed="#L" n="86"/>immediate; Virtutes vero inter infimos, ante 
+Arch<lb ed="#L" break="no" n="87"/>angelos. Sed, diligenter inspicientibus, utraque
+<lb ed="#L" n="88"/>ordinatio in modico differt. Nam secundum 
+Gre<lb ed="#L" break="no" n="89"/>gorium, Principatus dicuntur, non qui gentibus
+<lb ed="#L" n="90"/>praeponuntur, sed qui etiam ipsis bonis spiritibus
+<lb ed="#L" n="91"/>principantur, quasi primi existentes in 
+ministe<lb ed="#L" break="no" n="92"/>riorum divinorum executione: dicit enim quod
+<lb ed="#L" n="93"/>principari est inter alios priorem existere. Hoc
+<lb ed="#L" n="94"/>autem, secundum assignationem ante dictam, 
+dixi<lb ed="#L" break="no" n="95"/>mus ad Virtutum ordinem pertinere. — Virtutes
+<lb ed="#L" n="96"/>autem, secundum Gregorium, sunt quae ad
+<lb ed="#L" n="97"/>quasdam particulares operationes ordinantur, cum
+<lb ed="#L" n="98"/>sin aliquo speciali casu, praeter communem 
+or<lb ed="#L" break="no" n="99"/>dinem, oportet aliqua miraculose fieri. Secundum
+<lb ed="#L" n="100"/>quam rationem satis convenienter cum infimis
+<lb ed="#L" n="101"/>ordinantur.
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e716">
+               <lb ed="#L" n="102"/>Utraque autem ordinatio ex verbis Apostoli
+<lb ed="#L" n="103"/>auctoritatem habere potest. Dicit enim Ephes. 1
+<lb ed="#L" n="104"/>Constituens illum, scilicet Christum, ad dexteram
+<lb ed="#L" n="105"/>suam in caelestibus, supra omnem Principatum et
+<lb ed="#L" n="106"/>Potestatem et Virtutem et Dominationem. In quo
+<pb ed="#L" n="235"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>patet quod, ascendendo, supra Principatus 
+Po<lb ed="#L" break="no" n="2"/>testates posuit, et supra has Virtutes, supra quas
+<lb ed="#L" n="3"/>Dominationes collocavit. Quem ordinem 
+Diony<lb ed="#L" break="no" n="4"/>sius observavit. — Ad Colossenses autem, loquens
+<lb ed="#L" n="5"/>de Christo, dicit: Sive Throni, sive Dominationes, ;
+<lb ed="#L" n="6"/>sive. Principatus, sive Potestates, omnia per ipsum
+<lb ed="#L" n="7"/>el in ipso creata sunt. In quo patet quod, a
+<lb ed="#L" n="8"/>Thronis incipiens, descendendo, sub eis 
+Domi<lb ed="#L" break="no" n="9"/>nationes, sub quibus Principatus, et sub his 
+Po<lb ed="#L" break="no" n="10"/>testates posuit. Quem ordinem Gregorius 
+obser<lb ed="#L" break="no" n="11"/>vavit.
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e758">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="12"/>De Seraphim autem fit mentio /saiae vi^^; de
+<lb ed="#L" n="13"/>Cherubim, Ezech. 1; de Archangelis, in Cans. :
+<lb ed="#L" n="14"/>nica Iudae , Cum Michael Archangelus cum 
+dia<lb ed="#L" break="no" n="15"/>bolo disputans etc.; de Angelis autem in Psalmis,
+<lb ed="#L" n="16"/>ut dictum est. .
+</p>
+            <p xml:id="v8naTA-d1e2361-d1e775">
+               <lb ed="#L" n="17"/>Est autem in omnibus ordinatis virtutibus hoc
+<lb ed="#L" n="18"/>commune, quod in vi superioris virtutis omnes
+<lb ed="#L" n="19"/>inferiores agunt. Unde id quod diximus ad 
+Se<lb ed="#L" break="no" n="20"/>raphim ordinem pertinere, omnes inferiores ex
+<lb ed="#L" n="21"/>virtute ipsius. exequuntur. Et similiter etiam est
+<lb ed="#L" n="22"/>in aliis ordinibus considerandum.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

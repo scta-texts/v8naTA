@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 131</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 131</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="398"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2778"><!-- v8naTA-l3c131 -->
+            <head xml:id="v8naTA-d1e2778-Hd1e101">Capitulum 131</head>
+            <head xml:id="v8naTA-d1e2778-Hd1e103" type="question-title">De errore impugnantium voluntariam paupertatem.</head>
+            <p xml:id="v8naTA-d1e2778-d1e106">
+               <pb ed="#L" n="398"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=398"/>CAPITULUM CENTESIMUM TRIGESIMUM PRIMUM
+<lb ed="#L" n="2"/>DE ERRORE IMPUGNANTIUM VOLUNTARIAM PAUPERTATEM.
+</p>
+            <p xml:id="v8naTA-d1e2778-d1e117">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="3"/>FUERUNT autem aliqui paupertatis 
+proposi<lb ed="#L" break="no" n="4"/>tum improbantes, contra Evangelicam
+<lb ed="#L" n="5"/>doctrinam. Quorum primus Vigilantius
+<lb ed="#L" n="6"/>invenitur: quem tamen postmodum
+<lb ed="#L" n="7"/>aliqui sunt secuti, dicentes se esse legis doctores,
+<lb ed="#L" n="8"/>non intelligentes neque quae loquuntur neque de
+<lb ed="#L" n="9"/>quibus affirmant . Qui ad hoc his et similibus
+<lb ed="#L" n="10"/>rationibus sunt inducti.
+</p>
+            <p xml:id="v8naTA-d1e2778-d1e139">
+               <lb ed="#L" n="11"/>Naturalis enim appetitus requirit ut. 
+unum<lb ed="#L" break="no" n="12"/>quodque animal sibi provideat in necessariis suae
+<lb ed="#L" n="13"/>vitae: unde animalia quae non quolibet tempore
+<lb ed="#L" n="14"/>anni necessaria vitae invenire possunt, quodam
+<lb ed="#L" n="15"/>naturali instinctu, ea quae sunt vitae suae 
+neces<lb ed="#L" break="no" n="16"/>saria congregant illo tempore quo inveniri possunt,
+<lb ed="#L" n="17"/>et ea conservant; sicut patet de apibus et 
+formi<lb ed="#L" break="no" n="18"/>cis. Homines autem ad suae vitae conservationem
+<lb ed="#L" n="19"/>multis indigent quae non omni tempore inveniri
+<lb ed="#L" n="20"/>possunt. Inest igitur naturaliter homini quod 
+con<lb ed="#L" break="no" n="21"/>greget et conservet ea quae sunt sibi necessaria.
+<lb ed="#L" n="22"/>Est igitur contra legem naturalem omnia 
+congre<lb ed="#L" break="no" n="23"/>gata dispergere per paupertatem.
+</p>
+            <p xml:id="v8naTA-d1e2778-d1e171">
+               <lb ed="#L" n="24"/>Adhuc. Naturalem affectum habent omnia ad ea
+<lb ed="#L" n="25"/>quibus esse suum conservatur, inquantum oria
+<lb ed="#L" n="26"/>esse appelunl. Sed per substantiam exteriorum
+<lb ed="#L" n="27"/>bonorum vita hominis conservatur. Sicut igitur
+<lb ed="#L" n="28"/>ex naturali lege unusquisque suam vitam 
+conser<lb ed="#L" break="no" n="29"/>vare tenetur, ita et exteriorem substantiam. Sicut
+<lb ed="#L" n="30"/>igitur est contra legem naturae quod aliquis sibi
+<lb ed="#L" n="31"/>manus iniiciat, ita et quod aliquis necessaria vitae
+<lb ed="#L" n="32"/>sibi subtrahat per voluntariam paupertatem.
+</p>
+            <p xml:id="v8naTA-d1e2778-d1e193">
+               <lb ed="#L" n="33"/>Amplius. Homo naturaliter est animal sociale,
+<lb ed="#L" n="34"/>ut supra  dictum est. Societas autem inter 
+homi<lb ed="#L" break="no" n="35"/>nes conservari non posset nisi unus alium iuvaret.
+<lb ed="#L" n="36"/>Est igitur naturale hominibus quod unus alium in
+<lb ed="#L" n="37"/>necessitatibus iuvet. Ab hoc autem auxilio ferendo
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="38"/>se faciunt impotentes qui exteriorem substantiam
+<lb ed="#L" n="39"/>abiiciunt, per quam plurimum aliis auxilium 
+fer<lb ed="#L" break="no" n="40"/>tur. Est igitur contra naturalem instinctum, et 
+con<lb ed="#L" break="no" n="41"/>tra misericordiae et caritatis bonum, quod homo
+<lb ed="#L" n="42"/>per voluntariam paupertatem omnem substantiam
+<lb ed="#L" n="43"/>mundi abiiciat.
+</p>
+            <p xml:id="v8naTA-d1e2778-d1e222">
+               <lb ed="#L" n="44"/>Item. Si habere substantiam huius mundi 
+ma<lb ed="#L" break="no" n="45"/>lum est; bonum est autem proximos liberare a
+<lb ed="#L" n="46"/>malo, malum autem eos in malum inducere: 
+con<lb ed="#L" break="no" n="47"/>sequens est quod dare alicui indigenti substantiam
+<lb ed="#L" n="48"/>huius mundi sit malum, auferre autem habenti sit
+<lb ed="#L" n="49"/>bonum. Quod inconveniens est. Est igitur bonum
+<lb ed="#L" n="50"/>habere substantiam huius mundi. Eam igitur per
+<lb ed="#L" n="51"/>voluntariam paupertatem totaliter abiicere ma-
+</p>
+            <p xml:id="v8naTA-d1e2778-d1e242">
+               <lb ed="#L" n="52"/>Praeterea. Occasiones malorum vitandae sunt.
+<lb ed="#L" n="53"/>Est autem paupertas occasio mali: quia propter
+<lb ed="#L" n="54"/>eam ad furta, adulationes et periuria, et his 
+si<lb ed="#L" break="no" n="55"/>milia, aliqui inducuntur. Non est igitur paupertas
+<lb ed="#L" n="56"/>voluntate assumenda, sed magis ne adveniat
+<lb ed="#L" n="57"/>vitanda.
+</p>
+            <p xml:id="v8naTA-d1e2778-d1e258">
+               <lb ed="#L" n="58"/>Adhuc. Cum virtus consistat in medio, utroque
+<lb ed="#L" n="59"/>extremo corrumpitur. Est autem virtus liberalitas,
+<lb ed="#L" n="60"/>quae dat danda et retinet retinenda. Vitium autem
+<lb ed="#L" n="61"/>est in minus illiberalitas, quae retinet retinenda
+<lb ed="#L" n="62"/>et non retinenda. Est autem et vitium in plus
+<lb ed="#L" n="63"/>quod omnia dentur. Quod faciunt qui voluntarie
+<lb ed="#L" n="64"/>paupertatem assumunt. Est ergo hoc vitiosum,
+<lb ed="#L" n="65"/>et prodigalitati simile. |
+</p>
+            <p xml:id="v8naTA-d1e2778-d1e278">
+               <lb ed="#L" n="66"/>Hae autem rationes auctoritate Scripturae 
+con<lb ed="#L" break="no" n="67"/>firmari videntur. Dicitur enim Prov. xxx ?: 
+Men<lb ed="#L" break="no" n="68"/>dicitatem et divitias ne dederis mihi, tribue tantum
+<lb ed="#L" n="69"/>victui meo necessaria : ne forte, satiatus, illiciar ad
+<lb ed="#L" n="70"/>negandum, el dicam, Quis est Dominus? et 
+ege<lb ed="#L" break="no" n="71"/>state compulsus, furer, et periurem nomen Dei mei.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

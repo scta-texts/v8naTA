@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 137</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 137</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="415"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2827"><!-- v8naTA-l3c137 -->
+            <head xml:id="v8naTA-d1e2827-Hd1e101">Capitulum 137</head>
+            <head xml:id="v8naTA-d1e2827-Hd1e103" type="question-title">De errore eorum qui perpetuam continentiam impugnant.</head>
+            <p xml:id="v8naTA-d1e2827-d1e106">
+               <lb ed="#L" n="67"/>Fuerunt autem et alii qui, licet continentiam
+<lb ed="#L" n="68"/>perpetuam non improbarent, tamen ei statum 
+ma<lb ed="#L" break="no" n="69"/>trimonii adaequabant: quod est haeresis 
+lovi<lb ed="#L" break="no" n="70"/>niani. Sed huius erroris falsitas satis ex praedictis
+<lb ed="#L" n="71"/>apparet: cum per continentiam homo reddatur
+<lb ed="#L" n="72"/>habilior ad mentis elevationem in spiritualia et X
+<lb ed="#L" n="73"/>divina; et quodammodo supra statum hominis
+<lb ed="#L" n="74"/>ponatur, in quadam similitudine angelorum.
+<lb ed="#L" n="75"/>Nec obstat quod aliqui perfectissimae virtutis
+<lb ed="#L" n="76"/>viri matrimonio usi sunt, ut Abraham, Isaac et
+<lb ed="#L" n="77"/>Iacob: quia quanto virtus mentis est fortior,
+<lb ed="#L" n="78"/>tanto minus potest per quaecumque a sua 
+alti<lb ed="#L" break="no" n="79"/>tudine deiici. Nec tamen, quia ipsi matrimonio
+<lb ed="#L" n="80"/>5 usi sunt, minus contemplationem veritatis et 
+di<lb ed="#L" break="no" n="81"/>vinorum amaverunt: sed, secundum quod 
+con<lb ed="#L" break="no" n="82"/>ditio temporis requirebat, matrimonio utebantur
+<lb ed="#L" n="83"/>ad multiplicationem populi fidelis.
+<lb ed="#L" n="84"/>Nec tamen perfectio alicuius personae est 
+suf<lb ed="#L" break="no" n="85"/>ficiens argumentum ad perfectionem status: cum
+<lb ed="#L" n="86"/>aliquis perfectiori mente possit uti minori bono
+<lb ed="#L" n="87"/>quam alius maiori. Non igitur, quia Abraham
+<lb ed="#L" n="88"/>vel Moyses perfectior fuit multis qui continentiam
+<lb ed="#L" n="89"/>servant, propter hoc status matrimonii est 
+per<lb ed="#L" break="no" n="90"/>fectior quam status continentiae, vel ei aequalis.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

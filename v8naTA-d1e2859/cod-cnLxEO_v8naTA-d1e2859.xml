@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 141</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 141</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="424"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2859"><!-- v8naTA-l3c141 -->
+            <head xml:id="v8naTA-d1e2859-Hd1e101">Capitulum 141</head>
+            <head xml:id="v8naTA-d1e2859-Hd1e103" type="question-title">De differentia et ordine poenarum.</head>
+            <p xml:id="v8naTA-d1e2859-d1e106">
+               <pb ed="#L" n="424"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=424"/>CAPITULUM CENTESIMUM QUADRAGESIMUM PRIMUM
+<lb ed="#L" n="2"/>DE DIFFERENTIA ET ORDINE POENARUM.
+</p>
+            <p xml:id="v8naTA-d1e2859-d1e117">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="3"/>QUIA vero, sicut ex dictis  patet, 
+prae<lb ed="#L" break="no" n="4"/>mium est quod voluntati proponitur
+<lb ed="#L" n="5"/>quasi finis quo excitatur ad bene 
+agen<lb ed="#L" break="no" n="6"/>54 dum; e contrario poena voluntati 
+pro<lb ed="#L" break="no" n="7"/>ponitur ut a malo retrahatur, quasi aliquid 
+fu<lb ed="#L" break="no" n="8"/>giendum malum: sicut de ratione praemii est
+<lb ed="#L" n="9"/>quod sit bonum voluntati consonum, ita de 
+ra<lb ed="#L" break="no" n="10"/>tione poenae est quod sit malum et contrarium
+<lb ed="#L" n="11"/>voluntati. Malum autem est privatio boni. Unde
+<lb ed="#L" n="12"/>oportet quod secundum differentiam et ordinem
+<lb ed="#L" n="13"/>bonorum, sit etiam differentia et ordo poenarum.
+</p>
+            <p xml:id="v8naTA-d1e2859-d1e146">
+               <lb ed="#L" n="14"/>Est autem summum bonum hominis felicitas,
+<lb ed="#L" n="15"/>quae est ultimus finis eius: quantoque aliquid
+<lb ed="#L" n="16"/>est huic fini propinquius, tanto praeminet inter
+<lb ed="#L" n="17"/>hominis bonum. Huic autem propinquissimum
+<lb ed="#L" n="18"/>est virtus , et si quid est aliud quod ad bonam
+<lb ed="#L" n="19"/>operationem hominem proficiat, qua pervenitur
+<lb ed="#L" n="20"/>ad beatitudinem. Consequitur autem et debita
+<lb ed="#L" n="21"/>dispositio rationis, et virium ei subiectarum. Post
+<lb ed="#L" n="22"/>hoc autem et corporis incolumitas, quae 
+neces<lb ed="#L" break="no" n="23"/>saria est ad expeditam operationem. Demum
+<lb ed="#L" n="24"/>autem ea quae exterius sunt, quibus quasi 
+ad<lb ed="#L" break="no" n="25"/>miniculantibus utimur ad virtutem.
+</p>
+            <p xml:id="v8naTA-d1e2859-d1e176">
+               <lb ed="#L" n="26"/>Erit igitur maxima poena hominem a 
+beati<lb ed="#L" break="no" n="27"/>tudine excludi. Post hanc autem, virtute privari,
+<lb ed="#L" n="28"/>et perfectione quacumque naturalium virtutum
+<lb ed="#L" n="29"/>animae ad bene agendum. Dehinc autem, 
+natu<lb ed="#L" break="no" n="30"/>ralium potentiarum animae deordinatio. Post hoc
+<lb ed="#L" n="31"/>autem, corporis nocumentum. Demum autem,
+<lb ed="#L" n="32"/>exteriorum bonorum sublatio.
+</p>
+            <p xml:id="v8naTA-d1e2859-d1e194">
+               <lb ed="#L" n="33"/>Sed quia de ratione poenae est non solum quod
+<lb ed="#L" n="34"/>sit privativa boni, sed etiam quod sit contraria
+<lb ed="#L" n="35"/>voluntati; non autem cuiuslibet hominis voluntas
+<lb ed="#L" n="36"/>existimat bona secundum quod sunt: contingit
+<lb ed="#L" n="37"/>interdum quod id quod est maioris boni 
+privati<lb ed="#L" break="no" n="38"/>vum, est minus contrarium voluntati, et propter
+<lb ed="#L" n="39"/>hoc minus poenale esse videtur. Et inde est quod
+<lb ed="#L" n="40"/>plures homines, qui bona sensibilia et corporalia
+<lb ed="#L" n="41"/>magis aestimant et cognoscunt quai intellectualia
+<lb ed="#L" n="42"/>et spiritualia, plus timent corporales poenas quam  
+<lb ed="#L" n="43"/>spirituales. Secundum quorum aestimationem, 
+<lb ed="#L" n="44"/>contrarius ordo videtur poenarum ordini 
+supra<lb ed="#L" break="no" n="45"/>dicto. Apud hos enim maxima poena aestimantur 
+<lb ed="#L" n="46"/>laesiones corporis, et damna rerum exteriorum: 
+<lb ed="#L" n="47"/>deordinatio autem animae, et damnum virtutis, 
+<lb ed="#L" n="48"/>et amissio fruitionis divinae, in qua consistit 
+<lb ed="#L" n="49"/>ultima hominis felicitas, aut modicum aut nihil 
+<lb ed="#L" n="50"/>reputatur ab eis. 
+</p>
+            <p xml:id="v8naTA-d1e2859-d1e236">
+               <lb ed="#L" n="51"/>Hinc autem procedit quod hominum peccata a 
+<lb ed="#L" n="52"/>Deo puniri non aestimant: quia vident plerum-  
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="53"/>que peccatores incolumitate corporis vigere, et
+<lb ed="#L" n="54"/>exteriori fortuna potiri, quibus interdum homines
+<lb ed="#L" n="55"/>virtuosi privantur.
+</p>
+            <p xml:id="v8naTA-d1e2859-d1e252">
+               <lb ed="#L" n="56"/>Quod recte considerantibus mirum videri non
+<lb ed="#L" n="57"/>Cum enim bona exteriora ad interiora
+<lb ed="#L" n="58"/>ordinentur, corpus autem ad animam ; in tantum
+<lb ed="#L" n="59"/>exteriora et corporalia bona sunt homini bona,
+<lb ed="#L" n="60"/>in quantum ad bonum rationis proficiunt; 
+se<lb ed="#L" break="no" n="61"/>cundum vero quod bonum rationis impediunt,
+<lb ed="#L" n="62"/>homini vertuntur in mala. Novit autem rerum
+<lb ed="#L" n="63"/>dispositor Deus mensuram virtutis humanae.
+<lb ed="#L" n="64"/>Unde interdum homini virtuoso corporalia et
+<lb ed="#L" n="65"/>exteriora bona ministrat in adiutorium virtutis :
+<lb ed="#L" n="66"/>et in hoc ei beneficium praestat. Interdum vero
+<lb ed="#L" n="67"/>ei praedicta subtrahit, eo quod considerat 
+huius<lb ed="#L" break="no" n="68"/>modi esse sibi ad impedimentum virtutis et 
+frui<lb ed="#L" break="no" n="69"/>tionis divinae: ex hoc enim exteriora bona 
+ver<lb ed="#L" break="no" n="70"/>tuntur homini in mala, ut dictum est; unde et
+<lb ed="#L" n="71"/>eorum amissio, eadem ratione, homini vertitur
+<lb ed="#L" n="72"/>in bonum. Si ergo omnis poena malum est; non
+<lb ed="#L" n="73"/>est autem malum hominem exterioribus et 
+cor<lb ed="#L" break="no" n="74"/>poralibus bonis privari secundum quod expedit
+<lb ed="#L" n="75"/>ad profectum virtutis: non erit hoc homini 
+vir<lb ed="#L" break="no" n="76"/>tuoso poena si privetur exterioribus bonis in
+<lb ed="#L" n="77"/>adiumentum virtutis. E contrario autem erit malis
+<lb ed="#L" n="78"/>in poenam si eis exteriora bona conceduntur,
+<lb ed="#L" n="79"/>quibus provocantur ad malum. Unde et Sap. xiv "'
+<lb ed="#L" n="80"/>dicitur quod creaturae Dei in odium factae sunt,
+<lb ed="#L" n="81"/>et in tentationem animae hominum, et in 
+musci<lb ed="#L" break="no" n="82"/>pulam pedibus insipientium. — Quia vero de ratione
+<lb ed="#L" n="83"/>poenae est non solum quod sit malum, sed quod
+<lb ed="#L" n="84"/>sit contrarium voluntati; amissio corporalium et
+<lb ed="#L" n="85"/>exteriorum bonorum, etiam quando est homini
+<lb ed="#L" n="86"/>in profectum virtutis et non in malum, dicitur
+<lb ed="#L" n="87"/>poena abusive, ex eo quod est contra voluntatem.
+</p>
+            <p xml:id="v8naTA-d1e2859-d1e324">
+               <lb ed="#L" n="88"/>Ex inordinatione autem hominis contingit quod
+<lb ed="#L" n="89"/>homo non aestimet res secundum quod sunt,
+<lb ed="#L" n="90"/>sed corporalia spiritualibus praeferat. Inordinatio
+<lb ed="#L" n="91"/>autem talis aut est culpa, aut ex aliqua culpa
+<lb ed="#L" n="92"/>praecedente procedit. Unde consequenter patet
+<lb ed="#L" n="93"/>quod poena. non sit in homine, etiam secundum
+<lb ed="#L" n="94"/>quod est contra voluntatem, nisi culpa 
+praece<lb ed="#L" break="no" n="95"/>dente.
+</p>
+            <p xml:id="v8naTA-d1e2859-d1e344">
+               <lb ed="#L" n="96"/>Hoc etiam ex alio patet. Quia ea quae sunt
+<lb ed="#L" n="97"/>secundum se bona, non verterentur homini in
+<lb ed="#L" n="98"/>malum per abusum, nisi aliqua inordinatione in
+<lb ed="#L" n="99"/>homine existente.
+</p>
+            <p xml:id="v8naTA-d1e2859-d1e356">
+               <lb ed="#L" n="100"/>Item, quod oporteat ea quae voluntas acceptat
+<lb ed="#L" n="101"/>eo quod sunt naturaliter. bona, homini subtrahi
+<lb ed="#L" n="102"/>ad profectum virtutis, provenit ex aliqua hominis
+<pb ed="#L" n="425"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>deordinatione, quae vel est culpa, vel sequitur
+<lb ed="#L" n="2"/>culpam. Manifestum enim est quod per peccatum
+<lb ed="#L" n="3"/>praecedens fit quaedam inordinatio in affectu
+<lb ed="#L" n="4"/>humano, ut facilius postmodum ad peccatum 
+in<lb ed="#L" break="no" n="5"/>clinetur. Non ergo est absque culpa etiam quod
+<lb ed="#L" n="6"/>oportet hominem adiuvari ad bonum virtutis per
+<lb ed="#L" n="7"/>id quod est ei quodammodo poenale, inquantum
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="8"/>est absolute contra voluntatem ipsius, licet 
+quan<lb ed="#L" break="no" n="9"/>doque sit volitum secundum quod ratio respicit
+<lb ed="#L" n="10"/>finem. Sed de hac inordinatione in natura 
+hu<lb ed="#L" break="no" n="11"/>mana existente ex peccato originali, posterius 
+di<lb ed="#L" break="no" n="12"/>cetur . Nunc autem intantum manifestum sit
+<lb ed="#L" n="13"/>quod Deus punit homines pro peccatis: et quod
+<lb ed="#L" n="14"/>non punit absque culpa.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

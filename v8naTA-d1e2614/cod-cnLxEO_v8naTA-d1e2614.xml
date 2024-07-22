@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 111</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 111</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="355"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2614"><!-- v8naTA-l3c111 -->
+            <head xml:id="v8naTA-d1e2614-Hd1e101">Capitulum 111</head>
+            <head xml:id="v8naTA-d1e2614-Hd1e103" type="question-title">Quod speciali quadam ratione creaturae rationales
+divinae providentiae subduntur.</head>
+            <p xml:id="v8naTA-d1e2614-d1e106">
+               <pb ed="#L" n="355"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=355"/>CAPITULUM CENTESIMUM UNDECIMUM
+<lb ed="#L" n="2"/>QUOD SPECIALI QUADAM RATIONE CREATURAE RATIONALES
+<lb ed="#L" n="3"/>DIVINAE PROVIDENTIAE SUBDUNTUR.
+</p>
+            <p xml:id="v8naTA-d1e2614-d1e119">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="4"/>EX his quidem quae supra  determinata
+<lb ed="#L" n="5"/>sunt, manifestum est quod divina 
+pro<lb ed="#L" break="no" n="6"/>videntia ad omnia se extendit. Oportet
+<lb ed="#L" n="7"/>tamen aliquam rationem providentiae
+<lb ed="#L" n="8"/>specialem observari circa intellectuales et 
+ratio<lb ed="#L" break="no" n="9"/>nales naturas, prae aliis creaturis. Praecellunt
+<lb ed="#L" n="10"/>enim alias creaturas et in perfectione naturae, et
+<lb ed="#L" n="11"/>in dignitate finis. In perfectione quidem naturae,
+<lb ed="#L" n="12"/>quia sola creatura rationalis habet dominium sui
+<lb ed="#L" n="13"/>actus, libere se agens ad operandum; ceterae vero
+<lb ed="#L" n="14"/>creaturae ad opera propria magis aguntur quam
+<lb ed="#L" n="15"/>agant; ut ex supra  dictis patet. In dignitate autem
+<lb ed="#L" n="16"/>finis, quia sola creatura intellectualis ad ipsum
+<lb ed="#L" n="17"/>finem ultimum universi sua operatione pertingit,
+<lb ed="#L" n="18"/>scilicet cognoscendo et amando Deum: aliae vero
+<lb ed="#L" n="19"/>creaturae ad finem ultimum pertingere non 
+pos<lb ed="#L" break="no" n="20"/>sunt nisi per aliqualem similitudinis ipsius par-
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="21"/>ticipationem. Omnis autem ratio operis. variatur
+<lb ed="#L" n="22"/>secundum diversitatem finis, et eorum 
+quaeopera<lb ed="#L" break="no" n="23"/>tioni subiiciuntur: sicut ratio operandi per artem
+<lb ed="#L" n="24"/>diversa est secundum diversitatem finis et 
+ma<lb ed="#L" break="no" n="25"/>; teriae; aliter enim operatur medicus ad 
+aegritu<lb ed="#L" break="no" n="26"/>dinem pellendam, et ad sanitatem confirmandam;
+<lb ed="#L" n="27"/>atque aliter in corporibus diversimode 
+complexio<lb ed="#L" break="no" n="28"/>natis. Et. similiter oportet in regimine civitatis
+<lb ed="#L" n="29"/>diversam rationem ordinis observari secundum
+<lb ed="#L" n="30"/>diversas conditiones eorum qui subiiciuntur 
+regi<lb ed="#L" break="no" n="31"/>mini, et secundum diversa ad quae ordinantur:
+<lb ed="#L" n="32"/>oportet enim aliter disponi milites, ut sint 
+prae<lb ed="#L" break="no" n="33"/>parati ad pugnam; et artifices, ut bene se habeant
+<lb ed="#L" n="34"/>circa sua opera. Sic igitur et alia est ordinis ratio
+<lb ed="#L" n="35"/>secundum quam creaturae rationales providentiae
+<lb ed="#L" n="36"/>divinae subduntur: et alia secundum quam 
+or<lb ed="#L" break="no" n="37"/>dinantur ceterae creaturae.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

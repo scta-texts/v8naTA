@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 21</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 21</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="50"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1879"><!-- v8naTA-l3c21 -->
+            <head xml:id="v8naTA-d1e1879-Hd1e101">Capitulum 21</head>
+            <head xml:id="v8naTA-d1e1879-Hd1e103" type="question-title">Quod res intendunt naturaliter assimilari deo
+in hoc quod est causa.</head>
+            <p xml:id="v8naTA-d1e1879-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="73" type="fixed=50"/>CAPITULUM VIGESIMUM PRIMUM
+<lb ed="#L" n="74"/>QUOD RES INTENDUNT NATURALITER ASSIMILARI DEO
+<lb ed="#L" n="75"/>IN HOC QUOD EST CAUSA.
+</p>
+            <p xml:id="v8naTA-d1e1879-d1e117">
+               <lb ed="#L" n="76"/>EX his autem apparet quod res 
+inten<lb ed="#L" break="no" n="77"/>dunt divinam similitudinem etiam in
+<lb ed="#L" n="78"/>hoc quod sunt causae aliorum.
+</p>
+            <p xml:id="v8naTA-d1e1879-d1e126">
+               <sic>Tepdit</sic> enim in divinam 
+similitudi<lb ed="#L" break="no" n="79"/>nem res creata per suam operationem. Per suam
+<lb ed="#L" n="80"/>autem operationem una res fit causa alterius.
+<lb ed="#L" n="81"/>Ergo in hoc etiam res intendunt divinam 
+simi<lb ed="#L" break="no" n="82"/>liÀtudinem, ut sint aliis causae.
+</p>
+            <p xml:id="v8naTA-d1e1879-d1e140">
+               <lb ed="#L" n="83"/>Adhuc. Res tendunt in divinam similitudinem
+<lb ed="#L" n="84"/>inquantum est bonus, ut supra  dictum est. Ex
+<lb ed="#L" n="85"/>bonitate autem Dei est quod aliis esse largitur:
+<lb ed="#L" n="86"/>unumquodque enim agit inquantum est actu 
+per<lb ed="#L" break="no" n="87"/>fectum. Desiderant igitur generaliter res in hoc
+<lb ed="#L" n="88"/>Deo assimilari, ut sint aliorum causae.
+</p>
+            <p xml:id="v8naTA-d1e1879-d1e156">
+               <lb ed="#L" n="89"/>Amplius. Ordo ad bonum boni rationem 
+ha<lb ed="#L" break="no" n="90"/>bet, ut ex dictis  est manifestum. Unumquodque
+<lb ed="#L" n="91"/>autem per hoc quod est causa alterius, ordinatur
+<cb ed="#L" n="d"/>
+               <lb ed="#L" n="92"/>ad bonum: bonum enim solum causatur per se,
+<lb ed="#L" n="93"/>malum autem per accidens tantum, ut ostensum
+<lb ed="#L" n="94"/>est . Esse igitur aliorum causa est bonum. 
+Se<lb ed="#L" break="no" n="95"/>cundum autem quodlibet bonum ad quod 
+ali<lb ed="#L" break="no" n="96"/>quodlibet bonum .creatum sit ex participatione
+<lb ed="#L" n="97"/>divinae bonitatis. Intendunt igitur res divinam
+<lb ed="#L" n="98"/>similitudinem in hoc quod sunt aliorum causae.
+</p>
+            <p xml:id="v8naTA-d1e1879-d1e182">
+               <lb ed="#L" n="99"/>Item. Eiusdem rationis est quod effectus tendat
+<lb ed="#L" n="100"/>in similitudinem agentis, et quod agens assimilet
+<lb ed="#L" n="101"/>sibi effectum: tendit enim effectus in finem in
+<lb ed="#L" n="102"/>quem dirigitur ab agente. Agens autem intendit
+<lb ed="#L" n="103"/>sibi assimilare patiens non solum quantum ad
+<lb ed="#L" n="104"/>esse ipsius, sed etiam quantum ad causalitatem:
+<lb ed="#L" n="105"/>sicut enim ab agente conferuntur effectui naturali
+<lb ed="#L" n="106"/>principia per quae subsistat, ita principia per quae
+<lb ed="#L" n="107"/>aliorum sit causa; sicut enim animal, dum ge-
+<pb ed="#L" n="51"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>neratur, accipit a generante virtutem nutritivam, ita
+<lb ed="#L" n="2"/>etiam virtutem generativam. Effectus igitur tendit
+<lb ed="#L" n="3"/>in similitudinem agentis non solum quantum ad
+<lb ed="#L" n="4"/>speciem ipsius, sed etiam quantum ad hoc quod sit
+<lb ed="#L" n="5"/>aliorum causa. Sic autem tendunt res in 
+similitu<lb ed="#L" break="no" n="6"/>dinem Dei sicut effectus in similitudinem agentis,
+<lb ed="#L" n="7"/>ut ostensum est . Intendunt igitur res naturaliter
+<lb ed="#L" n="8"/>assimilari Deo. in hoc quod sunt causae aliorum.
+</p>
+            <p xml:id="v8naTA-d1e1879-d1e226">
+               <lb ed="#L" n="9"/>Praeterea. Tunc maxime perfectum est 
+unum<lb ed="#L" break="no" n="10"/>quodque quando potest alterum sibi simile facere:
+<lb ed="#L" n="11"/>illud enim perfecte lucet quod alia illuminare
+<lb ed="#L" n="12"/>potest. Unumquodque autem tendens in suam
+<lb ed="#L" n="13"/>perfectionem, tendit in divinam similitudinem.
+<lb ed="#L" n="14"/>Per hoc igitur unumquodque tendit in divinam
+<lb ed="#L" n="15"/>similitudinem, quod intendit aliorum causa esse.
+</p>
+            <p xml:id="v8naTA-d1e1879-d1e244">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="16"/>Quia vero causa, inquantum huiusmodi, 
+supe<lb ed="#L" break="no" n="17"/>rior est causato, manifestum est quod tendere in
+<lb ed="#L" n="18"/>divinam similitudinem per hunc modum ut sit
+<lb ed="#L" n="19"/>aliorum causa, est superiorum in entibus.
+</p>
+            <p xml:id="v8naTA-d1e1879-d1e257">
+               <lb ed="#L" n="20"/>Item. Prius est unumquodque in se perfectum
+<lb ed="#L" n="21"/>quam possit alterum causare, ut iam dictum
+<lb ed="#L" n="22"/>est. Haec igitur perfectio ultimo accidit rei, ut
+<lb ed="#L" n="23"/>aliorum causa existat. Cum igitur per multa
+<lb ed="#L" n="24"/>tendat res creata in divinam similitudinem,
+<lb ed="#L" n="25"/>hoc ultimum ei restat, ut divinam similitudinem
+<lb ed="#L" n="26"/>quaerat per hoc quod, sit aliorum causa. Unde
+<lb ed="#L" n="27"/>Dionysius dicit, ni cap. Cael. Hier., quod omnium
+<lb ed="#L" n="28"/>divinius est Dei cooperatorem fieri: secundum
+<lb ed="#L" n="29"/>quod Apostolus dicit, I Cor. m?: Dei adiutores
+<lb ed="#L" n="30"/>sumus.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

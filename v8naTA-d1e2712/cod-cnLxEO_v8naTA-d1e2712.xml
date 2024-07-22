@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 123</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 123</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="382"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2712"><!-- v8naTA-l3c123 -->
+            <head xml:id="v8naTA-d1e2712-Hd1e101">Capitulum 123</head>
+            <head xml:id="v8naTA-d1e2712-Hd1e103" type="question-title">Quod matrimonium debet esse indivisibile.</head>
+            <p xml:id="v8naTA-d1e2712-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="9" type="fixed=382"/>CAPITULUM CENTESIMUM VIGESIMUM TERTIUM
+<lb ed="#L" n="10"/>QUOD MATRIMONIUM DEBET ESSE INDIVISIBILE.
+</p>
+            <p xml:id="v8naTA-d1e2712-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="11"/>SI quis autem recte consideret, praedicta
+<lb ed="#L" n="12"/>ratio  non solum ad hoc perducere 
+vi<lb ed="#L" break="no" n="13"/>detur ut societas maris et feminae in
+<lb ed="#L" n="14"/>humana natura, quam matrimonium
+<lb ed="#L" n="15"/>appellamus, sit diuturna, sed etiam quod sit per
+<lb ed="#L" n="16"/>totam vitam.
+</p>
+            <p xml:id="v8naTA-d1e2712-d1e133">
+               <lb ed="#L" n="17"/>Possessiones enim ad conservationem naturalis
+<lb ed="#L" n="18"/>vitae ordinantur: et quia naturalis vita, quae
+<lb ed="#L" n="19"/>conservari non potest in patre perpetuo, quasi
+<lb ed="#L" n="20"/>quadam successione, secundum speciei 
+similitu<lb ed="#L" break="no" n="21"/>dinem, conservatur in filio, secundum naturam
+<lb ed="#L" n="22"/>est conveniens ut in his quae sunt patris, 
+suc<lb ed="#L" break="no" n="23"/>cedat et filius. Naturale est igitur ut sollicitudo
+<lb ed="#L" n="24"/>patris ad filium. maneat usque ad finem vitae
+<lb ed="#L" n="25"/>suae. Si igitur sollicitudo patris de filio causat
+<lb ed="#L" n="26"/>etiam in avibus commanentiam maris et feminae,
+<lb ed="#L" n="27"/>ordo naturalis requirit quod usque ad finem vitae
+<lb ed="#L" n="28"/>in humana specie pater et mater simul 
+com<lb ed="#L" break="no" n="29"/>maneant.
+</p>
+            <p xml:id="v8naTA-d1e2712-d1e165">
+               <lb ed="#L" n="30"/>Videtur etiam aequitati repugnare si praedicta
+<lb ed="#L" n="31"/>societas dissolvatur. Femina enim indiget mare
+<lb ed="#L" n="32"/>non solum propter generationem, sicut in aliis 
+ani<lb ed="#L" break="no" n="33"/>malibus, sed etiam propter gubernationem: quia
+<lb ed="#L" n="34"/>mas est et ratione perfectior, et virtute fortior.
+<lb ed="#L" n="35"/>Mulier vero ad viri societatem assumitur propter
+<lb ed="#L" n="36"/>necessitatem generationis. Cessante igitur 
+fecun<lb ed="#L" break="no" n="37"/>ditate mulieris et decore, impeditur ne ab alio
+<lb ed="#L" n="38"/>assumatur. Si quis igitur, mulierem. assumens
+<lb ed="#L" n="39"/>tempore iuventutis, quo et decor et fecunditas ei
+<lb ed="#L" n="40"/>adsunt, eam dimittere possit postquam aetate T
+<lb ed="#L" n="41"/>provecta fuerit, damnum inferet mulieri, contra
+<lb ed="#L" n="42"/>naturalem aequitatem.
+</p>
+            <p xml:id="v8naTA-d1e2712-d1e196">
+               <lb ed="#L" n="43"/>Item. Manifeste apparet inconveniens esse si
+<lb ed="#L" n="44"/>mulier virum dimittere possit: cum mulier 
+na<lb ed="#L" break="no" n="45"/>turaliter viro subiecta sit tanquam gubernatori ;
+<lb ed="#L" n="46"/>non est autem in potestate eius qui alteri 
+subii<lb ed="#L" break="no" n="47"/>citur, ut ab eius regimine discedat. Contra 
+na<lb ed="#L" break="no" n="48"/>turalem igitur ordinem esset si mulier virum
+<lb ed="#L" n="49"/>deserere posset. Si ergo vir deserere posset 
+mu<lb ed="#L" break="no" n="50"/>lierem, non esset aequa societas viri ad mulierem,
+<lb ed="#L" n="51"/>sed servitus quaedam ex parte mulieris.
+</p>
+            <p xml:id="v8naTA-d1e2712-d1e218">
+               <lb ed="#L" n="52"/>Praeterea. Hominibus naturalis quaedam 
+sol<lb ed="#L" break="no" n="53"/>licitudo inest de certitudine prolis: quod propter
+<lb ed="#L" n="54"/>hoc necessarium est, quia filius diuturna patris
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="55"/>gubernatione indiget. Quaecumque igitur 
+certitu<lb ed="#L" break="no" n="56"/>dinem prolis impediunt, sunt contra naturalem
+<lb ed="#L" n="57"/>instinctum humanae speciei. Si autem vir posset
+<lb ed="#L" n="58"/>mulierem dimittere, vel mulier virum, et alteri 
+co<lb ed="#L" break="no" n="59"/>pulari, impediretur certitudo prolis, dum mulier
+<lb ed="#L" n="60"/>a primo cognita, postmodum a secundo 
+cogno<lb ed="#L" break="no" n="61"/>sceretur. Est igitur contra naturalem instinctum
+<lb ed="#L" n="62"/>speciei humanae quod mulier a viro separetur.
+<lb ed="#L" n="63"/>Sic igitur non solum diuturnam, sed etiam 
+indi<lb ed="#L" break="no" n="64"/>viduam oportet esse in humana specie maris et
+<lb ed="#L" n="65"/>feminae coniunctionem.
+</p>
+            <p xml:id="v8naTA-d1e2712-d1e253">
+               <lb ed="#L" n="66"/>Amplius. Amicitia, quanto maior, tanto est 
+fir<lb ed="#L" break="no" n="67"/>mior et diuturnior. Inter virum autem et uxorem
+<lb ed="#L" n="68"/>maxima amicitia esse videtur: adunantur enim
+<lb ed="#L" n="69"/>non solum in actu carnalis copulae, quae etiam
+<lb ed="#L" n="70"/>inter bestias quandam suavem societatem facit,
+<lb ed="#L" n="71"/>sed etiam ad totius domesticae conversationis 
+con<lb ed="#L" break="no" n="72"/>sortium ;. unde, in signum huius, homo propter
+<lb ed="#L" n="73"/>uxorem etiam patrem et matrem dimittit, ut. 
+di<lb ed="#L" break="no" n="74"/>citur Gen. 1^. Conveniens igitur est quod 
+ma<lb ed="#L" break="no" n="75"/>trimonium sit omnino indissolubile.
+</p>
+            <p xml:id="v8naTA-d1e2712-d1e277">
+               <lb ed="#L" n="76"/>Ulterius autem considerandum est quod inter
+<lb ed="#L" n="77"/>naturales actus sola generatio ad bonum 
+com<lb ed="#L" break="no" n="78"/>mune ordinatur: nam comestio, et aliarum 
+super<lb ed="#L" break="no" n="79"/>fluitatum emissio, ad individuum pertinent; 
+ge<lb ed="#L" break="no" n="80"/>neratio vero ad conservationem speciei. Unde,
+<lb ed="#L" n="81"/>cum lex instituatur ad bonum commune, ea quae
+<lb ed="#L" n="82"/>pertinent ad generationem, prae aliis oportet 
+le<lb ed="#L" break="no" n="83"/>gibus ordinari et divinis et humanis. Leges autem
+<lb ed="#L" n="84"/>positae oportet quod ex naturali instinctu. 
+pro<lb ed="#L" break="no" n="85"/>cedant, si humanae sunt: sicut etiam in scientiis
+<lb ed="#L" n="86"/>demonstrativis omnis humana inventio ex 
+prin<lb ed="#L" break="no" n="87"/>cipiis naturaliter cognitis initium sumit. Si autem
+<lb ed="#L" n="88"/>divinae sunt, non solum instinctum naturae 
+expli<lb ed="#L" break="no" n="89"/>cant, sed etiam defectum naturalis instinctus 
+sup<lb ed="#L" break="no" n="90"/>plent: sicut ea quae divinitus revelantur, superant
+<lb ed="#L" n="91"/>naturalis rationis capacitatem. Cum igitur 
+instin<lb ed="#L" break="no" n="92"/>ctus naturalis sit in specie humana ad hoc quod
+<lb ed="#L" n="93"/>coniunctio maris et feminae sit individua, et quod
+<lb ed="#L" n="94"/>sit una unius, oportuit hoc lege humana 
+ordina<lb ed="#L" break="no" n="95"/>tum esse. Lex autem divina supernaturalem 
+quan<lb ed="#L" break="no" n="96"/>dam rationem apponit ex significatione 
+inseparabi<lb ed="#L" break="no" n="97"/>lis coniunctionis Christi et Ecclesiae, quae est una
+<lb ed="#L" n="98"/>unius. Sic igitur inordinationes circa actum gene- 
+<pb ed="#L" n="383"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>rationis non solum instinctui naturali repugnant,
+<lb ed="#L" n="2"/>sed etiam leges divinas et humanas 
+transgrediun<lb ed="#L" break="no" n="3"/>tur. Unde circa hoc magis ex inordinatione 
+pec<lb ed="#L" break="no" n="4"/>catur quam circa sumptionem cibi, aut alterius
+<lb ed="#L" n="5"/>huiusmodi.
+</p>
+            <p xml:id="v8naTA-d1e2712-d1e345">
+               <lb ed="#L" n="6"/>Quia vero necesse est ad id quod est optimum
+<lb ed="#L" n="7"/>in homine, alia omnia ordinari, coniunctio maris
+<lb ed="#L" n="8"/>et feminae non solum sic ordinata est legibus
+<lb ed="#L" n="9"/>secundum. quod ad prolem generandam pertinet,
+<lb ed="#L" n="10"/>ut est in aliis animalibus, sed etiam secundum
+<lb ed="#L" n="11"/>quod convenit ad. bonos mores, quos ratio recta
+<lb ed="#L" n="12"/>disponit vel quantum ad hominem secundum se,
+<lb ed="#L" n="13"/>vel secundum quod homo est pars domesticae
+<lb ed="#L" n="14"/>familiae, aut civilis societatis. Ad quos quidem
+<lb ed="#L" n="15"/>bonos. mores pertinet individua coniunctio maris
+<lb ed="#L" n="16"/>et feminae. Sic enim erit fidelior amor unius ad
+<lb ed="#L" n="17"/>alterum, dum cognoscunt se indivisibiliter 
+coniun<lb ed="#L" break="no" n="18"/>ctos. Erit etiam utrique sollicitior cura in rebus
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="19"/>domesticis, dum se perpetuo commansuros in
+<lb ed="#L" n="20"/>earundem rerum possessione existimant. 
+Subtra<lb ed="#L" break="no" n="21"/>huntur etiam ex hoc T discordiarum origines, quas
+<lb ed="#L" n="22"/>oporteret accidere, si vir uxorem dimitteret, inter
+<lb ed="#L" n="23"/>eum et propinquos uxoris: et fit firmior inter
+<lb ed="#L" n="24"/>affines dilectio. Tolluntur etiam adulteriorum 
+oc<lb ed="#L" break="no" n="25"/>casiones, quae darentur si vir uxorem dimittere
+<lb ed="#L" n="26"/>posset, aut e converso: per hoc enim daretur via
+<lb ed="#L" n="27"/>facilior sollicitandi matrimonia aliena.
+</p>
+            <p xml:id="v8naTA-d1e2712-d1e398">
+               <lb ed="#L" n="28"/>Hinc est quod dicitur Matth. v?, et xix?,
+<lb ed="#L" n="29"/>et I Cor. vi: Ego autem dico vobis, uxorem a
+<lb ed="#L" n="30"/>viro non discedere.
+</p>
+            <p xml:id="v8naTA-d1e2712-d1e407">
+               <lb ed="#L" n="31"/>Per hoc autem excluditur consuetudo 
+dimit<lb ed="#L" break="no" n="32"/>tentium uxores. Quod tamen in veteri lege 
+per<lb ed="#L" break="no" n="33"/>missum. fuit ludaeis propter eorum duritiam 
+<lb ed="#L" n="34"/>quia scilicet proni erant ad occisionem uxorum.
+<lb ed="#L" n="35"/>Permissum ergo fuit minus malum, ad 
+excluden<lb ed="#L" break="no" n="36"/>dum maius malum.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

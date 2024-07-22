@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 24</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 24</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="62"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1904"><!-- v8naTA-l3c24 -->
+            <head xml:id="v8naTA-d1e1904-Hd1e101">Capitulum 24</head>
+            <head xml:id="v8naTA-d1e1904-Hd1e103" type="question-title">Quomodo appetunt bonum etiam quae cognitione carent.</head>
+            <p xml:id="v8naTA-d1e1904-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="41" type="fixed=62"/>CAPITULUM VIGESIMUM QUARTUM
+<lb ed="#L" n="42"/>QUOMODO APPETUNT BONUM ETIAM QUAE COGNITIONE CARENT.
+</p>
+            <p xml:id="v8naTA-d1e1904-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="43"/>Si autem corpus caeleste a substantia 
+in<lb ed="#L" break="no" n="44"/>tellectuali movetur, ut ostensum est ;
+<lb ed="#L" n="45"/>motus autem corporis caelestis 
+ordi<lb ed="#L" break="no" n="46"/>natur ad generationem in inferioribus:
+<lb ed="#L" n="47"/>necesse est quod generationes et motus istorum
+<lb ed="#L" n="48"/>inferiorum procedant ex intentione substantiae
+<lb ed="#L" n="49"/>intelligentis. In idem enim fertur intentio 
+princi<lb ed="#L" break="no" n="50"/>palis agentis, et instrumenti. Caelum autem est
+<lb ed="#L" n="51"/>causa inferiorum motuum secundum suum 
+mo<lb ed="#L" break="no" n="52"/>tum, quo movetur a substantia intellectuali. 
+Se<lb ed="#L" break="no" n="53"/>quitur ergo quod sit sicut instrumentum 
+intel<lb ed="#L" break="no" n="54"/>lectualis substantiae. Sunt igitur formae et motus
+<lb ed="#L" n="55"/>inferiorum corporum a substantia intellectuali
+<lb ed="#L" n="56"/>causatae et intentae sicut a principali agente, a
+<lb ed="#L" n="57"/>corpore vero caelesti sicut ab instrumento.
+<lb ed="#L" n="58"/>Oportet autem quod species eorum. quae 
+cau<lb ed="#L" break="no" n="59"/>santur et intenduntur ab intellectuali agente,
+<lb ed="#L" n="60"/>praeexistant in intellectu ipsius: sicut formae 
+ar<lb ed="#L" break="no" n="61"/>tificiatorum praeexistunt in intellectu artificis, et
+<lb ed="#L" n="62"/>ex eis deriventur in effectus. Omnes igitur 
+for<lb ed="#L" break="no" n="63"/>mae quae sunt in istis inferioribus, et omnes
+<lb ed="#L" n="64"/>motus, derivantur a formis intellectualibus quae
+<lb ed="#L" n="65"/>sunt in intellectu alicuius substantiae, vel 
+ali<lb ed="#L" break="no" n="66"/>quarum. Et propter hoc dicit <ref xml:id="v8naTA-d1e1904-Rd1e171">Boetius, in libro
+<lb ed="#L" n="67"/>de Trin.</ref>, quod formae quae sunt in materia,
+<lb ed="#L" n="68"/>venerunt a formis quae sunt sine materia. Et
+<lb ed="#L" n="69"/>quantum ad hoc verificatur dictum Platonis ,
+<lb ed="#L" n="70"/>quod formae separatae sunt principia formarum
+<lb ed="#L" n="71"/>quae sunt in materia: licet Plato posuerit eas
+<lb ed="#L" n="72"/>per se subsistentes, et causantes immediate formas
+<lb ed="#L" n="73"/>sensibilium; nos vero ponamus eas in intellectu 
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="74"/>existentes, et causantes formas inferiores per
+<lb ed="#L" n="75"/>motum caeli.
+</p>
+            <p xml:id="v8naTA-d1e1904-d1e196">
+               <lb ed="#L" n="76"/>Quia vero omne quod movetur » aliquo per
+<lb ed="#L" n="77"/>se, non secundum accidens, dirigitur ab eo in
+<lb ed="#L" n="78"/>finem sui motus; corpus autem caeleste movetur
+<lb ed="#L" n="79"/>a substantia intellectuali; corpus autem caeleste
+<lb ed="#L" n="80"/>causat per sui motum omnes motus in istis 
+in<lb ed="#L" break="no" n="81"/>ferioribus: necessarium est quod corpus caeleste
+<lb ed="#L" n="82"/>dirigatur in finem sui motus per substantiam 
+in<lb ed="#L" break="no" n="83"/>tellectualem, et per consequens omnia inferiora
+<lb ed="#L" n="84"/>corpora in proprios fines.
+</p>
+            <p xml:id="v8naTA-d1e1904-d1e219">
+               <lb ed="#L" n="85"/>Sic igitur non est difficile videre qualiter 
+na<lb ed="#L" break="no" n="86"/>turalia corpora cognitione carentia moveantur et
+<lb ed="#L" n="87"/>agant propter finem. Tendunt enim in finem
+<lb ed="#L" n="88"/>Sicut directa in finem a substantia intelligente, 
+<lb ed="#L" n="89"/>per modum quo sagitta tendit ad signum. directa
+<lb ed="#L" n="90"/>a sagittante. Sicut enim sagitta consequitur 
+incli<lb ed="#L" break="no" n="91"/>nationem ad finem determinatum ex impulsione
+<lb ed="#L" n="92"/>sagittantis, ita corpora naturalia consequuntur 
+in<lb ed="#L" break="no" n="93"/>clinationem in fines naturales ex moventibus 
+na<lb ed="#L" break="no" n="94"/>turalibus, ex quibus sortiuntur suas formas et
+<lb ed="#L" n="95"/>virtutes et motus.
+</p>
+            <p xml:id="v8naTA-d1e1904-d1e245">
+               <lb ed="#L" n="96"/>Unde etiam patet quod quodlibet opus naturae
+<lb ed="#L" n="97"/>est opus substantiae intelligentis: nam effectus
+<lb ed="#L" n="98"/>principalius attribuitur primo moventi dirigenti in
+<lb ed="#L" n="99"/>finem,quam instrumentis ab eo directis. Et propter
+<lb ed="#L" n="100"/>hoc operationes naturae inveniuntur ordinate 
+pro<lb ed="#L" break="no" n="101"/>cedere ad finem, sicut operationes sapientis.
+</p>
+            <p xml:id="v8naTA-d1e1904-d1e261">
+               <lb ed="#L" n="102"/>Planum igitur fit quod ea etiam quae 
+cogni<lb ed="#L" break="no" n="103"/>tione carent, possunt operari propter finem; et
+<lb ed="#L" n="104"/>appetere bonum naturali appetitu; et appetere
+<pb ed="#L" n="63"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>divinam similitudinem; et propriam perfectionem.
+<lb ed="#L" n="2"/>Non est autem differentia sive hoc sive illud 
+di<lb ed="#L" break="no" n="3"/>catur. Nam per hoc quod tendunt in suam 
+perfe<lb ed="#L" break="no" n="4"/>ctionem, tendunt ad bonum: cum unumquodque
+<lb ed="#L" n="5"/>in tantum bonum sit in quantum est perfectum.
+<lb ed="#L" n="6"/>Secundum vero quod tendit ad hoc quod sit
+<lb ed="#L" n="7"/>bonum, tendit in divinam similitudinem: Deo
+<lb ed="#L" n="8"/>enim assimilatur aliquid inquantum bonum est.
+<lb ed="#L" n="9"/>Bonum autem hoc vel illud particulare habet
+<lb ed="#L" n="10"/>quod sit appetibile inquantum est similitudo 
+pri<lb ed="#L" break="no" n="11"/>mae bonitatis. Propter hoc igitur tendit in 
+pro<lb ed="#L" break="no" n="12"/>prium bonum, quia tendit in divinam 
+similitu<lb ed="#L" break="no" n="13"/>dinem, et non e converso. Unde patet quod
+<lb ed="#L" n="14"/>omnia appetunt divinam similitudinem quasi 
+ul<lb ed="#L" break="no" n="15"/>timum finem.
+</p>
+            <p xml:id="v8naTA-d1e1904-d1e307">
+               <lb ed="#L" n="16"/>Bonum autem suum cuiuslibet rei potest 
+ac<lb ed="#L" break="no" n="17"/>cipi multipliciter. Uno quidem modo, secundum
+<lb ed="#L" n="18"/>quod est eius proprium ratione individui. Et sic
+<lb ed="#L" n="19"/>appetit animal suum bonum cum appetit cibum,
+<lb ed="#L" n="20"/>quo in esse conservatur. — Alio modo, secundum
+<lb ed="#L" n="21"/>quod est eius ratione speciei. Et sic appetit 
+pro<lb ed="#L" break="no" n="22"/>prium bonum animal inquantum appetit 
+gene<lb ed="#L" break="no" n="23"/>rationem prolis et eius nutritionem, vel quicquid
+<lb ed="#L" n="24"/>aliud operetur ad conservationem vel 
+defensio<lb ed="#L" break="no" n="25"/>nem individuorum suae speciei. — Tertio vero
+<lb ed="#L" n="26"/>modo, ratione generis. Et sic appetit proprium
+<lb ed="#L" n="27"/>bonum in causando agens aequivocum: sicut
+<lb ed="#L" n="28"/>caelum. - Quarto autem modo, ratione 
+similitu<lb ed="#L" break="no" n="29"/>dinis analogiae principiatorum ad suum 
+princi<lb ed="#L" break="no" n="30"/>pium. Et sic Deus, qui est extra genus, propter
+<lb ed="#L" n="31"/>suum bonum omnibus rebus dat esse. 
+</p>
+            <p xml:id="v8naTA-d1e1904-d1e344">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="32"/>Ex quo patet quod quanto aliquid est 
+perfe<lb ed="#L" break="no" n="33"/>ctioris virtutis, et eminentius in gradu bonitatis,
+<lb ed="#L" n="34"/>tanto appetitum boni communiorem habet, et
+<lb ed="#L" n="35"/>magis in distantibus a se bonum quaerit et 
+ope<lb ed="#L" break="no" n="36"/>ratur. Nam imperfecta ad solum bonum 
+pro<lb ed="#L" break="no" n="37"/>prii individui tendunt; perfecta vero ad bonum
+<lb ed="#L" n="38"/>speciei; perfectiora vero ad bonum generis; Deus
+<lb ed="#L" n="39"/>autem, qui est perfectissimus in bonitate, ad 
+bo<lb ed="#L" break="no" n="40"/>num totius entis. Unde non immerito dicitur a
+<lb ed="#L" n="41"/>quibusdam quod bonum, inquantum huiusmodi,
+<lb ed="#L" n="42"/>est diffusivum : quia quanto aliquid invenitur 
+me<lb ed="#L" break="no" n="43"/>lius, tanto ad remotiora bonitatem suam 
+dif<lb ed="#L" break="no" n="44"/>fundit. Et quia in quolibet genere quod est 
+per<lb ed="#L" break="no" n="45"/>fectissimum est. exemplar et mensura omnium
+<lb ed="#L" n="46"/>quae sunt illius generis, oportet quod Deus,
+<lb ed="#L" n="47"/>qui est in bonitate perfectissimus et suam 
+boni<lb ed="#L" break="no" n="48"/>tatem communissime diffundens, in sua 
+diffu<lb ed="#L" break="no" n="49"/>sione sit exemplar omnium bonitatem diffunden- -
+<lb ed="#L" n="50"/>tium. Inquantum autem unumquodque bonitatem
+<lb ed="#L" n="51"/>diffundit in alia, fit aliorum causa. Hinc etiam
+<lb ed="#L" n="52"/>patet quod unumquodque tendens ad hoc quod
+<lb ed="#L" n="53"/>sit aliorum causa, tendit in divinam 
+similitudi<lb ed="#L" break="no" n="54"/>nem, et nihilominus tendit in suum bonum.
+<lb ed="#L" n="55"/>Non est ergo inconveniens si motus 
+corpo<lb ed="#L" break="no" n="56"/>rum caelestium, et actiones motorum eorum, 
+di<lb ed="#L" break="no" n="57"/>cantur esse aliqualiter propter haec corpora quae
+<lb ed="#L" n="58"/>generantur et corrumpuntur, quae sunt eis 
+indi<lb ed="#L" break="no" n="59"/>gniora. Non enim sunt propter haec sicut 
+pro<lb ed="#L" break="no" n="60"/>pter ultimum finem: sed, intendentes horum 
+ge<lb ed="#L" break="no" n="61"/>nerationem, intendunt suum bonum, et divinam
+<lb ed="#L" n="62"/>similitudinem tanquam ultimum finem.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

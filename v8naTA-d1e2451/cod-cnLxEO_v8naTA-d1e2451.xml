@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 91</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 91</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="277"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2451"><!-- v8naTA-l3c91 -->
+            <head xml:id="v8naTA-d1e2451-Hd1e101">Capitulum 91</head>
+            <head xml:id="v8naTA-d1e2451-Hd1e103" type="question-title">Quomodo res humanae ad superiores causas reducantur.</head>
+            <p xml:id="v8naTA-d1e2451-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="91" type="fixed=277"/>CAPITULUM NONAGESIMUM PRIMUM
+<lb ed="#L" n="92"/>QUOMODO RES HUMANAE AD SUPERIORES CAUSAS REDUCANTUR.
+</p>
+            <p xml:id="v8naTA-d1e2451-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="93"/>EX his ergo quae supra ostensa sunt,
+<lb ed="#L" n="94"/>colligere possumus quomodo humana
+<lb ed="#L" n="95"/>ad superiores causas reducuntur, et
+<lb ed="#L" n="96"/>non aguntur fortuito.
+</p>
+            <p xml:id="v8naTA-d1e2451-d1e128">
+               <lb ed="#L" n="97"/>Nam electiones et voluntatum motus 
+imme<lb ed="#L" break="no" n="98"/>diate a Deo disponuntur . Cognitio vero humana
+<lb ed="#L" n="99"/>ad intellectum pertinens a Deo mediantibus 
+an<lb ed="#L" break="no" n="100"/>gelis ordinatur . Ea vero quae ad corporalia
+<lb ed="#L" n="101"/>pertinent, sive sint interiora sive exteriora, in usum
+<lb ed="#L" n="102"/>hominis venientia, a Deo mediantibus angelis et
+<lb ed="#L" n="103"/>caelestibus corporibus dispensantur.
+</p>
+            <p xml:id="v8naTA-d1e2451-d1e147">
+               <lb ed="#L" n="104"/>Huius autem ratio generaliter una est. Nam
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="105"/>oportet omne multiforme, et mutabile, et deficere
+<lb ed="#L" n="106"/>potens, reduci sicut in principium in aliquod
+<lb ed="#L" n="107"/>uniforme, et immobile, et deficere non valens.
+<lb ed="#L" n="108"/>Omnia autem quae in nobis sunt, inveniuntur
+<lb ed="#L" n="109"/>esse multiplicia, variabilia, et defectibilia.
+</p>
+            <p xml:id="v8naTA-d1e2451-d1e165">
+               <lb ed="#L" n="110"/>Patet enim quod electiones nostrae 
+multipli<lb ed="#L" break="no" n="111"/>citatem habent: cum in diversis et a diversis 
+di<lb ed="#L" break="no" n="112"/>versa eligantur. Mutabiles etiam sunt: tum propter
+<lb ed="#L" n="113"/>animi levitatem, qui non est firmatus in ultimo
+<lb ed="#L" n="114"/>fine; tum etiam propter mutationem rerum quae
+<lb ed="#L" n="115"/>nos extra circumstant. Quod autem defectibiles
+<lb ed="#L" n="116"/>sint, hominum peccata testantur. — Divina autem
+<pb ed="#L" n="278"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>voluntas uniformis est, quia unum volendo, omnia
+<lb ed="#L" n="2"/>alia vult; et immutabilis et indeficiens; ut in Primo
+<lb ed="#L" n="3"/>ostensum est . Oportet ergo omnium voluntatum
+<lb ed="#L" n="4"/>et electionum motus in divinam voluntatem 
+re<lb ed="#L" break="no" n="5"/>duci. Non autem in aliquam aliam causam: quia
+<lb ed="#L" n="6"/>solus Deus nostrarum voluntatum et electionum
+<lb ed="#L" n="7"/>causa est .
+</p>
+            <p xml:id="v8naTA-d1e2451-d1e202">
+               <lb ed="#L" n="8"/>Similiter autem intelligentia nostra 
+multiplica<lb ed="#L" break="no" n="9"/>tionem habet: quia ex multis sensibilibus 
+veri<lb ed="#L" break="no" n="10"/>tatem intelligibilem quasi congregamus. Est etiam
+<lb ed="#L" n="11"/>mutabilis: quia ex uno in aliud discurrendo 
+pro<lb ed="#L" break="no" n="12"/>cedit, ex notis ad ignota proveniens. Est etiam
+<lb ed="#L" n="13"/>defectibilis, propter permixtionem phantasiae et
+<lb ed="#L" n="14"/>sensus: ut errores hominum ostendunt. — 
+Ange<lb ed="#L" break="no" n="15"/>lorum autem cognitiones sunt uniformes: quia
+<lb ed="#L" n="16"/>ab ipso uno veritatis fonte, scilicet Deo, accipiunt
+<lb ed="#L" n="17"/>veritatis cognitionem . Est etiam immobilis: quia
+<lb ed="#L" n="18"/>non discurrendo ab effectibus in causas, aut e
+<lb ed="#L" n="19"/>converso, sed simplici intuitu puram veritatem de
+<lb ed="#L" n="20"/>rebus intuentur . Est etiam indefectibilis: cum
+<lb ed="#L" n="21"/>ipsas rerum naturas seu quidditates intueantur
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="22"/>per seipsas, circa quas non potest intellectus
+<lb ed="#L" n="23"/>errare, sicut nec sensus Circa propria sensibilia.
+<lb ed="#L" n="24"/>Nos autem quidditates rerum ex accidentibus et
+<lb ed="#L" n="25"/>effectibus coniectamus. Oportet ergo quod nostra
+<lb ed="#L" n="26"/>intellectualis cognitio reguletur per angelorum
+<lb ed="#L" n="27"/>cognitionem.
+</p>
+            <p xml:id="v8naTA-d1e2451-d1e250">
+               <lb ed="#L" n="28"/>Rursus, de corporibus humanis, et exterioribus
+<lb ed="#L" n="29"/>quibus homines utuntur, manifestum est quod
+<lb ed="#L" n="30"/>est in eis multiplicitas commixtionis et 
+contra<lb ed="#L" break="no" n="31"/>rietatis; et quod non semper eodem modo 
+mo<lb ed="#L" break="no" n="32"/>ventur, quia motus eorum non possunt esse
+<lb ed="#L" n="33"/>continui; et quod defectibilia sunt per alterationem
+<lb ed="#L" n="34"/>et corruptionem. - Corpora autem caelestia sunt
+<lb ed="#L" n="35"/>uniformia, utpote simplicia et absque omni 
+con<lb ed="#L" break="no" n="36"/>trarietate existentia. Motus etiam eorum sunt
+<lb ed="#L" n="37"/>uniformes, continui, et semper eodem modo se
+<lb ed="#L" n="38"/>habentes. Nec in eis potest esse corruptio aut
+<lb ed="#L" n="39"/>alteratio. Unde necessarium est quod corpora
+<lb ed="#L" n="40"/>nostra, et alia quae in usum nostrum veniunt,
+<lb ed="#L" n="41"/>per motus caelestium corporum regulentur.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

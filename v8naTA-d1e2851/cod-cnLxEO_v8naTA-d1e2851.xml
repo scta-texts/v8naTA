@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 140</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 140</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="422"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2851"><!-- v8naTA-l3c140 -->
+            <head xml:id="v8naTA-d1e2851-Hd1e101">Capitulum 140</head>
+            <head xml:id="v8naTA-d1e2851-Hd1e103" type="question-title">Quod actus hominis puniuntur vel praemiantur a deo.</head>
+            <p xml:id="v8naTA-d1e2851-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="14" type="fixed=422"/>CAPITULUM CENTESIMUM QUADRAGESIMUM
+<lb ed="#L" n="15"/>QUOD ACTUS HOMINIS PUNIUNTUR VEL PRAEMIANTUR A DEO.
+</p>
+            <p xml:id="v8naTA-d1e2851-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="16"/>Ex praemissis autem manifestum est quod
+<lb ed="#L" n="17"/>actus hominis puniuntur vel 
+praemian<lb ed="#L" break="no" n="18"/>tur a Deo.
+</p>
+            <p xml:id="v8naTA-d1e2851-d1e126">
+               <lb ed="#L" n="19"/>Eius enim est punire vel praemiare
+<lb ed="#L" n="20"/>cuius est legem imponere: legis enim latores per :
+<lb ed="#L" n="21"/>praemia et poenas ad observantiam legis 
+indu<lb ed="#L" break="no" n="22"/>cunt. Sed ad divinam providentiam pertinet ut
+<lb ed="#L" n="23"/>legem hominibus poneret, ut ex supra  dictis
+<lb ed="#L" n="24"/>patet. Ergo ad Deum pertinet homines punire
+<lb ed="#L" n="25"/>vel praemiare.
+</p>
+            <p xml:id="v8naTA-d1e2851-d1e145">
+               <lb ed="#L" n="26"/>Praeterea. Ubicumque est aliquis debitus ordo
+<lb ed="#L" n="27"/>ad finem, oportet quod ordo ille ad finem ducat,
+<lb ed="#L" n="28"/>recessus autem ab ordine finem excludat: ea enim
+<lb ed="#L" n="29"/>quae sunt ex fine, necessitatem sortiuntur ex
+<lb ed="#L" n="30"/>fine;.ut scilicet ea necesse sit esse, si finis debeat
+<lb ed="#L" n="31"/>sequi; et eis absque impedimento existentibus,
+<lb ed="#L" n="32"/>finis consequatur. Deus autem imposuit actibus
+<lb ed="#L" n="33"/>hominum ordinem aliquem in respectu ad finem
+<lb ed="#L" n="34"/>boni, ut ex praedictis  patet. Oportet igitur quod,
+<lb ed="#L" n="35"/>si ordo ille :recte positus est, quod incedentes per
+<lb ed="#L" n="36"/>illum ordinem finem boni consequantur, quod est
+<lb ed="#L" n="37"/>praemiari: recedentes autem ab illo ordine per
+<lb ed="#L" n="38"/>peccatum, a fine boni excludi, quod est puniri.
+</p>
+            <p xml:id="v8naTA-d1e2851-d1e176">
+               <lb ed="#L" n="39"/>Adhuc. Sicut res naturales ordini divinae 
+pro<lb ed="#L" break="no" n="40"/>videntiae subduntur, ita et actus humani, ut ex ?
+<lb ed="#L" n="41"/>praedictis  patet. Utrobique autem contingit 
+de<lb ed="#L" break="no" n="42"/>bitum ordinem servari, vel etiam praetermitti :
+<lb ed="#L" n="43"/>hoc tamen interest, quod observatio vel 
+trans<lb ed="#L" break="no" n="44"/>gressio debiti ordinis est in potestate humanae
+<lb ed="#L" n="45"/>voluntatis constituta; non autem in potestate 
+na<lb ed="#L" break="no" n="46"/>turallum rerum est quod a debito ordine 
+defi<lb ed="#L" break="no" n="47"/>ciant vel ipsum sequantur. Oportet autem 
+effe<lb ed="#L" break="no" n="48"/>ctus causis per convenientiam respondere. Sicut
+<lb ed="#L" n="49"/>igitur, res naturales, cum in eis debitus ordo 
+na<lb ed="#L" break="no" n="50"/>turalium principiorum et actionum servatur, 
+se<lb ed="#L" break="no" n="51"/>quitur ex necessitate naturae conservatio etbonum
+<lb ed="#L" n="52"/>in ipsis, corruptio autem et malum cum a debito
+<lb ed="#L" n="53"/>et naturali ordine receditur; ita etiam in rebus
+<lb ed="#L" n="54"/>humanis oportet quod, cum homo. voluntarie
+<lb ed="#L" n="55"/>servat ordinem legis divinitus impositae, 
+conse<lb ed="#L" break="no" n="56"/>quatur bonum, non velut ex necessitate, sed ex
+<lb ed="#L" n="57"/>dispensatione gubernantis, quod est praemiari;
+<lb ed="#L" n="58"/>et e converso malum, cum ordo legis fuerit 
+prae<lb ed="#L" break="no" n="59"/>termissus, et hoc est puniri.
+</p>
+            <p xml:id="v8naTA-d1e2851-d1e224">
+               <cb ed="#L" n="e"/>
+               <lb ed="#L" n="60"/>Amplius. Ad perfectam Dei bonitatem pertinet
+<lb ed="#L" n="61"/>quod nihil in rebus inordinatum relinquat: unde in
+<lb ed="#L" n="62"/>rebus naturalibus videmus contingere quod omne
+<lb ed="#L" n="63"/>malum sub ordine alicuius boni concluditur; sicut
+<lb ed="#L" n="64"/>corruptio aeris est ignis generatio, et occisio ovis
+<lb ed="#L" n="65"/>est pastus lupi. Cum igitur actus humani divinae
+<lb ed="#L" n="66"/>providentiae subdantur, sicut et res naturales;
+<lb ed="#L" n="67"/>oportet malum quod accidit in humanis actibus,
+<lb ed="#L" n="68"/>sub ordine alicuius boni concludi. Hoc autem
+<lb ed="#L" n="69"/>convenientissime fit per hoc quod peccata 
+pu<lb ed="#L" break="no" n="70"/>niuntur. Sic enim sub ordine iustitiae, quae ad
+<lb ed="#L" n="71"/>aequalitatem reducit, comprehenduntur ea quae
+<lb ed="#L" n="72"/>debitam quantitatem excedunt. Excedit autem
+<lb ed="#L" n="73"/>homo debitum suae quantitatis gradum dum 
+vo<lb ed="#L" break="no" n="74"/>luntatem suam divinae voluntati praefert, 
+satisfa<lb ed="#L" break="no" n="75"/>ciendo ei contra ordinationem Dei. Quae quidem
+<lb ed="#L" n="76"/>inaequalitas tollitur dum, contra voluntatem suam, .
+<lb ed="#L" n="77"/>homo aliquid pati cogitur secundum ordinationem
+<lb ed="#L" n="78"/>divinam. Oportet igitur quod peccata humana
+<lb ed="#L" n="79"/>puniantur divinitus: et, eadem ratione, bona facta
+<lb ed="#L" n="80"/>remunerationem accipiant.
+</p>
+            <p xml:id="v8naTA-d1e2851-d1e274">
+               <lb ed="#L" n="81"/>Item. Divina providentia non solum disponit
+<lb ed="#L" n="82"/>rerum ordinem, sed etiam movet omnia ad 
+or<lb ed="#L" break="no" n="83"/>dinis ab eo dispositi executionem, ut supra 
+<lb ed="#L" n="84"/>ostensum est. Voluntas autem a suo obiecto 
+mo<lb ed="#L" break="no" n="85"/>vetur, quod est bonum vel malum. Ad divinam
+<lb ed="#L" n="86"/>igitur providentiam pertinet quod hominibus bona
+<lb ed="#L" n="87"/>proponat in praemium, ut voluntas ad recte 
+pro<lb ed="#L" break="no" n="88"/>cedendum moveatur: et mala proponat in 
+poe<lb ed="#L" break="no" n="89"/>nam, ad hoc quod inordinationem vitet.
+</p>
+            <p xml:id="v8naTA-d1e2851-d1e296">
+               <lb ed="#L" n="90"/>Praeterea. Divina providentia hoc modo res
+<lb ed="#L" n="91"/>ordinavit quod una alteri prosit . 
+Convenientis<lb ed="#L" break="no" n="92"/>sime autem homo proficit ad finem boni tam
+<lb ed="#L" n="93"/>ex bono alterius hominis quam ex malo, dum
+<lb ed="#L" n="94"/>excitatur ad bene agendum per hoc quod videt
+<lb ed="#L" n="95"/>bene operantes praemiari; et dum revocatur a
+<lb ed="#L" n="96"/>male agendo per hoc quod videt male agentes
+<lb ed="#L" n="97"/>puniri. Ad divinam igitur providentiam pertinet
+<lb ed="#L" n="98"/>quod mali puniantur, et boni praemientur.
+</p>
+            <p xml:id="v8naTA-d1e2851-d1e318">
+               <lb ed="#L" n="99"/>Hinc est quod dicitur Exod. xx?: Ego sum
+<lb ed="#L" n="100"/>Deus tuus, visitans iniquitatem patrum in filios, el
+<lb ed="#L" n="101"/>faciens misericordiam his qui diligunt me et 
+cu<lb ed="#L" break="no" n="102"/>stodiunt praecepta mea. Et in Psalmo : Zw reddes
+<lb ed="#L" n="103"/>unicuique iuxta opera sua. Et Rom. n^: Reddet
+<pb ed="#L" n="423"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>unicuique secundum opera sua: his quidem qui
+<lb ed="#L" n="2"/>sunt secundum patientiam boni operis, gloriam etl
+<lb ed="#L" n="3"/>honorem; his autem qui non acquiescunt veritati,
+<lb ed="#L" n="4"/>credunt autem iniquitati, iram et indignationem.
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="5"/>Per hoc autem excluditur error quorundam
+<lb ed="#L" n="6"/>dicentium quod Deus non punit. Dicebant enim
+<lb ed="#L" n="7"/>Marcion et. Valentinus alium esse Deum bonum:
+<lb ed="#L" n="8"/>et alium esse Deum iustum, qui punit .
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

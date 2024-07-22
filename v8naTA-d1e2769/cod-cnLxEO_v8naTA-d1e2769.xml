@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 130</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 130</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="396"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2769"><!-- v8naTA-l3c130 -->
+            <head xml:id="v8naTA-d1e2769-Hd1e101">Capitulum 130</head>
+            <head xml:id="v8naTA-d1e2769-Hd1e103" type="question-title">De consiliis quae dantur in lege divina.</head>
+            <p xml:id="v8naTA-d1e2769-d1e106">
+               <pb ed="#L" n="396"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=396"/>CAPITULUM CENTESIMUM TRIGESIMUM
+<lb ed="#L" n="2"/>DE CONSILIIS QUAE DANTUR IN LEGE DIVINA.
+</p>
+            <p xml:id="v8naTA-d1e2769-d1e117">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="3"/>QUIA vero optimum hominis est ut mente
+<lb ed="#L" n="4"/>Deo adhaereat et rebus divinis; 
+im<lb ed="#L" break="no" n="5"/>possibile autem est quod homo intense
+<lb ed="#L" n="6"/>liberius feratur in Deum mens hominis, dantur in
+<lb ed="#L" n="7"/>divina lege consilia, quibus homines ab 
+occupatio<lb ed="#L" break="no" n="8"/>nibus praesentis vitae retrahantur, quantum 
+possi<lb ed="#L" break="no" n="9"/>bile est terrenam vitam agenti. Hoc autem non est
+<lb ed="#L" n="10"/>ita necessarium homini ad iustitiam ut sine eo
+<lb ed="#L" n="11"/>iustitia esse non possit: non enim virtus et iustitia
+<lb ed="#L" n="12"/>tollitur si homo secundum ordinem rationis 
+cor<lb ed="#L" break="no" n="13"/>poralibus et terrenis rebus utatur. Et ideo 
+huius<lb ed="#L" break="no" n="14"/>modi divinae legis admonitiones dicuntur 
+cor<lb ed="#L" break="no" n="15"/>silia, non praecepta, inquantum suadetur homini
+<lb ed="#L" n="16"/>ut, propter meliora, minus bona praetermittat.
+</p>
+            <p xml:id="v8naTA-d1e2769-d1e152">
+               <lb ed="#L" n="17"/>Occupatur autem humana sollicitudo, 
+secun<lb ed="#L" break="no" n="18"/>dum communem modum humanae vitae, circa
+<lb ed="#L" n="19"/>tria: primo quidem, circa propriam personam,
+<lb ed="#L" n="20"/>quid agat, aut ubi conversetur; secundo autem,
+<lb ed="#L" n="21"/>circa personas sibi coniunctas, praecipue uxorem
+<lb ed="#L" n="22"/>et filios; tertio, circa res exteriores procurandas,
+<lb ed="#L" n="23"/>quibus homo indiget ad sustentationem vitae. Ad
+<lb ed="#L" n="24"/>amputandam igitur sollicitudinem circa res 
+exte<lb ed="#L" break="no" n="25"/>riores, datur in lege divina consilium paupertatis :
+<lb ed="#L" n="26"/>ut scilicet res huius mundi abiiciat, quibus animus
+<lb ed="#L" n="27"/>eius sollicitudine aliqua implicari posset. Hinc est
+<lb ed="#L" n="28"/>quod Dominus dicit, Matth. xix? : Si vis 
+perfe<lb ed="#L" break="no" n="29"/>clus esse, vade, vende omnia quae habes et da
+<lb ed="#L" n="30"/>pauperibus, et. veni, sequere me. — Ad 
+amputan<lb ed="#L" break="no" n="31"/>dam autem sollicitudinem uxoris et filiorum, 
+da<lb ed="#L" break="no" n="32"/>tur homini consilium de virginitate vel continentia.
+<lb ed="#L" n="33"/>Hinc est quod dicitur I Cor. vii: De virginibus
+<lb ed="#L" n="34"/>aulem praeceptum Domini non habeo, consilium
+<lb ed="#L" n="35"/>autem do. Et huius consilii rationem assignans,
+<lb ed="#L" n="36"/>subdit: Qui sine uxore est, sollicilus est. quae
+<lb ed="#L" n="37"/>sunt Domini, quomodo placeat Deo: qui autem
+<lb ed="#L" n="38"/>cum uxore est, sollicitus est quae sunt mundi,
+<lb ed="#L" n="39"/>quomodo placeat uxori, et divisus est. — Ad 
+am<lb ed="#L" break="no" n="40"/>putandam autem sollicitudinem hominis etiam
+<lb ed="#L" n="41"/>circa seipsum, datur consilium obedientiae, per
+<lb ed="#L" n="42"/>quam homo dispositionem suorum actuum 
+supe<lb ed="#L" break="no" n="43"/>riori committit. Propter quod dicitur Zeb. ult. :
+<lb ed="#L" n="44"/>Obedite praepositis vestris et subiacele eis: ipsi
+<lb ed="#L" n="45"/>enim pervigilant, quasi rationem reddituri pro
+<lb ed="#L" n="46"/>animabus vesiris.
+</p>
+            <p xml:id="v8naTA-d1e2769-d1e221">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="47"/>Quia vero summa perfectio humanae vitae
+<lb ed="#L" n="48"/>in hoc consistit quod mens hominis Deo vacet;
+<lb ed="#L" n="49"/>ad hanc autem mentis vacationem praedicta
+<lb ed="#L" n="50"/>tria maxime videntur disponere: convenienter
+<lb ed="#L" n="51"/>ad perfectionis statum pertinere videntur; non
+<lb ed="#L" n="52"/>quasi ipsae sint perfectiones, sed quia sunt 
+dispo<lb ed="#L" break="no" n="53"/>sitiones quaedam ad perfectionem, quae 
+con<lb ed="#L" break="no" n="54"/>sistit in hoc quod Deo vacetur. Et hoc expresse
+<lb ed="#L" n="55"/>ostendunt verba Domini paupertatem suadentis,
+<lb ed="#L" n="56"/>cum dicit , Sj vis perfeclus esse, vade et vende
+<lb ed="#L" n="57"/>omnia quae habes et da pauperibus, et sequere
+<lb ed="#L" n="58"/>me, quasi in sua sequela perfectionem vitae
+<lb ed="#L" n="59"/>constituens.
+</p>
+            <p xml:id="v8naTA-d1e2769-d1e254">
+               <lb ed="#L" n="60"/>Possunt etiam dici perfectionis effectus et signa.
+<lb ed="#L" n="61"/>Cum enim mens vehementer amore et desiderio
+<lb ed="#L" n="62"/>alicuius rei afficitur, consequens est quod alia
+<lb ed="#L" n="63"/>postponat. Ex hoc igitur quod mens hominis
+<lb ed="#L" n="64"/>amore et desiderio ferventer in divina fertur, in
+<lb ed="#L" n="65"/>quo perfectionem constare manifestum est, 
+con<lb ed="#L" break="no" n="66"/>sequitur quod omnia quae ipsum possunt 
+retar<lb ed="#L" break="no" n="67"/>dare quominus feratur in Deum, abiiciat: non
+<lb ed="#L" n="68"/>solum rerum curam, et uxoris et prolis affectum,
+<lb ed="#L" n="69"/>sed etiam sui ipsius. Et hoc significant verba
+<lb ed="#L" n="70"/>Scripturae. Dicitur enim Cant. vin?: Si dederit
+<lb ed="#L" n="71"/>homo omnem substantiam domus suae ad 
+mer<lb ed="#L" break="no" n="72"/>candam dilectionem, quasi nihil computabit eam. Et
+<lb ed="#L" n="73"/>Matth. xui5: Simile est regnum caelorum homini 
+ne<lb ed="#L" break="no" n="74"/>goliatori quaerenti bonas margaritas: inventa autem
+<lb ed="#L" n="75"/>una pretiosa margarita, abiit et vendidit omnia quae
+<lb ed="#L" n="76"/>habuit, et comparavit eam. Et Philipp. u??:. Quae
+<lb ed="#L" n="77"/>mihi aliquando fuerunt lucra, arbitratus sum ut
+<lb ed="#L" n="78"/>stercora, ut Chrislum. lucrifacerem.
+</p>
+            <p xml:id="v8naTA-d1e2769-d1e298">
+               <lb ed="#L" n="79"/>Quia igitur praedicta tria dispositiones ad 
+per<lb ed="#L" break="no" n="80"/>fectionem sunt, et perfectionis effectus et signa,
+<lb ed="#L" n="81"/>convenienter qui praedicta tria Deo vovent, n
+<lb ed="#L" n="82"/>slatu. perfeclionis esse dicuntur.
+</p>
+            <p xml:id="v8naTA-d1e2769-d1e309">
+               <lb ed="#L" n="83"/>Perfectio autem ad quam praedicta disponunt,
+<lb ed="#L" n="84"/>in vacatione mentis circa Deum consistit. Unde
+<lb ed="#L" n="85"/>et praedictorum professores reiigiosi dicuntur,
+<lb ed="#L" n="86"/>quasi se Deo et sua in modum cuiusdam 
+sa<lb ed="#L" break="no" n="87"/>crificii dicantes: et quantum ad res, per 
+pauper<lb ed="#L" break="no" n="88"/>tatem ; et quantum ad corpus, per continentiam;
+<lb ed="#L" n="89"/>et quantum ad voluntatem, per obedientiam.
+<lb ed="#L" n="90"/>Religio enim in cultu divino consistit. ut supra 
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

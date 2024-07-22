@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 129</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 129</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="394"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2761"><!-- v8naTA-l3c129 -->
+            <head xml:id="v8naTA-d1e2761-Hd1e101">Capitulum 129</head>
+            <head xml:id="v8naTA-d1e2761-Hd1e103" type="question-title">Quod in actibus humanis sunt aliqua recta
+secundum naturam, et non solum quasi lege posita.</head>
+            <p xml:id="v8naTA-d1e2761-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="25" type="fixed=394"/>CAPITULUM CENTESIMUM VIGESIMUM NONUM
+<lb ed="#L" n="26"/>QUOD IN ACTIBUS HUMANIS SUNT ALIQUA RECTA
+<lb ed="#L" n="27"/>SECUNDUM NATURAM, ET NON SOLUM QUASI LEGE POSITA.
+</p>
+            <p xml:id="v8naTA-d1e2761-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="28"/>Ex praemissis autem apparet quod ea quae 
+<lb ed="#L" n="29"/>divina lege praecipiuntur, rectitudinem 
+<lb ed="#L" n="30"/>habent non solum quia sunt lege posita, 
+<lb ed="#L" n="31"/>sed etiam secundum naturam. 
+</p>
+            <p xml:id="v8naTA-d1e2761-d1e130">
+               <lb ed="#L" n="32"/>Ex praeceptis enim legis divinae mens hominis : — 
+<lb ed="#L" n="33"/>ordinatur sub Deo; et omnia alia quae sunt in 
+<lb ed="#L" n="34"/>homine, sub ratione. Hoc autem naturalis ordo — 
+<lb ed="#L" n="35"/>requirit, quod inferiora superioribus subdantur. 
+<lb ed="#L" n="36"/>Sunt igitur ea quae lege divina praecipiuntur, 
+<lb ed="#L" n="37"/>secundum se naturaliter recta. :» 
+</p>
+            <p xml:id="v8naTA-d1e2761-d1e147">
+               <lb ed="#L" n="38"/>Praeterea. Homines ex divina providentia 
+sor<lb ed="#L" break="no" n="39"/>tiuntur naturale iudicatorium rationis ut 
+princi<lb ed="#L" break="no" n="40"/>pium propriarum operationum. Naturalia autem 
+<lb ed="#L" n="41"/>principia ad ea ordinantur quae sunt naturaliter. 
+<lb ed="#L" n="42"/>Sunt igitur aliquae operationes naturaliter homini 
+<lb ed="#L" n="43"/>convenientes, quae sunt secundum se rectae, et 
+<lb ed="#L" n="44"/>non solum quasi lege, positae. 
+</p>
+            <p xml:id="v8naTA-d1e2761-d1e165">
+               <lb ed="#L" n="45"/>Praeterea. Quorumcumque est natura 
+determi<lb ed="#L" break="no" n="46"/>nata, oportet esse operationes determinatas, quae 
+<lb ed="#L" n="47"/>illi naturae conveniant: propria enim operatio :» 
+<lb ed="#L" n="48"/>uniuscuiusque naturam ipsius sequitur. Constat 
+<lb ed="#L" n="49"/>autem hominum naturam esse determinatam. 
+<lb ed="#L" n="50"/>Oportet igitur esse aliquas operationes secundum — 
+<lb ed="#L" n="51"/>se homini convenientes. 
+</p>
+            <p xml:id="v8naTA-d1e2761-d1e183">
+               <lb ed="#L" n="52"/>Adhuc. Cuicumque est aliquid naturale, oportet s 
+<lb ed="#L" n="53"/>esse naturale id sine quo illud haberi non potest: 
+<lb ed="#L" n="54"/>nalura enim non deficit in necessarus. Est autem — 
+<lb ed="#L" n="55"/>homini naturale quod sit animal sociale: quod ex 
+<lb ed="#L" n="56"/>hoc ostenditur, quia unus homo solus non sufficit 
+<lb ed="#L" n="57"/>ad omnia quae sunt humanae vitae necessaria.
+<lb ed="#L" n="58"/>Ea igitur sine quibus societas humana conservari 
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="59"/>non potest, sunt homini naturaliter convenientia.
+<lb ed="#L" n="60"/>Huiusmodi autem sunt, unicuique quod suum est
+<lb ed="#L" n="61"/>conservare, et ab iniuriis abstinere. Sunt igitur
+<lb ed="#L" n="62"/>aliqua in humanis actibus: naturaliter recta.
+</p>
+            <p xml:id="v8naTA-d1e2761-d1e212">
+               <lb ed="#L" n="63"/>Amplius. Supra ostensum est quod homo 
+na<lb ed="#L" break="no" n="64"/>turaliter hoc habet, quod utatur rebus inferioribus
+<lb ed="#L" n="65"/>ad suae vitae necessitatem. Est autem aliqua 
+men<lb ed="#L" break="no" n="66"/>sura determinata secundum quam usus 
+praedi<lb ed="#L" break="no" n="67"/>ctarum rerum humanae vitae est conveniens, quae
+<lb ed="#L" n="68"/>quidem mensura si praetermittatur, fit homini 
+no<lb ed="#L" break="no" n="69"/>civum: sicut apparet in sumptione inordinata 
+ci<lb ed="#L" break="no" n="70"/>borum. Sunt igitur aliqui actus humani naturaliter
+<lb ed="#L" n="71"/>convenientes, et aliqui naturaliter inconvenientes.
+</p>
+            <p xml:id="v8naTA-d1e2761-d1e234">
+               <lb ed="#L" n="72"/>Item. Secundum naturalem ordinem corpus
+<lb ed="#L" n="73"/>hominis est propter animam, et inferiores vires
+<lb ed="#L" n="74"/>animae propter rationem; sicut et in alis rebus
+<lb ed="#L" n="75"/>materia est propter formam, et instrumenta. 
+pro<lb ed="#L" break="no" n="76"/>pter principalem agentem. Ex eo autem quod est
+<lb ed="#L" n="77"/>ad aliud ordinatum, debet ei auxilium provenire,
+<lb ed="#L" n="78"/>non autem aliquod impedimentum. Est igitur 
+na<lb ed="#L" break="no" n="79"/>turaliter rectum quod sic procuretur ab homine
+<lb ed="#L" n="80"/>corpus, et inferiores vires animae, quod ex hoc
+<lb ed="#L" n="81"/>actus rationis et bonum ipsius minime impediatur,
+<lb ed="#L" n="82"/>magis autem iuvetur: si autem secus acciderit,
+<lb ed="#L" n="83"/>erit naturaliter peccatum. Vinolentiae igitur et
+<lb ed="#L" n="84"/>comessationes; et inordinatus venereorum usus,
+<lb ed="#L" n="85"/>per quem actus rationis impeditur; et subdi 
+pas<lb ed="#L" break="no" n="86"/>sionibus, quae liberum iudicium rationis esse non
+<lb ed="#L" n="87"/>sinunt, sunt naturaliter mala.
+</p>
+            <p xml:id="v8naTA-d1e2761-d1e271">
+               <lb ed="#L" n="88"/>Praeterea. Unicuique naturaliter conveniunt ea
+<lb ed="#L" n="89"/>quibus tendit in suum finem naturalem: quae
+<pb ed="#L" n="395"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>autem e contrario se habent, sunt ei naturaliter
+<lb ed="#L" n="2"/>inconvenientia. Ostensum est autem supra  quod
+<lb ed="#L" n="3"/>homo naturaliter ordinatur in. Deum sicut in. 
+fi<lb ed="#L" break="no" n="4"/>nem. Ea igitur quibus homo inducitur in 
+cogni<lb ed="#L" break="no" n="5"/>tionem et amorem Dei, sunt naturaliter recta :
+<lb ed="#L" n="6"/>quaecumque autem e contrario se habent, sunt
+<lb ed="#L" n="7"/>naturaliter homini mala.
+</p>
+            <p xml:id="v8naTA-d1e2761-d1e298">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="8"/>Patet igitur quod bonum et malum in humanis
+<lb ed="#L" n="9"/>actibus non solum sunt secundum legis 
+positio<lb ed="#L" break="no" n="10"/>nem, sed secundum naturalem ordinem.
+</p>
+            <p xml:id="v8naTA-d1e2761-d1e309">
+               <lb ed="#L" n="11"/>Hinc est quod in Psalmo dicitur, quod zudicia
+<lb ed="#L" n="12"/>Domini sunt vera, iustificata in semelipsis.
+</p>
+            <p xml:id="v8naTA-d1e2761-d1e316">
+               <lb ed="#L" n="13"/>Per haec autem excluditur positio dicentium
+<lb ed="#L" n="14"/>quod iusta et recta sunt solum lege posita.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

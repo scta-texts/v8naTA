@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 10</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 10</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="25"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1789"><!-- v8naTA-l3c10 -->
+            <head xml:id="v8naTA-d1e1789-Hd1e101">Capitulum 10</head>
+            <head xml:id="v8naTA-d1e1789-Hd1e103" type="question-title">Quod causa mali est bonum.</head>
+            <p xml:id="v8naTA-d1e1789-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="41" type="fixed=25"/>CAPITULUM DECIMUM
+<lb ed="#L" n="42"/>QUOD CAUSA MALI EST BONUM.
+</p>
+            <p xml:id="v8naTA-d1e1789-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="43"/>Ex praemissis autem concludi potest quod
+<lb ed="#L" n="44"/>malum non causatur nisi a bono.
+</p>
+            <p xml:id="v8naTA-d1e1789-d1e124">
+               <lb ed="#L" n="45"/>Si enim alicuius mali est causa 
+ma<lb ed="#L" break="no" n="46"/>lum; malum autem non agit nisi 
+vir<lb ed="#L" break="no" n="47"/>tute boni, ut probatum est : oportet ipsum 
+bo<lb ed="#L" break="no" n="48"/>num esse causam primariam mali.
+</p>
+            <p xml:id="v8naTA-d1e1789-d1e136">
+               <lb ed="#L" n="49"/>Adhuc. Quod non est, nullius est causa. Omnem
+<lb ed="#L" n="50"/>igitur causam oportet esse ens aliquod. Malum
+<lb ed="#L" n="51"/>autem non est ens aliquod, ut probatum est.
+<lb ed="#L" n="52"/>Malum igitur non potest esse alicuius causa.
+<lb ed="#L" n="53"/>Oportet igitur si ab aliquo causetur malum, quod
+<lb ed="#L" n="54"/>illud sit bonum.
+</p>
+            <p xml:id="v8naTA-d1e1789-d1e152">
+               <lb ed="#L" n="55"/>Item. Quicquid est proprie et per se alicuius
+<lb ed="#L" n="56"/>causa, tendit in proprium effectum. Si igitur 
+ma<lb ed="#L" break="no" n="57"/>lum esset per se alicuius causa, tenderet in 
+pro<lb ed="#L" break="no" n="58"/>prium effectum, scilicet malum. Hoc autem est
+<lb ed="#L" n="59"/>falsum: nam ostensum est quod omne agens
+<lb ed="#L" n="60"/>intendit bonum. Malum igitur per se non est
+<lb ed="#L" n="61"/>causa alicuius, sed solum per accidens. Omnis
+<lb ed="#L" n="62"/>autem causa per accidens reducitur ad causam
+<lb ed="#L" n="63"/>per se. Solum autem bonum potest esse per se
+<lb ed="#L" n="64"/>causa, sed malum non potest esse per se causa.
+<lb ed="#L" n="65"/>Malum igitur causatum est a bono.
+</p>
+            <p xml:id="v8naTA-d1e1789-d1e178">
+               <lb ed="#L" n="66"/>Praeterea. Omnis causa vel est materia, vel
+<lb ed="#L" n="67"/>forma, vel agens, vel finis. Malum autem non
+<lb ed="#L" n="68"/>potest esse neque materia neque forma: 
+osten<lb ed="#L" break="no" n="69"/>sum est enim supra  quod tam ens actu, quam
+<lb ed="#L" n="70"/>ens in potentia, est bonum. Similiter non potest
+<lb ed="#L" n="71"/>esse agens: cum unumquodque agat secundum
+<lb ed="#L" n="72"/>quod est actu et formam habet. Neque etiam ;»
+<lb ed="#L" n="73"/>potest esse finis: cum sit praeter intentionem, ut
+<lb ed="#L" n="74"/>probatum est . Malum igitur non potest esse ali-
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="75"/>cuius causa. Si igitur aliquid sit causa mali, oportet
+<lb ed="#L" n="76"/>quod sit a bono causatum.
+</p>
+            <p xml:id="v8naTA-d1e1789-d1e207">
+               <lb ed="#L" n="77"/>Cum autem malum et bonum sint opposita;
+<lb ed="#L" n="78"/>unum autem oppositorum non potest esse causa
+<lb ed="#L" n="79"/>alterius nisi per accidens, sicut frigidum calefacit,
+<lb ed="#L" n="80"/>ut dicitur in <ref xml:id="v8naTA-d1e1789-Rd1e217">VIII. Physicorum</ref>: sequitur quod
+<lb ed="#L" n="81"/>bonum non possit esse causa activa mali nisi per
+<lb ed="#L" n="82"/>accidens.
+</p>
+            <p xml:id="v8naTA-d1e1789-d1e225">
+               <lb ed="#L" n="83"/>Hoc autem accidens in naturalibus potest esse
+<lb ed="#L" n="84"/>et ex parte agentis; et ex parte effectus. Ex parte
+<lb ed="#L" n="85"/>quidem agentis, sicut cum agens patitur defectum
+<lb ed="#L" n="86"/>virtutis, ex quo sequitur quod actio sit defectiva
+<lb ed="#L" n="87"/>et effectus deficiens: ut, cum virtus membri 
+di<lb ed="#L" break="no" n="88"/>gerentis est debilis, sequitur imperfecta decoctio
+<lb ed="#L" n="89"/>et humor indigestus, quae sunt quaedam mala 
+na<lb ed="#L" break="no" n="90"/>turae. Accidit autem agenti, inquantum est agens,
+<lb ed="#L" n="91"/>quod virtutis defectum patiatur: non enim agit
+<lb ed="#L" n="92"/>secundum quod deficit ei virtus, sed secundum
+<lb ed="#L" n="93"/>quod habet aliquid de virtute; si enim penitus
+<lb ed="#L" n="94"/>virtute careret, omnino non ageret. Sic igitur
+<lb ed="#L" n="95"/>malum causatur per accidens ex parte agentis,
+<lb ed="#L" n="96"/>inquantum agens est deficientis virtutis. Propter
+<lb ed="#L" n="97"/>quod dicitur quod malum non habet causam 
+effi<lb ed="#L" break="no" n="98"/>cientem, sed deficientem: quia malum non sequitur
+<lb ed="#L" n="99"/>ex causa agente nisi inquantum est deficientis 
+vir<lb ed="#L" break="no" n="100"/>tutis, et secundum hoc non est efficiens. - In idem
+<lb ed="#L" n="101"/>autem redit si defectus actionis et effectus 
+pro<lb ed="#L" break="no" n="102"/>veniat ex defectu instrumenti, vel cuiuscumque
+<lb ed="#L" n="103"/>alterius quod requiritur ad actionem agentis, sicut
+<lb ed="#L" n="104"/>cum virtus motiva producit claudicationem 
+pro<lb ed="#L" break="no" n="105"/>pter tibiae curvitatem: utroque enim agens agit,
+<lb ed="#L" n="106"/>et virtute et instrumento.
+</p>
+            <p xml:id="v8naTA-d1e1789-d1e280">
+               <pb ed="#L" n="26"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>Ex parte vero effectus, malum ex bono 
+cau<lb ed="#L" break="no" n="2"/>satur per accidens, tum ex parte materiae 
+effe<lb ed="#L" break="no" n="3"/>ctus; tum 'ex parte formae ipsius. Si enim 
+ma<lb ed="#L" break="no" n="4"/>teria sit indisposita ad recipiendam impressionem 
+<lb ed="#L" n="5"/>agentis, necesse est defectum sequi in effectu; : 
+<lb ed="#L" n="6"/>sicut cum monstruosi partus sequuntur propter 
+<lb ed="#L" n="7"/>materiae indigestionem. Nec hoc imputatur ad 
+<lb ed="#L" n="8"/>aliquem defectum agentis, si materiam 
+indispo<lb ed="#L" break="no" n="9"/>sitam non transmutat ad actum perfectum: 
+uni<lb ed="#L" break="no" n="10"/>cuique enim agenti naturali est virtus 
+determi<lb ed="#L" break="no" n="11"/>nata secundum modum suae naturae, quam si 
+<lb ed="#L" n="12"/>non excedat, non propter hoc erit deficiens in 
+<lb ed="#L" n="13"/>virtute, sed tunc solum quando deficit a 
+men<lb ed="#L" break="no" n="14"/>sura virtutis sibi debitae per naturam. 
+</p>
+            <p xml:id="v8naTA-d1e1789-d1e318">
+               <lb ed="#L" n="15"/>Ex parte autem formae etfectus, per accidens :: 
+<lb ed="#L" n="16"/>malum incidit inquantum formae alicui de 
+ne<lb ed="#L" break="no" n="17"/>cessitate adiungitur privatio alterius formae, unde 
+<lb ed="#L" n="18"/>simul cum generatione unius rei, necesse est 
+al<lb ed="#L" break="no" n="19"/>terius rei sequi corruptionem. Sed hoc malum 
+<lb ed="#L" n="20"/>non est malum effectus intenti ab agente, sicut: 
+<lb ed="#L" n="21"/>in praecedentibus  patet, sed alterius rei. 
+</p>
+            <p xml:id="v8naTA-d1e1789-d1e336">
+               <lb ed="#L" n="22"/>Sic igitur in naturalibus patet quod malum 
+<lb ed="#L" n="23"/>per accidens tantum causatur a bono. - Eodem 
+<lb ed="#L" n="24"/>autem modo et in artificialibus accidit. Ars enim 
+<lb ed="#L" n="25"/>in sua operatione imitatur naturam, et similiter; 
+<lb ed="#L" n="26"/>peccatum in utraque invenitur. 
+</p>
+            <p xml:id="v8naTA-d1e1789-d1e349">
+               <lb ed="#L" n="27"/>In moralibus autem videtur aliter se habere. 
+<lb ed="#L" n="28"/>Non enim ex defectu virtutis sequi videtur 
+mo<lb ed="#L" break="no" n="29"/>rale vitium: cum infirmitas virtutis morale vitium 
+<lb ed="#L" n="30"/>vel totaliter tollat, vel saltem diminuat; infirmitas 
+<lb ed="#L" n="31"/>enim non meretur poenam, quae culpae debetur, 
+<lb ed="#L" n="32"/>sed magis misericordiam et ignoscentiam; 
+vo<lb ed="#L" break="no" n="33"/>luntarium enim oportet esse moris vitium, non moralis.
+<lb ed="#L" n="34"/>necessarium. Si tamen diligenter consideretur, 
+in<lb ed="#L" break="no" n="35"/>venitur quantum ad aliquid simile, quantum vero 
+<lb ed="#L" n="36"/>ad aliquid dissimile. Dissimile quidem quantum — 
+<lb ed="#L" n="37"/>ad hoc, quod vitium morale in sola actione 
+con<lb ed="#L" break="no" n="38"/>sideratur, non autem in aliquo effectu producto: 
+<lb ed="#L" n="39"/>nam virtutes morales non sunt factivae, sed 
+acti<lb ed="#L" break="no" n="40"/>vae. Artes autem factivae sunt: et ideo dictum est, 
+<lb ed="#L" n="41"/>quod in eis similiter peccatum accidit sicut in 
+<lb ed="#L" n="42"/>natura. Malum igitur morale non consideratur ex  
+<lb ed="#L" n="43"/>materia vel forma effectus, sed solum consequitur 
+<lb ed="#L" n="44"/>ex agente. 
+</p>
+            <p xml:id="v8naTA-d1e1789-d1e391">
+               <lb ed="#L" n="45"/>In actionibus autem moralibus inveniuntur per, 
+<lb ed="#L" n="46"/>ordinem quatuor activa principia. Quorum unum 
+<lb ed="#L" n="47"/>est virtus executiva, scilicet vis motiva, qua 
+mo<lb ed="#L" break="no" n="48"/>ventur membra ad exequendum imperium 
+vo<lb ed="#L" break="no" n="49"/>luntatis. Unde haec vis a voluntate movetur, quae  
+<lb ed="#L" n="50"/>est aliud principium. Voluntas vero movetur ex  
+<lb ed="#L" n="51"/>iudicio virtutis apprehensivae, quae iudicat hoc 
+<lb ed="#L" n="52"/>esse bonum vel malum, quae sunt voluntatis 
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="53"/>obiecta, unum ad prosequendum movens, aliud
+<lb ed="#L" n="54"/>ad fugiendum. Ipsa autem vis apprehensiva 
+mo<lb ed="#L" break="no" n="55"/>vetur a re apprehensa. Primum igitur activum
+<lb ed="#L" n="56"/>principium in actionibus moralibus est res 
+ap<lb ed="#L" break="no" n="57"/>prehensa; secundum vis apprehensiva; tertium
+<lb ed="#L" n="58"/>voluntas; quartum vis motiva, quae exequitur
+<lb ed="#L" n="59"/>imperium rationis.
+</p>
+            <p xml:id="v8naTA-d1e1789-d1e428">
+               <lb ed="#L" n="60"/>Actus autem virtutis exequentis iam 
+praesup<lb ed="#L" break="no" n="61"/>ponit bonum vel malum morale. Non enim ad.
+<lb ed="#L" n="62"/>mores huiusmodi actus exteriores pertinent nisi 
+se<lb ed="#L" break="no" n="63"/>cundum quod sunt voluntarii. Unde, si voluntatis
+<lb ed="#L" n="64"/>sit actus bonus, et actus exterior bonus dicetur:
+<lb ed="#L" n="65"/>malus autem, si ille sit malus. Nihil autem ad
+<lb ed="#L" n="66"/>malitiam moralem pertineret si actus exterior 
+defi<lb ed="#L" break="no" n="67"/>ciens esset defectu ad voluntatem non pertinente:
+<lb ed="#L" n="68"/>claudicatio enim non est vitium moris, sed 
+natu<lb ed="#L" break="no" n="69"/>rae. Huiusmodi igitur virtutis exequentis defectus
+<lb ed="#L" n="70"/>moris vitium vel totaliter excusat, vel minuit. —
+<lb ed="#L" n="71"/>Actus vero quo res movet apprehensivam 
+vir<lb ed="#L" break="no" n="72"/>tutem, immunis est a vitio moris: movet enim
+<lb ed="#L" n="73"/>secundum ordinem naturalem visibile visum, et
+<lb ed="#L" n="74"/>quodlibet obiectum potentiam passivam. — lpse
+<lb ed="#L" n="75"/>etiam actus apprehensivae virtutis, in se 
+consi<lb ed="#L" break="no" n="76"/>deratus, morali vitio caret: cum eius defectus
+<lb ed="#L" n="77"/>vitium morale vel excuset vel minuat, sicut et
+<lb ed="#L" n="78"/>defectus exequentis virtutis; pariter enim 
+infir<lb ed="#L" break="no" n="79"/>mitas et ignorantia excusant peccatum vel 
+mi<lb ed="#L" break="no" n="80"/>nuunt. - Relinquitur igitur quod morale vitium
+<lb ed="#L" n="81"/>in solo actu voluntatis primo et principaliter 
+in<lb ed="#L" break="no" n="82"/>veniatur: et rationabiliter etiam ex hoc actus 
+mo<lb ed="#L" break="no" n="83"/>ralis dicatur, quia voluntarius est. In actu igitur
+<lb ed="#L" n="84"/>voluntatis quaerenda est radix et origo peccati
+</p>
+            <p xml:id="v8naTA-d1e1789-d1e485">
+               <lb ed="#L" n="85"/>Videtur autem hanc inquisitionem consequi
+<lb ed="#L" n="86"/>difficultas. Cum enim actus deficiens proveniat
+<lb ed="#L" n="87"/>propter defectum activi principii, oportet 
+praein<lb ed="#L" break="no" n="88"/>telligere defectum in voluntate ante peccatum 
+mo<lb ed="#L" break="no" n="89"/>rale. Qui quidem defectus si sit naturalis, 
+sem<lb ed="#L" break="no" n="90"/>per inhaeret voluntati: semper igitur voluntas in
+<lb ed="#L" n="91"/>agendo moraliter peccabit; quod actus virtutum
+<lb ed="#L" n="92"/>falsum esse ostendunt. Si autem defectus sit 
+vo<lb ed="#L" break="no" n="93"/>luntarius, iam est peccatum morale, cuius causa
+<lb ed="#L" n="94"/>iterum inquirenda restabit: et sic ratio in 
+infi<lb ed="#L" break="no" n="95"/>nitum deducet. Oportet ergo dicere quod 
+defe<lb ed="#L" break="no" n="96"/>ctus in voluntate praeexistens non sit naturalis,
+<lb ed="#L" n="97"/>ne sequatur voluntatem in quolibet actu peccare;
+<lb ed="#L" n="98"/>neque etiam casualis et fortuitus, non enim esset
+<lb ed="#L" n="99"/>in nobis morale peccatum, casualia enim sunt 
+im<lb ed="#L" break="no" n="100"/>praemeditata et extra rationem. Est igitur 
+volun<lb ed="#L" break="no" n="101"/>tarius. Non tamen peccatum morale: ne cogamur
+<lb ed="#L" n="102"/>in infinitum procedere. Quod quidem qualiter
+<lb ed="#L" n="103"/>esse possit, considerandum est.
+</p>
+            <p xml:id="v8naTA-d1e1789-d1e530">
+               <pb ed="#L" n="27"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>Cuiuslibet siquidem activi principii perfectio
+<lb ed="#L" n="2"/>virtutis ex superiori activo dependet: agens enim
+<lb ed="#L" n="3"/>secundum agit per virtutem primi agentis. Cum
+<lb ed="#L" n="4"/>igitur secundum agens manet sub ordine primi
+<lb ed="#L" n="5"/>agentis, indeficienter agit: deficit autem in agendo
+<lb ed="#L" n="6"/>si contingat ipsum ab ordine primi agentis 
+de<lb ed="#L" break="no" n="7"/>flecti; sicut patet in instrumento cum deficit a
+<lb ed="#L" n="8"/>motu agentis. Dictum est autem quod in ordine
+<lb ed="#L" n="9"/>actionum moralium duo principia voluntatem
+<lb ed="#L" n="10"/>praecedunt: scilicet vis apprehensiva; et obiectum
+<lb ed="#L" n="11"/>apprehensum, quod est finis: Cum autem 
+uni<lb ed="#L" break="no" n="12"/>cuique mobili respondeat proprium motivum,
+<lb ed="#L" n="13"/>non quaelibet vis apprehensiva est debitum 
+mo<lb ed="#L" break="no" n="14"/>tivum cuiuslibet appetitus, sed huius haec, et
+<lb ed="#L" n="15"/>illius alia. Sicut igitur appetitus sensitivi proprium
+<lb ed="#L" n="16"/>motivum est vis apprehensiva sensualis, ita 
+vo<lb ed="#L" break="no" n="17"/>luntatis proprium motivum est ratio ipsa.
+</p>
+            <p xml:id="v8naTA-d1e1789-d1e574">
+               <lb ed="#L" n="18"/>Rursus, cum ratio multa bona et multos fines
+<lb ed="#L" n="19"/>apprehendere possit; cuiuslibet autem sit 
+pro<lb ed="#L" break="no" n="20"/>prius finis: et voluntatis erit finis et primum 
+mo<lb ed="#L" break="no" n="21"/>tivum, non bonum quodlibet, sed bonum 
+quod<lb ed="#L" break="no" n="22"/>dam determinatum. Cum igitur voluntas tendit
+<lb ed="#L" n="23"/>in actum mota ex apprehensione rationis 
+reprae<lb ed="#L" break="no" n="24"/>sentantis sibi proprium bonum, sequitur debita
+<lb ed="#L" n="25"/>actio. Cum autem voluntas in actionem prorum-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="26"/>pit ad apprehensionem apprehensivae sensualis;
+<lb ed="#L" n="27"/>vel ipsius rationis aliquod aliud bonum 
+reprae<lb ed="#L" break="no" n="28"/>sentantis a proprio bono diversum; sequitur in
+<lb ed="#L" n="29"/>actione voluntatis peccatum morale.
+</p>
+            <p xml:id="v8naTA-d1e1789-d1e605">
+               <lb ed="#L" n="30"/>Praecedit igitur in voluntate peccatum actionis
+<lb ed="#L" n="31"/>defectus ordinis ad rationem; et ad proprium 
+fi<lb ed="#L" break="no" n="32"/>nem. Ad rationem quidem, sicut cum, ad 
+su<lb ed="#L" break="no" n="33"/>bitam apprehensionem sensus, voluntas in bonum
+<lb ed="#L" n="34"/>delectabile secundum sensum tendit. Ad finem
+<lb ed="#L" n="35"/>vero debitum, sicut cum ratio in aliquod bonum
+<lb ed="#L" n="36"/>ratiocinando devenit quod non est, vel nunc vel
+<lb ed="#L" n="37"/>hoc modo, bonum, et tamen voluntas in illud
+<lb ed="#L" n="38"/>tendit quasi in proprium bonum. Hic autem 
+or<lb ed="#L" break="no" n="39"/>dinis defectus voluntarius est: nam in potestate
+<lb ed="#L" n="40"/>ipsius voluntatis est velle et non velle. Itemque
+<lb ed="#L" n="41"/>est in potestate ipsius quod ratio actu consideret,
+<lb ed="#L" n="42"/>vel a consideratione desistat; aut quod hoc vel
+<lb ed="#L" n="43"/>illud consideret. Nec tamen iste defectus est 
+ma<lb ed="#L" break="no" n="44"/>lum morale: si enim ratio nihil consideret, vel
+<lb ed="#L" n="45"/>consideret bonum quodcumque, nondum est 
+pec<lb ed="#L" break="no" n="46"/>catum, quousque voluntas in finem indebitum 
+ten<lb ed="#L" break="no" n="47"/>dat. Quod iam est voluntatis actus.
+</p>
+            <p xml:id="v8naTA-d1e1789-d1e647">
+               <lb ed="#L" n="48"/>Sic igitur tam in naturalibus quam in 
+mora<lb ed="#L" break="no" n="49"/>libus patet quod malum :a bono non causatur
+<lb ed="#L" n="50"/>nisi per accidens.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

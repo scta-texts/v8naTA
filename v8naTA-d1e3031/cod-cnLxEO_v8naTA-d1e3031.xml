@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 162</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 162</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="472"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e3031"><!-- v8naTA-l3c162 -->
+            <head xml:id="v8naTA-d1e3031-Hd1e101">Capitulum 162</head>
+            <head xml:id="v8naTA-d1e3031-Hd1e103" type="question-title">Quod deus nemini est causa peccandi</head>
+            <p xml:id="v8naTA-d1e3031-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="77" type="fixed=472"/>CAPITULUM CENTESIMUM SEXAGESIMUM SECUNDUM
+<lb ed="#L" n="78"/>QUOD DEUS NEMINI EST CAUSA PECCANDI
+</p>
+            <p xml:id="v8naTA-d1e3031-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="79"/>QUAMVIS autem quosdam peccatores Deus
+<lb ed="#L" n="80"/>ad se non convertat, sed in peccatis,
+<lb ed="#L" n="81"/>secundum eorum merita, eos relinquat,
+<lb ed="#L" n="82"/>non tamen eos ad peccandum inducit.
+</p>
+            <p xml:id="v8naTA-d1e3031-d1e128">
+               <lb ed="#L" n="83"/>Homines enim peccant per hoc quod deviant
+<lb ed="#L" n="84"/>ab ipso, qui est ultimus finis, ut ex superioribus 
+<lb ed="#L" n="85"/>patet. Cum autem omne agens agat ad proprium
+<lb ed="#L" n="86"/>finem et sibi convenientem, impossibile est quod,
+<lb ed="#L" n="87"/>Deo agente, aliqui avertantur ab ultimo fine, qui
+<lb ed="#L" n="88"/>Deus est. Impossibile igitur est quod Deus 
+ali<lb ed="#L" break="no" n="89"/>quos peccare faciat.
+</p>
+            <p xml:id="v8naTA-d1e3031-d1e147">
+               <lb ed="#L" n="90"/>Item. Bonum causa mali esse non potest. Sed
+<lb ed="#L" n="91"/>peccatum est hominis malum: contrariatur enim
+<lb ed="#L" n="92"/>proprio hominis bono, quod est vivere secundum
+<lb ed="#L" n="93"/>rationem. Impossibile est igitur quod Deus sit
+<lb ed="#L" n="94"/>alicui causa peccandi.
+</p>
+            <p xml:id="v8naTA-d1e3031-d1e160">
+               <lb ed="#L" n="95"/>Praeterea. Omnis sapientia et bonitas hominis
+<lb ed="#L" n="96"/>derivatur a sapientia et bonitate divina, sicut
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="97"/>quaedam similitudo ipsius. Repugnat autem 
+sa<lb ed="#L" break="no" n="98"/>pientiae et bonitati humanae quod aliquem 
+pec<lb ed="#L" break="no" n="99"/>care faciat. Igitur multo magis divinae.
+</p>
+            <p xml:id="v8naTA-d1e3031-d1e176">
+               <lb ed="#L" n="100"/>Adhuc. Peccatum omne ex aliquo defectu 
+pro<lb ed="#L" break="no" n="101"/>venit proximi agentis, non autem ex influentia
+<lb ed="#L" n="102"/>primi agentis: sicut peccatum claudicationis 
+pro<lb ed="#L" break="no" n="103"/>venit ex dispositione tibiae, non autem ex virtute
+<lb ed="#L" n="104"/>motiva; cum tamen ex ea sit quicquid de 
+per<lb ed="#L" break="no" n="105"/>fectione motus in claudicatione apparet. 
+Proxi<lb ed="#L" break="no" n="106"/>mum autem agens peccati humani est voluntas.
+</p>
+            <p xml:id="v8naTA-d1e3031-d1e194">
+               <lb ed="#L" n="107"/>Est igitur defectus peccati ex voluntate hominis,
+<lb ed="#L" n="108"/>non autem a Deo, qui est primus agens: a quo
+<lb ed="#L" n="109"/>tamen est quicquid ad perfectionem actionis 
+per<lb ed="#L" break="no" n="110"/>tinet in actu peccati.
+</p>
+            <p xml:id="v8naTA-d1e3031-d1e205">
+               <lb ed="#L" n="111"/>Hinc est quod dicitur Eccli. xv": Non dicas, Ille
+<lb ed="#L" n="112"/>me implanavit. Non enim necessarii sunt ei homines
+<lb ed="#L" n="113"/>impii. Et infra : Nemini mandavit impie agere, el
+<lb ed="#L" n="114"/>nemini dedit spatium peccandi. Et Jac. 15 dicitur:
+<pb ed="#L" n="473"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>Nemo, cum tentatur, dicat quoniam a Deo tentetur:
+<lb ed="#L" n="2"/>Deus enim intentator malorum est.
+</p>
+            <p xml:id="v8naTA-d1e3031-d1e225">
+               <lb ed="#L" n="3"/>Inveniuntur tamen quaedam in Scripturis ex
+<lb ed="#L" n="4"/>quibus videtur quod Deus sit aliquibus causa
+<lb ed="#L" n="5"/>peccandi. Dicitur enim. Exodi x', Ego induravi
+<lb ed="#L" n="6"/>cor Pharaonis et servorum illius; et Isaiae vi,
+<lb ed="#L" n="7"/>Excaeca cor populi huius, et aures eius aggrava:
+<lb ed="#L" n="8"/>ne forte videant oculis suis et convertantur, et
+<lb ed="#L" n="9"/>sanem eos; et Isaiae Lxm", Errare nos fecisti de 
+<lb ed="#L" n="10"/>viis tuis: indurasti cor nostrum, ne timeremus te. Et 
+<lb ed="#L" n="11"/>Rom. 1, dicitur: 7radidit illos Deus in reprobum — 
+<lb ed="#L" n="12"/>sensum, ut faciant quae non conveniunt. Quae 
+<lb ed="#L" n="13"/>omnia secundum hoc intelligenda sunt, quod
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="14"/>Deus aliquibus non confert auxilium ad vitandum
+<lb ed="#L" n="15"/>peccatum, quod aliis quibusdam .confert.
+</p>
+            <p xml:id="v8naTA-d1e3031-d1e259">
+               <lb ed="#L" n="16"/>Hoc autem auxilium non solum est infusio
+<lb ed="#L" n="17"/>gratiae, sed etiam exterior custodia, per quam
+<lb ed="#L" n="18"/>occasiones peccandi homini ex divina providentia
+<lb ed="#L" n="19"/>tolluntur, et provocantia ad peccatum 
+compri<lb ed="#L" break="no" n="20"/>muntur. Adiuvat etiam Deus hominem contra
+<lb ed="#L" n="21"/>peccatum per naturale lumen rationis, et alia.
+<lb ed="#L" n="22"/>naturalia bona quae homini confert. Cum ergo
+<lb ed="#L" n="23"/>haec auxilia aliquibus subtrahit, pro merito suae
+<lb ed="#L" n="24"/>actionis, secundum quod eius iustitia exigit, 
+di<lb ed="#L" break="no" n="25"/>citur eos obdurare vel excaecare, vel aliquid eorum
+<lb ed="#L" n="26"/>quae dicta sunt.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

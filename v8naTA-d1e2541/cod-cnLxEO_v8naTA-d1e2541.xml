@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 102</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 102</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="315"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2541"><!-- v8naTA-l3c102 -->
+            <head xml:id="v8naTA-d1e2541-Hd1e101">Capitulum 102</head>
+            <head xml:id="v8naTA-d1e2541-Hd1e103" type="question-title">Quod solus deus facit miracula</head>
+            <p xml:id="v8naTA-d1e2541-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="25" type="fixed=315"/>CAPITULUM CENTESIMUM SECUNDUM
+<lb ed="#L" n="26"/>QUOD SOLUS DEUS FACIT MIRACULA.
+</p>
+            <p xml:id="v8naTA-d1e2541-d1e115">
+               <lb ed="#L" n="27"/>EX praemissis autem ostendi potest quod 
+<lb ed="#L" n="28"/>miracula facere solus Deus potest. 
+</p>
+            <p xml:id="v8naTA-d1e2541-d1e122">
+               <lb ed="#L" n="29"/>Quod enim est sub ordine totaliter 
+<lb ed="#L" n="30"/>constitutum, non potest supra ordinem — 
+<lb ed="#L" n="31"/>illum operari. Omnis autem creatura constituta : 
+<lb ed="#L" n="32"/>est sub ordine quem Deus in rebus statuit. Nulla 
+<lb ed="#L" n="33"/>ergo creatura potest supra hunc ordinem 
+opera<lb ed="#L" break="no" n="34"/>ri. Quod est miracula facere. 
+</p>
+            <p xml:id="v8naTA-d1e2541-d1e139">
+               <lb ed="#L" n="35"/>Item. Quando aliqua virtus finita proprium 
+<lb ed="#L" n="36"/>effectum operatur ad quem determinatur, non 
+<lb ed="#L" n="37"/>est miraculum: licet possit esse mirum alicui 
+<lb ed="#L" n="38"/>qui illam virtutem non comprehendit; sicut mirum — 
+<lb ed="#L" n="39"/>videtur ignaris quod magnes trahit ferrum, vel 
+<lb ed="#L" n="40"/>eo quod aliquis parvus piscis sit retinens navem. 
+<lb ed="#L" n="41"/>Omnis autem creaturae potentia est limitata ad 
+<lb ed="#L" n="42"/>aliquem determinatum effectum, vel ad aliquos. 
+<lb ed="#L" n="43"/>Quicquid igitur virtute cuiuscumque creaturae 
+<lb ed="#L" n="44"/>fiat, non potest dici miraculum proprium, etsi 
+<lb ed="#L" n="45"/>sit mirum virtutem illius creaturae non 
+compre<lb ed="#L" break="no" n="46"/>hendenti. Quod autem fit virtute divina, quae, » 
+<lb ed="#L" n="47"/>cum sit infinita, de se incomprehensibilis est, vere 
+<lb ed="#L" n="48"/>miraculum est. 
+</p>
+            <p xml:id="v8naTA-d1e2541-d1e172">
+               <lb ed="#L" n="49"/>Amplius. Omnis creatura in sua actione 
+re<lb ed="#L" break="no" n="50"/>quirit subiectum aliquod in quod agat: solius 
+<lb ed="#L" n="51"/>enim Dei est ex nihilo aliquid facere, ut supra;
+<lb ed="#L" n="52"/>ostensum est. Nihil autem quod requirit in sua 
+<lb ed="#L" n="53"/>actione subiectum, potest agere nisi illa ad quae 
+<lb ed="#L" n="54"/>subiectum illud est in potentia: hoc enim agens 
+<lb ed="#L" n="55"/>in subiectum aliquod operatur, ut educat illud 
+<lb ed="#L" n="56"/>de potentia in actum. Nulla igitur creatura, sicut  
+<lb ed="#L" n="57"/>nec creare potest, ita nec agere in aliqua re nisi 
+<lb ed="#L" n="58"/>quod est in potentia illius rei. Fiunt autem multa 
+<lb ed="#L" n="59"/>miracula divinitus dum in re aliqua fit divina 
+<lb ed="#L" n="60"/>virtute quod non est in potentia illius rei: sicut 
+<lb ed="#L" n="61"/>quod mortuus reviviscat, quod. sol retrocedat, : 
+<lb ed="#L" n="62"/>quod duo corpora sint simul. Haec igitur 
+mi<lb ed="#L" break="no" n="63"/>racula nulla virtute creata fieri possunt. 
+</p>
+            <p xml:id="v8naTA-d1e2541-d1e207">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="64"/>Adhuc. Subiectum in quod agitur, ordinem
+<lb ed="#L" n="65"/>habet et ad agens quod reducit ipsum de 
+po<lb ed="#L" break="no" n="66"/>tentia in actum, et ad actum in quem reducitur.
+<lb ed="#L" n="67"/>Sicut ergo subiectum aliquod est in potentia ad
+<lb ed="#L" n="68"/>aliquem determinatum actum, et non ad 
+quem<lb ed="#L" break="no" n="69"/>libet, ita non potest reduci de potentia in actum
+<lb ed="#L" n="70"/>determinatum nisi per agens aliquod determi- :
+<lb ed="#L" n="71"/>natum: requiritur enim agens diversimode ad
+<lb ed="#L" n="72"/>reducendum in diversum actum; nam, cum aer
+<lb ed="#L" n="73"/>sit potentia ignis et aqua, alio agente fit actu
+<lb ed="#L" n="74"/>ignis, et actu aqua. Similiter etiam patet. quod
+<lb ed="#L" n="75"/>materia corporalis in actum aliquem : perfectum
+<lb ed="#L" n="76"/>non reducitur a sola virtute universali agente,
+<lb ed="#L" n="77"/>sed oportet esse aliquod agens proprium, per
+<lb ed="#L" n="78"/>quod determinetur impressio universalis virtutis
+<lb ed="#L" n="79"/>ad determinatum effectum; in actum autem minus
+<lb ed="#L" n="80"/>perfectum potest reduci materia corporalis sola
+<lb ed="#L" n="81"/>virtute universali, absque particulari agente: 
+ani<lb ed="#L" break="no" n="82"/>malia enim perfecta non generantur ex sola 
+vir<lb ed="#L" break="no" n="83"/>tute caelesti, sed requiritur determinatum semen;
+<lb ed="#L" n="84"/>ad generationem vero quorundam imperfectorum
+<lb ed="#L" n="85"/>animalium sola virtus caelesfis sufficit, sine 
+se<lb ed="#L" break="no" n="86"/>mine. Effectus igitur qui in his inferioribus fiunt,
+<lb ed="#L" n="87"/>si sint nati fieri a causis superioribus 
+universa<lb ed="#L" break="no" n="88"/>libus sine operatione causarum particularium
+<lb ed="#L" n="89"/>inferiorum, non est miraculum si sic fiant: sicut
+<lb ed="#L" n="90"/>non est miraculum quod: animalia ex 
+putrefa<lb ed="#L" break="no" n="91"/>ctione sine semine nascantur. Si autem non sunt
+<lb ed="#L" n="92"/>nati fieri per solas causas superiores, requiruntur
+<lb ed="#L" n="93"/>ad eorum complementum causae inferiores 
+parti<lb ed="#L" break="no" n="94"/>culares. Cum autem. aliquis effectus producitur
+<lb ed="#L" n="95"/>ab aliqua causa superiori mediantibus propriis
+<lb ed="#L" n="96"/>principiis, non est miraculum. Nullo igitur modo
+<lb ed="#L" n="97"/>virtute. superiorum creaturarum aliqua miracula
+<lb ed="#L" n="98"/>fieri possunt.
+</p>
+            <p xml:id="v8naTA-d1e2541-d1e288">
+               <lb ed="#L" n="99"/>Amplius. Eiusdem rationis esse videtur quod
+<lb ed="#L" n="100"/>aliquid operetur ex subiecto; et quod operetur
+<pb ed="#L" n="316"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>id ad quod est in potentia subiectum; et quod
+<lb ed="#L" n="2"/>ordinate operetur per determinata media. Nam
+<lb ed="#L" n="3"/>subiectum non fit in potentia propinqua ad 
+ulti<lb ed="#L" break="no" n="4"/>mum nisi cum fuerit actu in media: sicut cibus
+<lb ed="#L" n="5"/>non est. statim potentia caro, sed cum fuerit
+<lb ed="#L" n="6"/>conversus in sanguinem. Omnis autem creatura
+<lb ed="#L" n="7"/>necesse habet subiecto ad hoc quod aliquid faciat:
+<lb ed="#L" n="8"/>nec potest facere nisi ad quod subiectum est in
+<lb ed="#L" n="9"/>potentia, ut ostensum est. Ergo non potest facere
+<lb ed="#L" n="10"/>aliquid nisi subiectum reducat in actum per 
+de<lb ed="#L" break="no" n="11"/>terminata media. Miracula igitur, quae sunt ex
+<lb ed="#L" n="12"/>hoc quod aliquis effectus producitur non illo
+<lb ed="#L" n="13"/>ordine quo naturaliter fieri potest, virtute 
+crea<lb ed="#L" break="no" n="14"/>turae fieri non possunt.
+</p>
+            <p xml:id="v8naTA-d1e2541-d1e330">
+               <lb ed="#L" n="15"/>Adhuc. Inter species motus ordo quidam 
+na<lb ed="#L" break="no" n="16"/>turalis attenditur: nam primus motuum est motus
+<lb ed="#L" n="17"/>localis, unde et causa aliorum existit; primum
+<lb ed="#L" n="18"/>enim in quolibet genere causa invenitur eorum
+<lb ed="#L" n="19"/>quae in illo genere consequuntur. Omnis autem
+<lb ed="#L" n="20"/>effectus qui in his inferioribus producitur, per 
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="21"/>aliquam generationem vel alterationem necesse
+<lb ed="#L" n="22"/>est ut producatur. Oportet igitur quod per aliquid
+<lb ed="#L" n="23"/>localiter motum hoc proveniat, si fiat ab aliquo
+<lb ed="#L" n="24"/>agente incorporali, quod proprie localiter moveri
+<lb ed="#L" n="25"/>non possit. Effectus autem qui fiunt a. substantiis
+<lb ed="#L" n="26"/>incorporeis per corporea instrumenta, non sunt
+<lb ed="#L" n="27"/>miraculosi: corpora enim non operantur nisi
+<lb ed="#L" n="28"/>naturaliter. Non igitur substantiae creatae 
+in<lb ed="#L" break="no" n="29"/>corporeae possunt aliqua miracula facere propria
+<lb ed="#L" n="30"/>virtute. Et multo minus substantiae corporeae,
+<lb ed="#L" n="31"/>quarum omnis actio naturalis est.
+</p>
+            <p xml:id="v8naTA-d1e2541-d1e372">
+               <lb ed="#L" n="32"/>Solius igitur Dei est miracula facere. Ipse enim
+<lb ed="#L" n="33"/>est superior ordine quo universa continentur,
+<lb ed="#L" n="34"/>sicut a cuius providentia totus hic ordo fluit.
+<lb ed="#L" n="35"/>Eius etiam virtus, cum sit omnino infinita, non
+<lb ed="#L" n="36"/>determinatur ad aliquem specialem effectum;
+<lb ed="#L" n="37"/>neque ad hoc quod effectus ipsius producatur
+<lb ed="#L" n="38"/>aliquo determinato modo vel ordine.
+</p>
+            <p xml:id="v8naTA-d1e2541-d1e391">
+               <lb ed="#L" n="39"/>Hinc est quod in Psalmo dicitur de Deo: <quote xml:id="v8naTA-d1e2541-Qd1e395">Qui
+<lb ed="#L" n="40"/>facit mirabilia magna solus</quote>.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 35</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 35</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="92"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1994"><!-- v8naTA-l3c35 -->
+            <head xml:id="v8naTA-d1e1994-Hd1e101">Capitulum 35</head>
+            <head xml:id="v8naTA-d1e1994-Hd1e103" type="question-title">Quod ultima felicitas non sit in actu prudentiae.</head>
+            <p xml:id="v8naTA-d1e1994-d1e106">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="77" type="fixed=91"/>CAPITULUM TRIGESIMUM QUINTUM
+<lb ed="#L" n="78"/>QUOD ULTIMA FELICITAS NON SIT IN ACTU PRUDENTIAE.
+</p>
+            <p xml:id="v8naTA-d1e1994-d1e115">
+               <lb ed="#L" n="79"/>Ex hoc etiam apparet quod neque in
+<lb ed="#L" n="80"/>actu prudentiae est ultima hominis 
+fe<lb ed="#L" break="no" n="81"/>licitas.
+</p>
+            <p xml:id="v8naTA-d1e1994-d1e124">
+               <lb ed="#L" n="82"/>Actus enim prudentiae est solum
+<lb ed="#L" n="83"/>circa ea quae sunt moralium virtutum. Non est
+<lb ed="#L" n="84"/>autem in actibus moralium virtutum ultima 
+ho<lb ed="#L" break="no" n="85"/>minis felicitas . Neque igitur in actu prudentiae.
+</p>
+            <p xml:id="v8naTA-d1e1994-d1e136">
+               <lb ed="#L" n="86"/>Adhuc. Ultima felicitas hominis est in optima
+<lb ed="#L" n="87"/>hominis operatione. Optima autem hominis 
+ope<lb ed="#L" break="no" n="88"/>ratio, secundum id quod est proprium hominis,
+<lb ed="#L" n="89"/>est in comparatione ad perfectissima obiecta.
+<lb ed="#L" n="90"/>Operatio autem prudentiae non est circa obiecta
+<lb ed="#L" n="91"/>perfectissima intellectus vel rationis: non enim
+<lb ed="#L" n="92"/>est circa necessaria, sed circa contingentia 
+ope<lb ed="#L" break="no" n="93"/>rabilia. Non est igitur in eius operatione ultima 
+<lb ed="#L" n="94"/>hominis felicitas.
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="95"/>Amplius. Quod ordinatur ad alterum sicut ad
+<lb ed="#L" n="96"/>finem, non est ultima hominis felicitas. Operatio
+<lb ed="#L" n="97"/>autem prudentiae ordinatur ad alterum sicut ad
+<lb ed="#L" n="98"/>finem: tum quia omnis practica cognitio, sub qua
+<lb ed="#L" n="99"/>continetur prudentia, ordinatur ad operationem;
+<lb ed="#L" n="100"/>tum etiam quia prudentia facit hominem bene
+<lb ed="#L" n="101"/>se habere in his quae sunt ad finem eligenda,
+<lb ed="#L" n="102"/>sicut patet per <ref xml:id="v8naTA-d1e1994-Rd1e177">Aristotelem, in VI Ethicorum</ref>.
+<lb ed="#L" n="103"/>Non est igitur in operatione prudentiae ultima
+<lb ed="#L" n="104"/>hominis felicitas.
+</p>
+            <p xml:id="v8naTA-d1e1994-d1e184">
+               <lb ed="#L" n="105"/>Item. Animalia irrationabilia non participant 
+ali<lb ed="#L" break="no" n="106"/>quid felicitatis: sicut probat Aristoteles in I 
+Efhico<lb ed="#L" break="no" n="107"/>rum . Participant autem quaedam eorum aliquid
+<lb ed="#L" n="108"/>prudentiae: ut patet per eundem in I 
+Metaphy<lb ed="#L" break="no" n="109"/>scae . Igitur felicitas non consistit in operatione
+<lb ed="#L" n="110"/>prudentiae.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

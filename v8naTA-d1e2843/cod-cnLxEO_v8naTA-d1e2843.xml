@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 139</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 139</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="418"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2843"><!-- v8naTA-l3c139 -->
+            <head xml:id="v8naTA-d1e2843-Hd1e101">Capitulum 139</head>
+            <head xml:id="v8naTA-d1e2843-Hd1e103" type="question-title">Quod neque merita neque peccata sint paria.</head>
+            <p xml:id="v8naTA-d1e2843-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="77" type="fixed=418"/>CAPITULUM CENTESIMUM TRIGESIMUM NONUM
+<lb ed="#L" n="78"/>QUOD NEQUE MERITA NEQUE PECCATA SINT PARIA.
+</p>
+            <p xml:id="v8naTA-d1e2843-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="79"/>EX his autem manifestum est quod 
+ne<lb ed="#L" break="no" n="80"/>que omnia bona opera, neque omnia
+<lb ed="#L" n="81"/>peccata sunt paria. Consilium enim non
+<lb ed="#L" n="82"/>datur nisi de meliori bono . Dantur
+<lb ed="#L" n="83"/>autem consilia in lege divina de paupertate, 
+con<lb ed="#L" break="no" n="84"/>tinentia, et aliis huiusmodi, ut supra dictum est.
+<lb ed="#L" n="85"/>Haec igitur meliora sunt quam matrimonio uti
+<lb ed="#L" n="86"/>et temporalia possidere: secundum quae tamen
+<lb ed="#L" n="87"/>contingit virtuose agere, ordine rationis servato,
+<lb ed="#L" n="88"/>ut supra  ostensum est. Non igitur omnes actus
+<lb ed="#L" n="89"/>virtutum sunt pares.
+</p>
+            <p xml:id="v8naTA-d1e2843-d1e144">
+               <lb ed="#L" n="90"/>Adhuc. Actus speciem recipiunt ex obiectis.
+<lb ed="#L" n="91"/>Quanto igitur obiectum est melius, tanto et actus
+<lb ed="#L" n="92"/>erit virtuosior secundum speciem suam. Finis
+<lb ed="#L" n="93"/>autem melior est his quae sunt ad finem: quo- ; 
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="94"/>rum tanto aliquid melius est, quanto est fini
+<lb ed="#L" n="95"/>propinquius. Inter actus igitur humanos ille est
+<lb ed="#L" n="96"/>optimus qui in ultimum finem, scilicet Deum,
+<lb ed="#L" n="97"/>immediate fertur. Post quem, tanto actus melior
+<lb ed="#L" n="98"/>est secundum suam speciem, quanto obiectum
+<lb ed="#L" n="99"/>est Deo propinquius.
+</p>
+            <p xml:id="v8naTA-d1e2843-d1e171">
+               <lb ed="#L" n="100"/>Amplius. Bonum in actibus humanis est 
+se<lb ed="#L" break="no" n="101"/>cundum quod ratione regulantur. Contingit autem
+<lb ed="#L" n="102"/>aliquos aliis ad rationem magis accedere : quanto
+<lb ed="#L" n="103"/>actus qui sunt ipsius rationis, magis habent de
+<lb ed="#L" n="104"/>bono rationis quam actus inferiorum virium, 
+qui<lb ed="#L" break="no" n="105"/>bus ratio imperat. Sunt igitur inter actus humanos
+<lb ed="#L" n="106"/>aliqui aliis meliores.
+</p>
+            <p xml:id="v8naTA-d1e2843-d1e189">
+               <lb ed="#L" n="107"/>Item. Praecepta legis optime ex dilectione 
+im<lb ed="#L" break="no" n="108"/>plentur, ut supra  dictum est. Contingit autem
+<pb ed="#L" n="419"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>aliquem alio ex maiori dilectione quod faciendum
+<lb ed="#L" n="2"/>est facere. Erit igitur virtuosorum actuum unus
+<lb ed="#L" n="3"/>alio melior.
+</p>
+            <p xml:id="v8naTA-d1e2843-d1e207">
+               <lb ed="#L" n="4"/>Praeterea. Si ex virtute actus hominis boni
+<lb ed="#L" n="5"/>redduntur ; contingit autem intensiorem esse
+<lb ed="#L" n="6"/>eandem in uno quam in alio: oportet quod
+<lb ed="#L" n="7"/>humanorum actuum sit unus alio melior.
+</p>
+            <p xml:id="v8naTA-d1e2843-d1e218">
+               <lb ed="#L" n="8"/>Item. Si ex virtutibus actus humani boni 
+red<lb ed="#L" break="no" n="9"/>duntur, oportet meliorem esse actum qui est
+<lb ed="#L" n="10"/>melioris virtutis. Contingit autem virtutem unam
+<lb ed="#L" n="11"/>altera meliorem esse: puta magnificentiam 
+libe<lb ed="#L" break="no" n="12"/>ralitate, et magnanimitatem moderantia. Erit igitur
+<lb ed="#L" n="13"/>humanorum actuum unus alio melior.
+</p>
+            <p xml:id="v8naTA-d1e2843-d1e234">
+               <lb ed="#L" n="14"/>Hinc est quod dicitur I Cor. vii?: Qui 
+ma<lb ed="#L" break="no" n="15"/>trimonio iungit virgines suas, bene facit: qui autem
+<lb ed="#L" n="16"/>non iungit, melius facit.
+</p>
+            <p xml:id="v8naTA-d1e2843-d1e243">
+               <lb ed="#L" n="17"/>Ex eisdem etiam rationibus apparet quod non
+<lb ed="#L" n="18"/>omnia peccata sunt paria: cum per unum 
+pec<lb ed="#L" break="no" n="19"/>catum magis discedatur a fine quam per aliud;
+<lb ed="#L" n="20"/>et magis pervertatur ordo rationis; et maius 
+no<lb ed="#L" break="no" n="21"/>cumentum proximo inferatur.
+</p>
+            <p xml:id="v8naTA-d1e2843-d1e257">
+               <lb ed="#L" n="22"/>Hinc est quod dicitur Exech. xv1?: Sceleratiora
+<lb ed="#L" n="23"/>fecisti illis in omnibus viis tuis.
+</p>
+            <p xml:id="v8naTA-d1e2843-d1e264">
+               <lb ed="#L" n="24"/>Per hoc autem excluditur quorundam error
+<lb ed="#L" n="25"/>dicentium omnia merita et peccata paria esse.
+</p>
+            <p xml:id="v8naTA-d1e2843-d1e271">
+               <lb ed="#L" n="26"/>Quod tamen omnes virtuosi actus sint aequales,
+<lb ed="#L" n="27"/>ex hoc videbatur aliquam rationem habere, quia
+<lb ed="#L" n="28"/>omnis actus virtuosus est ex fine boni. Unde,
+<lb ed="#L" n="29"/>si omnium bonorum actuum est idem finis boni,
+<lb ed="#L" n="30"/>oportet omnes aequaliter bonos esse.
+</p>
+            <p xml:id="v8naTA-d1e2843-d1e284">
+               <lb ed="#L" n="31"/>Licet autem sit unus finis ultimus boni, actus
+<lb ed="#L" n="32"/>tamen qui ex illo bonitatem habent, diversum
+<lb ed="#L" n="33"/>bonitatis gradum accipiunt. Est enim in his bonis
+<lb ed="#L" n="34"/>quae ad ultimum finem ordinantur, differentia
+<lb ed="#L" n="35"/>gradus, secundum quod quaedam sunt aliis 
+me<lb ed="#L" break="no" n="36"/>liora, et fini ultimo propinquiora. Unde et in
+<lb ed="#L" n="37"/>voluntate et actibus eius gradus bonitatis erit, 
+se<lb ed="#L" break="no" n="38"/>cundum diversitatem bonorum ad quae 
+termi<lb ed="#L" break="no" n="39"/>natur voluntas et eius actus, licet ultimus finis
+<lb ed="#L" n="40"/>sit idem.
+</p>
+            <p xml:id="v8naTA-d1e2843-d1e308">
+               <lb ed="#L" n="41"/>Similiter etiam quod omnia peccata sint paria,
+<lb ed="#L" n="42"/>videtur ex hoc habere rationem, quia peccatum
+<lb ed="#L" n="43"/>in actibus humanis accidit ex hoc solo quod 
+ali<lb ed="#L" break="no" n="44"/>quis praeterit regulam rationis. Ita autem 
+prae<lb ed="#L" break="no" n="45"/>terit regulam rationis qui in modico a ratione
+<lb ed="#L" n="46"/>recedit, sicut qui in magno. Videtur igitur 
+pec<lb ed="#L" break="no" n="47"/>catum esse aequale sive in modico sive in magno
+<lb ed="#L" n="48"/>peccetur. 
+</p>
+            <p xml:id="v8naTA-d1e2843-d1e328">
+               <lb ed="#L" n="49"/>Huic autem rationi videtur suffragari quod in
+<lb ed="#L" n="50"/>humanis iudiciis agitur. Nam si alicui statuatur
+<lb ed="#L" n="51"/>limes quem non transgrediatur, nihil refert apud
+<lb ed="#L" n="52"/>iudicem sive multum sive modicum sit 
+trans<lb ed="#L" break="no" n="53"/>gressus: sicut non refert, ex quo pugil limites
+<lb ed="#L" n="54"/>campi exivit, utrum longius progrediatur. Ex quo
+<lb ed="#L" n="55"/>igitur aliquis regulam rationis pertransiit, non
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="56"/>refert utrum. in modico vel in magno ipsam
+<lb ed="#L" n="57"/>transiverit. 
+</p>
+            <p xml:id="v8naTA-d1e2843-d1e353">
+               <lb ed="#L" n="58"/>Sed si quis diligenter inspiciat, in .omnibus
+<lb ed="#L" n="59"/>quorum perfectio et bonum in. quadam 
+com<lb ed="#L" break="no" n="60"/>mensuratione consistit, quanto magis a debita
+<lb ed="#L" n="61"/>commensuratione receditur, tanto maius erit 
+ma<lb ed="#L" break="no" n="62"/>lum. Sicut sanitas consistit in debita 
+commen<lb ed="#L" break="no" n="63"/>suratione humorum; et pulcritudo in debita
+<lb ed="#L" n="64"/>proportione membrorum; veritas autem in 
+com<lb ed="#L" break="no" n="65"/>mensuratione intellectus vel sermonis ad rem.
+</p>
+            <p xml:id="v8naTA-d1e2843-d1e373">
+               <lb ed="#L" n="66"/>Patet autem quod quanto est maior inaequalitas in
+<lb ed="#L" n="67"/>humoribus, tanto est maior infirmitas; et quanto
+<lb ed="#L" n="68"/>est maior inordinatio in membris, tanto est maior
+<lb ed="#L" n="69"/>turpitudo; et quanto magis a veritate receditur,
+<lb ed="#L" n="70"/>tanto est maior falsitas; non enim est tam magna
+<lb ed="#L" n="71"/>falsitas aestimantis tria esse quinque, sicut eius
+<lb ed="#L" n="72"/>qui aestimat tria esse centum. Bonum autem
+<lb ed="#L" n="73"/>virtutis in quadam commensuratione consistit:
+<lb ed="#L" n="74"/>est enim medium, secundum debitam 
+limitatio<lb ed="#L" break="no" n="75"/>nem circumstantiarum, inter contraria vitia 
+con<lb ed="#L" break="no" n="76"/>stitutum . Quanto igitur magis ab hac harmonia
+<lb ed="#L" n="77"/>receditur, tanto est maior malitia.
+</p>
+            <p xml:id="v8naTA-d1e2843-d1e402">
+               <lb ed="#L" n="78"/>Non est autem simile virtutem transgredi, et
+<lb ed="#L" n="79"/>terminos a iudice positos transire. Nam virtus
+<lb ed="#L" n="80"/>est secundum se bonum: unde virtutem 
+trans<lb ed="#L" break="no" n="81"/>gredi est secundum se malum. Et ideo oportet
+<lb ed="#L" n="82"/>quod magis a virtute recedere sit maius malum.
+<lb ed="#L" n="83"/>Transgredi autem terminum hunc a iudice 
+po<lb ed="#L" break="no" n="84"/>situm, non est secundum. se malum, sed per
+<lb ed="#L" n="85"/>accidens, inquantum scilicet est prohibitum. In
+<lb ed="#L" n="86"/>his autem quae sunt per accidens, non est 
+ne<lb ed="#L" break="no" n="87"/>cessarium quod, si simpliciter sequitur ad 
+sim<lb ed="#L" break="no" n="88"/>pliciter, et magis sequatur. ad inagis , sed solum
+<lb ed="#L" n="89"/>in his quae sunt per se: non enim sequitur, si
+<lb ed="#L" n="90"/>album est. musicum, quod magis album sit magis
+<lb ed="#L" n="91"/>musicum; sequitur autem, si album est 
+disgre<lb ed="#L" break="no" n="92"/>gativum visus, quod magis album sit magis 
+dis<lb ed="#L" break="no" n="93"/>gregativum visus.
+</p>
+            <p xml:id="v8naTA-d1e2843-d1e439">
+               <lb ed="#L" n="94"/>Est autem hoc inter peccatorum differentias
+<lb ed="#L" n="95"/>attendendum, quod quoddam est. mortale, et
+<lb ed="#L" n="96"/>quoddam veniale. Mortale autem est quod 
+ani<lb ed="#L" break="no" n="97"/>mam spirituali vita privat. Chius quidem vitae
+<lb ed="#L" n="98"/>ratio ex duobus sumi potest, secundum 
+simili<lb ed="#L" break="no" n="99"/>tudinem vitae naturalis. Vivit enim corpus 
+natu<lb ed="#L" break="no" n="100"/>raliter per hoc quod animae unitur, quae est ei
+<lb ed="#L" n="101"/>principium vitae. Corpus autem, vivificatum per
+<lb ed="#L" n="102"/>animam, ex seipso movetur: sed corpus 
+mor<lb ed="#L" break="no" n="103"/>tuum vel immobile manet, vel ab exteriori 
+tan<lb ed="#L" break="no" n="104"/>tum movetur. Sic igitur et voluntas hominis,
+<lb ed="#L" n="105"/>cum per rectam intentionem ultimo fini 
+coniun<lb ed="#L" break="no" n="106"/>gitur, quod est eius obiectum et quodammodo
+<lb ed="#L" n="107"/>forma, et vivida est; et, cum per dilectionem
+<lb ed="#L" n="108"/>Deo et proximo inhaeret, ex interiori principio
+<lb ed="#L" n="109"/>movetur ad agendum recta. Intentione autem
+<lb ed="#L" n="110"/>ultimi finis et dilectione remota, anima fit velut
+<pb ed="#L" n="420"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>mortua: quia non movetur ex seipsa ad agendum
+<lb ed="#L" n="2"/>recta, sed vel omnino ab eis agendis desistit, vel
+<lb ed="#L" n="3"/>ad ea agenda solum ab exteriori inducitur, 
+sci<lb ed="#L" break="no" n="4"/>licet metu poenarum. Quaecumque igitur peccata
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="5"/>intentioni ultimi finis et dilectioni opponuntur,
+<lb ed="#L" n="6"/>mortalia sunt. Si vero, his salvis, aliquis in aliquo
+<lb ed="#L" n="7"/>recto ordine rationis deficiat, non erit mortale
+<lb ed="#L" n="8"/>peccatum, sed veniale. .
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

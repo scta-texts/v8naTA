@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 57</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 57</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="160"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2173"><!-- v8naTA-l3c57 -->
+            <head xml:id="v8naTA-d1e2173-Hd1e101">Capitulum 57</head>
+            <head xml:id="v8naTA-d1e2173-Hd1e103" type="question-title">Quod omnis intellectus, cuiuscumque gradus,
+particeps esse potest divinae visionis.</head>
+            <p xml:id="v8naTA-d1e2173-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="75" type="fixed=160"/>CAPITULUM QUINQUAGESIMUM SEPTIMUM
+<lb ed="#L" n="76"/>QUOD OMNIS INTELLECTUS, CUIUSCUMQUE GRADUS,
+<lb ed="#L" n="77"/>PARTICEPS ESSE POTEST DIVINAE VISIONIS.
+</p>
+            <p xml:id="v8naTA-d1e2173-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="78"/>CUM autem ad visionem divinae 
+substan<lb ed="#L" break="no" n="79"/>tiae intellectus creatus quodam 
+super<lb ed="#L" break="no" n="80"/>naturali lumine sublimetur, ut patet
+<lb ed="#L" n="81"/>ex dictis , non est aliquis intellectus
+<lb ed="#L" n="82"/>creatus ita secundum suam naturam infimus,
+<lb ed="#L" n="83"/>qui non ad hanc visionem possit elevari.
+<lb ed="#L" n="84"/>Ostensum enim est quod lumen illud non
+<lb ed="#L" n="85"/>potest esse alicui creaturae connaturale, sed
+<lb ed="#L" n="86"/>omnem creatam naturam excedit secundum 
+vir<lb ed="#L" break="no" n="87"/>tutem. Quod autem fit virtute supernaturali,
+<lb ed="#L" n="88"/>non impeditur propter naturae diversitatem, cum
+<lb ed="#L" n="89"/>divina virtus sit infinita: unde in sanatione 
+in<lb ed="#L" break="no" n="90"/>firmi quae fit miraculose, non differt utrum 
+ali<lb ed="#L" break="no" n="91"/>quis multum vel parum infirmetur. Diversus
+<lb ed="#L" n="92"/>ergo gradus naturae intellectualis non impedit: 
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="93"/>quin infimum in tali natura ad illam visionem
+<lb ed="#L" n="94"/>perduci possit praedicto lumine.
+</p>
+            <p xml:id="v8naTA-d1e2173-d1e161">
+               <lb ed="#L" n="95"/>Adhuc. Distantia intellectus secundum ordinem
+<lb ed="#L" n="96"/>naturae supremi ad Deum est infinita in 
+per<lb ed="#L" break="no" n="97"/>fectione et bonitate. Eius autem distantia ad 
+in<lb ed="#L" break="no" n="98"/>tellectum infimum est finita: finiti enim ad 
+fini<lb ed="#L" break="no" n="99"/>tum non potest esse infinita distantia. Distantia
+<lb ed="#L" n="100"/>igitur quae est inter infimum intellectum creatum
+<lb ed="#L" n="101"/>et supremum, est quasi nihil in comparatione
+<lb ed="#L" n="102"/>ad illam distantiam quae est inter supremum
+<lb ed="#L" n="103"/>intellectum creatum et Deum. Quod autem est
+<lb ed="#L" n="104"/>quasi nihil, non potest variationem sensibilem
+<lb ed="#L" n="105"/>facere: sicut distantia quae est inter centrum
+<lb ed="#L" n="106"/>terrae et visum, est quasi nihil in comparatione
+<lb ed="#L" n="107"/>ad distantiam quae est inter visum nostrum et
+<pb ed="#L" n="161"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>octavam sphaeram, ad quam tota terra comparata
+<lb ed="#L" n="2"/>obtinet locum puncti; et propter hoc nulla 
+sensi<lb ed="#L" break="no" n="3"/>bilis variatio fit per hoc quod astrologi in suis de- .
+<lb ed="#L" n="4"/>monstrationibus utuntur visu nostro quasi centro
+<lb ed="#L" n="5"/>terrae. Nihil ergo differt quicumque intellectus
+<lb ed="#L" n="6"/>sit qui ad Dei visionem per lumen praedictum
+<lb ed="#L" n="7"/>elevetur, utrum summus, vel infimus, vel medius.
+</p>
+            <p xml:id="v8naTA-d1e2173-d1e212">
+               <lb ed="#L" n="8"/>Item. Supra  probatum est quod omnis 
+in<lb ed="#L" break="no" n="9"/>tellectus naturaliter desiderat divinae substantiae
+<lb ed="#L" n="10"/>visionem. Naturale autem desiderium non potest
+<lb ed="#L" n="11"/>esse inane. Quilibet igitur intellectus creatus 
+po<lb ed="#L" break="no" n="12"/>test pervenire ad divinae substantiae visionem,
+<lb ed="#L" n="13"/>non impediente inferioritate naturae.
+</p>
+            <p xml:id="v8naTA-d1e2173-d1e228">
+               <lb ed="#L" n="14"/>Hinc est quod Matth. xxi ^, Dominus hominibus
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="15"/>repromittit gloriam angelorum: Erunt, inquit, de
+<lb ed="#L" n="16"/>hominibus, loquens, sicut angeli Dei in caelo. Et
+<lb ed="#L" n="17"/>Apoc. xx , eadem. mensura hominis et angeli esse
+<lb ed="#L" n="18"/>perhibetur. Propter quod et fere ubique in 
+Sa<lb ed="#L" break="no" n="19"/>cra Scriptura angeli in forma hominum 
+descri<lb ed="#L" break="no" n="20"/>buntur: vel in toto, sicut patet de angelis qui
+<lb ed="#L" n="21"/>appefuerufit Abrahae in similitudine virorum,
+<lb ed="#L" n="22"/>Gen. xvn; vel in parte, sicut patet de 
+anima<lb ed="#L" break="no" n="23"/>libus, Exech. 1, de quibus dicitur quod manus
+<lb ed="#L" n="24"/>hominis erant sub pennis eorum.
+</p>
+            <p xml:id="v8naTA-d1e2173-d1e257">
+               <lb ed="#L" n="25"/>Per hoc autem excluditur error quorundam
+<lb ed="#L" n="26"/>qui dicebant quod anima humana, 
+quantum<lb ed="#L" break="no" n="27"/>cumque elevetur, non potest ad aequalitatem
+<lb ed="#L" n="28"/>superiorum intellectuum pervenire .
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 63</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 63</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="176"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2222"><!-- v8naTA-l3c63 -->
+            <head xml:id="v8naTA-d1e2222-Hd1e101">Capitulum 63</head>
+            <head xml:id="v8naTA-d1e2222-Hd1e103" type="question-title">Oualiter in illa ultima felicitate
+omne desiderium hominis completur.</head>
+            <p xml:id="v8naTA-d1e2222-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="23" type="fixed=176"/>CAPITULUM SEXAGESIMUM TERTIUM
+<lb ed="#L" n="24"/>OUALITER IN ILLA ULTIMA FELICITATE
+<lb ed="#L" n="25"/>OMNE DESIDERIUM HOMINIS COMPLETUR.
+</p>
+            <p xml:id="v8naTA-d1e2222-d1e117">
+               <lb ed="#L" n="26"/>EX praemissis autem evidenter apparet
+<lb ed="#L" n="27"/>quod in illa felicitate quae provenit ex
+<lb ed="#L" n="28"/>visione divina, omne desiderium 
+huma<lb ed="#L" break="no" n="29"/>num impletur, secundum illud Psalmi ,
+<lb ed="#L" n="30"/>Qui replet in bonis desiderium tuum; et omne 
+hu<lb ed="#L" break="no" n="31"/>manum studium ibi suam consummationem 
+ac<lb ed="#L" break="no" n="32"/>cipit. Quod quidem patet discurrenti per singula.
+</p>
+            <p xml:id="v8naTA-d1e2222-d1e135">
+               <lb ed="#L" n="33"/>Est enim quoddam desiderium hominis 
+in<lb ed="#L" break="no" n="34"/>quantum intellectualis est, de cognitione veritatis:
+<lb ed="#L" n="35"/>quod quidem desiderium homines prosequuntur
+<lb ed="#L" n="36"/>per studium contemplativae vitae. Et hoc quidem
+<lb ed="#L" n="37"/>manifeste in illa visione consummabitur, quando,
+<lb ed="#L" n="38"/>per visionem Primae Veritatis, omnia quae 
+in<lb ed="#L" break="no" n="39"/>tellectus naturaliter scire desiderat, ei innotescent,
+<lb ed="#L" n="40"/>ut ex supra  dictis apparet.
+</p>
+            <p xml:id="v8naTA-d1e2222-d1e156">
+               <lb ed="#L" n="41"/>Est etiam quoddam hominis desiderium 
+secun<lb ed="#L" break="no" n="42"/>dum quod habet rationem, qua inferiora 
+dispo<lb ed="#L" break="no" n="43"/>nere potest: quod prosequuntur homines per
+<lb ed="#L" n="44"/>studium activae et civilis vitae. Quod quidem
+<lb ed="#L" n="45"/>desiderium principaliter ad hoc est, ut tota 
+ho<lb ed="#L" break="no" n="46"/>minis vita secundum rationem disponatur, quod
+<lb ed="#L" n="47"/>est vivere secundum virtutem : cuiuslibet enim
+<lb ed="#L" n="48"/>virtuosi finis in operando est propriae virtutis
+<lb ed="#L" n="49"/>bonum, sicut fortis ut fortiter agat. Hoc autem
+<lb ed="#L" n="50"/>desiderium tunc omnino complebitur: quia ratio
+<lb ed="#L" n="51"/>in summo vigore erit, divino lumine illustrata,
+<lb ed="#L" n="52"/>ne a recto deficere possit.
+</p>
+            <p xml:id="v8naTA-d1e2222-d1e185">
+               <lb ed="#L" n="53"/>Consequuntur etiam civilem vitam quaedam
+<lb ed="#L" n="54"/>bona quibus homo indiget ad civiles operationes.
+<lb ed="#L" n="55"/>Sicut honoris sublimitas: quam homines 
+inordi<lb ed="#L" break="no" n="56"/>nate appetentes, superbi et ambitiosi fiunt. Ad
+<lb ed="#L" n="57"/>summam autem honoris altitudinem per illam
+<lb ed="#L" n="58"/>visionem homines sublimantur, inquantum Deo
+<lb ed="#L" n="59"/>quodam modo uniuntur, ut supra  ostensum est.
+<lb ed="#L" n="60"/>Et propter hoc, sicut ipse Deus Rex Saeculorum
+<lb ed="#L" n="61"/>est , ita et Beati ei coniuncti Reges dicuntur,
+<lb ed="#L" n="62"/>Apoc. xx: Regnabunt cum Christo.
+</p>
+            <p xml:id="v8naTA-d1e2222-d1e209">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="63"/>Consequitur etiam civilem vitam aliud 
+appe<lb ed="#L" break="no" n="64"/>tibile, quod est famae celebritas: per cuius 
+inor<lb ed="#L" break="no" n="65"/>dinatum appetitum homines inanis gloriae cupidi
+<lb ed="#L" n="66"/>dicuntur. Beati autem per illam visionem 
+red<lb ed="#L" break="no" n="67"/>duntur celebres, non secundum hominum, qui
+<lb ed="#L" n="68"/>et decipi et decipere possunt, opinionem, sed
+<lb ed="#L" n="69"/>secundum verissimam cognitionem et Dei et
+<lb ed="#L" n="70"/>omnium Beatorum. Et ideo illa beatitudo in
+<lb ed="#L" n="71"/>Sacra Scriptura frequentissime gloria nominatur:
+<lb ed="#L" n="72"/>sicut in Psalmo  dicitur: Exuwltabunt Sancti in
+<lb ed="#L" n="73"/>gloria.
+</p>
+            <p xml:id="v8naTA-d1e2222-d1e238">
+               <lb ed="#L" n="74"/>Est etiam et aliud in civili vita appetibile, 
+sci<lb ed="#L" break="no" n="75"/>licet divitiae: per cuius inordinatum appetitum
+<lb ed="#L" n="76"/>et amorem homines illiberales et iniusti fiunt.
+<lb ed="#L" n="77"/>In illa autem beatitudine est bonorum omnium
+<lb ed="#L" n="78"/>sufficientia: inquantum Beati perfruuntur illo qui
+<lb ed="#L" n="79"/>comprehendit omnium bonorum perfectionem.
+<lb ed="#L" n="80"/>Propter quod dicitur Sap. vi": Venerunt mihi
+<lb ed="#L" n="81"/>omnia bona pariter cum illa. Unde et in Psalmo 
+<lb ed="#L" n="82"/>dicitur: Gloria et diviliae in domo eius.
+</p>
+            <p xml:id="v8naTA-d1e2222-d1e260">
+               <lb ed="#L" n="83"/>Est etiam tertium hominis desiderium, quod
+<lb ed="#L" n="84"/>est sibl et aliis animalibus commune, ut 
+delecta<lb ed="#L" break="no" n="85"/>tionibus perfruatur: quod homines maxime 
+pro<lb ed="#L" break="no" n="86"/>sequuntur secundum vitam voluptuosam; et per
+<lb ed="#L" n="87"/>eius immoderantiam homines intemperati et 
+in<lb ed="#L" break="no" n="88"/>continentes-fiunt. In illa vero felicitate est 
+dele<lb ed="#L" break="no" n="89"/>ctatio perfectissima: tanto quidem perfectior ea
+<lb ed="#L" n="90"/>quae secundum sensus est, qua etiam bruta 
+ani<lb ed="#L" break="no" n="91"/>malia perfrui possunt, quanto intellectus est altior
+<lb ed="#L" n="92"/>sensu; quanto etiam illud bonum in quo 
+delecta<lb ed="#L" break="no" n="93"/>bimur, maius est omni sensibili bono, et magis
+<lb ed="#L" n="94"/>intimum, et magis continue delectans; quanto
+<lb ed="#L" n="95"/>etiam illa delectatio est magis pura ab omni 
+per<lb ed="#L" break="no" n="96"/>mixtione contristantis, aut sollicitudinis alicuius
+<lb ed="#L" n="97"/>molestantis; de qua dicitur in Psalmo : <quote xml:id="v8naTA-d1e2222-Qd1e294">
+Inebria<lb ed="#L" break="no" n="98"/>buntur ab ubertate domus tuae, et torrente 
+vo<lb ed="#L" break="no" n="99"/>luptatis tuae potabis eos.</quote>
+            </p>
+            <p xml:id="v8naTA-d1e2222-d1e302">
+               <pb ed="#L" n="177"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>Est etiam et naturale desiderium, omnibus
+<lb ed="#L" n="2"/>rebus commune; per quod conservationem | sui
+<lb ed="#L" n="3"/>desiderant, secundum quod possibile est: per
+<lb ed="#L" n="4"/>cuius immoderantiam homines timidi redduntur,
+<lb ed="#L" n="5"/>et nimis a laboribus sibi parcentes. Quod quidem
+<lb ed="#L" n="6"/>desiderium tunc omnino complebitur, quando
+<lb ed="#L" n="7"/>Beati perfectam sempiternitatem consequentur,
+<lb ed="#L" n="8"/>ab omni nocumento securi: secundum illud
+<lb ed="#L" n="9"/>Isaiae xvix et Apoc. xxi: Non esurient neque
+<lb ed="#L" n="10"/>sitient amplius, neque cadet super illos sol neque
+<lb ed="#L" n="11"/>ullus aestus.
+</p>
+            <p xml:id="v8naTA-d1e2222-d1e334">
+               <lb ed="#L" n="12"/>Sic igitur patet quod per visionem divinam
+<lb ed="#L" n="13"/>consequuntur intellectuales substantiae veram 
+fe<lb ed="#L" break="no" n="14"/>licitatem, in qua omnino desideria quietantur,
+<lb ed="#L" n="15"/>et in qua est plena sufficientia omnium bonorum,
+<lb ed="#L" n="16"/>quae, secundum Aristotelem , ad felicitatem 
+re<lb ed="#L" break="no" n="17"/>quiritur. Unde et Boetius dicit quod beatitudo
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="18"/>est. status. omnium bonorum congregalione 
+per<lb ed="#L" break="no" n="19"/>fectus.
+</p>
+            <p xml:id="v8naTA-d1e2222-d1e356">
+               <lb ed="#L" n="20"/>Huius autem ultimae et perfectae felicitatis in
+<lb ed="#L" n="21"/>hac vita nihil est adeo simile sicut vita 
+contem<lb ed="#L" break="no" n="22"/>plantium veritatem, secundum quod est possibile
+<lb ed="#L" n="23"/>in hac vita. Et ideo philosophi, qui de illa 
+feli<lb ed="#L" break="no" n="24"/>citate ultima plenam notitiam habere non 
+potue<lb ed="#L" break="no" n="25"/>runt, in contemplatione quae est possibilis in
+<lb ed="#L" n="26"/>hac vita, ultimam felicitatem hominis posuerunt.
+<lb ed="#L" n="27"/>Propter hoc etiam, inter alias vitas, in Scriptura
+<lb ed="#L" n="28"/>divina magis contemplativa commendatur, 
+di<lb ed="#L" break="no" n="29"/>cente Domino, Lucae x: Maria optimam 
+par<lb ed="#L" break="no" n="30"/>tem elegit, scilicet contemplationem veritatis, quae
+<lb ed="#L" n="31"/>non auferetur ab ea. Incipit enim. contemplatio
+<lb ed="#L" n="32"/>veritatis in hac vita, sed in futura consummatur:
+<lb ed="#L" n="33"/>activa vero et civilis vita huius vitae terminos
+<lb ed="#L" n="34"/>non transcendit.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

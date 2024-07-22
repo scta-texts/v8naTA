@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 27</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 27</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="82"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1928"><!-- v8naTA-l3c27 -->
+            <head xml:id="v8naTA-d1e1928-Hd1e101">Capitulum 27</head>
+            <head xml:id="v8naTA-d1e1928-Hd1e103" type="question-title">Quod felicitas humana
+non consistit in delectationibus carnalibus,</head>
+            <p xml:id="v8naTA-d1e1928-d1e106">
+               <pb ed="#L" n="82"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=82"/>CAPITULUM VIGESIMUM SEPTIMUM
+<lb ed="#L" n="2"/>QUOD FELICITAS HUMANA
+<lb ed="#L" n="3"/>NON CONSISTIT IN DELECTATIONIBUS CARNALIBUS,
+</p>
+            <p xml:id="v8naTA-d1e1928-d1e119">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="4"/>EX praemissis autem apparet quod 
+im<lb ed="#L" break="no" n="5"/>possibile est felicitatem humanam 
+con<lb ed="#L" break="no" n="6"/>sistere in delectationibus corporalibus,
+<lb ed="#L" n="7"/>quarum praecipuae sunt in cibis et
+<lb ed="#L" n="8"/>venereis.
+</p>
+            <p xml:id="v8naTA-d1e1928-d1e135">
+               <lb ed="#L" n="9"/>Ostensum est  enim quod secundum naturae
+<lb ed="#L" n="10"/>ordinem delectatio est propter operationem, et
+<lb ed="#L" n="11"/>non e converso. Si igitur operationes non fuerint
+<lb ed="#L" n="12"/>ultimus finis, delectationes consequentes eas 
+ne<lb ed="#L" break="no" n="13"/>que sunt ultimus finis, neque concomitantes 
+ulti<lb ed="#L" break="no" n="14"/>mum finem. Constat autem quod operationes
+<lb ed="#L" n="15"/>quas consequuntur praedictae delectationes, non
+<lb ed="#L" n="16"/>sunt ultimus finis: ordinantur enim ad aliquos
+<lb ed="#L" n="17"/>fines manifestos; sicut comestio ad. 
+conserva<lb ed="#L" break="no" n="18"/>tionem corporis, coitus autem ad 
+generatio<lb ed="#L" break="no" n="19"/>nem prolis. Delectationes igitur praemissae. non
+<lb ed="#L" n="20"/>sunt ultimus finis, neque ultimum finem 
+con<lb ed="#L" break="no" n="21"/>comitantes. Non est igitur in his ponenda 
+fe<lb ed="#L" break="no" n="22"/>licitas,
+</p>
+            <p xml:id="v8naTA-d1e1928-d1e169">
+               <lb ed="#L" n="23"/>Adhuc. Voluntas est superior quam appetitus
+<lb ed="#L" n="24"/>sensitivus: movet enim ipsum, sicut superius 
+<lb ed="#L" n="25"/>dictum est. In actu autem voluntatis non 
+con<lb ed="#L" break="no" n="26"/>sistit felicitas, sicut iam supra  ostensum est.
+<lb ed="#L" n="27"/>Multo igitur minus in delectationibus praedictis,
+<lb ed="#L" n="28"/>quae sunt in appetitu sensitivo. —
+</p>
+            <p xml:id="v8naTA-d1e1928-d1e185">
+               <lb ed="#L" n="29"/>Amplius. Felicitas est quoddam bonum 
+ho<lb ed="#L" break="no" n="30"/>minis proprium : non enim bruta possunt dici
+<lb ed="#L" n="31"/>felicia, nisi abusive . Delectationes autem 
+prae<lb ed="#L" break="no" n="32"/>missae sunt communes hominibus et brutis. Non
+<lb ed="#L" n="33"/>est igitur in eis ponenda felicitas.
+</p>
+            <p xml:id="v8naTA-d1e1928-d1e198">
+               <lb ed="#L" n="34"/>Item. Ultimus finis est nobilissimum eorum
+<lb ed="#L" n="35"/>quae ad rem pertinent: habet enim rationem
+<lb ed="#L" n="36"/>optimi. Hae autem delectationes non conveniunt
+<lb ed="#L" n="37"/>homini secundum id quod est nobilissimum in
+<lb ed="#L" n="38"/>ipso, quod est intellectus, sed secundum sensum.
+<lb ed="#L" n="39"/>Non est igitur in talibus: delectationibus ponenda
+<lb ed="#L" n="40"/>felicitas.
+</p>
+            <p xml:id="v8naTA-d1e1928-d1e216">
+               <lb ed="#L" n="41"/>Praeterea, Summa perfectio hominis esse non
+<lb ed="#L" n="42"/>potest in hoc quod coniungitur rebus se 
+inferio<lb ed="#L" break="no" n="43"/>ribus, sed per hoc quod coniungitur alicui rei
+<lb ed="#L" n="44"/>altiori: finis enim est melior eo quod est ad 
+fi<lb ed="#L" break="no" n="45"/>nem. Delectationes autem praemissae consistunt
+<lb ed="#L" n="46"/>in hoc quod homo secundum sensum 
+coniun<lb ed="#L" break="no" n="47"/>gitur aliquibus se inferioribus, scilicet sensibilibus
+<lb ed="#L" n="48"/>quibusdam. Non est igitur in talibus 
+delectatio<lb ed="#L" break="no" n="49"/>nibus felicitas ponenda.
+</p>
+            <p xml:id="v8naTA-d1e1928-d1e238">
+               <lb ed="#L" n="50"/>Amplius. Quod non est bonum nisi secundum
+<lb ed="#L" n="51"/>quod est moderatum, non est secundum se bo-
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="52"/>num, sed accipit bonitatem a moderante. Usus
+<lb ed="#L" n="53"/>autem praedictarum delectationum non est bonus
+<lb ed="#L" n="54"/>homini nisi sit moderatus: aliter enim hae 
+dele<lb ed="#L" break="no" n="55"/>ctationes se invicem impedirent. Non sunt igitur
+<lb ed="#L" n="56"/>; hae delectationes secundum se bonum hominis.
+<lb ed="#L" n="57"/>Quod autem est summum bonum, est per se
+<lb ed="#L" n="58"/>bonum: quia quod per se bonum est, melius est
+<lb ed="#L" n="59"/>eo quod per aliud . Non sunt igitur tales 
+de<lb ed="#L" break="no" n="60"/>lectationes summum hominis bonum, quod est
+<lb ed="#L" n="61"/>felicitas. 
+</p>
+            <p xml:id="v8naTA-d1e1928-d1e269">
+               <lb ed="#L" n="62"/>Item. In omnibus quae per se dicuntur, 
+se<lb ed="#L" break="no" n="63"/>quitur magis ad magis, si simpliciter sequatur ad
+<lb ed="#L" n="64"/>simpliciter: sicut, si calidum calefacit, magis 
+cali<lb ed="#L" break="no" n="65"/>dum magis calefacit, et maxime calidum maxime
+<lb ed="#L" n="66"/>: calefaciet . Si igitur delectationes praemissae 
+es<lb ed="#L" break="no" n="67"/>sent secundum se bonae, oporteret quod maxime
+<lb ed="#L" n="68"/>uti eis esset optimum. Hoc autem patet esse 
+fal<lb ed="#L" break="no" n="69"/>sum: nam nimius usus earum reputatur in 
+vi<lb ed="#L" break="no" n="70"/>tium, et est etiam corpori noxius, et similium
+<lb ed="#L" n="71"/>» delectationum impeditivus. Non sunt igitur. per
+<lb ed="#L" n="72"/>se bonum hominis. In. eis igitur non consistit
+<lb ed="#L" n="73"/>humana felicitas.
+</p>
+            <p xml:id="v8naTA-d1e1928-d1e299">
+               <lb ed="#L" n="74"/>Praeterea. Actus virtutum sunt laudabiles ex
+<lb ed="#L" n="75"/>hoc quod ad felicitatem ordinantur , Si igitur in
+<lb ed="#L" n="76"/>delectationibus praemissis consisteret humana 
+fe<lb ed="#L" break="no" n="77"/>licitas, actus virtutis magis esset laudabilis in 
+ac<lb ed="#L" break="no" n="78"/>cedendo ad has delectationes quam in abstinendo
+<lb ed="#L" n="79"/>ab eis. Hoc autem patet esse falsum: nam actus
+<lb ed="#L" n="80"/>temperantiae. maxime laudatur in. abstinendo a
+<lb ed="#L" n="81"/>» delectationibus; unde ab hoc denominatur. Non
+<lb ed="#L" n="82"/>est igitur in delectatiosibus.: peoticu hominis
+<lb ed="#L" n="83"/>felicitas.
+</p>
+            <p xml:id="v8naTA-d1e1928-d1e323">
+               <lb ed="#L" n="84"/>Amplius. Finis Tom cuiuslibet rei Deus est,
+<lb ed="#L" n="85"/>ut ex praemissis  patet. Illud igitur oportet. 
+ul<lb ed="#L" break="no" n="86"/>; imum finem hominis poni, per quod maxime
+<lb ed="#L" n="87"/>appropinquat ad' Deum. Per praedictas autem
+<lb ed="#L" n="88"/>delectationes homo impeditur a maxima 
+appro<lb ed="#L" break="no" n="89"/>pinquatione ad Deum, quae fit per 
+contempla<lb ed="#L" break="no" n="90"/>tionem, quam maxime praedictae delectationes
+<lb ed="#L" n="91"/>» impediunt, utpote ad sensibilia maxime hominem
+<lb ed="#L" n="92"/>immergentes, et per consequens ab intelligibilibus
+<lb ed="#L" n="93"/>retrahentes, Non est igitur in delectationibus 
+cor<lb ed="#L" break="no" n="94"/>poralibus felicitas humana ponenda.
+</p>
+            <p xml:id="v8naTA-d1e1928-d1e349">
+               <lb ed="#L" n="95"/>Per hoc autem excluditur error Epicureorum
+<lb ed="#L" n="96"/>sin his voluptatibus felicitatem hominis 
+ponen<lb ed="#L" break="no" n="97"/>tium: ex quorum persona dicit Salomon, £
+c<lb ed="#L" break="no" n="98"/>cle. v: Hoc itaque visum est mihi bonum, ut 
+co<lb ed="#L" break="no" n="99"/>medat quis et bibat et fruatur laetitia ex labore
+<pb ed="#L" n="83"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>suo: et haec est. pars illius. Et Sap. n?: <quote xml:id="v8naTA-d1e1928-Qd1e368">Ubique
+<lb ed="#L" n="2"/>relinquamus signa laetitiae: quoniam haec est pars
+<lb ed="#L" n="3"/>nostra, et haec est sors nostra</quote>.
+</p>
+            <p xml:id="v8naTA-d1e1928-d1e376">
+               <lb ed="#L" n="4"/>Excluditur etiam error. Cerinthianorum, qui in
+<lb ed="#L" n="5"/>ultima felicitate, post resurrectionem, mille annos
+<lb ed="#L" n="6"/>in regno Christi secundum carnales ventris vo-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="7"/>luptates fabulantur futuros: unde et Chiliastae,
+<lb ed="#L" n="8"/>(quasi Millenarii) sunt. appellati 
+</p>
+            <p xml:id="v8naTA-d1e1928-d1e392">
+               <lb ed="#L" n="9"/>Excluduntur etiam Iudaeorum et Saracenorum
+<lb ed="#L" n="10"/>fabulae, quae retributiones iustorum in praedictis
+<lb ed="#L" n="11"/>voluptatibus ponunt:. felicitas enim est virtutis
+<lb ed="#L" n="12"/>praemium.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

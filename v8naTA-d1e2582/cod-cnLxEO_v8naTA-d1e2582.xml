@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 107</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 107</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="335"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2582"><!-- v8naTA-l3c107 -->
+            <head xml:id="v8naTA-d1e2582-Hd1e101">Capitulum 107</head>
+            <head xml:id="v8naTA-d1e2582-Hd1e103" type="question-title">Quod substantia intellectualis
+cuius auxilio magicae artes utuntur,
+non est mala secundum suam naturam.</head>
+            <p xml:id="v8naTA-d1e2582-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="93" type="fixed=335"/>CAPITULUM CENTESIMUM SEPTIMUM
+<lb ed="#L" n="94"/>QUOD SUBSTANTIA INTELLECTUALIS
+<lb ed="#L" n="95"/>CUIUS AUXILIO MAGICAE ARTES UTUNTUR,
+<lb ed="#L" n="96"/>NON EST MALA SECUNDUM SUAM NATURAM.
+</p>
+            <p xml:id="v8naTA-d1e2582-d1e119">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="97"/>NON est autem possibile quod sit naturalis
+<lb ed="#L" n="98"/>malitia in substantiis intelligentibus 
+qua<lb ed="#L" break="no" n="99"/>rum auxilio magicae artes operantur.
+</p>
+            <p xml:id="v8naTA-d1e2582-d1e130">
+               <lb ed="#L" n="100"/>In illud enim in quod aliquid tendit
+<lb ed="#L" n="101"/>secundum suam naturam, non tendit per accidens,
+<lb ed="#L" n="102"/>sed per se: sicut grave deorsum. Sed si huiusmodi
+<lb ed="#L" n="103"/>intellectuales substantiae sint secundum suam 
+na<lb ed="#L" break="no" n="104"/>turam malae, naturaliter in malum tendent. Non
+<lb ed="#L" n="105"/>igitur per accidens, sed per se tendent ad malum.
+<lb ed="#L" n="106"/>Hoc autem est impossibile : ostensum est enim
+<lb ed="#L" n="107"/>supra quod omnia per se tendunt ad bonum,
+<lb ed="#L" n="108"/>et nihil tendit ad malum nisi per. accidens. Nou
+<lb ed="#L" n="109"/>igitur huiusmodi intellectuales substantiae sunt
+<lb ed="#L" n="110"/>secundum suam naturam malae.
+</p>
+            <p xml:id="v8naTA-d1e2582-d1e157">
+               <pb ed="#L" n="336"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>Adhuc. Quicquid est in rebus, oportet quod vel
+<lb ed="#L" n="2"/>causa vel causatum sit: alioquin ad alia ordinem
+<lb ed="#L" n="3"/>non haberet. Aut igitur huiusmodi substantiae
+<lb ed="#L" n="4"/>sunt causae tantum, aut etiam causata. Si autem
+<lb ed="#L" n="5"/>causae; malum autem non potest. esse causa 
+ali<lb ed="#L" break="no" n="6"/>cuius nisi per accidens, ut supra ostensum est;
+<lb ed="#L" n="7"/>omne autem quod est per accidens, oportet reduci
+<lb ed="#L" n="8"/>ad id quod est per se: oportet quod in eis sit
+<lb ed="#L" n="9"/>aliquid prius quam eorum malitia, per quod sint
+<lb ed="#L" n="10"/>causae. Primum autem in unoquoque est eius
+<lb ed="#L" n="11"/>natura et essentia. Non igitur secundum suam
+<lb ed="#L" n="12"/>naturam sunt malae huiusmodi substantiae.
+<lb ed="#L" n="13"/>Idem etiam sequitur si sunt causata. Nam 
+nul<lb ed="#L" break="no" n="14"/>lum agens agit nisi intendens ad bonum. Malum
+<lb ed="#L" n="15"/>ergo non potest esse effectus alicuius causae nisi
+<lb ed="#L" n="16"/>per accidens. Quod autem causatur per accidens
+<lb ed="#L" n="17"/>tantum, non potest esse secundum naturam: cum
+<lb ed="#L" n="18"/>omnis natura determinatum modum habeat quo
+<lb ed="#L" n="19"/>procedit in esse. Non est igitur possibile quod
+<lb ed="#L" n="20"/>huiusmodi substantiae sint malae secundum suam
+<lb ed="#L" n="21"/>naturam.
+</p>
+            <p xml:id="v8naTA-d1e2582-d1e209">
+               <lb ed="#L" n="22"/>Amplius. Unumquodque' entium habet 
+pro<lb ed="#L" break="no" n="23"/>prium esse secundum modum suae naturae. Esse
+<lb ed="#L" n="24"/>autem, inquantum huiusmodi, est bonum: cuius
+<lb ed="#L" n="25"/>signum est quod omnia esse appelunt. Si igitur
+<lb ed="#L" n="26"/>huiusmodi substantiae secundum suam naturam
+<lb ed="#L" n="27"/>essent malae, nullum esse habererit.
+</p>
+            <p xml:id="v8naTA-d1e2582-d1e225">
+               <lb ed="#L" n="28"/>Item. Ostensum est supra quod nihil potest
+<lb ed="#L" n="29"/>esse quin a primo ente esse habeat; et quod
+<lb ed="#L" n="30"/>primum ens est summum bonum , Cum autem
+<lb ed="#L" n="31"/>omne agens, inquantum huiusmodi, agat sibi 
+si<lb ed="#L" break="no" n="32"/>mile, oportet quod ea quae a primo ente sunt,
+<lb ed="#L" n="33"/>bona sint. Praedictae igitur substantiae, secundum
+<lb ed="#L" n="34"/>quod sunt et naturam aliquam habent, non 
+pos<lb ed="#L" break="no" n="35"/>sunt esse malae.
+</p>
+            <p xml:id="v8naTA-d1e2582-d1e245">
+               <lb ed="#L" n="36"/>Adhuc. Impossibile est aliquid esse quod sit
+<lb ed="#L" n="37"/>universaliter privatum participatione boni: cum
+<lb ed="#L" n="38"/>enim idem sit appetibile et bonum, si aliquid
+<lb ed="#L" n="39"/>esset omnino expers boni, nihil haberet in se
+<lb ed="#L" n="40"/>appetibile; unicuique autem est appetibile suum
+<lb ed="#L" n="41"/>esse. Oportet igitur quod, si aliquid secundum
+<lb ed="#L" n="42"/>suam naturam dicatur malum, quod hoc non sit
+<lb ed="#L" n="43"/>quasi simpliciter malum, sed quia est malum huic,
+<lb ed="#L" n="44"/>vel quantum ad hoc: sicut venenum non est
+<lb ed="#L" n="45"/>simpliciter malum, sed huic, cui est nocivum;
+<lb ed="#L" n="46"/>unde quod est uni venenum, est alteri cibus. Hoc
+<lb ed="#L" n="47"/>autem contingit ex eo quod bonum particulare
+<lb ed="#L" n="48"/>quod est proprium huius, est contrarium bono
+<lb ed="#L" n="49"/>particulari quod est proprium alterius: sicut calor,
+<lb ed="#L" n="50"/>qui est bonum ignis, est contrarium frigori, quod
+<lb ed="#L" n="51"/>est bonum aquae, et destruit ipsum. Illud igitur
+<lb ed="#L" n="52"/>quod secundum suam naturam ordinatur in 
+bo<lb ed="#L" break="no" n="53"/>num non particulare, sed simpliciter, impossibile
+<lb ed="#L" n="54"/>est quod neque secundum hunc modum possit
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="55"/>naturaliter : dici malum. Tale autem est omnis
+<lb ed="#L" n="56"/>intellectus: nam eius bonum est in propria 
+opera<lb ed="#L" break="no" n="57"/>tione, quae est universalium, et eorum quae sunt
+<lb ed="#L" n="58"/>simpliciter. Non est igitur possibile quod aliquis
+<lb ed="#L" n="59"/>intellectus sit secundum suam naturam malus,
+<lb ed="#L" n="60"/>non solum simpliciter, sed nec secundum quid.
+<lb ed="#L" n="61"/>Item. In unoquoque habente intellectum, 
+natu<lb ed="#L" break="no" n="62"/>rali ordine intellectus movet appetitum: proprium
+<lb ed="#L" n="63"/>enim obiectum voluntatis est bonum intellectum.
+<lb ed="#L" n="64"/>Bonum autem voluntatis est in eo quod sequitur
+<lb ed="#L" n="65"/>intellectum: sicut in-nobis bonum est quod est
+<lb ed="#L" n="66"/>secundum rationem, quod autem est praeter hoc,
+<lb ed="#L" n="67"/>malum est. Naturali igitur ordine substantia 
+intel<lb ed="#L" break="no" n="68"/>lectualis vult bonum. Impossibile est igitur quod
+<lb ed="#L" n="69"/>illae substantiae intellectuales quarum auxilio 
+ma<lb ed="#L" break="no" n="70"/>gicae artes utuntur, sint naturaliter malae. .
+</p>
+            <p xml:id="v8naTA-d1e2582-d1e326">
+               <lb ed="#L" n="71"/>Praeterea. Cum voluntas tendat in bonum 
+intel<lb ed="#L" break="no" n="72"/>lectum naturaliter, sicut in proprium obiectum et
+<lb ed="#L" n="73"/>finem, impossibile est quod aliqua intellectualis
+<lb ed="#L" n="74"/>substantia malam secundum naturam habeat 
+vo<lb ed="#L" break="no" n="75"/>luntatem, nisi intellectus eius naturaliter erret
+<lb ed="#L" n="76"/>circa iudicium boni. Nullus autem intellectus talis
+<lb ed="#L" n="77"/>potest esse: falsa enim iudicia in operationibus
+<lb ed="#L" n="78"/>intellectus sunt sicut monstra in rebus naturalibus,
+<lb ed="#L" n="79"/>quae non sunt secundum naturam, sed. praeter
+<lb ed="#L" n="80"/>naturam ; nam bonum intellectus, et eius finis 
+na<lb ed="#L" break="no" n="81"/>turalis est cognitio veritatis. Impossibile est igitur
+<lb ed="#L" n="82"/>quod aliquis intellectus sit qui naturaliter in 
+iu<lb ed="#L" break="no" n="83"/>dicio . veri. decipiatur. Neque igitur possibile est
+<lb ed="#L" n="84"/>quod sit aliqua substantia intellectualis habens 
+na<lb ed="#L" break="no" n="85"/>turaliter malam voluntatem.
+</p>
+            <p xml:id="v8naTA-d1e2582-d1e361">
+               <lb ed="#L" n="86"/>Adhuc. Nulla potentia cognoscitiva deticil a
+<lb ed="#L" n="87"/>cognitione sui obiecti nisi propter aliquem 
+de<lb ed="#L" break="no" n="88"/>fectum aut corruptionem suam, cum secundum
+<lb ed="#L" n="89"/>propriam rationem ad cognitionem talis obiecti
+<lb ed="#L" n="90"/>ordinetur: sicut visus non deficit a cognitione
+<lb ed="#L" n="91"/>coloris nisi aliqua corruptione circa ipsum 
+exi<lb ed="#L" break="no" n="92"/>stente. Omnis autem defectus et corruptio est
+<lb ed="#L" n="93"/>praeter naturam: quia natura intendit esse et 
+per<lb ed="#L" break="no" n="94"/>lectionem rei. Impossibile est igitur quod sit aliqua
+<lb ed="#L" n="95"/>virtus cognoscitiva quae naturaliter deficiat a recto
+<lb ed="#L" n="96"/>iudicio sui obiecti. Proprium autem obiectum 
+in<lb ed="#L" break="no" n="97"/>tellectus.est verum. Impossibile est igitur quod
+<lb ed="#L" n="98"/>sit aliquis intellectus naturaliter circa cognitionem
+<lb ed="#L" n="99"/>veri oberrans. Neque igitur voluntas aliqua 
+natu<lb ed="#L" break="no" n="100"/>raliter potest a bono deficere.
+</p>
+            <p xml:id="v8naTA-d1e2582-d1e397">
+               <lb ed="#L" n="101"/>Hoc etiam auctoritate Scripturae firmatur. 
+Di<lb ed="#L" break="no" n="102"/>citur enim I Z7m., iv : Omnis creatura Dei bona.
+<lb ed="#L" n="103"/>Et Gen. 1: Vidit Deus cuncta quae fecerat, et
+<lb ed="#L" n="104"/>erant valde bona.
+</p>
+            <p xml:id="v8naTA-d1e2582-d1e408">
+               <lb ed="#L" n="105"/>Per haec autem excluditur error Manichaeorum
+<lb ed="#L" n="106"/>ponentium huiusmodi substantias intellectuales,
+<lb ed="#L" n="107"/>quas daemones consueto nomine dicimus vel 
+dia<lb ed="#L" break="no" n="108"/>bolos, esse naturaliter malas .
+</p>
+            <p xml:id="v8naTA-d1e2582-d1e419">
+               <pb ed="#L" n="337"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>Excluditur etiam opinio quam Porphyrius 
+nar<lb ed="#L" break="no" n="2"/>rat, in Epistola ad Anebontem, dicens quosdam
+<lb ed="#L" n="3"/>opinari esse quoddam spirituum genus, cui exaudire
+<lb ed="#L" n="4"/>magos sit proprium, natura fallax, omniforme,
+<lb ed="#L" n="5"/>simulans deos et daemones et animas 
+defuncto<lb ed="#L" break="no" n="6"/>rum. Et hoc est quod efficiat haec omnia quae
+<lb ed="#L" n="7"/>videntur esse vel bona vel prava. Ceterum circa
+<lb ed="#L" n="8"/>ea quae vere sunt bona, nihil opitulari: immo vero
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="9"/>ista nec nosse. Sed et mala conciliare et insimulare,
+<lb ed="#L" n="10"/>alque impedire nonnunquam virtutis sedulos 
+secta<lb ed="#L" break="no" n="11"/>tores, et plenum esse temeritalis et fastus, gaudere
+<lb ed="#L" n="12"/>nidoribus, adulationibus capi. Haec quidem 
+Por<lb ed="#L" break="no" n="13"/>phyrii verba malitiam daemonum, quorum auxilio
+<lb ed="#L" n="14"/>artes magicae utuntur, satis aperte declarant. In
+<lb ed="#L" n="15"/>hoc autem solo reprehensibilia sunt, quod hanc
+<lb ed="#L" n="16"/>malitiam naturaliter eis dicit inesse.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

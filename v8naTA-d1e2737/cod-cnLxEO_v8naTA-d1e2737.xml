@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 126</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 126</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="390"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2737"><!-- v8naTA-l3c126 -->
+            <head xml:id="v8naTA-d1e2737-Hd1e101">Capitulum 126</head>
+            <head xml:id="v8naTA-d1e2737-Hd1e103" type="question-title">Quod non omnis carnalis commixtio est peccatum.</head>
+            <p xml:id="v8naTA-d1e2737-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="37" type="fixed=389"/>CAPITULUM CENTESIMUM VIGESIMUM SEXTUM
+<lb ed="#L" n="38"/>QUOD NON OMNIS CARNALIS COMMIXTIO EST PECCATUM.
+</p>
+            <p xml:id="v8naTA-d1e2737-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="39"/>SICUT autem contra rationem est ut aliquis
+<lb ed="#L" n="40"/>carnali coniunctione utatur contra id
+<lb ed="#L" n="41"/>quod convenit proli generandae et 
+edu<lb ed="#L" break="no" n="42"/>candae, ita etiam secundum rationem
+<lb ed="#L" n="43"/>est quod aliquis carnali coniunctione utatur 
+se<lb ed="#L" break="no" n="44"/>cundum quod congruit ad generationem et 
+edu<lb ed="#L" break="no" n="45"/>cationem prolis. Lege autem divina haec solum
+<lb ed="#L" n="46"/>prohibita sunt quae rationi adversantur, ut ex
+<lb ed="#L" n="47"/>supra dictis patet. Inconveniens est igitur dicere
+<lb ed="#L" n="48"/>quod omnis carnalis coniunctio sit peccatum.
+</p>
+            <p xml:id="v8naTA-d1e2737-d1e141">
+               <lb ed="#L" n="49"/>Adhuc. Cum membra corporis sint quaedam
+<lb ed="#L" n="50"/>animae instrumenta, cuiuslibet membri finis est
+<lb ed="#L" n="51"/>usus eius: sicut et cuiuslibet alterius instrumenti.
+<lb ed="#L" n="52"/>Quorundam autem membrorum corporis usus
+<lb ed="#L" n="53"/>est carnalis commixtio. Carnalis igitur commixtio
+<lb ed="#L" n="54"/>est finis quorundam membrorum corporis. Illud
+<lb ed="#L" n="55"/>autem quod est finis aliquarum naturalium 
+re<lb ed="#L" break="no" n="56"/>rum, non potest esse secundum se malum: quia
+<lb ed="#L" n="57"/>ea quae naturaliter sunt, ex divina providentia
+<lb ed="#L" n="58"/>ordinantur ad finem, ut ex supra  dictis patet.
+<lb ed="#L" n="59"/>Impossibile est igitur quod carnalis commixtio sit
+<lb ed="#L" n="60"/>secundum se mala.
+</p>
+            <p xml:id="v8naTA-d1e2737-d1e171">
+               <cb ed="#L" n="e"/>
+               <lb ed="#L" n="61"/>Amplius. Naturales inclinationes insunt rebus
+<lb ed="#L" n="62"/>a Deo, qui cuncta movet. Impossibile est igitur
+<lb ed="#L" n="63"/>quod naturalis inclinatio alicuius speciei sit ad
+<lb ed="#L" n="64"/>id quod est secundum se malum. Sed omnibus
+<lb ed="#L" n="65"/>animalibus perfectis inest naturalis inclinatio ad
+<lb ed="#L" n="66"/>coniunctionem carnalem. impossibile est igitur
+<lb ed="#L" n="67"/>quod carnalis commixtio sit secundum se mala.
+</p>
+            <p xml:id="v8naTA-d1e2737-d1e191">
+               <lb ed="#L" n="68"/>Item. Illud sine quo non potest esse aliquid
+<lb ed="#L" n="69"/>quod est bonum et optimum, non est 
+secun<lb ed="#L" break="no" n="70"/>:» dum se malum. Sed perpetuitas speciei non 
+con<lb ed="#L" break="no" n="71"/>servatur in animalibus nisi per generationem,
+<lb ed="#L" n="72"/>quae est ex commixtione carnali. Impossibile
+<lb ed="#L" n="73"/>est igitur quod commixtio carnalis sit secundum
+<lb ed="#L" n="74"/>se mala.
+</p>
+            <p xml:id="v8naTA-d1e2737-d1e209">
+               <lb ed="#L" n="75"/>Hinc est quod dicitur I Cor. vii: <quote xml:id="v8naTA-d1e2737-Qd1e213">Mulier non
+<lb ed="#L" n="76"/>peccat si nubat.</quote>
+            </p>
+            <p xml:id="v8naTA-d1e2737-d1e219">
+               <lb ed="#L" n="77"/>Per hoc autem excluditur error quorundam
+<lb ed="#L" n="78"/>dicentium omnem carnalem coniunctionem esse
+<lb ed="#L" n="79"/>illicitam: unde totaliter matrimonium et nuptias
+<lb ed="#L" n="80"/>damnant. Quorum quidam hoc ideo dicunt quia
+<lb ed="#L" n="81"/>credunt corporalia non a bono, sed a malo 
+prin<lb ed="#L" break="no" n="82"/>cipio esse .
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

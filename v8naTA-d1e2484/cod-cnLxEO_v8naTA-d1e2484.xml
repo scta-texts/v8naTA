@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 95</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 95</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="294"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2484"><!-- v8naTA-l3c95 -->
+            <head xml:id="v8naTA-d1e2484-Hd1e101">Capitulum 95</head>
+            <head xml:id="v8naTA-d1e2484-Hd1e103" type="question-title">Quod immobilitas divinae providentiae
+utilitatem orationis non excludit.</head>
+            <p xml:id="v8naTA-d1e2484-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="27" type="fixed=294"/>CAPITULUM NONAGESIMUM QUINTUM
+<lb ed="#L" n="28"/>ET NONAGESIMUM SEXTUM
+<lb ed="#L" n="29"/>QUOD IMMOBILITAS DIVINAE PROVIDENTIAE
+<lb ed="#L" n="30"/>UTILITATEM ORATIONIS NON EXCLUDIT.
+</p>
+            <p xml:id="v8naTA-d1e2484-d1e119">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="31"/>CONSIDERARE etiam oportet quod, sicut
+<lb ed="#L" n="32"/>providentiae immobilitas necessitatem 
+<lb ed="#L" n="33"/>rebus provisis non imponit, ita etiam  
+<lb ed="#L" n="34"/>nec orationis utilitatem excludit. Non 
+<lb ed="#L" n="35"/>enim ad hoc oratio ad Deum funditur ut aeterna 
+<lb ed="#L" n="36"/>providentiae dispositio immutetur, hoc enim im-. 
+<lb ed="#L" n="37"/>possibile est: sed ut aliquis illud quod desiderat, 
+<lb ed="#L" n="38"/>assequatur a Deo. Piis enim desideriis rationalis 
+<lb ed="#L" n="39"/>creaturae conveniens est quod Deus assentiat, non 
+<lb ed="#L" n="40"/>tanquam desideria nostra moveant immobilem :» 
+<lb ed="#L" n="41"/>Deum: sed ex sua bonitate procedit ut 
+conve<lb ed="#L" break="no" n="42"/>nienter desiderata perficiat Cum enim omnia 
+<lb ed="#L" n="43"/>naturaliter bonum desiderent, ut supra probatum | 
+<lb ed="#L" n="44"/>est; ad supereminentiam autem divinae bonitatis 
+<lb ed="#L" n="45"/>pertinet quod esse, et bene esse, omnibus ordine : 
+<lb ed="#L" n="46"/>quodam distribuat: consequens est ut, secundum 
+<lb ed="#L" n="47"/>suam bonitatem, desideria pia, quae perorationem — 
+<lb ed="#L" n="48"/>explicantur, adimpleat. 
+</p>
+            <p xml:id="v8naTA-d1e2484-d1e163">
+               <lb ed="#L" n="49"/>Adhuc. Ad moventem pertinet ut id quod 
+<lb ed="#L" n="50"/>movetur, perducat ad finem: unde et per ean- » 
+<lb ed="#L" n="51"/>dem naturam aliquid movetur ad finem, et 
+con<lb ed="#L" break="no" n="52"/>sequitur finem, et in eo quiescit. Omne autem — 
+<lb ed="#L" n="53"/>desiderium est quidam motus ad bonum. Qui 
+<lb ed="#L" n="54"/>quidem non potest rebus inesse nisi a Deo, qui 
+<lb ed="#L" n="55"/>est per essentiam suam bonus, et fons bonitatis: : 
+<lb ed="#L" n="56"/>movens enim omne movet ad aliquid simile'sibi. 
+<lb ed="#L" n="57"/>Ad Deum igitur pertinet, secundum suam 
+bo<lb ed="#L" break="no" n="58"/>nitatem, quod desideria convenientia, quae per 
+<lb ed="#L" n="59"/>orationes explicantur, ad effectum convenientem 
+<lb ed="#L" n="60"/>perducat.  
+</p>
+            <p xml:id="v8naTA-d1e2484-d1e193">
+               <cb ed="#L" n="e"/>
+               <lb ed="#L" n="61"/>Item. Quanto aliqua sunt propinquiora 
+mo<lb ed="#L" break="no" n="62"/>venti, tanto efficacius impressionem | moventis
+<lb ed="#L" n="63"/>assequuntur: nam et quae propinquiora sunt
+<lb ed="#L" n="64"/>igni, magis ab ipso calefiunt. Substantiae autem
+<lb ed="#L" n="65"/>intellectuales propinquiores sunt Deo quam 
+sub<lb ed="#L" break="no" n="66"/>stantiae naturales inanimatae. Efficacior est igitur
+<lb ed="#L" n="67"/>impressio divinae motionis in substantiis 
+intellec<lb ed="#L" break="no" n="68"/>tualibus quam in substantiis aliis naturalibus.
+<lb ed="#L" n="69"/>Corpora autem naturalia in tantum participant de
+<lb ed="#L" n="70"/>motione divina quod naturalem boni appetitum
+<lb ed="#L" n="71"/>consequuntur ex eo, et etiam appetitus 
+impletio<lb ed="#L" break="no" n="72"/>nem, quod quidem fit dum proprios fines 
+conse<lb ed="#L" break="no" n="73"/>quuntur, Multo igitur magis intellectuales 
+substan<lb ed="#L" break="no" n="74"/>tiae desideriorum suorum, quae per orationem
+<lb ed="#L" n="75"/>Deo offeruntur, impletionem consequuntur.
+</p>
+            <p xml:id="v8naTA-d1e2484-d1e230">
+               <lb ed="#L" n="76"/>Amplius. De ratione amicitiae est quod amans
+<lb ed="#L" n="77"/>velit impleri desiderium amati, inquantum vult
+<lb ed="#L" n="78"/>eius bonum et perfectionem: propter quod dicitur
+<lb ed="#L" n="79"/>quod amicorum est idem velle. Ostensum est
+<lb ed="#L" n="80"/>autem supra quod Deus suam creaturam amat;
+<lb ed="#L" n="81"/>ettanto magis unamquamque quanto plus de eius
+<lb ed="#L" n="82"/>bonitate participat, quae est primum et principale
+<lb ed="#L" n="83"/>amatum ab ipso. Vult igitur impleri desideria
+<lb ed="#L" n="84"/>rationalis creaturae, quae perfectissime divinam
+<lb ed="#L" n="85"/>bonitatem participat inter ceteras creaturas. Sua
+<lb ed="#L" n="86"/>autem voluntas est perfectiva rerum: est enim
+<lb ed="#L" n="87"/>causa rerum per suam voluntatem, ut supra
+<lb ed="#L" n="88"/>ostensum est. Ad bonitatem igitur divinam 
+per<lb ed="#L" break="no" n="89"/>tinet ut impleat desideria rationalis creaturae
+<lb ed="#L" n="90"/>sibi per orationem proposita.
+</p>
+            <p xml:id="v8naTA-d1e2484-d1e265">
+               <pb ed="#L" n="295"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>Praeterea. Bonum creaturae derivatum est 
+se<lb ed="#L" break="no" n="2"/>cundum quandam similitudinem a bonitate divina.
+<lb ed="#L" n="3"/>Hoc autem maxime commendabile in hominibus
+<lb ed="#L" n="4"/>apparet, ut iuste petentibus assensum non 
+dene<lb ed="#L" break="no" n="5"/>gent: ex hoc enim vocantur liberales, clementes,
+<lb ed="#L" n="6"/>misericordes et pii. Maxime igitur hoc ad divinam
+<lb ed="#L" n="7"/>bonitatem pertinet, ut. pias orationes exaudiat.
+</p>
+            <p xml:id="v8naTA-d1e2484-d1e287">
+               <lb ed="#L" n="8"/>Hinc est quod dicitur in Psalmo: Voluntatem
+<lb ed="#L" n="9"/>timentium se faciet, et orationes eorum exaudiet,
+<lb ed="#L" n="10"/>et salvos faciet eos. Et Matth. vi^, Dominus dicit:
+<lb ed="#L" n="11"/>Omnis qui petit accipit, et. qui. quaerit. invenit, et
+<lb ed="#L" n="12"/>pulsanti aperietur.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

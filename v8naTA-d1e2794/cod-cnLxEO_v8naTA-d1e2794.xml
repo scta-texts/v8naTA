@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 133</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 133</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="403"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2794"><!-- v8naTA-l3c133 -->
+            <head xml:id="v8naTA-d1e2794-Hd1e101">Capitulum 133</head>
+            <head xml:id="v8naTA-d1e2794-Hd1e103" type="question-title">Quomodo paupertas sit bona.</head>
+            <p xml:id="v8naTA-d1e2794-d1e106">
+               <pb ed="#L" n="403"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=403"/>CAPITULUM CENTESIMUM TRIGESIMUM TERTIUM
+<lb ed="#L" n="2"/>QUOMODO PAUPERTAS SIT BONA.
+</p>
+            <p xml:id="v8naTA-d1e2794-d1e117">
+               <lb ed="#L" n="3"/>UT autem circa praemissa veritas 
+mani<lb ed="#L" break="no" n="4"/>festetur, quid de paupertate sentiendum
+<lb ed="#L" n="5"/>sit, ex divitiis consideremus. Exteriores
+<lb ed="#L" n="6"/>RON quidem divitiae sunt necessariae ad 
+bo<lb ed="#L" break="no" n="7"/>num virtutis: cum per eas sustentemus corpus,
+<lb ed="#L" n="8"/>et alis subveniamus. Oportet autem quod ea
+<lb ed="#L" n="9"/>quae sunt ad finem, ex fine bonitatem accipiant.
+<lb ed="#L" n="10"/>Necesse ergo est quod exteriores divitiae sint
+<lb ed="#L" n="11"/>aliquod bonum hominis, non tamen principale,
+<lb ed="#L" n="12"/>sed quasi secundarium: nam finis principaliter
+<lb ed="#L" n="13"/>bonum est, alia vero secundum quod ordinantur
+<lb ed="#L" n="14"/>in finem. Propter hoc quibusdam visum est quod
+<lb ed="#L" n="15"/>virtutes sint maxima bona hominis, exteriores
+<lb ed="#L" n="16"/>autem divitiae quaedam minima bona. Oportet
+<lb ed="#L" n="17"/>autem quod ea quae sunt ad finem, modum
+<lb ed="#L" n="18"/>accipiant secundum exigentiam finis. In tantum
+<lb ed="#L" n="19"/>igitur divitiae bonae sunt, in quantum proficiunt
+<lb ed="#L" n="20"/>ad usum virtutis: si vero iste modus excedatur,
+<lb ed="#L" n="21"/>ut per eas impediatur usus virtutis, non iam inter
+<lb ed="#L" n="22"/>bona sunt computanda, sed inter mala. Unde
+<lb ed="#L" n="23"/>accidit quibusdam bonum esse habere divitias,
+<lb ed="#L" n="24"/>qui eis utuntur ad virtutem: quibusdam vero
+<lb ed="#L" n="25"/>malum esse eas habere, qui per eas a virtute
+<lb ed="#L" n="26"/>retrahuntur, vel nimia sollicitudine, vel nimia 
+af<lb ed="#L" break="no" n="27"/>fectione ad ipsas, vel etiam mentis elatione ex
+<lb ed="#L" n="28"/>eis consurgente.
+</p>
+            <p xml:id="v8naTA-d1e2794-d1e176">
+               <lb ed="#L" n="29"/>Sed, cum sint virtutes activae vitae et 
+con<lb ed="#L" break="no" n="30"/>templativae, aliter utraeque divitiis exterioribus
+<lb ed="#L" n="31"/>indigent. Nam virtutes contemplativae indigent
+<lb ed="#L" n="32"/>ad solam sustentationem naturae: virtutes autem
+<lb ed="#L" n="33"/>activae indigent et ad hoc, et ad subveniendum
+<lb ed="#L" n="34"/>alis; cum quibus convivendum est. Unde et
+<lb ed="#L" n="35"/>contemplativa vita etiam in hoc perfectior est,
+<lb ed="#L" n="36"/>quod paucioribus indiget. Ad quam. quidem
+<lb ed="#L" n="37"/>vitam pertinere videtur quod totaliter homo 
+di<lb ed="#L" break="no" n="38"/>vinis rebus vacet: quam perfectionem doctrina
+<lb ed="#L" n="39"/>Christi homini suadet. Unde hanc perfectionem
+<lb ed="#L" n="40"/>sectantibus minimum de exterioribus divitiis 
+suf<lb ed="#L" break="no" n="41"/>ficit, quantum scilicet necesse est ad 
+sustenta<lb ed="#L" break="no" n="42"/>tionem naturae. Unde et <ref xml:id="v8naTA-d1e2794-Rd1e208">Apostolus dicit, I ti-
+<cb ed="#L" n="b"/>
+                  <lb ed="#L" n="43"/>moth. vi</ref>: <quote xml:id="v8naTA-d1e2794-Qd1e215">Habentes alimenta et quibus tegamur,
+<lb ed="#L" n="44"/>his contenti simus</quote>.
+</p>
+            <p xml:id="v8naTA-d1e2794-d1e222">
+               <lb ed="#L" n="45"/>Paupertas igitur laudabilis est inquantum 
+ho<lb ed="#L" break="no" n="46"/>minem liberat ab illis. vitiis quibus aliqui. per
+<lb ed="#L" n="47"/>divitias implicantur. Inquantum autem 
+sollicitu<lb ed="#L" break="no" n="48"/>dinem tollit quae ex divitiis consurgit, est utilis
+<lb ed="#L" n="49"/>quibusdam, qui scilicet sunt ita dispositi ut circa
+<lb ed="#L" n="50"/>meliora occupentur: quibusdam vero nociva, qui,
+<lb ed="#L" n="51"/>ab hac sollicitudine liberati, in peiores 
+occupa<lb ed="#L" break="no" n="52"/>tiones cadunt. Unde Gregorius dicit, in VI 
+Mo<lb ed="#L" break="no" n="53"/>radl.: Saepe qui, occupati bene, humanis usibus
+<lb ed="#L" n="54"/>viverent, gladio suae quietis extincti sunt. — 
+In<lb ed="#L" break="no" n="55"/>quantum vero paupertas aufert bonum quod ex
+<lb ed="#L" n="56"/>divitiis provenit, scilicet subventionem aliorum
+<lb ed="#L" n="57"/>et sustentationem propriam, simpliciter malum
+<lb ed="#L" n="58"/>est: nisi inquantum subventio qua in 
+tempora<lb ed="#L" break="no" n="59"/>libus proximis subvenitur, per maius bonum 
+po<lb ed="#L" break="no" n="60"/>test recompensari, scilicet per hoc quod homo,
+<lb ed="#L" n="61"/>divitiis carens, liberius potest divinis et 
+spiritua<lb ed="#L" break="no" n="62"/>libus vacare. Bonum autem sustentationis 
+pro<lb ed="#L" break="no" n="63"/>priae adeo necessarium est quod nullo alio bono
+<lb ed="#L" n="64"/>recompensari potest: nullius enim boni obtentu:
+<lb ed="#L" n="65"/>debet homo sibi sustentationem vitae subtrahere.
+<lb ed="#L" n="66"/>Paupertas igitur talis laudabilis est cum homo,
+<lb ed="#L" n="67"/>per eam a sollicitudinibus terrenis liberatus, 
+li<lb ed="#L" break="no" n="68"/>berius divinis et spiritualibus vacat: ita tamen
+<lb ed="#L" n="69"/>quod cum ea remaneat facultas homini per 
+li<lb ed="#L" break="no" n="70"/>citum modum sustentandi seipsum, ad quod non
+<lb ed="#L" n="71"/>multa requiruntur. Et quanto modus vivendi in
+<lb ed="#L" n="72"/>;» paupertate minorem sollicitudinem exigit, tanto
+<lb ed="#L" n="73"/>paupertas est laudabilior: non autem quanto 
+pau<lb ed="#L" break="no" n="74"/>pertas fuerit maior. Non enim paupertas 
+secun<lb ed="#L" break="no" n="75"/>dum se bona est: sed inquantum liberat ab illis
+<lb ed="#L" n="76"/>quibus homo impeditur quominus. spiritualibus
+<lb ed="#L" n="77"/>s intendat. Unde secundum modum quo homo per
+<lb ed="#L" n="78"/>eam liberatur ab impedimentis praedictis, est
+<lb ed="#L" n="79"/>mensura bonitatis ipsius. - Et hoc est commune
+<lb ed="#L" n="80"/>in omnibus exterioribus, quod in tantum bona
+<lb ed="#L" n="81"/>sunt in quantum proficiunt ad virtutem, non
+<lb ed="#L" n="82"/>o autem secundum seipsa.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

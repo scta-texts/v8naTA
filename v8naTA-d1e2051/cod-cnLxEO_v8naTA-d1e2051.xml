@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 42</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 42</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="106"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2051"><!-- v8naTA-l3c42 -->
+            <head xml:id="v8naTA-d1e2051-Hd1e101">Capitulum 42</head>
+            <head xml:id="v8naTA-d1e2051-Hd1e103" type="question-title">Quod non possumus in hac vita
+cognoscere substantias separatas sicut ponit alexander.</head>
+            <p xml:id="v8naTA-d1e2051-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="99" type="fixed=106"/>CAPITULUM QUADRAGESIMUM SECUNDUM
+<lb ed="#L" n="100"/>QUOD NON POSSUMUS IN HAC VITA
+<lb ed="#L" n="101"/>COGNOSCERE SUBSTANTIAS SEPARATAS SICUT PONIT ALEXANDER.
+</p>
+            <p xml:id="v8naTA-d1e2051-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="102"/>QUIA vero Alexander posuit quod 
+intel<lb ed="#L" break="no" n="103"/>lectus possibilis est. generabilis et 
+cor<lb ed="#L" break="no" n="104"/>ruptibilis, utpote. quaedam praeparatio
+<lb ed="#L" n="105"/>naturae humanae consequens 
+commixtio<lb ed="#L" break="no" n="106"/>nem elementorum, ut in Secundo  habitum est;
+<lb ed="#L" n="107"/>non est autem possibile ut talis virtus supra 
+ma<lb ed="#L" break="no" n="108"/>terialia elevetur: posuit quod intellectus possibilis
+<lb ed="#L" n="109"/>noster nunquam potest pervenire ad intelligendas
+<lb ed="#L" n="110"/>substantias separatas; posuit tamen quod nos,
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="111"/>secundum statum praesentis vitae, possumus
+<lb ed="#L" n="112"/>substantias separatas intelligere .
+<lb ed="#L" n="113"/>Quod quidem ostendere nitebatur hoc modo.
+<lb ed="#L" n="114"/>Unumquodque quando pervenerit ad. 
+comple<lb ed="#L" break="no" n="115"/>mentum in sua generatione, et ad ultimam 
+per<lb ed="#L" break="no" n="116"/>fectionem suae substantiae, complebitur operatio
+<lb ed="#L" n="117"/>sua propria, sive actio sive passio: sicut enim
+<lb ed="#L" n="118"/>operatio substantiam sequitur, ita operationis 
+per<lb ed="#L" break="no" n="119"/>fectio perfectionem substantiae; unde animal, cum
+<pb ed="#L" n="107"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>fuerit ex toto perfectum, poterit per se ambulare.
+<lb ed="#L" n="2"/>Intellectus autem habitualis, qui nihil est aliud
+<lb ed="#L" n="3"/>quam species intelligibiles factae per intellectum
+<lb ed="#L" n="4"/>agentem existentes in intellectu possibili, operatio
+<lb ed="#L" n="5"/>est duplex: una ut faciat intellecta in potentia
+<lb ed="#L" n="6"/>esse intellecta in actu, quam habet ex parte
+<lb ed="#L" n="7"/>intellectus agentis; secunda est intelligere 
+intel<lb ed="#L" break="no" n="8"/>lecta in actu; haec enim duo homo potest 
+fa<lb ed="#L" break="no" n="9"/>cere per habitum intellectualem. Quando igitur
+<lb ed="#L" n="10"/>complebitur generatio intellectus in habitu, 
+com<lb ed="#L" break="no" n="11"/>plebitur in ipso utraque praemissarum 
+opera<lb ed="#L" break="no" n="12"/>tionum. Semper autem accedit ad complementum
+<lb ed="#L" n="13"/>suae generationis, dum novas species intellectas
+<lb ed="#L" n="14"/>acquirit. Et sic necesse est quod quandoque sua
+<lb ed="#L" n="15"/>generatio compleatur, nisi sit impedimentum:
+<lb ed="#L" n="16"/>quia nulla generatio est ad infinitum tendens.
+<lb ed="#L" n="17"/>Complebitur igitur quandoque utraque 
+opera<lb ed="#L" break="no" n="18"/>tionum intellectus in habitu, per hoc quod omnia
+<lb ed="#L" n="19"/>intellecta in potentia faciet in actu, quod est 
+com<lb ed="#L" break="no" n="20"/>plementum primae operationis; et per hoc quod
+<lb ed="#L" n="21"/>intelliget omnia intelligibilia, et separata et non
+<lb ed="#L" n="22"/>separata.
+</p>
+            <p xml:id="v8naTA-d1e2051-d1e215">
+               <lb ed="#L" n="23"/>Cum autem intellectus possibilis non possit
+<lb ed="#L" n="24"/>intelligere substantias separatas, secundum eius
+<lb ed="#L" n="25"/>opinionem, ut jam dictum est; intendit quod
+<lb ed="#L" n="26"/>intelligemus per intellectum in habitu substantias
+<lb ed="#L" n="27"/>separatas, inquantum intellectus agens, qui ab
+<lb ed="#L" n="28"/>ipso ponitur substantia separata, fiet forma 
+in<lb ed="#L" break="no" n="29"/>tellectus in habitu et nobis ipsis; ita quod per
+<lb ed="#L" n="30"/>eum intelligemus sicut nunc intelligimus per 
+in<lb ed="#L" break="no" n="31"/>tellectum | possibilem; et, cum de virtute 
+intel<lb ed="#L" break="no" n="32"/>lectus agentis sit facere omnia intellecta in actu
+<lb ed="#L" n="33"/>quae sunt intelligibilia potentia, et intelligere 
+sub<lb ed="#L" break="no" n="34"/>stantias separatas, in statu illo intelligemus 
+sub<lb ed="#L" break="no" n="35"/>stantias separatas, et omnia intelligibilia non 
+se<lb ed="#L" break="no" n="36"/>parata.
+</p>
+            <p xml:id="v8naTA-d1e2051-d1e249">
+               <lb ed="#L" n="37"/>Et secundum hoc, per hanc cognitionem quae
+<lb ed="#L" n="38"/>est ex phantasmatibus, pervenimus in 
+cognitio<lb ed="#L" break="no" n="39"/>nem substantiae separatae; non quasi et ipsa
+<lb ed="#L" n="40"/>"phantasmata et intellecta per ea sint medium
+<lb ed="#L" n="41"/>aliquod ad cognoscendas substantias separatas,
+<lb ed="#L" n="42"/>prout accidit in scientiis speculativis, sicut posuit
+<lb ed="#L" n="43"/>opinio superior; sed inquantum species 
+intel<lb ed="#L" break="no" n="44"/>ligibiles sunt quaedam dispositiones in nobis ad
+<lb ed="#L" n="45"/>talem formam quae est intellectus agens. Et hoc
+<lb ed="#L" n="46"/>est primum in quo differunt hae duae opiniones.
+</p>
+            <p xml:id="v8naTA-d1e2051-d1e273">
+               <lb ed="#L" n="47"/>Unde, quando intellectus in habitu fuerit 
+per<lb ed="#L" break="no" n="48"/>fectus per huiusmodi species intelligibiles in nobis
+<lb ed="#L" n="49"/>factas ab intellectu agente, fiet ipse intellectus
+<lb ed="#L" n="50"/>agens nobis forma, ut dictum est. Et nominat
+<lb ed="#L" n="51"/>ipsum zntellectum adeptum, de quo dicunt 
+Aristo<lb ed="#L" break="no" n="52"/>telem dicere quod sit ab extrinseco. Et sic, licet
+<lb ed="#L" n="53"/>in scientiis speculativis non sit perfectio ultima
+<lb ed="#L" n="54"/>humana, sicut superior ponebat opinio; per eas
+<lb ed="#L" n="55"/>tamen homo disponitur ad ultimam perfectionem
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="56"/>consequendam. Et hoc est secundum in.quo
+<lb ed="#L" n="57"/>differt secunda opinio a prima.
+</p>
+            <p xml:id="v8naTA-d1e2051-d1e302">
+               <lb ed="#L" n="58"/>Tertio autem differt per hoc quod, secundum
+<lb ed="#L" n="59"/>primam opinionem, intelligere intellectum 
+agen<lb ed="#L" break="no" n="60"/>tem est. causa quod continuetur nobiscum. 
+Se<lb ed="#L" break="no" n="61"/>cundum vero hanc secundam opinionem, est e
+<lb ed="#L" n="62"/>converso: nam propter hoc quod nobiscum 
+con<lb ed="#L" break="no" n="63"/>tinuatur ut forma, intelligimus . ipsum et alias
+<lb ed="#L" n="64"/>substantias separatas.
+</p>
+            <p xml:id="v8naTA-d1e2051-d1e320">
+               <lb ed="#L" n="65"/>Haec autem irrationabiliter dicuntur. Intellectus
+<lb ed="#L" n="66"/>enim in habitu, sicut intellectus possibilis, ponitur
+<lb ed="#L" n="67"/>ab Alexandro esse generabilis et corruptibilis.
+<lb ed="#L" n="68"/>Aeternum autem non potest fieri forma 
+gene<lb ed="#L" break="no" n="69"/>rabilis et corruptibilis, secundum eum: propter
+<lb ed="#L" n="70"/>hoc enim ponit intellectum possibilem, qui unitur
+<lb ed="#L" n="71"/>nobis ut forma, esse generabilem et 
+corrupti<lb ed="#L" break="no" n="72"/>bilem, intellectum vero. agentem, qui est 
+incor<lb ed="#L" break="no" n="73"/>ruptibilis, esse substantiam separatam. Cum igitur
+<lb ed="#L" n="74"/>intellectus agens, secundum Alexandrum, 
+po<lb ed="#L" break="no" n="75"/>natur esse quaedam substantia separata aeterna,
+<lb ed="#L" n="76"/>impossibile erit quod intellectus agens fiat forma
+<lb ed="#L" n="77"/>intellectus in habitu.:
+</p>
+            <p xml:id="v8naTA-d1e2051-d1e351">
+               <lb ed="#L" n="78"/>Praeterea. Forma intellectus, inquantum est
+<lb ed="#L" n="79"/>intellectus, est intelligibile, sicut forma sensus est
+<lb ed="#L" n="80"/>sensibile: non enim recipit aliquid intellectus,
+<lb ed="#L" n="81"/>per se loquendo, nisi intelligibiliter, sicut nec
+<lb ed="#L" n="82"/>sensus nisi sensibiliter. Si igitur non potest 
+in<lb ed="#L" break="no" n="83"/>tellectus agens esse intelligibile per intellectum
+<lb ed="#L" n="84"/>in habitu, impossibile erit quod sit forma eius.
+</p>
+            <p xml:id="v8naTA-d1e2051-d1e369">
+               <lb ed="#L" n="85"/>Item. Intelligere aliquo tripliciter dicimur. Uno
+<lb ed="#L" n="86"/>modo, sicut intelligimus intellectu, qui est virtus
+<lb ed="#L" n="87"/>a qua egreditur talis operatio: unde et ipse 
+in<lb ed="#L" break="no" n="88"/>tellectus intelligere :dicitur, et ipsum intelligere
+<lb ed="#L" n="89"/>intellectus fit intelligere nostrum. - Alio modo,
+<lb ed="#L" n="90"/>sicut specie intelligibili: qua quidem dicimur
+<lb ed="#L" n="91"/>intelligere,. non quasi ipsa intelligat, sed quia vis
+<lb ed="#L" n="92"/>intellectiva per eam perficitur in actu, sicut vis
+<lb ed="#L" n="93"/>visiva per speciem coloris. - Tertio modo, sicut
+<lb ed="#L" n="94"/>medio per cuius cognitionem devenimus in 
+co<lb ed="#L" break="no" n="95"/>gnitionem alterius.
+</p>
+            <p xml:id="v8naTA-d1e2051-d1e396">
+               <lb ed="#L" n="96"/>Si igitur homo quandoque per intellectum 
+agen<lb ed="#L" break="no" n="97"/>tem intelligat substantias separatas, oportet aliquo
+<lb ed="#L" n="98"/>modorum dictorum hoc dici. Non autem dicitur
+<lb ed="#L" n="99"/>hoc modo tertio: quia non concedit Alexander
+<lb ed="#L" n="100"/>quod intelligat intellectum agentem vel intellectus
+<lb ed="#L" n="101"/>possibilis, vel intellectus in habitu. - Nec etiam
+<lb ed="#L" n="102"/>secundo modo: quia intelligere per speciem 
+in<lb ed="#L" break="no" n="103"/>telligibilem attribuitur virtuti intellectivae cuius
+<lb ed="#L" n="104"/>illa species intelligibilis est forma; non autem
+<lb ed="#L" n="105"/>concedit Alexander quod intellectus possibilis, vel
+<lb ed="#L" n="106"/>intellectus in habitu, intelligat substantias 
+sepa<lb ed="#L" break="no" n="107"/>ratas; unde non potest esse quod sic intelligamus
+<lb ed="#L" n="108"/>substantias separatas per intellectum agentem sicut
+<lb ed="#L" n="109"/>intelligimus aliqua per speciem intelligibilem. — Si
+<lb ed="#L" n="110"/>autem sicut per virtutem intellectivam, oportet
+<pb ed="#L" n="108"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>quod ipsum intelligere intellectus agentis sit 
+intelli<lb ed="#L" break="no" n="2"/>gere hominis. Hoc autem esse non potest nisi ex
+<lb ed="#L" n="3"/>substantia intellectus agentis et substantia hominis
+<lb ed="#L" n="4"/>fiat unum secundum esse: impossibile enim est,
+<lb ed="#L" n="5"/>si sint duae substantiae secundum esse diversae, 
+<lb ed="#L" n="6"/>quod operatio unius sit operatio alterius. Erit
+<lb ed="#L" n="7"/>igitur intellectus agens unum. secundum esse
+<lb ed="#L" n="8"/>cum homine. Non autem secundum esse 
+acci<lb ed="#L" break="no" n="9"/>dentale: quia iam non esset intellectus agens
+<lb ed="#L" n="10"/>substantia, sed accidens; sic enim ex colore et
+<lb ed="#L" n="11"/>corpore fit unum secundum esse accidentale.
+<lb ed="#L" n="12"/>Relinquitur igitur quod intellectus agens sit cum
+<lb ed="#L" n="13"/>homine unum secundum esse substantiale. Erit
+<lb ed="#L" n="14"/>igitur vel anima humana, vel pars eius, et non
+<lb ed="#L" n="15"/>aliqua substantia separata, sicut Alexander ponit.
+<lb ed="#L" n="16"/>Non igitur secundum opinionem Alexandri 
+po<lb ed="#L" break="no" n="17"/>test poni quod homo intelligat substantias 
+se<lb ed="#L" break="no" n="18"/>paratas.
+</p>
+            <p xml:id="v8naTA-d1e2051-d1e474">
+               <lb ed="#L" n="19"/>Amplius. Si intellectus agens quandoque fiet
+<lb ed="#L" n="20"/>forma istius hominis, ita quod per ipsum 
+intel<lb ed="#L" break="no" n="21"/>ligere possit, eadem ratione poterit fieri forma
+<lb ed="#L" n="22"/>alterius hominis per ipsum similiter intelligentis.
+<lb ed="#L" n="23"/>Sequetur ergo quod. duo homines simul per
+<lb ed="#L" n="24"/>intellectum agentem intelligent sicut per formam
+<lb ed="#L" n="25"/>suam. Hoc autem est ita quod ipsum intelligere
+<lb ed="#L" n="26"/>intellectus agentis sit intelligere intelligentis per
+<lb ed="#L" n="27"/>ipsum, ut iam dictum est. Erit ergo idem 
+in<lb ed="#L" break="no" n="28"/>telligere duorum intelligentium. Quod est 
+im<lb ed="#L" break="no" n="29"/>possibile.
+</p>
+            <p xml:id="v8naTA-d1e2051-d1e500">
+               <lb ed="#L" n="30"/>Ratio etiam sua frivola omnino est. Primo ;
+<lb ed="#L" n="31"/>quidem quia, quando perficitur generatio 
+ali<lb ed="#L" break="no" n="32"/>cuius generis, oportet quod perficiatur sua 
+ope<lb ed="#L" break="no" n="33"/>ratio, sed tamen secundum modum sui generis,
+<lb ed="#L" n="34"/>non autem secundum modum generis altioris:
+<lb ed="#L" n="35"/>cum enim perficitur generatio aeris, habet gene-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="36"/>rationem et motum completum sursum, non
+<lb ed="#L" n="37"/>tamen ut moveatur ad locum ignis. Similiter
+<lb ed="#L" n="38"/>autem, cum completur generatio intellectus in
+<lb ed="#L" n="39"/>habitu, complebitur eius operatio, quae est 
+in<lb ed="#L" break="no" n="40"/>telligere, secundum suum modum: non autem
+<lb ed="#L" n="41"/>secundum modum. quo intelligunt substantiae
+<lb ed="#L" n="42"/>separatae, ut scilicet intelligat substantias 
+sepa<lb ed="#L" break="no" n="43"/>ratas. Unde ex generatione intellectus in habitu
+<lb ed="#L" n="44"/>non potest. concludi quod homo quandoque
+<lb ed="#L" n="45"/>intelligat substantias separatas.
+</p>
+            <p xml:id="v8naTA-d1e2051-d1e539">
+               <lb ed="#L" n="46"/>Secundo, quia eiusdem virtutis est 
+comple<lb ed="#L" break="no" n="47"/>mentum operationis cuius est operatio ipsa. Si
+<lb ed="#L" n="48"/>igitur intelligere substantias separatas sit 
+com<lb ed="#L" break="no" n="49"/>plementum operationis intellectus in habitu, 
+se<lb ed="#L" break="no" n="50"/>quitur quod intellectus in habitu intelligat 
+quan<lb ed="#L" break="no" n="51"/>doque. substantias separatas. Quod Alexander
+<lb ed="#L" n="52"/>non ponit: sequeretur enim quod intelligere
+<lb ed="#L" n="53"/>substantias separatas contingeret per scientias
+<lb ed="#L" n="54"/>speculativas, quae sub intellectu in habitu 
+com<lb ed="#L" break="no" n="55"/>prehenduntur.
+</p>
+            <p xml:id="v8naTA-d1e2051-d1e563">
+               <lb ed="#L" n="56"/>Tertio, quia eorum quae generari incipiunt,
+<lb ed="#L" n="57"/>completur generatio ut in pluribus: cum omnes
+<lb ed="#L" n="58"/>generationes rerum sint a causis determinatis,
+<lb ed="#L" n="59"/>quae consequuntur effectus suos vel semper vel
+<lb ed="#L" n="60"/>in maiori parte. Si igitur ad completionem 
+ge<lb ed="#L" break="no" n="61"/>nerationis sequitur etiam complementum  
+actio<lb ed="#L" break="no" n="62"/>nis, oportet etiam quod operatio completa 
+con<lb ed="#L" break="no" n="63"/>sequatur ea quae generantur vel semper, vel in
+<lb ed="#L" n="64"/>maiori parte. Intelligere autem substantias 
+sepa<lb ed="#L" break="no" n="65"/>ratas non consequuntur qui ad generationem
+<lb ed="#L" n="66"/>intellectus in habitu student, neque in pluribus
+<lb ed="#L" n="67"/>neque semper: quinimmo nullus professus est se
+<lb ed="#L" n="68"/>ad hanc perfectionem pervenisse. Non est igitur
+<lb ed="#L" n="69"/>complementum operationis intellectus in habitu
+<lb ed="#L" n="70"/>intelligere substantias separatas.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

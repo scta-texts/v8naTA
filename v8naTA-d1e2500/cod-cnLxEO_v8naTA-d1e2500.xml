@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 97</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 97</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="299"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2500"><!-- v8naTA-l3c97 -->
+            <head xml:id="v8naTA-d1e2500-Hd1e101">Capitulum 97</head>
+            <head xml:id="v8naTA-d1e2500-Hd1e103" type="question-title">Quomodo dispositio providentiae habeat rationem.</head>
+            <p xml:id="v8naTA-d1e2500-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="29" type="fixed=299"/>CAPITULUM NONAGESIMUM SEPTIMUM
+<lb ed="#L" n="30"/>QUOMODO DISPOSITIO PROVIDENTIAE HABEAT RATIONEM.
+</p>
+            <p xml:id="v8naTA-d1e2500-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="31"/>Ex his autem quae praemissa sunt, 
+ma<lb ed="#L" break="no" n="32"/>nifeste videri potest quod ea quae sunt
+<lb ed="#L" n="33"/>per divinam providentiam dispensata,
+<lb ed="#L" n="34"/>sequuntur aliquam rationem.
+</p>
+            <p xml:id="v8naTA-d1e2500-d1e128">
+               <lb ed="#L" n="35"/>Ostensum enim est quod Deus per suam 
+pro<lb ed="#L" break="no" n="36"/>videntiam omnia ordinat in divinam bonitatem
+<lb ed="#L" n="37"/>sicut in finem : non autem hoc modo quod suae
+<lb ed="#L" n="38"/>bonitati aliquid per ea quae fiunt accrescat, sed
+<lb ed="#L" n="39"/>ut similitudo suae bonitatis, quantum possibile
+<lb ed="#L" n="40"/>est, imprimatur in rebus . Quia vero omnem
+<lb ed="#L" n="41"/>creatam substantiam a perfectione divinae 
+boni<lb ed="#L" break="no" n="42"/>tatis deficere necesse est, ut perfectius divinae
+<lb ed="#L" n="43"/>bonitatis similitudo rebus communicaretur, 
+o<lb ed="#L" break="no" n="44"/>portuit esse diversitatem in rebus, ut quod 
+per<lb ed="#L" break="no" n="45"/>fecte ab uno aliquo repraesentari non potest, per
+<lb ed="#L" n="46"/>diversa diversimode perfectiori modo 
+repraesen<lb ed="#L" break="no" n="47"/>taretur: nam et homo, cum mentis conceptum
+<lb ed="#L" n="48"/>uno vocali verbo videt sufficienter exprimi non
+<lb ed="#L" n="49"/>posse, verba diversimode multiplicat ad 
+expri<lb ed="#L" break="no" n="50"/>mendam per diversa suae mentis conceptionem.
+<lb ed="#L" n="51"/>Et in hoc etiam divinae perfectionis eminentia
+<lb ed="#L" n="52"/>considerari potest, quod perfecta bonitas, quae
+<lb ed="#L" n="53"/>in Deo est unite et simpliciter, in creaturis esse
+<lb ed="#L" n="54"/>non potest nisi secundum modum diversum et
+<lb ed="#L" n="55"/>per plura. Res autem per hoc diversae sunt,
+<lb ed="#L" n="56"/>quod formas habent diversas, a quibus speciem
+<lb ed="#L" n="57"/>sortiuntur. Sic igitur ex fine sumitur ratio 
+diver<lb ed="#L" break="no" n="58"/>sitatis formarum in rebus.
+</p>
+            <p xml:id="v8naTA-d1e2500-d1e184">
+               <lb ed="#L" n="59"/>Ex diversitate autem formarum sumitur ratio 
+or<lb ed="#L" break="no" n="60"/>dinis rerum. Cum enim forma sit secundum quam
+<lb ed="#L" n="61"/>res habet esse; res autem quaelibet secundum
+<lb ed="#L" n="62"/>quod habet esse, accedat ad similitudinem Dei, qui
+<lb ed="#L" n="63"/>est ipsum suum esse simplex: necesse est quod
+<lb ed="#L" n="64"/>forma nihil sit aliud quam divina similitudo 
+par<lb ed="#L" break="no" n="65"/>ticipata in rebus; unde convenienter Aristoteles,
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="66"/>in I Phys., de forma loquens, dicit quod est zc
+<lb ed="#L" n="67"/>divinum quoddam et appetibile. Similitudo autem
+<lb ed="#L" n="68"/>ad unum simplex considerata diversificari non
+<lb ed="#L" n="69"/>potest nisi secundum quod magis vel minus
+<lb ed="#L" n="70"/>; similitudo est propinqua vel remota. Quanto
+<lb ed="#L" n="71"/>autem aliquid propinquius ad divinam 
+similitu<lb ed="#L" break="no" n="72"/>dinem accedit, perfectius est. Unde in formis
+<lb ed="#L" n="73"/>differentia esse non potest nisi secundum quod
+<lb ed="#L" n="74"/>una perfectior existit quam alia: propter quod
+<lb ed="#L" n="75"/>Aristoteles, in VIII Metaphys. , definitiones, per
+<lb ed="#L" n="76"/>quas naturae rerum et formae significantur, 
+assi<lb ed="#L" break="no" n="77"/>milat numeris, in quibus species variantur per
+<lb ed="#L" n="78"/>additionem vel subtractionem unitatis, ut ex hoc
+<lb ed="#L" n="79"/>detur intelligi quod formarum diversitas diversum
+<lb ed="#L" n="80"/>gradum perfectionis requirit. Et hoc evidenter
+<lb ed="#L" n="81"/>apparet naturas rerum speculanti. Inveniet enim,
+<lb ed="#L" n="82"/>si quis diligenter consideret, gradatim rerum 
+di<lb ed="#L" break="no" n="83"/>versitatem compleri: nam supra inanimata corpora
+<lb ed="#L" n="84"/>inveniet plantas; et super has irrationalia animalia;
+<lb ed="#L" n="85"/>et super has intellectuales substantias; et in singulis
+<lb ed="#L" n="86"/>horum inveniet diversitatem secundum quod
+<lb ed="#L" n="87"/>quaedam sunt aliis perfectiora, in tantum quod
+<lb ed="#L" n="88"/>ea quae sunt suprema inferioris generis, videntur
+<lb ed="#L" n="89"/>propinqua superiori generi, et e converso, sicut
+<lb ed="#L" n="90"/>animalia immobilia sunt similia plantis; unde et
+<lb ed="#L" n="91"/>Dionysius dicit, vit cap. de Div. Nom., quod
+<lb ed="#L" n="92"/>divina sapientia coniungit fines primorum principiis
+<lb ed="#L" n="93"/>secundorum. Unde patet quod rerum diversitas
+<lb ed="#L" n="94"/>exigit quod non sint omnia aequalia, sed sit ordo
+<lb ed="#L" n="95"/>in rebus et gradus.
+</p>
+            <p xml:id="v8naTA-d1e2500-d1e269">
+               <lb ed="#L" n="96"/>Ex diversitate autem formarum, secundum
+<lb ed="#L" n="97"/>quas rerum species diversificantur, sequitur et
+<lb ed="#L" n="98"/>operationum differentia. Cum enim 
+unumquod<lb ed="#L" break="no" n="99"/>que agat secundum quod est actu, quae enim
+<lb ed="#L" n="100"/>sunt in potentia, secundum quod huiusmodi,
+<pb ed="#L" n="300"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>inveniuntur actionis expertia; est autem 
+unum<lb ed="#L" break="no" n="2"/>quodque ens actu per formam: oportet quod
+<lb ed="#L" n="3"/>operatio rei sequatur formam ipsius. Oportet
+<lb ed="#L" n="4"/>ergo, si sint diversae formae, quod habeant 
+di<lb ed="#L" break="no" n="5"/>versas operationes.
+</p>
+            <p xml:id="v8naTA-d1e2500-d1e298">
+               <lb ed="#L" n="6"/>Quia vero per propriam actionem res quaelibet
+<lb ed="#L" n="7"/>ad proprium finem pertingit, necesse est et
+<lb ed="#L" n="8"/>proprios fines diversificari in rebus: quamvis sit
+<lb ed="#L" n="9"/>finis ultimus omnibus communis.
+</p>
+            <p xml:id="v8naTA-d1e2500-d1e309">
+               <lb ed="#L" n="10"/>Sequitur etiam ex diversitate formarum diversa
+<lb ed="#L" n="11"/>habitudo materiae ad res. Cum enim formae
+<lb ed="#L" n="12"/>diversae sint secundum quod quaedam sunt aliis
+<lb ed="#L" n="13"/>perfectiores, sunt inter eas aliquae in tantum
+<lb ed="#L" n="14"/>perfectae quod sunt per se subsistentes et 
+per<lb ed="#L" break="no" n="15"/>fectae, ad nihil indigentes materiae fulcimento.
+<lb ed="#L" n="16"/>Quaedam vero, per.se perfecte subsistere non
+<lb ed="#L" n="17"/>possunt, sed materiam pro fundamento requirunt:
+<lb ed="#L" n="18"/>ut sic illud quod subsistit non sit forma tantum,
+<lb ed="#L" n="19"/>neque materia tantum, quae per se non est ens
+<lb ed="#L" n="20"/>actu, sed compositum ex utroque.
+</p>
+            <p xml:id="v8naTA-d1e2500-d1e335">
+               <lb ed="#L" n="21"/>Non autem possent materia et forma ad aliquid
+<lb ed="#L" n="22"/>unum constituendum convenire nisi esset aliqua
+<lb ed="#L" n="23"/>proportio inter ea. Si autem proportionata oportet
+<lb ed="#L" n="24"/>ea esse, necesse est quod diversis formis 
+diver<lb ed="#L" break="no" n="25"/>sae materiae respondeant. Unde fit ut quaedam
+<lb ed="#L" n="26"/>formae requirant materiam simplicem, quaedam
+<lb ed="#L" n="27"/>vero materiam compositam; et secundum 
+di<lb ed="#L" break="no" n="28"/>versas formas, diversam partium compositionem
+<lb ed="#L" n="29"/>oportet esse, congruentem ad speciem formae et
+<lb ed="#L" n="30"/>ad operationem ipsius.
+</p>
+            <p xml:id="v8naTA-d1e2500-d1e359">
+               <lb ed="#L" n="31"/>Ex diversa autem habitudine ad materiam
+<lb ed="#L" n="32"/>sequitur diversitas agentium et patientium. Cum
+<lb ed="#L" n="33"/>enim agat unumquodque ratione formae, patiatur
+<lb ed="#L" n="34"/>vero et moveatur ratione materiae, oportet quod
+<lb ed="#L" n="35"/>illa quorum formae sunt perfectiores et minus 
+ma<lb ed="#L" break="no" n="36"/>teriales, agant in illa quae sunt magis materialia,
+<lb ed="#L" n="37"/>et quorum formae sunt imperfectiores.
+</p>
+            <p xml:id="v8naTA-d1e2500-d1e378">
+               <lb ed="#L" n="38"/>Ex diversitate autem formarum et materiarum
+<lb ed="#L" n="39"/>et agentium, sequitur diversitas proprietatum et
+<lb ed="#L" n="40"/>accidentium. Cum enim substantia sit causa 
+acci<lb ed="#L" break="no" n="41"/>dentis, sicut perfectum imperfecti, oportet quod
+<lb ed="#L" n="42"/>ex diversis principiis substantialibus diversa 
+acci<lb ed="#L" break="no" n="43"/>dentia propria consequantur. Rursus, cum ex
+<lb ed="#L" n="44"/>diversis agentibus sint diversae impressiones in
+<lb ed="#L" n="45"/>patientibus, oportet quod secundum diversa
+<lb ed="#L" n="46"/>agentia, diversa sint accidentia quae ab agentibus
+<lb ed="#L" n="47"/>imprimuntur.
+</p>
+            <p xml:id="v8naTA-d1e2500-d1e402">
+               <lb ed="#L" n="48"/>Patet ergo ex dictis quod, cum per divinam
+<lb ed="#L" n="49"/>providentiam rebus creatis diversa accidentia,
+<lb ed="#L" n="50"/>et actiones et passiones, et collocationes 
+distri<lb ed="#L" break="no" n="51"/>buantur, non hoc absque ratione accidit. Hinc
+<lb ed="#L" n="52"/>est quod Sacra Scriptura rerum productionem et
+<lb ed="#L" n="53"/>gubernationem sapientiae et prudentiae divinae
+<lb ed="#L" n="54"/>attribuit. Dicitur enim Prov. m'9^; Dominus
+<lb ed="#L" n="55"/>sapienlia fundavit terram, stabilivit caelos prudentia.
+<lb ed="#L" n="56"/>Sapientia illius eruperunl abyssi, et. nubes rore
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="57"/>concrescunt. Et Sap. vm dicitur de Dei sapientia
+<lb ed="#L" n="58"/>quod attingit a fine usque ad finem fortiter, et
+<lb ed="#L" n="59"/>disponit omnia suaviter. Et xi eiusdem dicitur:
+<lb ed="#L" n="60"/>Omnia in mensura, numero el pondere 
+dispo<lb ed="#L" break="no" n="61"/>suisti: ut per mensuram quantitatem, sive modum
+<lb ed="#L" n="62"/>aut gradum perfectionis uniuscuiusque rei 
+intel<lb ed="#L" break="no" n="63"/>ligamus; per mumerum vero pluralitatem et 
+di<lb ed="#L" break="no" n="64"/>versitatem specierum, consequentem ex diversis
+<lb ed="#L" n="65"/>perfectionis gradibus; per pondus vero 
+inclina<lb ed="#L" break="no" n="66"/>tjones. diversas ad proprios fines et operationes,
+<lb ed="#L" n="67"/>et agentia et patientia, et accidentia quae 
+se<lb ed="#L" break="no" n="68"/>quuntur distinctionem specierum.
+</p>
+            <p xml:id="v8naTA-d1e2500-d1e452">
+               <lb ed="#L" n="69"/>In praedicto autem ordine, secundum quem
+<lb ed="#L" n="70"/>ratio divinae providentiae attenditur, primum
+<lb ed="#L" n="71"/>esse diximus divinam bonitatem, quasi ultimum
+<lb ed="#L" n="72"/>finem, qui est, primum principium in agendis;
+<lb ed="#L" n="73"/>dehinc vero rerum numerositatem ; ad quam 
+con<lb ed="#L" break="no" n="74"/>stituendam necesse est gradus diversos in formis
+<lb ed="#L" n="75"/>et materiis, et agentibus et patientibus, et 
+actio<lb ed="#L" break="no" n="76"/>nibus et accidentibus esse. Sicut ergo prima
+<lb ed="#L" n="77"/>ratio divinae providentiae simpliciter est divina
+<lb ed="#L" n="78"/>bonitas, ita prima ratio in creaturis est earum
+<lb ed="#L" n="79"/>numerositas, ad cuius institutionem et 
+conserva<lb ed="#L" break="no" n="80"/>tionem omnia dalia ordinari videntur. Et 
+secun<lb ed="#L" break="no" n="81"/>dum hoc rationabiliter videtur esse a Boetio
+<lb ed="#L" n="82"/>dictum, in principio suae Arithmeticae, quod
+<lb ed="#L" n="83"/>omnia quaecumque a primaeva rerum natura 
+con<lb ed="#L" break="no" n="84"/>stitula sunt, ex numerorum videntur ratione esse
+<lb ed="#L" n="85"/>formata.
+</p>
+            <p xml:id="v8naTA-d1e2500-d1e491">
+               <lb ed="#L" n="86"/>Est autem considerandum quod operativa ratio
+<lb ed="#L" n="87"/>et speculativa partim quidem conveniunt, partim
+<lb ed="#L" n="88"/>vero differunt. Conveniunt quidem in hoc quod,
+<lb ed="#L" n="89"/>sicut ratio speculativa incipit ab aliquo principio
+<lb ed="#L" n="90"/>et per media devenit ad conclusionem intentam,
+<lb ed="#L" n="91"/>ita ratio operativa incipit ab aliquo primo et per
+<lb ed="#L" n="92"/>aliqua media pervenit ad operationem vel 
+ope<lb ed="#L" break="no" n="93"/>ratum quod intenditur. Principium autem in
+<lb ed="#L" n="94"/>speculativis est forma et quod quid est: in 
+ope<lb ed="#L" break="no" n="95"/>rativis vero finis, quod quandoque quidem est
+<lb ed="#L" n="96"/>forma, quandoque aliquid aliud. Principium etiam
+<lb ed="#L" n="97"/>in speculativis semper oportet esse necessarium:
+<lb ed="#L" n="98"/>in operativis autem quandoque quidem est 
+ne<lb ed="#L" break="no" n="99"/>cessarium, quandoque autem non; necessarium
+<lb ed="#L" n="100"/>enim est hominem velle felicitatem ut finem,
+<lb ed="#L" n="101"/>non necessarium autem velle domus 
+aedifica<lb ed="#L" break="no" n="102"/>tionem. Similiter in demonstrativis semper 
+po<lb ed="#L" break="no" n="103"/>steriora ad priora de necessitate sequuntur: non
+<lb ed="#L" n="104"/>autem in operativis semper, sed tunc solum
+<lb ed="#L" n="105"/>quando ad finem non nisi per hanc viam 
+per<lb ed="#L" break="no" n="106"/>veniri potest; sicut necessarium est volenti 
+aedi<lb ed="#L" break="no" n="107"/>ficare domum quod quaerat ligna, sed quod
+<lb ed="#L" n="108"/>quaerat ligna abiegna, hoc ex simplici voluntate
+<lb ed="#L" n="109"/>ipsius dependet, non autem ex ratione domus
+<lb ed="#L" n="110"/>aedificandae.
+</p>
+            <p xml:id="v8naTA-d1e2500-d1e548">
+               <lb ed="#L" n="111"/>Sic igitur quod Deus suam bonitatem amet,
+<lb ed="#L" n="112"/>hoc necessarium est: sed hoc non necessario
+<pb ed="#L" n="301"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>sequitur, quod per creaturas repraesentetur, cum
+<lb ed="#L" n="2"/>sine hoc divina bonitas sit perfecta. Unde quod
+<lb ed="#L" n="3"/>creaturae in esse producantur, etsi ex ratione
+<lb ed="#L" n="4"/>divinae bonitatis originem habeat, tamen ex 
+sim<lb ed="#L" break="no" n="5"/>plici Dei voluntate dependet. - Supposito autem
+<lb ed="#L" n="6"/>quod Deus creaturis suam bonitatem 
+communi<lb ed="#L" break="no" n="7"/>care, secundum quod est possibile, velit per 
+si<lb ed="#L" break="no" n="8"/>militudinis modum: ex hoc rationem accipit quod
+<lb ed="#L" n="9"/>sint creaturae diversae. Non autem ex 
+necessi<lb ed="#L" break="no" n="10"/>tate sequitur quod secundum hanc vel illam
+<lb ed="#L" n="11"/>perfectionis mensuram, aut secundum hunc vel
+<lb ed="#L" n="12"/>ilum numerum rerum. - Supposito autem ex
+<lb ed="#L" n="13"/>divina voluntate quod hunc numerum in rebus
+<lb ed="#L" n="14"/>statuere velit, et hanc unicuique rei perfectionis
+<lb ed="#L" n="15"/>mensuram: ex hoc rationem accipit quod habeat
+<lb ed="#L" n="16"/>formam talem et materiam talem. Et similiter in
+<lb ed="#L" n="17"/>consequentibus patet.
+</p>
+            <p xml:id="v8naTA-d1e2500-d1e596">
+               <lb ed="#L" n="18"/>Manifestum igitur fit quod providentia 
+secun<lb ed="#L" break="no" n="19"/>dum rationem quandam res dispensat: et tamen
+<lb ed="#L" n="20"/>haec ratio sumitur ex suppositione voluntatis
+<lb ed="#L" n="21"/>divinae.
+</p>
+            <p xml:id="v8naTA-d1e2500-d1e608">
+               <lb ed="#L" n="22"/>Sic igitur per praemissa duplex error excluditur.
+<lb ed="#L" n="23"/>Eorum scilicet qui credunt quod omnia simplicem
+<lb ed="#L" n="24"/>voluntatem sequuntur absque ratione. Qui est
+<lb ed="#L" n="25"/>error Loquentium in lege Saracenorum, ut Rabbi
+<lb ed="#L" n="26"/>Moyses dicit: secundum quos nulla differentia
+<lb ed="#L" n="27"/>est quod ignis calefaciat et infrigidet, nisi quia
+<lb ed="#L" n="28"/>Deus ita vult. - Excluditur etiam error eorum
+<lb ed="#L" n="29"/>qui dicunt causarum ordinem ex divina providen-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="30"/>tia secundum modum necessitatis provenire . —
+<lb ed="#L" n="31"/>Quorum utrumque patet esse falsum ex dictis.
+<lb ed="#L" n="32"/>Sunt autem quaedam verba Scripturae quae
+<lb ed="#L" n="33"/>videntur simplici voluntati divinae omnia 
+attri<lb ed="#L" break="no" n="34"/>buere. Quae non dicuntur ad hoc ut ratio 
+tol<lb ed="#L" break="no" n="35"/>latur a providentiae dispensatione, sed ut omnium
+<lb ed="#L" n="36"/>primum principium Dei voluntas ostendatur, sicut
+<lb ed="#L" n="37"/>iam supra dictum est. Sicut est illud Psalmi ,
+<lb ed="#L" n="38"/>Omnia quaecumque voluit Dominus, fecit; et Iob xi,
+<lb ed="#L" n="39"/>Quis ei dicere potest, Cur ita facis? et Rom. 1x ',
+<lb ed="#L" n="40"/>Voluntati enim eius quis resistil? Et Augustinus
+<lb ed="#L" n="41"/>dicit, III de 7rin.: Non nisi Dei voluntas causa
+<lb ed="#L" n="42"/>est prima sanitatis et. aegritudinis, praemiorum
+<lb ed="#L" n="43"/>atque poenarum, graliarum atque retributionum.
+</p>
+            <p xml:id="v8naTA-d1e2500-d1e660">
+               <lb ed="#L" n="44"/>Sic ergo, cum quaeritur propter quid de aliquo
+<lb ed="#L" n="45"/>naturali effectu, possumus reddere rationem ex
+<lb ed="#L" n="46"/>aliqua proxima causa: dum tamen, sicut in primam
+<lb ed="#L" n="47"/>causam, reducamus omnia in voluntatem divinam.
+<lb ed="#L" n="48"/>Sicut, si quaeratur, Quare lignum est calefactum
+<lb ed="#L" n="49"/>ad praesentiam ignis? dicitur, Quia calefactio est
+<lb ed="#L" n="50"/>naturalis actio ignis. Hoc autem: quia calor est
+<lb ed="#L" n="51"/>proprium accidens eius. Hoc autem consequitur
+<lb ed="#L" n="52"/>propriam formam eius. Et sic inde, quousque
+<lb ed="#L" n="53"/>perveniatur ad divinam voluntatem. Unde, si quis
+<lb ed="#L" n="54"/>respondet quaerenti quare lignum calefactum est,
+<lb ed="#L" n="55"/>Quia Deus voluit: convenienter quidem respondet
+<lb ed="#L" n="56"/>si intendit reducere quaestionem in primam
+<lb ed="#L" n="57"/>causam; inconvenienter vero si intendit omnes
+<lb ed="#L" n="58"/>alias excludere causas.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 146</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 146</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="434"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2900"><!-- v8naTA-l3c146 -->
+            <head xml:id="v8naTA-d1e2900-Hd1e101">Capitulum 146</head>
+            <head xml:id="v8naTA-d1e2900-Hd1e103" type="question-title">Quod iudicibus licet poenas inferre.</head>
+            <p xml:id="v8naTA-d1e2900-d1e106">
+               <pb ed="#L" n="434"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=434"/>QUADRAGESIMUM SEXTUM
+<lb ed="#L" n="2"/>QUOD IUDICIBUS LICET POENAS INFERRE.
+</p>
+            <p xml:id="v8naTA-d1e2900-d1e117">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="3"/>QUIA vero poenas a Deo inflictas aliqui
+<lb ed="#L" n="4"/>parvipendunt, propter hoc quod, 
+sen<lb ed="#L" break="no" n="5"/>sibilibus dediti, solum ea quae videntur
+<lb ed="#L" n="6"/>curant; ideo per divinam providentiam
+<lb ed="#L" n="7"/>ordinatum est ut in terris sint homines qui per
+<lb ed="#L" n="8"/>poenas sensibiles et praesentes aliquos ad 
+obser<lb ed="#L" break="no" n="9"/>vantiam iustitiae cogant. Quos manifestum est
+<lb ed="#L" n="10"/>non peccare dum malos puniunt. Nullus enim
+<lb ed="#L" n="11"/>peccat ex hoc quod iustitiam facit. Iustum autem
+<lb ed="#L" n="12"/>est malos puniri: quia per poenam culpa 
+ordi<lb ed="#L" break="no" n="13"/>natur, ut ex supra  dictis patet. Non igitur
+<lb ed="#L" n="14"/>iudices peccant malos puniendo.
+</p>
+            <p xml:id="v8naTA-d1e2900-d1e148">
+               <lb ed="#L" n="15"/>Adhuc. Homines qui in terris super alios 
+con<lb ed="#L" break="no" n="16"/>stituuntur, sunt quasi divinae providentiae 
+exe<lb ed="#L" break="no" n="17"/>cutores: Deus enim, per suae providentiae 
+or<lb ed="#L" break="no" n="18"/>dinem, per superiora inferiora exequitur, ut ex
+<lb ed="#L" n="19"/>supra  dictis patet. Nullus autem ex hoc quod
+<lb ed="#L" n="20"/>exequitur ordinem divinae providentiae, peccat.
+<lb ed="#L" n="21"/>Habet autem hoc ordo divinae providentiae, ut
+<lb ed="#L" n="22"/>boni praemientur et mali puniantur, ut ex supra 
+<lb ed="#L" n="23"/>dictis patet. Non igitur homines qui aliis 
+prae<lb ed="#L" break="no" n="24"/>sunt, peccant ex hoc quod bonos remunerant
+<lb ed="#L" n="25"/>et puniunt malos.
+</p>
+            <p xml:id="v8naTA-d1e2900-d1e175">
+               <lb ed="#L" n="26"/>Amplius. Bonum non indiget malo, sed e 
+con<lb ed="#L" break="no" n="27"/>verso. Illud igitur quod est necessarium ad 
+con<lb ed="#L" break="no" n="28"/>servationem boni, non potest esse secundum se
+<lb ed="#L" n="29"/>malum. Ad conservationem autem concordiae
+<lb ed="#L" n="30"/>inter homines necessarium est quod poenae malis
+<lb ed="#L" n="31"/>infligantur. Punire igitur malos non est secundum
+<lb ed="#L" n="32"/>se malum.
+</p>
+            <p xml:id="v8naTA-d1e2900-d1e193">
+               <lb ed="#L" n="33"/>Item. Bonum commune melius est quam 
+bo<lb ed="#L" break="no" n="34"/>num particulare unius . Subtrahendum est igitur
+<lb ed="#L" n="35"/>bonum particulare ut conservetur bonum 
+com<lb ed="#L" break="no" n="36"/>mune. Vita autem quorundam pestiferorum 
+im<lb ed="#L" break="no" n="37"/>pedit commune bonum, quod est concordia 
+socie<lb ed="#L" break="no" n="38"/>tatis humanae. Subtrahendi igitur sunt huiusmodi
+<lb ed="#L" n="39"/>homines per mortem ab hominum societate.
+</p>
+            <p xml:id="v8naTA-d1e2900-d1e211">
+               <lb ed="#L" n="40"/>Praeterea. Sicut medicus in sua operatione
+<lb ed="#L" n="41"/>intendit sanitatem, quae consistit in ordinata 
+con<lb ed="#L" break="no" n="42"/>cordia humorum, ita rector civitatis intendit in ;» 
+<lb ed="#L" n="43"/>Sua operatione pacem, quae consistit in civium
+<lb ed="#L" n="44"/>ordinata concordia. Medicus autem abscindit
+<lb ed="#L" n="45"/>membrum putridum bene et utiliter, si per ipsum
+<lb ed="#L" n="46"/>immineat corruptio corporis. Iuste igitur et absque
+<lb ed="#L" n="47"/>peccato rector civitatis homines pestiferos occidit, ;
+<lb ed="#L" n="48"/>ne pax civitatis turbetur.
+</p>
+            <p xml:id="v8naTA-d1e2900-d1e233">
+               <lb ed="#L" n="49"/>Hinc est quod Apostolus dicit, I Cor. v^: 
+Ne<lb ed="#L" break="no" n="50"/>scitis quia modicum fermentum totam massam 
+cor<lb ed="#L" break="no" n="51"/>rumpit Et post pauca subdit : Auferte malum
+<lb ed="#L" n="52"/>ex vobis ipsis. Et Rom. xm, dicitur de potestate 
+<lb ed="#L" n="53"/>terrena quod non sine causa gladium poriat: Dei
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="54"/>enim minister est, vindex. in iram ei qui male
+<lb ed="#L" n="55"/>agit, Et I Pet. n'', dicitur: Subiecti estote omni
+<lb ed="#L" n="56"/>humanae creaturae propter Deum : sive regi, quasi
+<lb ed="#L" n="57"/>praecellenti; sive ducibus, quasi missis ad vindictam
+<lb ed="#L" n="58"/>malefactorum, laudem vero bonorum.
+</p>
+            <p xml:id="v8naTA-d1e2900-d1e259">
+               <lb ed="#L" n="59"/>Per hoc autem excluditur error quorundam
+<lb ed="#L" n="60"/>dicentium vindictas corporales non licite fieri.
+<lb ed="#L" n="61"/>Qui ad sui fulcimentum erroris inducunt quod
+<lb ed="#L" n="62"/>dicitur Exod. xx'5, Non occides. Quod etiam
+<lb ed="#L" n="63"/>Matth. v^ resumitur. — Inducunt etiam quod 
+di<lb ed="#L" break="no" n="64"/>citur Matth. xui , quod Dominus ministris 
+vo<lb ed="#L" break="no" n="65"/>lentibus zizaniam colligere de medio tritici, 
+re<lb ed="#L" break="no" n="66"/>spondit: Sinite utraque crescere usque ad messem.
+</p>
+            <p xml:id="v8naTA-d1e2900-d1e279">
+               <lb ed="#L" n="67"/>Per zizaniam autem ilii nequam intelliguntur,
+<lb ed="#L" n="68"/>per messem autem saeculi finis, ut ibidem  
+di<lb ed="#L" break="no" n="69"/>citur. Non igitur mali subtrahendi sunt de medio
+<lb ed="#L" n="70"/>bonorum per occisionem.
+</p>
+            <p xml:id="v8naTA-d1e2900-d1e291">
+               <lb ed="#L" n="71"/>Inducunt etiam quod homo, quandiu in mundo
+<lb ed="#L" n="72"/>est, potest in melius transmutari. Non ergo est
+<lb ed="#L" n="73"/>per occisionem subtrahendus a mundo, sed ad
+<lb ed="#L" n="74"/>poenitentiam reservandus.
+</p>
+            <p xml:id="v8naTA-d1e2900-d1e302">
+               <lb ed="#L" n="75"/>Haec autem frivola sunt. Nam in lege quae
+<lb ed="#L" n="76"/>dicit, Non occides, postmodum subditur : 
+Aa<lb ed="#L" break="no" n="77"/>leficos non palieris vivere. Ex quo datur intelligi
+<lb ed="#L" n="78"/>occisionem hominum iniustam prohibitam esse. —
+<lb ed="#L" n="79"/>Quod etiam ex verbis Domini apparet Matth. v.
+<lb ed="#L" n="80"/>Nam cum dixisset, Audistis quia dictum est 
+an<lb ed="#L" break="no" n="81"/>liquis, Non occides, subiunxit : Ego autem dico
+<lb ed="#L" n="82"/>vobis, Qui irascitur fratri suo etc, Ex quo dat
+<lb ed="#L" n="83"/>intelligere illam occisionem esse prohibitam quae
+<lb ed="#L" n="84"/>procedit ex ira, non autem illam quae procedit
+<lb ed="#L" n="85"/>ex zelo iustitiae. — Quod etiam Dominus dicit, -
+<lb ed="#L" n="86"/>Simile utraque crescere usque ad messem, qualiter
+<lb ed="#L" n="87"/>intelligendum sit, apparet per id quod sequitur :
+<lb ed="#L" n="88"/>forte, colligentes zizania, eradicetis simul et
+<lb ed="#L" n="89"/>triticum. Ibi ergo interdicitur malorum occisio ubi
+<lb ed="#L" n="90"/>hoc sine periculo bonorum fieri non potest. Quod
+<lb ed="#L" n="91"/>plerumque contingit quando mali nondum 
+discer<lb ed="#L" break="no" n="92"/>nuntur a bonis per manifesta peccata; vel quando
+<lb ed="#L" n="93"/>timetur periculum ne mali multos bonos post
+<lb ed="#L" n="94"/>se trahant. :
+</p>
+            <p xml:id="v8naTA-d1e2900-d1e348">
+               <lb ed="#L" n="95"/>Quod vero mali, quandiu vivunt, emendari
+<lb ed="#L" n="96"/>possunt, non prohibet quin iuste possint occidi :
+<lb ed="#L" n="97"/>quia periculum quod de eorum vita imminet,
+<lb ed="#L" n="98"/>est maius et certius quam bonum quod de eorum
+<lb ed="#L" n="99"/>emendatione expectatur. Habent etiam in ipso
+<lb ed="#L" n="100"/>mortis articulo facultatem ut per poenitentiam
+<lb ed="#L" n="101"/>convertantur ad Deum. Quod si adeo sunt 
+obsti<lb ed="#L" break="no" n="102"/>nati quod etiam in mortis articulo cor eorum a
+<lb ed="#L" n="103"/>malitia non recedit, satis probabiliter aestimari
+<lb ed="#L" n="104"/>potest quod nunquam a malitia resipiscant.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

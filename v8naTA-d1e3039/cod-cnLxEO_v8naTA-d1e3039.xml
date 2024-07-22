@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 163</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 163</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="474"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e3039"><!-- v8naTA-l3c163 -->
+            <head xml:id="v8naTA-d1e3039-Hd1e101">Capitulum 163</head>
+            <head xml:id="v8naTA-d1e3039-Hd1e103" type="question-title">De praedestinatione, reprobatione, et electione divina.</head>
+            <p xml:id="v8naTA-d1e3039-d1e106">
+               <pb ed="#L" n="474"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=474"/>CAPITULUM CENTESIMUM SEXAGESIMUM TERTIUM
+<lb ed="#L" n="2"/>DE PRAEDESTINATIONE, REPROBATIONE, ET ELECTIONE DIVINA.
+</p>
+            <p xml:id="v8naTA-d1e3039-d1e117">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="3"/>QUIA ergo ostensum est  quod divina 
+ope<lb ed="#L" break="no" n="4"/>ratione aliqui diriguntur in ultimum
+<lb ed="#L" n="5"/>finem per gratiam adiuti, aliqui vero,
+<lb ed="#L" n="6"/>eodem auxilio gratiae deserti, ab ultimo
+<lb ed="#L" n="7"/>fine decidunt ; omnia autem quae a Deo aguntur,
+<lb ed="#L" n="8"/>ab aeterno per eius sapientiam provisa et ordinata
+<lb ed="#L" n="9"/>sunt, ut supra ostensum est: necesse est 
+prae<lb ed="#L" break="no" n="10"/>dictam hominum distinctionem ab aeterno a Deo
+<lb ed="#L" n="11"/>esse ordinatam. Secundum ergo quod quosdam
+<lb ed="#L" n="12"/>ab aeterno praeordinavit ut dirigendos in ultimum
+<lb ed="#L" n="13"/>finem, dicitur eos praedestinasse. Unde Apostolus
+<lb ed="#L" n="14"/>dicit; ad Ephes. 1: Qui praedestinavit nos in 
+ado<lb ed="#L" break="no" n="15"/>plionem filiorum, secundum propositum voluntatis
+<lb ed="#L" n="16"/>suae. - lllos autem quibus ab aeterno disposuit
+<lb ed="#L" n="17"/>se gratiam non daturum, dicitur reprobasse, vel
+<lb ed="#L" n="18"/>odio habuisse: secundum illud quod habetur 
+Ma<lb ed="#L" break="no" n="19"/>lach. 1?: Iacob dilexi, Esau odio habui. - Ratione
+<lb ed="#L" n="20"/>vero ipsius distinctionis, secundum quod quosdam
+<lb ed="#L" n="21"/>reprobavit et quosdam praedestinavit, attenditur
+<lb ed="#L" n="22"/>divina electio: de qua dicitur Ephes. 1: Elegit nos » 
+<lb ed="#L" n="23"/>in ipso ante mundi constitutionem.
+</p>
+            <p xml:id="v8naTA-d1e3039-d1e167">
+               <lb ed="#L" n="24"/>Sic igitur patet quod praedestinatio et electio
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="25"/>et reprobatio est quaedam pars divinae 
+provi<lb ed="#L" break="no" n="26"/>dentiae, secundum quod homines ex divina 
+pro<lb ed="#L" break="no" n="27"/>videntia ordinantur in ultimum finem. Unde per
+<lb ed="#L" n="28"/>eadem manifestum esse potest quod 
+praedesti<lb ed="#L" break="no" n="29"/>natio et electio necessitatem non inducunt, 
+qui<lb ed="#L" break="no" n="30"/>bus et supra  ostensum est quod divina 
+provi<lb ed="#L" break="no" n="31"/>dentia contingentiam a rebus non aufert.
+</p>
+            <p xml:id="v8naTA-d1e3039-d1e190">
+               <lb ed="#L" n="32"/>Quod autem praedestinatio et electio causam
+<lb ed="#L" n="33"/>non habent ex aliquibus humanis meritis, potest
+<lb ed="#L" n="34"/>fieri manifestum, non solum ex hoc quod gratia
+<lb ed="#L" n="35"/>Dei, quae est praedestinationis effectus, meritis non
+<lb ed="#L" n="36"/>praevenitur, sed omnia merita praecedit humana,
+<lb ed="#L" n="37"/>ut ostensum est: sed etiam manifestari potest
+<lb ed="#L" n="38"/>ex hoc quod divina voluntas et providentia est
+<lb ed="#L" n="39"/>prima causa eorum quae fiunt; nil autem potest
+<lb ed="#L" n="40"/>esse causa voluntatis et providentiae divinae ,
+<lb ed="#L" n="41"/>licet effectuum providentiae, et similiter 
+praede<lb ed="#L" break="no" n="42"/>stinationis, unus possit alterius esse causa.
+</p>
+            <p xml:id="v8naTA-d1e3039-d1e216">
+               <lb ed="#L" n="43"/>Quis ENIM, UT APOSTOLUS DICIT , PRIOR DEDIT ILLI,
+<lb ed="#L" n="44"/>ET RETRIBUETUR E1? QUONIAM EX IPSO, ET IN IPSO, ET
+<lb ed="#L" n="45"/>PER IPSUM SUNT OMNIA. IPs! HONOR ET GLORIA IN
+<lb ed="#L" n="46"/>SAECULA SAECULORUM. AMEN.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

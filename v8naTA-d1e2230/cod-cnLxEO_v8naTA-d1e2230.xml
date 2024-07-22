@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 64</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 64</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="178"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2230"><!-- v8naTA-l3c64 -->
+            <head xml:id="v8naTA-d1e2230-Hd1e101">Capitulum 64</head>
+            <head xml:id="v8naTA-d1e2230-Hd1e103" type="question-title">Quod deus sua providentia gubernat res.</head>
+            <p xml:id="v8naTA-d1e2230-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="95" type="fixed=178"/>CAPITULUM SEXAGESIMUM QUARTUM;
+<lb ed="#L" n="96"/>QUOD DEUS SUA PROVIDENTIA GUBERNAT RES.
+</p>
+            <p xml:id="v8naTA-d1e2230-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="97"/>Ex his autem quae praemissa sunt, 
+suf<lb ed="#L" break="no" n="98"/>ficienter habetur quod Deus est rerum 
+<lb ed="#L" n="99"/>omnium finis. Ex quo haberi potest 
+<lb ed="#L" n="100"/>ulterius quod. ipse sua providentia 
+gu<lb ed="#L" break="no" n="101"/>bernet vel regat universa 
+</p>
+            <p xml:id="v8naTA-d1e2230-d1e131">
+               <lb ed="#L" n="102"/>Quandocumque enim aliqua ordinantur ad 
+<lb ed="#L" n="103"/>aliquem finem, omnia dispositioni illius subiacent 
+<lb ed="#L" n="104"/>ad quem principaliter pertinet ille finis, sicut in 
+<lb ed="#L" n="105"/>exercitu apparet: omnes enim partes exercitus, 
+<lb ed="#L" n="106"/>et eorum opera, ordinantur ad bonum ducis,
+<lb ed="#L" n="107"/>quod est victoria, sicut in ultimum finem; et 
+<lb ed="#L" n="108"/>propter hoc ad ducem pertinet totum exercitum 
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="109"/>gubernare. Similiter ars quae est de fine, imperat
+<lb ed="#L" n="110"/>et dat leges arti quae est de his quae sunt ad
+<lb ed="#L" n="111"/>finem: ut civilis militari, et militaris equestri, et
+<lb ed="#L" n="112"/>ars gubernatoria navifactivae. Cum igitur omnia
+<lb ed="#L" n="113"/>ordinentur ad bonitatem divinam sicut in finem,
+<lb ed="#L" n="114"/>ut ostensum est, oportet quod Deus, ad quem
+<lb ed="#L" n="115"/>principaliter illa bonitas pertinet, sicut 
+substan<lb ed="#L" break="no" n="116"/>tialiter habita et intellecta et amata, sit gubernator
+<lb ed="#L" n="117"/>omnium rerum.
+</p>
+            <p xml:id="v8naTA-d1e2230-d1e171">
+               <lb ed="#L" n="118"/>Adhuc. Quicumque facit aliquid propter finem,
+<lb ed="#L" n="119"/>utitur illo ad finem. Ostensum autem est supra
+<lb ed="#L" n="120"/>quod omnia quae habent esse quocumque modo,
+<pb ed="#L" n="179"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>sunt effectus Dei ; et quod Deus omnia facit
+<lb ed="#L" n="2"/>propter finem qui est ipse. Ipse igitur utitur
+<lb ed="#L" n="3"/>gubernare. Est igitur Deus per suam 
+providen<lb ed="#L" break="no" n="4"/>tiam omnium gubernator.
+</p>
+            <p xml:id="v8naTA-d1e2230-d1e193">
+               <lb ed="#L" n="5"/>Amplius. Ostensum est quod Deus est 
+pri<lb ed="#L" break="no" n="6"/>mum movens non motum. Primum autem 
+mo<lb ed="#L" break="no" n="7"/>vens non minus movet quam secunda moventia,
+<lb ed="#L" n="8"/>sed magis: quia sine eo non movent alia. Omnia
+<lb ed="#L" n="9"/>autem quae moventur, moventur propter finem,
+<lb ed="#L" n="10"/>ut supra  ostensum est. Movet igitur Deus omnia
+<lb ed="#L" n="11"/>ad fines suos. Et per intellectum: ostensum enim
+<lb ed="#L" n="12"/>est supra  quod non agit per necessitatem 
+na<lb ed="#L" break="no" n="13"/>turae, sed per intellectum et voluntatem. Nihil
+<lb ed="#L" n="14"/>est autem aliud regere et gubernare per 
+provi<lb ed="#L" break="no" n="15"/>dentiam quam movere per intellectum aliqua ad
+<lb ed="#L" n="16"/>Jinem. Deus igitur per suam providentiam 
+gu<lb ed="#L" break="no" n="17"/>bernat et regit omnia quae moventur in finem:
+<lb ed="#L" n="18"/>sive moveantur corporaliter; sive spiritualiter,
+<lb ed="#L" n="19"/>sicut desiderans dicitur moveri a desiderato.
+</p>
+            <p xml:id="v8naTA-d1e2230-d1e228">
+               <lb ed="#L" n="20"/>Item. Probatum est quod corpora naturalia
+<lb ed="#L" n="21"/>moventur et operantur propter finem, licet finem
+<lb ed="#L" n="22"/>non cognoscant ex hoc quod semper vel 
+fre<lb ed="#L" break="no" n="23"/>quentius accidit in eis quod melius est; et non
+<lb ed="#L" n="24"/>aliter fierent si fierent per artem. Impossibile
+<lb ed="#L" n="25"/>est autem quod aliqua non cognoscentia finem
+<lb ed="#L" n="26"/>operentur propter finem et ordinate perveniant
+<lb ed="#L" n="27"/>in ipsum, nisi sint mota ab aliquo habente 
+co<lb ed="#L" break="no" n="28"/>gnitionem finis: sicut sagitta dirigitur ad signum
+<lb ed="#L" n="29"/>a sagittante. Oportet ergo quod tota operatio 
+na<lb ed="#L" break="no" n="30"/>turae ab aliqua cognitione ordinetur. Et hoc
+<lb ed="#L" n="31"/>quidem vel mediate vel immediate oportet 
+re<lb ed="#L" break="no" n="32"/>ducere in Deum: oportet enim quod omnis
+<lb ed="#L" n="33"/>inferior ars et cognitio a superiori principia 
+ac<lb ed="#L" break="no" n="34"/>cipiat, sicut etiam in scientiis speculativis et 
+ope<lb ed="#L" break="no" n="35"/>rativis apparet. Deus igitur sua providentia 
+mun<lb ed="#L" break="no" n="36"/>dum gubernat.
+</p>
+            <p xml:id="v8naTA-d1e2230-d1e267">
+               <lb ed="#L" n="37"/>Adhuc. Ea quae sunt secundum suam 
+natu<lb ed="#L" break="no" n="38"/>ram distincta, in unum ordinem non conveniunt
+<lb ed="#L" n="39"/>nisi ab uno ordinante colligantur in unum. In 
+<lb ed="#L" n="40"/>universitate autem rerum sunt res distinctas et
+<lb ed="#L" n="41"/>contrarias naturas habentes, quae tamen omnes
+<lb ed="#L" n="42"/>in unum, ordinem .conveniunt, dum quaedam
+<lb ed="#L" n="43"/>operationes quorundam excipiunt, quaedam etiam
+<lb ed="#L" n="44"/>a quibusdam iuvantur vel imperantur. Oportet 
+<lb ed="#L" n="45"/>igitur quod sit universorum unus ordinator et
+<lb ed="#L" n="46"/>gubernator. 
+</p>
+            <p xml:id="v8naTA-d1e2230-d1e291">
+               <lb ed="#L" n="47"/>Amplius. Eorum quae circa caelestium  
+cor<lb ed="#L" break="no" n="48"/>porum motus apparent, ratio assignari non potest
+<lb ed="#L" n="49"/>ex necessitate naturae: cum quaedam eorum 
+<lb ed="#L" n="50"/>habeant plures motus quibusdam, et omnino
+<lb ed="#L" n="51"/>difformes. Oportet igitur quod illorum motuum
+<lb ed="#L" n="52"/>ordinatio sit ab aliqua providentia. Et per con-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="53"/>sequens omnium inferiorum motuum et 
+opera<lb ed="#L" break="no" n="54"/>tionum, quae per illos motus disponuntur.
+</p>
+            <p xml:id="v8naTA-d1e2230-d1e313">
+               <lb ed="#L" n="55"/>Item. Quanto aliquid propinquius est causae,
+<lb ed="#L" n="56"/>tanto plus participat de effectu ipsius. Unde, si
+<lb ed="#L" n="57"/>aliquid tanto participatur perfectius ab aliquibus
+<lb ed="#L" n="58"/>quanto alicui rei magis appropinquant, signum
+<lb ed="#L" n="59"/>est quod illa res sit causa illius quod diversimode
+<lb ed="#L" n="60"/>participatur: sicut, si aliqua magis sunt calida
+<lb ed="#L" n="61"/>secundum.quod magis appropinquant igni, 
+si<lb ed="#L" break="no" n="62"/>gnum est quod ignis sit causa caloris. 
+Inve<lb ed="#L" break="no" n="63"/>niuntur autem tanto aliqua perfectius ordinata
+<lb ed="#L" n="64"/>esse, quanto magis. sunt Deo propinqua: nam
+<lb ed="#L" n="65"/>in corporibus inferioribus, quae sunt maxime a
+<lb ed="#L" n="66"/>Deo distantia naturae dissimilitudine, invenitur
+<lb ed="#L" n="67"/>esse defectus aliquando ab eo quod est 
+secun<lb ed="#L" break="no" n="68"/>dum cursum naturae, sicut patet in monstrosis
+<lb ed="#L" n="69"/>et aliis casualibus; quod nunquam accidit in
+<lb ed="#L" n="70"/>corporibus caelestibus, quae tamen sunt aliquo
+<lb ed="#L" n="71"/>modo mutabilia; quod non accidit in substantiis
+<lb ed="#L" n="72"/>intellectualibus separatis. Manifestum | est. ergo
+<lb ed="#L" n="73"/>quod Deus est causa totius ordinis rerum. Est
+<lb ed="#L" n="74"/>igitur ipse per suam providentiam gubernator
+<lb ed="#L" n="75"/>totius universitatis rerum.
+</p>
+            <p xml:id="v8naTA-d1e2230-d1e362">
+               <lb ed="#L" n="76"/>Adhuc. Sicut supra  probatum est, Deus res
+<lb ed="#L" n="77"/>omnes in esse produxit, non ex necessitate 
+na<lb ed="#L" break="no" n="78"/>turae, sed per intellectum et voluntatem. 
+Intel<lb ed="#L" break="no" n="79"/>lectus autem et voluntatis ipsius non potest esse :
+<lb ed="#L" n="80"/>alius finis ultimus nisi bonitas eius, ut scilicet
+<lb ed="#L" n="81"/>eam rebus communicaret, sicut ex praemissis 
+<lb ed="#L" n="82"/>apparet. Res autem participant divinam 
+boni<lb ed="#L" break="no" n="83"/>tatem per modum similitudinis, inquantum ipsae
+<lb ed="#L" n="84"/>sunt bonae. Id autem quod est maxime bonum
+<lb ed="#L" n="85"/>in rebus causatis, est bonum ordinis universi, quod
+<lb ed="#L" n="86"/>est maxime perfectum, ut Philosophus dicit  cui
+<lb ed="#L" n="87"/>etiam consonat Scriptura divina, Gen. i, cum 
+di<lb ed="#L" break="no" n="88"/>citur, Vidit Deus cuncta quae fecerat, et erant
+<lb ed="#L" n="89"/>valde bona, cum de singulis operibus dixisset 
+sim<lb ed="#L" break="no" n="90"/>pliciter quod erant bona. Bonum igitur ordinis
+<lb ed="#L" n="91"/>rerum causatarum a Deo .est id quod est 
+prae<lb ed="#L" break="no" n="92"/>cipue volitum et causatum a Deo. Nihil autem
+<lb ed="#L" n="93"/>aliud est gubernare aliqua quam eis ordinem
+<lb ed="#L" n="94"/>imponere. Ipse igitur Deus omnia suo intellectu
+<lb ed="#L" n="95"/>et voluntate gubernat.
+</p>
+            <p xml:id="v8naTA-d1e2230-d1e408">
+               <lb ed="#L" n="96"/>Amplius. Unumquodque intendens aliquem
+<lb ed="#L" n="97"/>finem, magis curat de eo quod est propinquius
+<lb ed="#L" n="98"/>fini ultimo: quia hoc etiam est finis aliorum.
+<lb ed="#L" n="99"/>Ultimus autem finis divinae voluntatis est 
+bo<lb ed="#L" break="no" n="100"/>nitas ipsius, cui propinquissimum in rebus creatis
+<lb ed="#L" n="101"/>est bonum ordinis totius universi: cum ad ipsum
+<lb ed="#L" n="102"/>ordinetur, sicut ad finem, omne particulare 
+bo<lb ed="#L" break="no" n="103"/>num huius vel illius rei, sicut minus perfectum
+<lb ed="#L" n="104"/>ordinatur ad id quod est perfectius; unde et
+<lb ed="#L" n="105"/>quaelibet pars invenitur esse propter suum to-
+<pb ed="#L" n="180"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>tum. Id igitur quod maxime curat Deus in rebus
+<lb ed="#L" n="2"/>creatis, est ordo universi. Est igitur gubernator
+<lb ed="#L" n="3"/>ipsius. 
+</p>
+            <p xml:id="v8naTA-d1e2230-d1e443">
+               <lb ed="#L" n="4"/>Item. Quaelibet res creata consequitur suam
+<lb ed="#L" n="5"/>ultimam perfectionem per operationem propriam:
+<lb ed="#L" n="6"/>nam oportet quod ultimus finis et perfectio rei
+<lb ed="#L" n="7"/>sit vel ipsa operatio, vel operationis terminus
+<lb ed="#L" n="8"/>aut effectus; forma vero secundum quam res est,
+<lb ed="#L" n="9"/>est perfectio prima, ut patet in II de Anima .
+<lb ed="#L" n="10"/>Ordo autem rerum causatarum secundum 
+distin<lb ed="#L" break="no" n="11"/>ctionem naturarum et gradum ipsarum, procedit
+<lb ed="#L" n="12"/>ex divina sapientia, sicut in Secundo  est 
+osten<lb ed="#L" break="no" n="13"/>sum. Ergo et ordo operationum, per quas res
+<lb ed="#L" n="14"/>causatae magis appropinquant ad ultimum finem.
+<lb ed="#L" n="15"/>Ordinare autem actiones aliquarum rerum ad
+<lb ed="#L" n="16"/>finem, est gubernare ipsa. Deus igitur per suae
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="17"/>sapientiae providentiam rebus gubernationem et
+<lb ed="#L" n="18"/>regimen praestat.
+</p>
+            <p xml:id="v8naTA-d1e2230-d1e480">
+               <lb ed="#L" n="19"/>Hinc est quod Sacra Scriptura Deum Dominum
+<lb ed="#L" n="20"/>et Regem profitetur, secundum illud Psalmi ,
+<lb ed="#L" n="21"/>Dominus ipse est Deus, et item , Rex omnis
+<lb ed="#L" n="22"/>terrae Deus: regis enim et domini est suo 
+im<lb ed="#L" break="no" n="23"/>perio regere et gubernare subiectos. Unde et
+<lb ed="#L" n="24"/>rerum cursum Sacra Scriptura divino praecepto
+<lb ed="#L" n="25"/>ascribit, Iob IX, Qui praecipit soli et non oritur,
+<lb ed="#L" n="26"/>et stellas claudit quasi sub signaculo; et in Psalmo ,
+<lb ed="#L" n="27"/>Praeceptum posuit et non. praeteribit.
+</p>
+            <p xml:id="v8naTA-d1e2230-d1e502">
+               <lb ed="#L" n="28"/>Per hoc autem excluditur error antiquorum
+<lb ed="#L" n="29"/>Naturalium, qui dicebant omnia ex necessitate
+<lb ed="#L" n="30"/>materiae provenire: ex quo sequebatur omnia
+<lb ed="#L" n="31"/>casu accidere, et non ex aliquo providentiae
+<lb ed="#L" n="32"/>ordine.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

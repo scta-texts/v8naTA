@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 16</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 16</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="39"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1838"><!-- v8naTA-l3c16 -->
+            <head xml:id="v8naTA-d1e1838-Hd1e101">Capitulum 16</head>
+            <head xml:id="v8naTA-d1e1838-Hd1e103" type="question-title">Quod finis cuiuslibet rei est bonum.</head>
+            <p xml:id="v8naTA-d1e1838-d1e106">
+               <cb ed="#L" n="f"/>
+               <lb ed="#L" n="68" type="fixed=38"/>CAPITULUM DECIMUM SEXTUM
+<lb ed="#L" n="69"/>QUOD FINIS CUIUSLIBET REI EST BONUM.
+</p>
+            <p xml:id="v8naTA-d1e1838-d1e115">
+               <cb ed="#L" n="g"/>
+               <lb ed="#L" n="70"/>Si autem omne agens agit propter 
+bo<lb ed="#L" break="no" n="71"/>num, ut supra  probatum est, sequitur
+<lb ed="#L" n="72"/>ex ulterius quod cuiuslibet entis bonum sit
+<lb ed="#L" n="73"/>per suam actionem: oportet enim quod vel ipsa
+<lb ed="#L" n="74"/>actio sit finis; vel actionis finis est etiam finis
+<lb ed="#L" n="75"/>agentis. Quod est eius bonum.
+</p>
+            <p xml:id="v8naTA-d1e1838-d1e133">
+               <lb ed="#L" n="76"/>Amplius. Finis rei cuiuslibet est in quod 
+ter<lb ed="#L" break="no" n="77"/>minatur appetitus eius. Appetitus autem 
+cuius<lb ed="#L" break="no" n="78"/>libet rei terminatur ad bonum: sic enim 
+philo<lb ed="#L" break="no" n="79"/>sophi diffiniunt bonum, quod omnia appetunt .
+<lb ed="#L" n="80"/>Cuiuslibet igitur rei finis est aliquod bonum.
+</p>
+            <p xml:id="v8naTA-d1e1838-d1e147">
+               <lb ed="#L" n="81"/>Item. Illud ad quod aliquid tendit cum extra
+<lb ed="#L" n="82"/>ipsum fuerit, et in quo quiescit cum ipsum 
+ha<lb ed="#L" break="no" n="83"/>buerit, est finis eius. Unumquodque autem, si
+<lb ed="#L" n="84"/>perfectione propria careat, in ipsam movetur,
+<lb ed="#L" n="85"/>quantum in se est: si vero eam habeat, in ipsa
+<cb ed="#L" n="h"/>
+               <lb ed="#L" n="86"/>quiescit. Finis igitur uniuscuiusque rei est eius
+<lb ed="#L" n="87"/>perfectio. Perfectio autem cuiuslibet est bonum
+<lb ed="#L" n="88"/>ipsius. Unumquodque igitur ordinatur in bonum
+<lb ed="#L" n="89"/>sicut in finem.
+</p>
+            <p xml:id="v8naTA-d1e1838-d1e171">
+               <lb ed="#L" n="90"/>Praeterea. Eodem modo ordinantur in finem
+<lb ed="#L" n="91"/>ea quae cognoscunt finem, et ea quae finem non
+<lb ed="#L" n="92"/>cognoscunt: licet quae cognoscunt finem, per se
+<lb ed="#L" n="93"/>moveantur in finem; quae autem non 
+cogno<lb ed="#L" break="no" n="94"/>scunt, tendunt in finem quasi ab alio directa,
+<lb ed="#L" n="95"/>sicut patet de sagittante et sagitta. Sed ea quae
+<lb ed="#L" n="96"/>cognoscunt finem, semper ordinantur in bonum
+<lb ed="#L" n="97"/>sicut in finem: nam voluntas, quae est appetitus
+<lb ed="#L" n="98"/>finis praecogniti, non tendit in aliquid nisi sub
+<lb ed="#L" n="99"/>ratione boni, quod est eius obiectum. Ergo et
+<lb ed="#L" n="100"/>ea quae finem non cognoscunt, ordinantur in
+<lb ed="#L" n="101"/>bonum sicut in finem. Finis igitur omnium est
+<lb ed="#L" n="102"/>bonum
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 44</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 44</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="115"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2067"><!-- v8naTA-l3c44 -->
+            <head xml:id="v8naTA-d1e2067-Hd1e101">Capitulum 44</head>
+            <head xml:id="v8naTA-d1e2067-Hd1e103" type="question-title">Quod ultima felicitas 
+hominisnon consistit in cognitione
+substantiarum separatarum
+qualem praedictae opiniones fingunt.</head>
+            <p xml:id="v8naTA-d1e2067-d1e106">
+               <pb ed="#L" n="115"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=115"/>CAPITULUM QUADRAGESIMUM QUARTUM
+<lb ed="#L" n="2"/>QUOD ULTIMA FELICITAS 
+HOMINIS<lb ed="#L" break="no" n="3"/>NON CONSISTIT IN COGNITIONE
+<lb ed="#L" n="4"/>SUBSTANTIARUM SEPARATARUM
+<lb ed="#L" n="5"/>QUALEM PRAEDICTAE OPINIONES FINGUNT.
+</p>
+            <p xml:id="v8naTA-d1e2067-d1e124">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="6"/>NON est autem possibile neque felicitatem
+<lb ed="#L" n="7"/>humanam in tali cognitione 
+substantia<lb ed="#L" break="no" n="8"/>rum separatarum ponere sicut praedicti
+<lb ed="#L" n="9"/>Nen, philosophi posuerunt .
+<lb ed="#L" n="10"/>Vanum enim est quod est ad finem quem non
+<lb ed="#L" n="11"/>potest consequi. Cum igitur finis hominis sit 
+fe<lb ed="#L" break="no" n="12"/>licitas, in quam tendit naturale i ipsius desiderium,
+<lb ed="#L" n="13"/>non potest poni felicitas hominis in eo ad quod
+<lb ed="#L" n="14"/>homo pervenire non potest: alioquin sequeretur
+<lb ed="#L" n="15"/>quod homo esset in vanum, et naturale eius
+<lb ed="#L" n="16"/>desiderium esset inane, quod est impossibile.
+<lb ed="#L" n="17"/>Quod autem intelligere substantias separatas 
+ho<lb ed="#L" break="no" n="18"/>mini sit impossibile secundum praedictas 
+posi<lb ed="#L" break="no" n="19"/>tiones, ex dictis est manifestum. Non est igitur
+<lb ed="#L" n="20"/>in tali cognitione substantiarum separatarum 
+fe<lb ed="#L" break="no" n="21"/>licitas hominis constituta.
+</p>
+            <p xml:id="v8naTA-d1e2067-d1e163">
+               <lb ed="#L" n="22"/>Praeterea. Ad hoc quod intellectus agens 
+unia<lb ed="#L" break="no" n="23"/>tur nobis ut forma ita quod per ipsum 
+intelli<lb ed="#L" break="no" n="24"/>gamus substantias separatas, requiritur quod gene- -
+<lb ed="#L" n="25"/>ratio intellectus in habitu sit completa, secundum
+<lb ed="#L" n="26"/>Alexandrum; vel quod omnia intellecta 
+specula<lb ed="#L" break="no" n="27"/>tiva sint facta in nobis in actu, secundum 
+Aver<lb ed="#L" break="no" n="28"/>rois; quae duo in idem redeunt, nam secundum
+<lb ed="#L" n="29"/>hoc intellectus in habitu generatur in nobis, 
+se<lb ed="#L" break="no" n="30"/>cundum quod intellecta speculativa fiunt in nobis
+<lb ed="#L" n="31"/>in actu. Omnes autem. species rerum sensibilium
+<lb ed="#L" n="32"/>sunt intellectae in potentia. Ad hoc igitur quod
+<lb ed="#L" n="33"/>intellectus agens copuletur alicui, oportet quod
+<lb ed="#L" n="34"/>intelligat in" actu per intellectum speculativum
+<lb ed="#L" n="35"/>omnes naturas rerum sensibilium, et omnes 
+vir<lb ed="#L" break="no" n="36"/>tutes, operationes et motus eorum. Quod non
+<lb ed="#L" n="37"/>est possibile aliquem hominem. scire per principia
+<lb ed="#L" n="38"/>scientiarum: speculativarum, per quas movemur
+<lb ed="#L" n="39"/>ad continuationem intellectus agentis, ut ipsi 
+di<lb ed="#L" break="no" n="40"/>cunt: cum ex his quae nostris sensibus subsunt,
+<lb ed="#L" n="41"/>ex quibus sumuntur principia scientiarum 
+specu<lb ed="#L" break="no" n="42"/>lativarum, non possit perveniri ad omnia 
+prae<lb ed="#L" break="no" n="43"/>dicta. cognoscenda. Est igitur impossibile quod
+<lb ed="#L" n="44"/>aliquis homo ad illam continuationem perveniat
+<lb ed="#L" n="45"/>per modum ab eis assignatum. Non est igitur » 
+<lb ed="#L" n="46"/>possibile quod in tali. continuatione sit hominis
+<lb ed="#L" n="47"/>felicitas.
+</p>
+            <p xml:id="v8naTA-d1e2067-d1e223">
+               <lb ed="#L" n="48"/>Adhuc. Dato quod talis continuatio hominis
+<lb ed="#L" n="49"/>ad intellectum agentem sit possibilis qualem ipsi
+<lb ed="#L" n="50"/>describunt, planum est quod talis perfectio 
+paucis<lb ed="#L" break="no" n="51"/>simis hominum advenit; in tantum quod nec ipsi,
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="52"/>nec aliqui, quantumcumque in. scientiis 
+specu<lb ed="#L" break="no" n="53"/>lativis studiosi et periti, ausi. sunt talem: 
+perfectio<lb ed="#L" break="no" n="54"/>nem de se profiteri. Quinimmo omnes plurima
+<lb ed="#L" n="55"/>a se asserurit ignorata: sicut Aristoteles 
+quadra<lb ed="#L" break="no" n="56"/>turam circuli, et rationes ordinis caelestium 
+cor<lb ed="#L" break="no" n="57"/>porum, in quibus, ut ipsemet dicit in <ref xml:id="v8naTA-d1e2067-Rd1e249">II de Caelo</ref>,
+<lb ed="#L" n="58"/>non. nisi topicas rationes reddere potest; et quid
+<lb ed="#L" n="59"/>sit in eis necessarium et eorum motoribus, aliis
+<lb ed="#L" n="60"/>reservat in <ref xml:id="v8naTA-d1e2067-Rd1e257">XI Metaphysicae</ref>. Felicitas autem
+<lb ed="#L" n="61"/>est quoddam. commune bonum, ad quod plures
+<lb ed="#L" n="62"/>pervenire possunt, nisi sini orbati, ut Aristoteles
+<lb ed="#L" n="63"/>dicit in <ref xml:id="v8naTA-d1e2067-Rd1e266">I Ethicorum</ref> . Et hoc etiam verum est :
+<lb ed="#L" n="64"/>de omni fine naturali alicuius speciei, quod ipsum
+<lb ed="#L" n="65"/>consequuntur ea quae sunt illius speciei ut in
+<lb ed="#L" n="66"/>pluribus. Non est ergo possibile quod ultima
+<lb ed="#L" n="67"/>hominis felicitas in continuatione praedicta 
+con<lb ed="#L" break="no" n="68"/>sistat.
+</p>
+            <p xml:id="v8naTA-d1e2067-d1e280">
+               <lb ed="#L" n="69"/>Patet autem quod nec Aristoteles, cuius 
+sen<lb ed="#L" break="no" n="70"/>tentiam sequi conantur praedicti philosophi, in
+<lb ed="#L" n="71"/>tali continuatione ultimam felicitatem hominis
+<lb ed="#L" n="72"/>opinatus est esse. Probat enim in <ref xml:id="v8naTA-d1e2067-Rd1e290">I Ethicorum</ref>
+               <lb ed="#L" n="73"/>quod. felicitas hominis est operatio ipsius 
+secun<lb ed="#L" break="no" n="74"/>dum virtutem perfectam: unde necesse fuit quod
+<lb ed="#L" n="75"/>de virtutibus determinaret, quas divisit in virtutes
+<lb ed="#L" n="76"/>quod ultima felicitas hominis est in. speculatione.
+<lb ed="#L" n="77"/>Unde patet quod. non est in actu alicuius 
+vir<lb ed="#L" break="no" n="78"/>tutis. moralis; nec prudentiae nec artis, quae
+<lb ed="#L" n="79"/>tamen sunt intellectuales. Relinquitur ergo quod
+<lb ed="#L" n="80"/>sit operatio secundum sapientiam, quae est 
+prae<lb ed="#L" break="no" n="81"/>cipua. inter tres residuas intellectuales, quae sunt
+<lb ed="#L" n="82"/>sapientia, scientia et intellectus, ut ostendit in
+<lb ed="#L" n="83"/>
+               <ref xml:id="v8naTA-d1e2067-Rd1e316">VI Ethicorum</ref> : unde et in <ref xml:id="v8naTA-d1e2067-Rd1e319">X Ethicorum</ref>  
+sa<lb ed="#L" break="no" n="84"/>pientem iudicat esse felicem. Sapientia autem,
+<lb ed="#L" n="85"/>secundum ipsum, est una de scientiis Socii
+<lb ed="#L" n="86"/>tivis, caput aliarum, ut. dicit in. <ref xml:id="v8naTA-d1e2067-Rd1e327">VI Ethicorum</ref>  :
+<lb ed="#L" n="87"/>et in <ref xml:id="v8naTA-d1e2067-Rd1e332">principio Metaphysicae</ref>  scientiam quam
+<lb ed="#L" n="88"/>in illo libro tradere intendit, sapientiam nominat.
+<lb ed="#L" n="89"/>Patet ergo quod opinio Aristotelis fuit quod 
+ul<lb ed="#L" break="no" n="90"/>tima felicitas quam homo in vita ista acquirere
+<lb ed="#L" n="91"/>potest, sit cognitio de rebus divinis qualis per
+<lb ed="#L" n="92"/>scientias speculativas haberi potest. llle autem
+<lb ed="#L" n="93"/>posterior modus cognoscendi res divinas, non per
+<lb ed="#L" n="94"/>viam scientiarum speculativarum, sed quodam
+<lb ed="#L" n="95"/>generationis ordine naturali, est confictus ab
+<lb ed="#L" n="96"/>expositoribus quibusdam.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

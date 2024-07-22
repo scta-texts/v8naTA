@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 103</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 103</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="322"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2549"><!-- v8naTA-l3c103 -->
+            <head xml:id="v8naTA-d1e2549-Hd1e101">Capitulum 103</head>
+            <head xml:id="v8naTA-d1e2549-Hd1e103" type="question-title">Quod substantiae spirituales aliqua mirabilia operantur, 
+quae tamen non sunt vere miracula.</head>
+            <p xml:id="v8naTA-d1e2549-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="43" type="fixed=322"/>CAPITULUM CENTESIMUM TERTIUM
+<lb ed="#L" n="44"/>QUOD SUBSTANTIAE SPIRITUALES ALIQUA MIRABILIA OPERANTUR,
+<lb ed="#L" n="45"/>QUAE TAMEN NON SUNT VERE MIRACULA.
+</p>
+            <p xml:id="v8naTA-d1e2549-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="46"/>FUIT autem positio Avicennae quod 
+sub<lb ed="#L" break="no" n="47"/>stantiis separatis multo magis obedit
+<lb ed="#L" n="48"/>materia ad productionem alicuius 
+ef<lb ed="#L" break="no" n="49"/>fectus, quam contrariis agentibus in
+<lb ed="#L" n="50"/>materia. Unde ponit quod ad apprehensionem
+<lb ed="#L" n="51"/>praedictarum substantiarum sequitur interdum
+<lb ed="#L" n="52"/>effectus aliquis in istis inferioribus, vel pluviarum,
+<lb ed="#L" n="53"/>vel sanitatis alicuius infirmi, absque aliquo 
+cor<lb ed="#L" break="no" n="54"/>poreo agente medio.
+</p>
+            <p xml:id="v8naTA-d1e2549-d1e141">
+               <lb ed="#L" n="55"/>Cuius quidem signum ab anima nostra accepit ,
+<lb ed="#L" n="56"/>quae cum fuerit fortis in sua imaginatione, ad
+<lb ed="#L" n="57"/>solam apprehensionem immutatur corpus: sicut
+<lb ed="#L" n="58"/>cum quis ambulans super trabem in alto positam,
+<lb ed="#L" n="59"/>cadit de facili, quia imaginatur casum ex timore ;
+<lb ed="#L" n="60"/>non autem caderet si esset trabs illa posita super
+<lb ed="#L" n="61"/>terram, unde casum timere non posset. 
+Manife<lb ed="#L" break="no" n="62"/>stum est etiam quod ad solam apprehensionem
+<lb ed="#L" n="63"/>'animae calescit corpus, sicut accidit in 
+concu<lb ed="#L" break="no" n="64"/>piscentibus vel iratis; aut etiam infrigidatur, sicut
+<lb ed="#L" n="65"/>accidit in timentibus. Quandoque etiam 
+immuta<lb ed="#L" break="no" n="66"/>tur ex forti apprehensione ad aliquam 
+aegritudi<lb ed="#L" break="no" n="67"/>nem, puta febrem, vel etiam lepram. Et per hunc
+<lb ed="#L" n="68"/>modum dicit quod, si anima sit pura, non subiecta
+<lb ed="#L" n="69"/>corporalibus passionibus, et fortis in sua 
+appre<lb ed="#L" break="no" n="70"/>hensione, obedit apprehensioni eius non solum
+<lb ed="#L" n="71"/>corpus proprium, sed etiam corpora exteriora:
+<lb ed="#L" n="72"/>adeo quod ad eius apprehensionem sanetur aliquis
+<lb ed="#L" n="73"/>infirmus, vel aliquid huiusmodi aliud accidat. Et
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="74"/>hoc. ponit esse causam fascinationis: quia scilicet
+<lb ed="#L" n="75"/>anima alicuius vehementer affecta in 
+malivo<lb ed="#L" break="no" n="76"/>lentia, habet impressionem nocumenti in aliquem,
+<lb ed="#L" n="77"/>maxime puerum, qui propter corporis 
+teneritu<lb ed="#L" break="no" n="78"/>dinem est facile susceptivus impressionum. Unde
+<lb ed="#L" n="79"/>vult. quod. multo amplius ad. apprehensionem
+<lb ed="#L" n="80"/>substantiarum separatarum, quas ponit animas
+<lb ed="#L" n="81"/>vel motores orbium, sequantur aliqui effectus in
+<lb ed="#L" n="82"/>istis inferioribus absque actione alicuius 
+corpo<lb ed="#L" break="no" n="83"/>ralis agentis.
+</p>
+            <p xml:id="v8naTA-d1e2549-d1e210">
+               <lb ed="#L" n="84"/>Haec autem positio satis consona est aliis suis
+<lb ed="#L" n="85"/>positionibus . Ponit enim quod omnes formae
+<lb ed="#L" n="86"/>substantiales effluunt in haec inferiora a 
+sub<lb ed="#L" break="no" n="87"/>stantia separata; et quod corporalia agentia non
+<lb ed="#L" n="88"/>sunt nisi disponentia materiam ad suscipiendam
+<lb ed="#L" n="89"/>impressionem agentis separati. Quod quidem non
+<lb ed="#L" n="90"/>est verum secundum Aristotelis doctrinam, qui
+<lb ed="#L" n="91"/>probat in VII AMetaphys., quod formae quae
+<lb ed="#L" n="92"/>sunt in materia, non sunt a formis separatis, sed
+<lb ed="#L" n="93"/>a formis quae sunt in materia: sic enim invenitur
+<lb ed="#L" n="94"/>similitudo inter faciens et factum.
+</p>
+            <p xml:id="v8naTA-d1e2549-d1e236">
+               <lb ed="#L" n="95"/>Exemplum etiam quod sumitur de impressione
+<lb ed="#L" n="96"/>animae in corpus, non multum adiuvat eius 
+in<lb ed="#L" break="no" n="97"/>tentionem. Non enim ex apprehensione sequitur
+<lb ed="#L" n="98"/>aliqua immutatio corporis nisi apprehensioni 
+ad<lb ed="#L" break="no" n="99"/>iuncta fuerit affectio aliqua, ut gaudii vel timoris,
+<lb ed="#L" n="100"/>aut concupiscentiae, aut alterius passionis. 
+Huius<lb ed="#L" break="no" n="101"/>modi autem passiones accidunt cum aliquo de-
+<pb ed="#L" n="323"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>terminato motu cordis, ex quo consequitur ulterius 
+<lb ed="#L" n="2"/>immutatio totius corporis, vel secundum motum 
+<lb ed="#L" n="3"/>localem, vel secundum alterationem aliquam. 
+<lb ed="#L" n="4"/>Unde adhuc remanet quod apprehensio 
+substan<lb ed="#L" break="no" n="5"/>tiae spiritualis non alterat corpus nisi mediante ; 
+<lb ed="#L" n="6"/>motu locali . 
+</p>
+            <p xml:id="v8naTA-d1e2549-d1e271">
+               <lb ed="#L" n="7"/>Quod autem de fascinatione inducit, non ob 
+<lb ed="#L" n="8"/>hoc accidit quod apprehensio unius immediate 
+<lb ed="#L" n="9"/>immutet corpus alterius: sed quia, mediante motu — 
+<lb ed="#L" n="10"/>cordis, immutat corpus coniunctum; cuius 
+immu<lb ed="#L" break="no" n="11"/>tatio pervenit ad oculum, a quo infici potestali quid 
+<lb ed="#L" n="12"/>extrinsecum, praecipue si sit facile immutabile; 
+<lb ed="#L" n="13"/>sicut etiam oculus menstruatae inficit speculum. 
+</p>
+            <p xml:id="v8naTA-d1e2549-d1e289">
+               <lb ed="#L" n="14"/>Substantia igitur spiritualis creata propria 
+vir<lb ed="#L" break="no" n="15"/>tute nullam formam inducere potest in materiam :; 
+<lb ed="#L" n="16"/>corporalem, quasi materia ad hoc sibi obediente 
+<lb ed="#L" n="17"/>ut exeat in actum alicuius formae, nisi per motum 
+<lb ed="#L" n="18"/>localem alicuius corporis. Est enim hoc in virtute 
+<lb ed="#L" n="19"/>substantiae spiritualis creatae, ut corpus obediat 
+<lb ed="#L" n="20"/>sibi ad motum localem. Movendo autem localiter 
+<lb ed="#L" n="21"/>aliquod corpus, adhibet aliqua naturaliter activa 
+<lb ed="#L" n="22"/>ad effectus aliquos producendos: sicut etiam ars 
+<lb ed="#L" n="23"/>fabrilis. adhibet ignem ad mollificationem ferri. 
+<lb ed="#L" n="24"/>Hoc autem non est miraculosum, proprie 
+loquen<lb ed="#L" break="no" n="25"/>do. Unde relinquitur quod substantiae spirituales s 
+<lb ed="#L" n="26"/>creatae non faciant miracula propria virtute. 
+</p>
+            <p xml:id="v8naTA-d1e2549-d1e320">
+               <lb ed="#L" n="27"/>Dico autem propria virtute: quia nihil prohibet 
+<lb ed="#L" n="28"/>huiusmodi substantias, inquantum agunt in virtute 
+<lb ed="#L" n="29"/>divina, miracula facere. Quod etiam ex hoc 
+vi<lb ed="#L" break="no" n="30"/>detur, quod unus ordo angelorum specialiter 
+de<lb ed="#L" break="no" n="31"/>putatur, ut Gregorius dicit, ad miracula facienda.  
+<lb ed="#L" n="32"/>Qui etiam dicit quod quidam sancti miracula 
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="33"/>interdum faciunt ex potestate, non solum-ex 
+inter<lb ed="#L" break="no" n="34"/>cessione. 
+</p>
+            <p xml:id="v8naTA-d1e2549-d1e342">
+               <lb ed="#L" n="35"/>Considerandum tamen est quod, cum res 
+ali<lb ed="#L" break="no" n="36"/>quas naturales vel angeli vel daemones adhibent
+<lb ed="#L" n="37"/>ad aliquos determinatos effectus, utuntur eis quasi
+<lb ed="#L" n="38"/>instrumentis quibusdam, sicut et medicus utitur
+<lb ed="#L" n="39"/>ut instrumentis aliquibus herbis ad sanandum.
+<lb ed="#L" n="40"/>Ex instrumento autem procedit non solum suae
+<lb ed="#L" n="41"/>virtuti correspondens effectus, sed etiam ultra
+<lb ed="#L" n="42"/>propriam virtutem, inquantum agit in virtute
+<lb ed="#L" n="43"/>principalis agentis: serra enim, aut securis, non
+<lb ed="#L" n="44"/>posset facere lectum nisi inquantum. agunt ut
+<lb ed="#L" n="45"/>motae ab arte ad talem effectum; nec calor 
+natu<lb ed="#L" break="no" n="46"/>ralis posset carnem generare nisi virtute animae
+<lb ed="#L" n="47"/>vegetabilis, quae utitur ipso quasi quodam 
+instru<lb ed="#L" break="no" n="48"/>mento. Conveniens est igitur quod ex ipsis rebus
+<lb ed="#L" n="49"/>naturalibus proveniant aliqui altiores effectus ex
+<lb ed="#L" n="50"/>hoc quod spirituales substantiae eis utuntur quasi
+<lb ed="#L" n="51"/>instrumentis quibusdam.
+</p>
+            <p xml:id="v8naTA-d1e2549-d1e382">
+               <lb ed="#L" n="52"/>Sic ergo, licet tales effectus simpliciter miracula
+<lb ed="#L" n="53"/>dici non possint, quia ex naturalibus causis 
+pro<lb ed="#L" break="no" n="54"/>veniunt, mirabiles tamen nobis redduntur 
+dupli<lb ed="#L" break="no" n="55"/>citer. Uno modo, ex hoc quod per spirituales
+<lb ed="#L" n="56"/>substantias tales causae modo nobis inconsueto
+<lb ed="#L" n="57"/>ad effectus proprios apponuntur: unde et 
+inge<lb ed="#L" break="no" n="58"/>niosorum artificum opera mira redduntur cum
+<lb ed="#L" n="59"/>ab aliis non percipitur qualiter operantur. — Alio
+<lb ed="#L" n="60"/>modo, ex hoc quod causae naturales appositae
+<lb ed="#L" n="61"/>ad effectus aliquos producendos, aliquid virtutis
+<lb ed="#L" n="62"/>sortiuntur ex hoc quod sunt instrumenta 
+spiri<lb ed="#L" break="no" n="63"/>tualium substantiarum. Et hoc magis accedit ad
+<lb ed="#L" n="64"/>rationem miraculi.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

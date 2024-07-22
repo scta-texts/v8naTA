@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 83</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 83</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="247"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2386"><!-- v8naTA-l3c83 -->
+            <head xml:id="v8naTA-d1e2386-Hd1e101">Capitulum 83</head>
+            <head xml:id="v8naTA-d1e2386-Hd1e103" type="question-title">Epilogus praedictorum.</head>
+            <p xml:id="v8naTA-d1e2386-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="109" type="fixed=247"/>CAPITULUM OCTOGESIMUM TERTIUM
+<lb ed="#L" n="110"/>EPILOGUS PRAEDICTORUM.
+</p>
+            <p xml:id="v8naTA-d1e2386-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="111"/>Ex omnibus autem quae ostensa sunt
+<lb ed="#L" n="112"/>colligere possumus quod, quantum ad
+<lb ed="#L" n="113"/>ordinis excogitationem rebus 
+impo<lb ed="#L" break="no" n="114"/>nendum, Deus omnia per seipsum
+<lb ed="#L" n="115"/>disponit . Unde super illud Iob xxxur, <quote xml:id="v8naTA-d1e2386-Qd1e130">Quem
+<lb ed="#L" n="116"/>posuit alium super orbem quem fabricatus est?</quote>
+               <cb ed="#L" n="e"/>
+               <lb ed="#L" n="117"/>dicit Gregorius : Mundum quippe per seipsum
+<lb ed="#L" n="118"/>regit qui per seipsum condidit. Et <ref xml:id="v8naTA-d1e2386-Rd1e141">Boetius, in III
+<lb ed="#L" n="119"/>de Consol.</ref>: <quote xml:id="v8naTA-d1e2386-Qd1e147">Deus per se solum cuncta disponit.</quote>
+            </p>
+            <p xml:id="v8naTA-d1e2386-d1e150">
+               <lb ed="#L" n="120"/>Sed quantum ad executionem, inferiora per 
+su<lb ed="#L" break="no" n="121"/>periora dispensat. Corporalia quidem per 
+spiri<lb ed="#L" break="no" n="122"/>tualia. Unde Gregorius dicit, in IV Dialog.: In
+<pb ed="#L" n="248"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>hoc mundo visibili nihil nisi per invisibilem 
+crea<lb ed="#L" break="no" n="2"/>turam disponi potesl. — Inferiores vero spiritus per
+<lb ed="#L" n="3"/>superiores . Unde dicit Dionysius, rv cap. Cael.
+<lb ed="#L" n="4"/>Hier., quod caelestes essentiae intellectuales primo
+<lb ed="#L" n="5"/>in seipsas divinam edunt illuminationem, et. in .nos
+<lb ed="#L" n="6"/>deferunt quae supra nos sunt manifestationes. — 
+In<lb ed="#L" break="no" n="7"/>feriora etiam corpora per superiora . Unde dicit
+<lb ed="#L" n="8"/>Dionysius, iv cap. de Div. Nom. , quod sol 
+gene<lb ed="#L" break="no" n="9"/>rationem visibilium corporum confert, et ad vitam
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="10"/>ipsam movet, et nutrit el auget el perficit, el mundat
+<lb ed="#L" n="11"/>et renovat.
+</p>
+            <p xml:id="v8naTA-d1e2386-d1e190">
+               <lb ed="#L" n="12"/>De his autem omnibus simul dicit Augustinus,
+<lb ed="#L" n="13"/>in III de Trin.: Quemadmodum corpora crassiora
+<lb ed="#L" n="14"/>et inferiora per subliliora et polentiora quodam
+<lb ed="#L" n="15"/>ordine reguntur, ila omnia corpora per spiritum
+<lb ed="#L" n="16"/>vitae rationalem; et spiritus rationalis peccator per
+<lb ed="#L" n="17"/>spiritum rationalem iustum.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

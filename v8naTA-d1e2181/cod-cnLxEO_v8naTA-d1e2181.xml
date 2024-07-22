@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 58</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 58</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="162"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2181"><!-- v8naTA-l3c58 -->
+            <head xml:id="v8naTA-d1e2181-Hd1e101">Capitulum 58</head>
+            <head xml:id="v8naTA-d1e2181-Hd1e103" type="question-title">Quod unus alio perfectius deum videre potest.</head>
+            <p xml:id="v8naTA-d1e2181-d1e106">
+               <pb ed="#L" n="162"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=162"/>CAPITULUM QUINQUAGESIMUM OCTAVUM
+<lb ed="#L" n="2"/>QUOD UNUS ALIO PERFECTIUS DEUM VIDERE POTEST.
+</p>
+            <p xml:id="v8naTA-d1e2181-d1e117">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="3"/>QUIA
+<lb ed="#L" n="4"/>formam quae est operationis 
+princi<lb ed="#L" break="no" n="5"/>pium; visionis autem qua intellectus
+<lb ed="#L" n="6"/>creatus divinam substantiam videt,
+<lb ed="#L" n="7"/>principium quoddam est lumen praedictum, ut
+<lb ed="#L" n="8"/>ex dictis patet: necesse est quod secundum
+<lb ed="#L" n="9"/>modum huius luminis sit modus divinae visionis.
+<lb ed="#L" n="10"/>Possibile est autem huius luminis diversos esse
+<lb ed="#L" n="11"/>participationis gradus, ita quod unus eo 
+per<lb ed="#L" break="no" n="12"/>fectius illustretur quam alius. Possibile igitur est
+<lb ed="#L" n="13"/>quod unus Deum videntium eum perfectius alio :
+<lb ed="#L" n="14"/>videat, quamvis uterque videat eius substantiam.
+</p>
+            <p xml:id="v8naTA-d1e2181-d1e148">
+               <lb ed="#L" n="15"/>Adhuc: In quocumque genere est aliquod 
+sum<lb ed="#L" break="no" n="16"/>mum, quod excedit alia, est etiam invenire magis
+<lb ed="#L" n="17"/>et minus, secundum maiorem propinquitatem vel
+<lb ed="#L" n="18"/>distantiam ab ipso: sicut aliqua sunt magis et
+<lb ed="#L" n="19"/>minus calida secundum quod magis vel minus
+<lb ed="#L" n="20"/>appropinquant ad ignem, qui est summe calidus.
+<lb ed="#L" n="21"/>Deus autem suam substantiam perfectissime 
+vi<lb ed="#L" break="no" n="22"/>det, utpote qui solus eam comprehendit, ut supra 
+<lb ed="#L" n="23"/>ostensum est. Igitur et eum videntium unus alio
+<lb ed="#L" n="24"/>magis vel minus substantiam eius videt, 
+secun<lb ed="#L" break="no" n="25"/>dum quod magis vel minus ei appropinquat.
+</p>
+            <p xml:id="v8naTA-d1e2181-d1e175">
+               <lb ed="#L" n="26"/>Amplius. Lumen gloriae ex hoc ad divinam
+<lb ed="#L" n="27"/>visionem elevat, quod est quaedam. similitudo
+<lb ed="#L" n="28"/>intellectus divini, sicut iam  dictum est. 
+Con<lb ed="#L" break="no" n="29"/>tingit autem aliquid magis vel minus assimilari
+<lb ed="#L" n="30"/>Deo. Possibile est igitur aliquem perfectius vel
+<lb ed="#L" n="31"/>minus. perfecte divinam substantiam videre.
+</p>
+            <p xml:id="v8naTA-d1e2181-d1e191">
+               <lb ed="#L" n="32"/>Item. Cum finis proportionaliter : respondeat
+<lb ed="#L" n="33"/>his quae sunt ad finem, oportet quod sicut
+<lb ed="#L" n="34"/>aliqua diversimode praeparantur ad finem, ita
+<lb ed="#L" n="35"/>diversimode participent finem. Visio autem 
+di<lb ed="#L" break="no" n="36"/>vinae substantiae est ultimus finis cuiuslibet in-
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="37"/>tellectualis substantiae, ut ex dictis  patet. 
+Intel<lb ed="#L" break="no" n="38"/>lectuales autem substantiae non omnes aequaliter
+<lb ed="#L" n="39"/>praeparantur ad finem: quaedam enim sunt
+<lb ed="#L" n="40"/>maioris virtutis, et quaedam minoris; virtus autem
+<lb ed="#L" n="41"/>est via ad felicitatem. Oportet igitur quod in
+<lb ed="#L" n="42"/>visione divina sit diversitas, quod quidam 
+per<lb ed="#L" break="no" n="43"/>fectius, quidam minus perfecte divinam 
+substan<lb ed="#L" break="no" n="44"/>tiam videant.
+</p>
+            <p xml:id="v8naTA-d1e2181-d1e224">
+               <lb ed="#L" n="45"/>Hinc est quod, ad hanc felicitatis differentiam
+<lb ed="#L" n="46"/>designandam, Dominus dicit, Io. XIV: <quote xml:id="v8naTA-d1e2181-Qd1e230">In domo
+<lb ed="#L" n="47"/>Patris mei mansiones multae sunt</quote>.
+</p>
+            <p xml:id="v8naTA-d1e2181-d1e236">
+               <lb ed="#L" n="48"/>Per hoc autem excluditur error quorundam
+<lb ed="#L" n="49"/>qui dicunt omnia praemia esse aequalia.
+<lb ed="#L" n="50"/>Sicut autem ex modo visionis apparet 
+di<lb ed="#L" break="no" n="51"/>versus gradus gloriae in Beatis, ita ex eo quod
+<lb ed="#L" n="52"/>videtur apparet gloria eadem: nam cuiuslibet
+<lb ed="#L" n="53"/>felicitas ex hoc est quod Dei substantiam videt,
+<lb ed="#L" n="54"/>ut probatum est. Idem ergo est quod omnes
+<lb ed="#L" n="55"/>Beatos facit: non tamen ab eo omnes aequaliter
+<lb ed="#L" n="56"/>beatitudinem. capiunt.
+</p>
+            <p xml:id="v8naTA-d1e2181-d1e258">
+               <lb ed="#L" n="57"/>Unde praedictis non. obviat quod Dominus,
+<lb ed="#L" n="58"/>Matth. xx, omnibus laborantibus in vinea, licet
+<lb ed="#L" n="59"/>non aequaliter laboraverint, idem tamen 
+prae<lb ed="#L" break="no" n="60"/>mium. redditum docet, scilicet denarium: quia
+<lb ed="#L" n="61"/>idem est quod omnibus datur in praemium ad
+<lb ed="#L" n="62"/>videndum et fruendum, scilicet Deus.
+</p>
+            <p xml:id="v8naTA-d1e2181-d1e274">
+               <lb ed="#L" n="63"/>In quo etiam considerandum est quod 
+quodam<lb ed="#L" break="no" n="64"/>modo contrarius est ordo corporalium et 
+spiri<lb ed="#L" break="no" n="65"/>tualum motuum. Omnium enim corporalium
+<lb ed="#L" n="66"/>motuum est idem numero primum subiectum,
+<lb ed="#L" n="67"/>fines vero diversi. Spiritualium vero motuum,
+<lb ed="#L" n="68"/>scilicet intellectualium apprehensionum et 
+volun<lb ed="#L" break="no" n="69"/>tatum, sunt quidem diversa subiecta prima, finis
+<lb ed="#L" n="70"/>vero numero idem.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

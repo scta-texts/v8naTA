@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 13</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 13</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="35"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1814"><!-- v8naTA-l3c13 -->
+            <head xml:id="v8naTA-d1e1814-Hd1e101">Capitulum 13</head>
+            <head xml:id="v8naTA-d1e1814-Hd1e103" type="question-title">Quod malum habet aliquo modo causam.</head>
+            <p xml:id="v8naTA-d1e1814-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="105" type="fixed=35"/>CAPITULUM DECIMUM TERTIUM
+<lb ed="#L" n="106"/>QUOD MALUM HABET ALIQUO MODO CAUSAM.
+</p>
+            <p xml:id="v8naTA-d1e1814-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="107"/>Ex praedictis autem ostendi potest quod,
+<lb ed="#L" n="108"/>etsi malum non habeat causam per se,
+<lb ed="#L" n="109"/>cuiuslibet tamen mali oportet esse 
+cau<lb ed="#L" break="no" n="110"/>sam per accidens.
+</p>
+            <p xml:id="v8naTA-d1e1814-d1e128">
+               <lb ed="#L" n="111"/>Quicquid enim est in aliquo ut in subiecto,
+<lb ed="#L" n="112"/>oportet quod habeat aliquam causam: causatur
+<lb ed="#L" n="113"/>enim vel ex subiecti principiis, vel ex aliqua 
+ex<lb ed="#L" break="no" n="114"/>trinseca causa. Malum autem est in bono sicut
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="115"/>in subiecto, ut ostensum est. Oportet igitur quod
+<lb ed="#L" n="116"/>malum habeat causam.
+</p>
+            <p xml:id="v8naTA-d1e1814-d1e147">
+               <lb ed="#L" n="117"/>Item. Quod est in potentia ad utrumque 
+op<lb ed="#L" break="no" n="118"/>positorum, non constituitur in actu alicuius eorum
+<lb ed="#L" n="119"/>nisi per aliquam causam: nulla enim potentia facit
+<lb ed="#L" n="120"/>se esse in actu. Malum autem est privatio eius
+<lb ed="#L" n="121"/>quod quis natus est et debet habere : ex hoc
+<lb ed="#L" n="122"/>enim unumquodque dicitur malum esse. Est igitur
+<pb ed="#L" n="36"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>malum in subiecto quod est in potentia ad ipsum
+<lb ed="#L" n="2"/>et ad suum oppositum. Oportet igitur quod 
+ma<lb ed="#L" break="no" n="3"/>lum habeat aliquam causam.
+</p>
+            <p xml:id="v8naTA-d1e1814-d1e173">
+               <lb ed="#L" n="4"/>Adhuc. Quicquid inest alicui praeter suam 
+na<lb ed="#L" break="no" n="5"/>turam, advenit ei ex aliqua alia causa: omnia ;
+<lb ed="#L" n="6"/>enim in his quae sunt sibi naturalia permanent
+<lb ed="#L" n="7"/>nisi aliquid aliud impediat; unde lapis non fertur
+<lb ed="#L" n="8"/>sursum nisi ab aliquo proiiciente, nec aqua 
+ca<lb ed="#L" break="no" n="9"/>lefit nisi ab aliquo calefaciente. Malum autem
+<lb ed="#L" n="10"/>semper inest praeter naturam eius cui inest: cum :e
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="11"/>sit privatio eius quod natum est aliquid et debet
+<lb ed="#L" n="12"/>habere. Igitur oportet quod malum semper habeat
+<lb ed="#L" n="13"/>aliquam causam, vel per se vel per accidens.
+</p>
+            <p xml:id="v8naTA-d1e1814-d1e199">
+               <lb ed="#L" n="14"/>Amplius. Omne malum consequitur ad aliquod
+<lb ed="#L" n="15"/>bonum: sicut corruptio sequitur ad aliquam 
+ge<lb ed="#L" break="no" n="16"/>nerationem. Sed omne bonum habet aliquam
+<lb ed="#L" n="17"/>causam, praeter primum bonum, in quo non est
+<lb ed="#L" n="18"/>aliquod malum, ut in primo libro  ostensum est.
+<lb ed="#L" n="19"/>Omne igitur malum habet aliquam causam, ad
+<lb ed="#L" n="20"/>quam sequitur per accidens.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

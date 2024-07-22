@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 143</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 143</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="427"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2876"><!-- v8naTA-l3c143 -->
+            <head xml:id="v8naTA-d1e2876-Hd1e101">Capitulum 143</head>
+            <head xml:id="v8naTA-d1e2876-Hd1e103" type="question-title">De poena quae debetur peccato mortali et veniali
+per respectum ad ultimum finem. ,</head>
+            <p xml:id="v8naTA-d1e2876-d1e106">
+               <cb ed="#L" n="f"/>
+               <lb ed="#L" n="56" type="fixed=427"/>CAPITULUM CENTESIMUM QUADRAGESIMUM TERTIUM
+<lb ed="#L" n="57"/>DE POENA QUAE DEBETUR PECCATO MORTALI ET VENIALI
+<lb ed="#L" n="58"/>PER RESPECTUM AD ULTIMUM FINEM. ,
+</p>
+            <p xml:id="v8naTA-d1e2876-d1e117">
+               <cb ed="#L" n="g"/>
+               <lb ed="#L" n="59"/>EST autem ex praedictis  manifestum
+<lb ed="#L" n="60"/>quod dupliciter contingit peccare. Uno
+<lb ed="#L" n="61"/>modo, sic quod totaliter intentio mentis
+<lb ed="#L" n="62"/>abrumpatur ab ordine ad Deum, qui
+<lb ed="#L" n="63"/>dicitur ultimus finis bonorum: et hoc est peccatum
+<lb ed="#L" n="64"/>mortale. Alio modo, sic quod, manente ordine 
+hu<lb ed="#L" break="no" n="65"/>manae mentis ad ultimum finem, impedimentum
+<lb ed="#L" n="66"/>aliquod afferatur quo retardatur ne libere tendat
+<lb ed="#L" n="67"/>in finem: et hoc dicitur peccatum veniale. Si ergo
+<lb ed="#L" n="68"/>secundum differentiam peccatorum oportet esse
+<lb ed="#L" n="69"/>differentiam poenarum , consequens est quod
+<lb ed="#L" n="70"/>ille qui mortaliter peccat, sit puniendus sic quod
+<lb ed="#L" n="71"/>excidat ab hominis fine: qui autem peccat 
+ve<lb ed="#L" break="no" n="72"/>nialiÀter, non ita quod excidat, sed ita quod 
+re<lb ed="#L" break="no" n="73"/>tardetur, aut difficultatem patiatur, in adipiscendo
+<lb ed="#L" n="74"/>finem. Sic enim iustitiae servatur aequalitas: ut
+<lb ed="#L" n="75"/>quo modo homo peccando voluntarie a fine di-
+<cb ed="#L" n="h"/>
+               <lb ed="#L" n="76"/>vertit, ita poenaliter, contra suam voluntatem, in
+<lb ed="#L" n="77"/>finis adeptione impediatur.
+</p>
+            <p xml:id="v8naTA-d1e2876-d1e165">
+               <lb ed="#L" n="78"/>Adhuc. Sicut est voluntas in hominibus, ita
+<lb ed="#L" n="79"/>est inclinatio naturalis in rebus naturalibus. Si
+<lb ed="#L" n="80"/>autem ab aliqua re naturali tollatur inclinatio
+<lb ed="#L" n="81"/>eius ad finem, omnino finem illum consequi non
+<lb ed="#L" n="82"/>potest: sicut corpus grave, cum gravitatem 
+ami<lb ed="#L" break="no" n="83"/>serit per corruptionem et factum fuerit leve, non
+<lb ed="#L" n="84"/>perveniet ad medium. Si autem fuerit in suo
+<lb ed="#L" n="85"/>o motu impeditum, inclinatione ad finem manente,
+<lb ed="#L" n="86"/>remoto prohibente, perveniet ad finem. In eo
+<lb ed="#L" n="87"/>autem qui peccat mortaliter, omnino avertitur
+<lb ed="#L" n="88"/>intentio voluntatis a fine ultimo: in illo autem
+<lb ed="#L" n="89"/>qui venialiter peccat, manet intentio conversa ad
+<lb ed="#L" n="90"/>finem, sed aliqualiter impeditur, ex hoc quod plus
+<lb ed="#L" n="91"/>debito inhaeret his quae sunt ad finem. Igitur
+<lb ed="#L" n="92"/>ei qui peccat mortaliter, haec poena debetur, ut
+<pb ed="#L" n="428"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>omnino excludatur a consecutione finis: ei autem
+<lb ed="#L" n="2"/>qui peccat venialiter, quod. difficultatem aliquam
+<lb ed="#L" n="3"/>patiatur antequam ad finem perveniat.
+</p>
+            <p xml:id="v8naTA-d1e2876-d1e212">
+               <lb ed="#L" n="4"/>Amplius. Cum aliquis consequitur aliquod 
+bo<lb ed="#L" break="no" n="5"/>num quod non intendebat, est a fortuna et casu .
+<lb ed="#L" n="6"/>Si igitur ille cuius intentio est aversa a fine ultimo,
+<lb ed="#L" n="7"/>finem ultimum assequatur, erit hoc a fortuna et
+<lb ed="#L" n="8"/>casu. Hoc autem est inconveniens. Quia ultimus
+<lb ed="#L" n="9"/>finis est bonum intellectus. Fortuna autem 
+intel<lb ed="#L" break="no" n="10"/>lectui repugnat: quia fortuita absque ordinatione
+<lb ed="#L" n="11"/>intellectus. proveniunt. Inconveniens autem est
+<lb ed="#L" n="12"/>quod intellectus suum finem consequatur non
+<lb ed="#L" n="13"/>per viam intelligibilem. Non ergo consequetur
+<lb ed="#L" n="14"/>finem ultimum qui, peccans mortaliter, habet 
+in<lb ed="#L" break="no" n="15"/>tentionem aversam ab ultimo fine.
+</p>
+            <p xml:id="v8naTA-d1e2876-d1e241">
+               <lb ed="#L" n="16"/>Item. Materia non consequitur formam ab
+<lb ed="#L" n="17"/>agente nisi fuerit ad formam disposita. Finis 
+au<lb ed="#L" break="no" n="18"/>tem et bonum est perfectio voluntatis sicut forma
+<lb ed="#L" n="19"/>materiae. Voluntas igitur non consequetur ulti-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="20"/>mum finem nisi fuerit disposita convenienter.
+<lb ed="#L" n="21"/>Disponitur autem ad finem voluntas per 
+inten<lb ed="#L" break="no" n="22"/>tionem et desiderium finis. Non igitur 
+conse<lb ed="#L" break="no" n="23"/>quetur finem cuius intentio a fine avertitur.
+</p>
+            <p xml:id="v8naTA-d1e2876-d1e263">
+               <lb ed="#L" n="24"/>Praeterea. In his quae sunt ordinata ad finem,
+<lb ed="#L" n="25"/>talis habitudo invenitur quod, si finis est vel erit,
+<lb ed="#L" n="26"/>necesse est ea quae sunt ad finem fore; si autem
+<lb ed="#L" n="27"/>ea quae sunt ad finem non sunt, nec finis erit:
+<lb ed="#L" n="28"/>si enim finis esse potest etiam non existentibus
+<lb ed="#L" n="29"/>illis quae sunt ad finem, frustra per huiusmodi
+<lb ed="#L" n="30"/>media quaeritur finis. Confessum est autem apud
+<lb ed="#L" n="31"/>omnes quod homo per opera virtutum, in 
+qui<lb ed="#L" break="no" n="32"/>bus praecipuum est intentio finis debiti, 
+conse<lb ed="#L" break="no" n="33"/>quitur ultimum finem suum, qui est felicitas . Si
+<lb ed="#L" n="34"/>ergo aliquis contra virtutem agat, ab intentione
+<lb ed="#L" n="35"/>ultimi finis aversus, conveniens est quod ultimo
+<lb ed="#L" n="36"/>fine privetur.
+</p>
+            <p xml:id="v8naTA-d1e2876-d1e294">
+               <lb ed="#L" n="37"/>Hinc est quod dicitur Matth. VII: <quote xml:id="v8naTA-d1e2876-Qd1e298">Discedite
+<lb ed="#L" n="38"/>a me, omnes qui operamini iniquilatem.</quote>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

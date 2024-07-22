@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 159</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 159</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="466"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e3006"><!-- v8naTA-l3c159 -->
+            <head xml:id="v8naTA-d1e3006-Hd1e101">Capitulum 159</head>
+            <head xml:id="v8naTA-d1e3006-Hd1e103" type="question-title">Quod rationabiliter homini imputatur si ad deum
+non convertatur, quamvis hoc sine gratia non possit.</head>
+            <p xml:id="v8naTA-d1e3006-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="13" type="fixed=465"/>CAPITULUM CENTESIMUM QUINQUAGESIMUM NONUM
+<lb ed="#L" n="14"/>QUOD RATIONABILITER HOMINI IMPUTATUR SI AD DEUM
+<lb ed="#L" n="15"/>NON CONVERTATUR, QUAMVIS HOC SINE GRATIA NON POSSIT.
+</p>
+            <p xml:id="v8naTA-d1e3006-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="16"/>CUM autem, sicut ex praemissis  habetur,
+<lb ed="#L" n="17"/>in finem ultimum aliquis dirigi non
+<lb ed="#L" n="18"/>possit nisi auxilio divinae gratiae ; sine
+<lb ed="#L" n="19"/>qua etiam nullus potest habere ea quae
+<lb ed="#L" n="20"/>sunt necessaria ad tendendum in ultimum finem,
+<lb ed="#L" n="21"/>Sicut est fides, spes, dilectio, et perseverantia:
+<lb ed="#L" n="22"/>potest alicui videri quod non sit homini 
+impu<lb ed="#L" break="no" n="23"/>tandum si praedictis careat; praecipue cum 
+auxi<lb ed="#L" break="no" n="24"/>lium divinae gratiae mereri non possit, nec ad
+<lb ed="#L" n="25"/>Deum converti nisi Deus eum convertat; nulli
+<lb ed="#L" n="26"/>enim imputatur quod ab alio dependet. Quod
+<lb ed="#L" n="27"/>si hoc concedatur, plura inconvenientia consequi
+<lb ed="#L" n="28"/>manifestum est. Sequetur enim quod ille qui
+<lb ed="#L" n="29"/>fidem non habet, nec spem, nec dilectionem
+<lb ed="#L" n="30"/>Dei, nec perseverantiam in bono, non sit poena
+<lb ed="#L" n="31"/>dignus: cum expresse dicatur, Joann. m??: Qui
+<lb ed="#L" n="32"/>incredulus est Filio, non videbit vitam, sed ira
+<lb ed="#L" n="33"/>Dei manet super eum. — Et cum nullus ad 
+beatitu<lb ed="#L" break="no" n="34"/>dinis finem sine praemissis perveniat, sequetur
+<lb ed="#L" n="35"/>ulterius quod aliqui homines sint qui nec 
+beati<lb ed="#L" break="no" n="36"/>tudinem consequantur, nec poenam patiantur a
+<lb ed="#L" n="37"/>Deo. Cuius contrarium ostenditur ex eo quod
+<lb ed="#L" n="38"/>dicitur Matth. xxv?, quod omnibus in divino
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="39"/>iudicio existentibus dicetur, Venite, possidete 
+pa<lb ed="#L" break="no" n="40"/>ralum vobis regnum; vel, Discedite in ignem
+<lb ed="#L" n="41"/>aeternum.
+</p>
+            <p xml:id="v8naTA-d1e3006-d1e180">
+               <lb ed="#L" n="42"/>Ad huius dubitationis solutionem, 
+consideran<lb ed="#L" break="no" n="43"/>dum est quod, licet aliquis per motum liberi
+<lb ed="#L" n="44"/>arbitrii divinam gratiam nec promereri nec 
+advo<lb ed="#L" break="no" n="45"/>cari possit, potest tamen seipsum impedire ne eam
+<lb ed="#L" n="46"/>recipiat: dicitur enim de quibusdam, 7o5 xxi',
+<lb ed="#L" n="47"/>Dixerunt Deo, Recede a nobis: scientiam viarum
+<lb ed="#L" n="48"/>tuarum nolumus; et Iob xxiv ?, Ipsi fuerunt rebelles
+<lb ed="#L" n="49"/>lumini. Et cum hoc sit in potestate liberi arbitrii,
+<lb ed="#L" n="50"/>impedire divinae gratiae receptionem vel non 
+im<lb ed="#L" break="no" n="51"/>pedire, non immerito in culpam imputatur ei qui
+<lb ed="#L" n="52"/>impedimentum praestat gratiae receptioni. Deus
+<lb ed="#L" n="53"/>enim, quantum in se est, paratus est omnibus
+<lb ed="#L" n="54"/>gratiam dare, vult enim omnes homines salvos
+<lb ed="#L" n="55"/>fieri, et ad cognitionem veritatis venire, ut dicitur
+<lb ed="#L" n="56"/>I ad Tim. II: sed illi soli gratia privantur qui in
+<lb ed="#L" n="57"/>seipsis gratiae impedimentum praestant; sicut,
+<lb ed="#L" n="58"/>sole mundum illuminante, in culpam imputatur
+<lb ed="#L" n="59"/>ei qui oculos claudit, si ex hoc aliquod malum
+<lb ed="#L" n="60"/>sequatur, licet videre non possit nisi lumine solis
+<lb ed="#L" n="61"/>praeveniatur.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 134</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 134</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="404"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2802"><!-- v8naTA-l3c134 -->
+            <head xml:id="v8naTA-d1e2802-Hd1e101">Capitulum 134</head>
+            <head xml:id="v8naTA-d1e2802-Hd1e103" type="question-title">Solutio rationum supra inductarum contra paupertatem.</head>
+            <p xml:id="v8naTA-d1e2802-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="104" type="fixed=404"/>CAPITULUM CENTESIMUM TRIGESIMUM QUARTUM
+<lb ed="#L" n="105"/>SOLUTIO RATIONUM SUPRA INDUCTARUM CONTRA PAUPERTATEM.
+</p>
+            <p xml:id="v8naTA-d1e2802-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="106"/>HIS autem visis, rationes praemissas
+<lb ed="#L" n="107"/>quibus paupertas impugnatur, 
+dissol<lb ed="#L" break="no" n="108"/>vere non difficile est. Quamvis enim
+<lb ed="#L" n="109"/>homini naturaliter insit appetitus 
+con<lb ed="#L" break="no" n="110"/>gregandi ea quae sunt necessaria ad vitam, ut 
+<lb ed="#L" n="111"/>prima ratio proponebat, non tamen hoc miodo
+<lb ed="#L" n="112"/>quod oporteat quemlibet circa hoc opus occupari.
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="113"/>Nec enim in apibus omnes eidem vacant officio :
+<lb ed="#L" n="114"/>sed quaedam colligunt mel, quaedam ex cera
+<lb ed="#L" n="115"/>domos constituunt, reges etiam circa haec opera
+<lb ed="#L" n="116"/>non occupantur. Et similiter necesse est in 
+homi<lb ed="#L" break="no" n="117"/>nibus esse. Quia enim multa necessaria sunt ad
+<lb ed="#L" n="118"/>hominis vitam, ad quae unus homo per se 
+suf<lb ed="#L" break="no" n="119"/>ficere non posset, necessarium est per diversos
+<pb ed="#L" n="405"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>diversa fieri: puta, ut quidam sint agricultores,
+<lb ed="#L" n="2"/>quidam. animalium custodes, quidam 
+aedifica<lb ed="#L" break="no" n="3"/>tores, et sic de aliis. Et quia vita hominum non
+<lb ed="#L" n="4"/>solum indiget corporalibus, sed magis 
+spiritua<lb ed="#L" break="no" n="5"/>libus, necessarium est etiam ut quidam vacent
+<lb ed="#L" n="6"/>spiritualibus rebus, ad meliorationem aliorum:
+<lb ed="#L" n="7"/>quos oportet a cura temporalium absolutos esse.
+<lb ed="#L" n="8"/>Haec autem distributio diversorum officiorum in
+<lb ed="#L" n="9"/>diversas personas fit divina providentia, secundum
+<lb ed="#L" n="10"/>quod quidam inclinantur magis ad hoc officium
+<lb ed="#L" n="11"/>quam ad alia.
+</p>
+            <p xml:id="v8naTA-d1e2802-d1e180">
+               <lb ed="#L" n="12"/>Sic ergo patet quod qui temporalia relinquunt,
+<lb ed="#L" n="13"/>non sibi subtrahunt sustentationem vitae: ut 
+se<lb ed="#L" break="no" n="14"/>cunda ratio procedebat. Remanet enim eis spes
+<lb ed="#L" n="15"/>probabilis suae vitae sustentandae, vel ex labore:
+<lb ed="#L" n="16"/>proprio, vel ex aliorum beneficiis, sive accipiant
+<lb ed="#L" n="17"/>ea in possessionibus communibus, sive in victu
+<lb ed="#L" n="18"/>quotidiano. Sicut enim quod per amicos possumus,
+<lb ed="#L" n="19"/>per nos aliqualiter possumus, ut Philosophus dicit ,
+<lb ed="#L" n="20"/>ita et quod ab amicis habetur, a nobis aliqualiter
+<lb ed="#L" n="21"/>habetur.
+</p>
+            <p xml:id="v8naTA-d1e2802-d1e205">
+               <lb ed="#L" n="22"/>Oportet autem inter homines ad invicem esse
+<lb ed="#L" n="23"/>amicitiam secundum quod sibi invicem 
+subser<lb ed="#L" break="no" n="24"/>viunt, vel in spiritualibus vel terrenis officiis.
+<lb ed="#L" n="25"/>Est autem maius subvenire alteri in spiritualibus
+<lb ed="#L" n="26"/>quam in temporalibus: quanto spiritualia sunt
+<lb ed="#L" n="27"/>temporalibus potiora, et magis necessaria ad finem
+<lb ed="#L" n="28"/>beatitudinis consequendum. Unde qui subtrahit
+<lb ed="#L" n="29"/>sibi facultatem subveniendi aliis in temporalibus
+<lb ed="#L" n="30"/>per voluntariam paupertatem ut acquirat 
+spiri<lb ed="#L" break="no" n="31"/>tualia; per quae utilius potest aliis subvenire,
+<lb ed="#L" n="32"/>non facit contra bonum societatis humanae: ut
+<lb ed="#L" n="33"/>tertia ratio concludebat.
+</p>
+            <p xml:id="v8naTA-d1e2802-d1e234">
+               <lb ed="#L" n="34"/>Patet autem ex praedictis quod divitiae 
+quod<lb ed="#L" break="no" n="35"/>dam bonum hominis sunt secundum quod 
+ordi<lb ed="#L" break="no" n="36"/>nantur ad bonum rationis, non autem secundum
+<lb ed="#L" n="37"/>se. Unde nihil prohibet paupertatem melius esse,
+<lb ed="#L" n="38"/>si per hoc ad perfectius bonum aliquis ordinetur.
+<lb ed="#L" n="39"/>Et sic solvitur ratio quarta.
+</p>
+            <p xml:id="v8naTA-d1e2802-d1e250">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="40"/>Et quia neque divitiae, neque paupertas, neque
+<lb ed="#L" n="41"/>aliquid exteriorum est secundum se hominis 
+bo<lb ed="#L" break="no" n="42"/>num, sed solum secundum quod ordinantur ad
+<lb ed="#L" n="43"/>bonum rationis; nihil prohibet ex quolibet eorum
+<lb ed="#L" n="44"/>aliquod vitium oriri, quando non veniunt in usum
+<lb ed="#L" n="45"/>hominis secundum regulam rationis. Nec tamen
+<lb ed="#L" n="46"/>propter hoc sunt simpliciter mala iudicanda, sed
+<lb ed="#L" n="47"/>malus usus eorum. Et sic neque paupertas est
+<lb ed="#L" n="48"/>abiicienda propter aliqua vitia quae 
+occasiona<lb ed="#L" break="no" n="49"/>liter ex ea quandoque procedunt: ut quinta ratio
+<lb ed="#L" n="50"/>ostendere nitebatur.
+</p>
+            <p xml:id="v8naTA-d1e2802-d1e279">
+               <lb ed="#L" n="51"/>Hinc etiam considerandum est quod medium
+<lb ed="#L" n="52"/>virtutis non accipitur secundum quantitatem 
+exte<lb ed="#L" break="no" n="53"/>rioum quae in usum veniunt, sed secundum
+<lb ed="#L" n="54"/>regulam rationis. Unde quandoque contingit quod
+<lb ed="#L" n="55"/>illud quod est extremum secundum quantitatem
+<lb ed="#L" n="56"/>rei exterioris, secundum regulam rationis est 
+me<lb ed="#L" break="no" n="57"/>dium. Neque enim est aliquis qui ad maiora tendat
+<lb ed="#L" n="58"/>quam. magnanimus, vel qui in sumptibus 
+magni<lb ed="#L" break="no" n="59"/>ficum magnitudine superet. Medium ergo tenent
+<lb ed="#L" n="60"/>non quantitate sumptus, aut alicuius huiusmodi,
+<lb ed="#L" n="61"/>sed inquantum non transcendunt regulam 
+ra<lb ed="#L" break="no" n="62"/>tionis, nec ab ea deficiunt. Quae quidem regula
+<lb ed="#L" n="63"/>non solum metitur quantitatem rei quae in usum
+<lb ed="#L" n="64"/>venit, sed conditionem personae, et intentionem
+<lb ed="#L" n="65"/>eius, opportunitatem loci et temporis, et alia
+<lb ed="#L" n="66"/>huiusmodi quae in actibus virtutum requiruntur.
+<lb ed="#L" n="67"/>Non igitur aliquis per voluntariam paupertatem
+<lb ed="#L" n="68"/>contrariatur virtuti, quamvis omnia deserat. Nec
+<lb ed="#L" n="69"/>hoc prodigaliter facit: cum hoc faciat debito fine,
+<lb ed="#L" n="70"/>et aliis debitis conditionibus servatis. Plus enim
+<lb ed="#L" n="71"/>est seipsum morti exponere, quod tamen aliquis
+<lb ed="#L" n="72"/>per virtutem fortitudinis operatur debitas 
+cir<lb ed="#L" break="no" n="73"/>cumstantias servans, quam omnia sua relinquere
+<lb ed="#L" n="74"/>debito fine. Et sic solvitur ratio sexta.
+</p>
+            <p xml:id="v8naTA-d1e2802-d1e334">
+               <lb ed="#L" n="75"/>Quod autem ex verbis Salomonis inducitur,
+<lb ed="#L" n="76"/>non est contrarium. Manifestum enim est quod
+<lb ed="#L" n="77"/>loquitur de coacta paupertate, quae furandi solet
+<lb ed="#L" n="78"/>esse occasio.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

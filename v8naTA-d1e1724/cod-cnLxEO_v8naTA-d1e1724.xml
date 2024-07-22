@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 2</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 2</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="5"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1724"><!-- v8naTA-l3c2 -->
+            <head xml:id="v8naTA-d1e1724-Hd1e101">Capitulum 2</head>
+            <head xml:id="v8naTA-d1e1724-Hd1e103" type="question-title">Quod omne agens agit propter finem.</head>
+            <p xml:id="v8naTA-d1e1724-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="55" type="fixed=5"/>CAPITULUM SECUNDUM
+<lb ed="#L" n="56"/>QUOD OMNE AGENS AGIT PROPTER FINEM.
+</p>
+            <p xml:id="v8naTA-d1e1724-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="57"/>OSTENDENDUM est igitur primo, quod omne
+<lb ed="#L" n="58"/>agens in agendo intendit aliquem finem.
+<lb ed="#L" n="59"/>In his enim quae manifeste propter
+<lb ed="#L" n="60"/>Éxu4^» finem agunt, hoc dicimus esse finem
+<lb ed="#L" n="61"/>in miel tendit impetus agentis: hoc enim 
+adi<lb ed="#L" break="no" n="62"/>piscens dicitur adipisci finem, deficiens autem ab
+<lb ed="#L" n="63"/>hoc dicitur deficere a fine intento; sicut patet in
+<lb ed="#L" n="64"/>medico agente ad sanitatem, et homine currente
+<lb ed="#L" n="65"/>ad certum terminum. Nec differt, quantum ad
+<lb ed="#L" n="66"/>hoc, utrum quod tendit in finem sit cognoscens,
+<lb ed="#L" n="67"/>vel non: sicut enim signum est finis sagittantis,
+<lb ed="#L" n="68"/>ita est finis motus sagittae. Omnis autem agentis
+<lb ed="#L" n="69"/>impetus ad aliquid certum tendit: non enim ex
+<lb ed="#L" n="70"/>quacumque virtute quaevis actio procedit, sed
+<lb ed="#L" n="71"/>a calore quidem calefactio, a frigore autem 
+in<lb ed="#L" break="no" n="72"/>frigidatio; unde et actiones secundum diversitatem
+<lb ed="#L" n="73"/>activorum specie differunt. Actio vero 
+quando<lb ed="#L" break="no" n="74"/>que quidem terminatur ad aliquod factum, sicut
+<lb ed="#L" n="75"/>aedificatio ad domum, sanatio ad sanitatem: 
+quan<lb ed="#L" break="no" n="76"/>doque autem non, sicut intelligere et sentire. Et
+<lb ed="#L" n="77"/>si quidem actio terminatur ad aliquod factum,
+<lb ed="#L" n="78"/>impetus agentis tendit per actionem in illud 
+fa<lb ed="#L" break="no" n="79"/>ctum: si autem non terminatur ad. aliquod 
+fa<lb ed="#L" break="no" n="80"/>ctum, impetus agentis tendit in ipsam actionem.
+<lb ed="#L" n="81"/>Oportet igitur quod omne agens in agendo 
+inten<lb ed="#L" break="no" n="82"/>dat finem: quandoque quidem actionem ipsam;
+<lb ed="#L" n="83"/>quandoque aliquid per actionem. factum.
+</p>
+            <p xml:id="v8naTA-d1e1724-d1e178">
+               <lb ed="#L" n="84"/>Adhuc. In omnibus agentibus propter finem,
+<lb ed="#L" n="85"/>hoc esse ultimum finem dicimus, ultra quod agens
+</p>
+            <p xml:id="v8naTA-d1e1724-d1e186">
+               <cb ed="#L" n="e"/>
+               <lb ed="#L" n="86"/>non quaerit aliquid: sicut actio medici est usque
+<lb ed="#L" n="87"/>ad sanitatem, ea vero consecuta, non conatur ad
+<lb ed="#L" n="88"/>aliquid ulterius. Sed in actione cuiuslibet agentis
+<lb ed="#L" n="89"/>est invenire aliquid ultra quod agens non quaerit
+<lb ed="#L" n="90"/>; aliquid: alias enim actiones in infinitum 
+tende<lb ed="#L" break="no" n="91"/>rent; quod quidem est impossibile, quia, cum 
+zn<lb ed="#L" break="no" n="92"/>finita non sit pertransire , agens agere non 
+in<lb ed="#L" break="no" n="93"/>ciperet; nihil enim movetur ad id ad quod 
+im<lb ed="#L" break="no" n="94"/>possibile est pervenire. Omne igitur agens agit
+<lb ed="#L" n="95"/>propter finem.
+</p>
+            <p xml:id="v8naTA-d1e1724-d1e212">
+               <lb ed="#L" n="96"/>Amplius. Si actiones agentis procedant in 
+in<lb ed="#L" break="no" n="97"/>finitum, oportet quod vel ex istis actionibus 
+se<lb ed="#L" break="no" n="98"/>quatur aliquod factum, vel non. Si quidem 
+se<lb ed="#L" break="no" n="99"/>quatur aliquod factum, esse illius facti sequetur
+<lb ed="#L" n="100"/>post infinitas actiones. Quod autem praeexigit 
+in<lb ed="#L" break="no" n="101"/>finita, impossibile est. esse: cum 707 sit. infinita
+<lb ed="#L" n="102"/>pertransire. Quod autem impossibile est esse, im- -
+<lb ed="#L" n="103"/>possibile est fieri: et quod impossibile est fieri,
+<lb ed="#L" n="104"/>impossibile est facere. Impossibile est igitur quod
+<lb ed="#L" n="105"/>agens incipiat facere aliquod factum ad quod 
+prae<lb ed="#L" break="no" n="106"/>exiguntur actiones infinitae. — Si autem ex illis
+<lb ed="#L" n="107"/>actionibus non sequitur aliquod factum, oportet
+<lb ed="#L" n="108"/>ordinem huiusmodi actionum esse vel secundum
+<lb ed="#L" n="109"/>ordinem virtutum activarum, sicut si homo sentit
+<lb ed="#L" n="110"/>ut imaginetur, imaginatur autem ut intelligat, 
+in<lb ed="#L" break="no" n="111"/>telligit autem ut velit: vel secundum ordinem
+<lb ed="#L" n="112"/>obiectorum, sicut considero corpus ut 
+consi<lb ed="#L" break="no" n="113"/>derem animam, quam considero ut considerem
+<lb ed="#L" n="114"/>substantiam separatam, quam considero ut con-
+<pb ed="#L" n="6"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>siderem Deum. Non autem est possibile 
+proce<lb ed="#L" break="no" n="2"/>dere in infinitum neque in virtutibus activis, sicut
+<lb ed="#L" n="3"/>negue in formis rerum, ut probatur in 1l 
+Me<lb ed="#L" break="no" n="4"/>taph. , forma enim est agendi principium : neque
+<lb ed="#L" n="5"/>in obiectis, sicut neque in entibus, cum sit unum
+<lb ed="#L" n="6"/>primum ens, ut supra  probatum est. — Non est
+<lb ed="#L" n="7"/>igitur. possibile quod actiones in infinitum 
+pro<lb ed="#L" break="no" n="8"/>cedant. Oportet igitur esse aliquid quo habito
+<lb ed="#L" n="9"/>conatus agentis: quiescat. Omne igtur gans d
+<lb ed="#L" n="10"/>propter finem.
+</p>
+            <p xml:id="v8naTA-d1e1724-d1e282">
+               <lb ed="#L" n="11"/>Item. In his quae agunt propter fimum; omnia
+<lb ed="#L" n="12"/>intermedia inter primum agens et ultimum finem
+<lb ed="#L" n="13"/>sunt fines respectu priorum et principia activa
+<lb ed="#L" n="14"/>respectu sequentium. Si igitur conatus agentis non
+<lb ed="#L" n="15"/>est ad aliquid determinatum, sed actiones, sicut 
+<lb ed="#L" n="16"/>dictum est, procedunt in infinitum, oportet 
+prin<lb ed="#L" break="no" n="17"/>cipia activa in infinitum procedere. Quod est
+<lb ed="#L" n="18"/>impossibile, ut supra ostensum est. Necesse est .
+<lb ed="#L" n="19"/>igitur quod conatus agentis sit ad aliquid. 
+determi<lb ed="#L" break="no" n="20"/>natum.
+</p>
+            <p xml:id="v8naTA-d1e1724-d1e306">
+               <lb ed="#L" n="21"/>Adhuc. Omne agens vel agit per naturam, vel
+<lb ed="#L" n="22"/>per intellectum. De agentibus autem per 
+intel<lb ed="#L" break="no" n="23"/>lectum non est dubium quin agant propter finem:
+<lb ed="#L" n="24"/>agunt enim praeconcipientes in intellectu id. quod
+<lb ed="#L" n="25"/>per actionem consequuntur, et ex tali 
+praecon<lb ed="#L" break="no" n="26"/>ceptione agunt; hoc enim est agere per 
+intelle<lb ed="#L" break="no" n="27"/>ctum. Sicut autem in intellectu praeconcipiente
+<lb ed="#L" n="28"/>existit tota similitudo effectus ad quem per 
+actio<lb ed="#L" break="no" n="29"/>nes intelligentis pervenitur, ita in agente naturali
+<lb ed="#L" n="30"/>praeexistit similitudo naturalis effectus, ex qua
+<lb ed="#L" n="31"/>actio ad hunc effectum determinatur: nam ignis
+<lb ed="#L" n="32"/>generat ignem, et oliva olivam. Sicut igitur agens
+<lb ed="#L" n="33"/>per intellectum tendit in finem determinatum per
+<lb ed="#L" n="34"/>suam actionem, ita agens per naturam. Omne
+<lb ed="#L" n="35"/>igitur agens agit propter finem.
+</p>
+            <p xml:id="v8naTA-d1e1724-d1e341">
+               <lb ed="#L" n="36"/>Amplius. Peccatum non invenitur nisi in his
+<lb ed="#L" n="37"/>quae sunt propter finem: nec enim imputatur
+<lb ed="#L" n="38"/>alicui ad peccatum si deficiat ab eo ad quod non
+<lb ed="#L" n="39"/>est; medico enim imputatur ad peccatum si defi-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="40"/>ciat a sanando, non autem  aedificatori aut
+<lb ed="#L" n="41"/>grammatico. Sed peccatum invenimus in his
+<lb ed="#L" n="42"/>quae fiunt secundum artem, sicut cum 
+gramma<lb ed="#L" break="no" n="43"/>ticus non recte loquitur; et in his quae sunt 
+se<lb ed="#L" break="no" n="44"/>cundum naturam, sicut patet in partubus 
+mon<lb ed="#L" break="no" n="45"/>struosis. Ergo tam agens secundum naturam,
+<lb ed="#L" n="46"/>quam agens secundum artem et a proposito, agit
+<lb ed="#L" n="47"/>propter finem.
+</p>
+            <p xml:id="v8naTA-d1e1724-d1e372">
+               <lb ed="#L" n="48"/>Item. Si agens non tenderet ad aliquem 
+effe<lb ed="#L" break="no" n="49"/>ctum determinatum, omnes. effectus essent ei 
+in<lb ed="#L" break="no" n="50"/>differentes. Quod autem indifferenter. se. habet
+<lb ed="#L" n="51"/>ad multa, non magis unum eorum operatur quam
+<lb ed="#L" n="52"/>aliud: unde a contingente ad utrumque non 
+se<lb ed="#L" break="no" n="53"/>quitur aliquis effectus nisi per aliquid 
+determi<lb ed="#L" break="no" n="54"/>netur ad unum. Impossibile igitur esset. quod
+<lb ed="#L" n="55"/>ageret. Omne igitur agens tendit ad. aliquem 
+de<lb ed="#L" break="no" n="56"/>terminatum effectum, quod dicitur finis eius.
+</p>
+            <p xml:id="v8naTA-d1e1724-d1e395">
+               <lb ed="#L" n="57"/>Sunt autem aliquae actiones quae non videntur
+<lb ed="#L" n="58"/>esse propter finem, sicut actiones ludicrae et 
+con<lb ed="#L" break="no" n="59"/>templatoriae, et actiones quae absque attentione
+<lb ed="#L" n="60"/>fiunt, sicut: confricatio barbae et huiusmodi: ex
+<lb ed="#L" n="61"/>quibus aliquis opinari potest quod sit aliquod agens
+<lb ed="#L" n="62"/>non propter finem. — Sed sciendum quod 
+actio<lb ed="#L" break="no" n="63"/>nes contemplativae non sunt propter alium finem,
+<lb ed="#L" n="64"/>sed ipsae sunt finis. Actiones autem ludicrae
+<lb ed="#L" n="65"/>interdum sunt finis, cum quis solum ludit 
+pro<lb ed="#L" break="no" n="66"/>pter delectationem quae in ludo est: quandoque
+<lb ed="#L" n="67"/>autem. sunt propter finem, ut cum ludimus ut
+<lb ed="#L" n="68"/>postmodum melius studeamus. Actiones autem
+<lb ed="#L" n="69"/>quae fiunt sine attentione, non sunt ab intellectu,
+<lb ed="#L" n="70"/>sed ab aliqua subita imaginatione vel. naturali
+<lb ed="#L" n="71"/>principio: sicut inordinatio humoris pruritum 
+ex<lb ed="#L" break="no" n="72"/>citantis est causa confricationis barbae, quae fit
+<lb ed="#L" n="73"/>sine attentione intellectus. Et haec ad aliquem
+<lb ed="#L" n="74"/>finem tendunt, licet praeter ordinem intellectus.
+</p>
+            <p xml:id="v8naTA-d1e1724-d1e437">
+               <lb ed="#L" n="75"/>Per hoc autem excluditur antiquorum ? 
+Natu<lb ed="#L" break="no" n="76"/>ralium error, qui ponebant omnia fieri ex 
+neces<lb ed="#L" break="no" n="77"/>sitate materiae, causam finalem a rebus penitus
+<lb ed="#L" n="78"/>subtrahentes.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

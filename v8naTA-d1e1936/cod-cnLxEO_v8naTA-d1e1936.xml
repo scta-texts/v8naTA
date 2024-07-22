@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 28</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 28</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="89"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1936"><!-- v8naTA-l3c28 -->
+            <head xml:id="v8naTA-d1e1936-Hd1e101">Capitulum 28</head>
+            <head xml:id="v8naTA-d1e1936-Hd1e103" type="question-title">Quod pl non consistit in honoribus.</head>
+            <p xml:id="v8naTA-d1e1936-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="27" type="fixed=84"/>CAPITULUM VIGESIMUM OCTAVUM —
+<lb ed="#L" n="28"/>QUOD PL NON CONSISTIT IN HONORIBUS.
+</p>
+            <p xml:id="v8naTA-d1e1936-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="29"/>EX praedictis etiam daret quod nec in
+<lb ed="#L" n="30"/>honoribus est summum bonum 
+homi<lb ed="#L" break="no" n="31"/>nis, quod est. felicitas.
+</p>
+            <p xml:id="v8naTA-d1e1936-d1e126">
+               <lb ed="#L" n="32"/>Finis enim ultimus hominis, et. sua
+<lb ed="#L" n="33"/>felicitas, est eius perfectissima operatio, ut ex 
+su<lb ed="#L" break="no" n="34"/>perioribus  patet. Honor autem hominis non
+<lb ed="#L" n="35"/>consistit in sua operatione, sed alterius ad ipsum,
+<lb ed="#L" n="36"/>qui ei.reverentiam exhibet . Non est igitur 
+feli<lb ed="#L" break="no" n="37"/>citas. hominis in. honoribus ponenda.
+</p>
+            <p xml:id="v8naTA-d1e1936-d1e143">
+               <lb ed="#L" n="38"/>Adhuc. Quod est propter alterum bonum et
+<lb ed="#L" n="39"/>desiderabile, non est ultimus finis. Tale autem
+<lb ed="#L" n="40"/>est honor: non enim aliquis recte honoratur nisi
+<lb ed="#L" n="41"/>propter aliquod aliud bonum in eo existens. Et
+<lb ed="#L" n="42"/>propter hoc homines honorari quaerunt, quasi
+<lb ed="#L" n="43"/>boni alicuius quod in eis est testimonium habere
+<lb ed="#L" n="44"/>volentes: unde et magis gaudent homines a 
+ma<lb ed="#L" break="no" n="45"/>gnis et sapientibus honorari. Non est igitur in
+<lb ed="#L" n="46"/>honoribus felicitas hominis ponenda.
+</p>
+            <p xml:id="v8naTA-d1e1936-d1e165">
+               <lb ed="#L" n="47"/>Amplius. Ad felicitatem ;per virtutem 
+perve<lb ed="#L" break="no" n="48"/>nitur. Operationes autem virtutum sunt volun-
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="49"/>tariae : aliter enim non essent laudabiles:  Oliriet
+<lb ed="#L" n="50"/>igitur felicitatem | esse aliquod bonum ad quod
+<lb ed="#L" n="51"/>homo sua voluntate perveniat. Hoc autem quod
+<lb ed="#L" n="52"/>honorem assequatur, non est in potestate 
+ho<lb ed="#L" break="no" n="53"/>; minis, sed magis in potestate honorantis. Non
+<lb ed="#L" n="54"/>est igitur in honoribus felicitas humana 
+po<lb ed="#L" break="no" n="55"/>nenda.
+</p>
+            <p xml:id="v8naTA-d1e1936-d1e189">
+               <lb ed="#L" n="56"/>Item. Esse dignum honore non potest nisi i bonis
+<lb ed="#L" n="57"/>inesse. Honorari autem possunt etiam mali. 
+Me<lb ed="#L" break="no" n="58"/>lius est igitur fieri honore dignum quam 
+hono<lb ed="#L" break="no" n="59"/>rari. Non 'est igitur honor summum hominis
+<lb ed="#L" n="60"/>bonum,
+</p>
+            <p xml:id="v8naTA-d1e1936-d1e202">
+               <lb ed="#L" n="61"/>Praeterea. Summum rna est perfectum 
+bo<lb ed="#L" break="no" n="62"/>num. Perfectum autem bonum non compatitur
+<lb ed="#L" n="63"/>aliquod rnalum. Cui autem non inest aliquod
+<lb ed="#L" n="64"/>malum, impossibile est esse malum. Impossibile
+<lb ed="#L" n="65"/>est igitur esse malum cui adest summum 
+bo<lb ed="#L" break="no" n="66"/>num. Potest autem aliquis malus honorem 
+con<lb ed="#L" break="no" n="67"/>sequi. Non est igitur honor summum hominis
+<lb ed="#L" n="68"/>bonum.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

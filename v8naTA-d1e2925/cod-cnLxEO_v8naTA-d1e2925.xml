@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 149</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 149</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="439"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2925"><!-- v8naTA-l3c149 -->
+            <head xml:id="v8naTA-d1e2925-Hd1e101">Capitulum 149</head>
+            <head xml:id="v8naTA-d1e2925-Hd1e103" type="question-title">Quod divinum auxilium homo promereri non potest.</head>
+            <p xml:id="v8naTA-d1e2925-d1e106">
+               <pb ed="#L" n="439"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=439"/>CAPITULUM CENTESIMUM QUADRAGESIMUM NONUM
+<lb ed="#L" n="2"/>QUOD DIVINUM AUXILIUM HOMO PROMERERI NON POTEST.
+</p>
+            <p xml:id="v8naTA-d1e2925-d1e117">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="3"/>Ex dictis autem manifeste ostenditur quod
+<lb ed="#L" n="4"/>auxilium divinum homo promereri non
+<lb ed="#L" n="5"/>potest. Quaelibet enim res ad id quod
+</p>
+            <p xml:id="v8naTA-d1e2925-d1e128">
+               <lb ed="#L" n="6"/>A5 supra ipsam est, materialiter se habet.
+<lb ed="#L" n="7"/>Materia autem non movet seipsam ad suam 
+per<lb ed="#L" break="no" n="8"/>fectionem, sed oportet quod ab.alio moveatur.
+<lb ed="#L" n="9"/>Homo igitur non movet seipsum ad hoc quod
+<lb ed="#L" n="10"/>adipiscatur divinum auxilium, quod supra ipsum
+<lb ed="#L" n="11"/>est, sed potius ad hoc adipiscendum a Deo 
+mo<lb ed="#L" break="no" n="12"/>vetur. Motio autem moventis praecedit motum
+<lb ed="#L" n="13"/>mobilis ratione et causa. Non igitur propter hoc
+<lb ed="#L" n="14"/>nobis datur auxilium divinum quia nos ad illud
+<lb ed="#L" n="15"/>per bona opera promovemus, sed potius ideo
+<lb ed="#L" n="16"/>mos per bona opera proficimus, quia divino 
+au<lb ed="#L" break="no" n="17"/>xilio praevenimur.
+</p>
+            <p xml:id="v8naTA-d1e2925-d1e158">
+               <lb ed="#L" n="18"/>Adhuc. Agens instrumentale non disponit ad
+<lb ed="#L" n="19"/>perfectionem inducendam a principali agente nisi
+<lb ed="#L" n="20"/>secundum quod agit ex virtute principalis agentis:
+<lb ed="#L" n="21"/>sicut calor ignis non magis praeparat materiam
+<lb ed="#L" n="22"/>ad formam carnis quam ad aliam formam, nisi
+<lb ed="#L" n="23"/>inquantum agit in virtute animae. Sed anima
+<lb ed="#L" n="24"/>nostra operatur sub Deo sicut agens 
+instrumen<lb ed="#L" break="no" n="25"/>tale sub principali agente . Non igitur potest se
+<lb ed="#L" n="26"/>anima praeparare ad suscipiendum effectum 
+di<lb ed="#L" break="no" n="27"/>vini auxilii nisi secundum quod agit ex virtute
+<lb ed="#L" n="28"/>divina. Praevenitur igitur divino auxilio ad bene
+<lb ed="#L" n="29"/>operandum, magis quam divinum auxilium 
+prae<lb ed="#L" break="no" n="30"/>veniat, quasi merendo illud vel se praeparando
+<lb ed="#L" n="31"/>ad illud.
+</p>
+            <p xml:id="v8naTA-d1e2925-d1e191">
+               <lb ed="#L" n="32"/>Amplius. Nullum agens particulare potest 
+uni<lb ed="#L" break="no" n="33"/>versaliter praevenire actionem primi universalis
+<lb ed="#L" n="34"/>agentis: eo quod omnis actio particularis agentis
+<lb ed="#L" n="35"/>originem habet ab universali agente; sicut in istis
+<lb ed="#L" n="36"/>inferioribus omnis motus praevenitur a motu 
+cae<lb ed="#L" break="no" n="37"/>lesti. Sed anima humana ordinatur sub Deo sicut
+<lb ed="#L" n="38"/>particulare agens sub universali. Impossibile est
+<lb ed="#L" n="39"/>ergo esse aliquem rectum motum in ipsa quem
+<lb ed="#L" n="40"/>non praeveniat actio divina. Unde et /oan. xv,
+<lb ed="#L" n="41"/>Dominus dicit: Sine me nihil potestis facere.
+</p>
+            <p xml:id="v8naTA-d1e2925-d1e215">
+               <lb ed="#L" n="42"/>Item. Merces proportionatur merito: cum in
+<lb ed="#L" n="43"/>retributione mercedis aequalitas iustitiae obser-
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="44"/>vetur. Effectus autem divini auxilii, qui 
+faculta<lb ed="#L" break="no" n="45"/>tem naturae excedit, non est proportionatus 
+acti<lb ed="#L" break="no" n="46"/>bus quos homo ex naturali facultate producit.
+<lb ed="#L" n="47"/>Non igitur per huiusmodi actus potest homo
+<lb ed="#L" n="48"/>praedictum auxilium mereri.
+</p>
+            <p xml:id="v8naTA-d1e2925-d1e235">
+               <lb ed="#L" n="49"/>Praeterea. Cognitio praecedit voluntatis motum.
+<lb ed="#L" n="50"/>Cognitio autem supernaturalis finis est homini a
+<lb ed="#L" n="51"/>Deo: cum per rationem naturalem in ipsum 
+at<lb ed="#L" break="no" n="52"/>tingere homo non possit, eo quod facultatem
+<lb ed="#L" n="53"/>naturalem excedit. Oportet ergo quod motus 
+vo<lb ed="#L" break="no" n="54"/>luntatis nostrae in ultimum finem auxilium 
+di<lb ed="#L" break="no" n="55"/>vinum praeveniat.
+</p>
+            <p xml:id="v8naTA-d1e2925-d1e253">
+               <lb ed="#L" n="56"/>Hinc est quod dicitur 77: un: Nom ex 
+ope<lb ed="#L" break="no" n="57"/>ribus iustitiae quae fecimus nos, sed secundum suam
+<lb ed="#L" n="58"/>misericordiam saivos nos fecit. Et Rom. ix ': Non
+<lb ed="#L" n="59"/>est volentis, scilicet velle, mec currentis, scilicet
+<lb ed="#L" n="60"/>currere, sed miserentis Dei: quia scilicet oportet
+<lb ed="#L" n="61"/>quod ad bene volendum et operandum homo
+<lb ed="#L" n="62"/>divino praeveniatur auxilio; sicut consuetum est
+<lb ed="#L" n="63"/>quod effectus aliquis non attribuitur proximo
+<lb ed="#L" n="64"/>operanti, sed primo moventi; attribuitur enim
+<lb ed="#L" n="65"/>victoria duci, quae labore militum perpetratur.
+<lb ed="#L" n="66"/>Non ergo per huiusmodi verba excluditur 
+libe<lb ed="#L" break="no" n="67"/>rum voluntatis arbitrium, sicut quidam male 
+in<lb ed="#L" break="no" n="68"/>tellexerunt, quasi homo non sit dominus suorum
+<lb ed="#L" n="69"/>actuum interiorum et exteriorum: sed ostenditur.
+<lb ed="#L" n="70"/>Deo esse subiectum. Et ZAren. iv dicitur: 
+Con<lb ed="#L" break="no" n="71"/>verle nos, Domine, ad te, et convertemur: per
+<lb ed="#L" n="72"/>quod patet quod conversio nostra ad Deum 
+prae<lb ed="#L" break="no" n="73"/>venitur auxilio Dei nos convertentis.
+</p>
+            <p xml:id="v8naTA-d1e2925-d1e295">
+               <lb ed="#L" n="74"/>Legitur tamen Zach. 1?, ex persona Dei dictum,
+<lb ed="#L" n="75"/>Convertimini ad me, et convertar ad vos: non quin
+<lb ed="#L" n="76"/>Dei operatio nostram conversionem praeveniat, ut
+<lb ed="#L" n="77"/>dictum est; sed quia conversionem nostram, qua
+<lb ed="#L" n="78"/>ad ipsum convertimur, adiuvat subsequenter, eam
+<lb ed="#L" n="79"/>roborando ut ad effectum perveniat, et stabiliendo
+<lb ed="#L" n="80"/>ut finem debitum consequatur.
+</p>
+            <p xml:id="v8naTA-d1e2925-d1e314">
+               <lb ed="#L" n="81"/>Per hoc autem excluditur error Pelagianorum,
+<lb ed="#L" n="82"/>qui dicebant huiusmodi auxilium propter merita
+<lb ed="#L" n="83"/>nobis dari; et quod iustificationis nostrae initium
+<lb ed="#L" n="84"/>ex nobis sit, consummatio autem a Deo .
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

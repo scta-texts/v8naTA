@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 150</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 150</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="441"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2933"><!-- v8naTA-l3c150 -->
+            <head xml:id="v8naTA-d1e2933-Hd1e101">Capitulum 150</head>
+            <head xml:id="v8naTA-d1e2933-Hd1e103" type="question-title">Quod praedictum auxilium gratia nominatur.
+et quid sit gratia gratum faciens.</head>
+            <p xml:id="v8naTA-d1e2933-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="106" type="fixed=441"/>CAPITULUM CENTESIMUM QUINQUAGESIMUM
+<lb ed="#L" n="107"/>QUOD PRAEDICTUM AUXILIUM GRATIA NOMINATUR.
+<lb ed="#L" n="108"/>ET QUID SIT GRATIA GRATUM FACIENS.
+</p>
+            <p xml:id="v8naTA-d1e2933-d1e117">
+               <lb ed="#L" n="109"/>Quia vero hoc quod datur alicui absque
+<lb ed="#L" n="110"/>suis meritis praecedentibus, gratis ei
+<lb ed="#L" n="111"/>dicitur dari; cum divinum auxilium
+<lb ed="#L" n="112"/>a9» homini exhibitum omne meritum 
+hu<lb ed="#L" break="no" n="113"/>manum praeveniat ut ostensunr est , 
+consequi<lb ed="#L" break="no" n="114"/>tur quod hoc auxilium gratis homini impendatur,
+<lb ed="#L" n="115"/>et ex hoc convenienter gratiae nomen accepit.
+<cb ed="#L" n="d"/>
+               <lb ed="#L" n="116"/>Unde et Apostolus dicit, Rom. xi: <quote xml:id="v8naTA-d1e2933-Qd1e138">Si gratia est,
+<lb ed="#L" n="117"/>iam non ex operibus: alioquin gratia iam non
+<lb ed="#L" n="118"/>est gratia.</quote>
+            </p>
+            <p xml:id="v8naTA-d1e2933-d1e146">
+               <lb ed="#L" n="119"/>Est autem et alia ratio propter quam 
+praedi<lb ed="#L" break="no" n="120"/>ctum Dei auxilium gratiae nomen accepit. Dicitur
+<lb ed="#L" n="121"/>enim aliquis alicui esse gratus, quia est ei dilectus:
+<lb ed="#L" n="122"/>unde et qui ab aliquo diligitur, dicitur gratiam
+<pb ed="#L" n="442"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>eius habere. Est autem de ratione dilectionis ut
+<lb ed="#L" n="2"/>diligens bonum velit'ei quem diligit, et operetur.
+<lb ed="#L" n="3"/>Et quidem ,Deus bona vult et operatur circa
+<lb ed="#L" n="4"/>omnem creaturam: ipsum enim esse creaturae,
+<lb ed="#L" n="5"/>et omnis eius perfectio, est a Deo volente et
+<lb ed="#L" n="6"/>operante; ut supra"  ostensum est; unde dicitur
+<lb ed="#L" n="7"/>Sap. "X(?: Diligis omnia quae sunt, et nihil odisti
+<lb ed="#L" n="8"/>eorum quae "Jecisti. Sed specialis ratio. divinae
+<lb ed="#L" n="9"/>dilectionis ad illos consideratur quibus auxilium
+<lb ed="#L" n="10"/>praebet ad. hoc quod consequantur bonum quod
+<lb ed="#L" n="11"/>ordinem naturae eorum excedit, scilicet perfectam
+<lb ed="#L" n="12"/>fruitionem non alicuius boni creati, sed sui ipsius.
+<lb ed="#L" n="13"/>Hoc igitur auxilium convenienter gratia dicitur,
+<lb ed="#L" n="14"/>non solum quia gratis datur, ut ostensum est:
+<lb ed="#L" n="15"/>sed etiam quia hoc auxilio homo speciali 
+qua<lb ed="#L" break="no" n="16"/>dam: praerogativa. redditur Deo. graius.. Unde et
+<lb ed="#L" n="17"/>Apostolus dicit, Ephes. 15^: Praedestinavit nos an
+<lb ed="#L" n="18"/>adoptionem filiorum, secundum propositum 
+volun<lb ed="#L" break="no" n="19"/>latis suae, in laudem gloriae gratiae suae, in qua
+<lb ed="#L" n="20"/>gralificavit nos in dilecto Filio. suo.
+</p>
+            <p xml:id="v8naTA-d1e2933-d1e206">
+               <lb ed="#L" n="21"/>Oportet autem hanc gratiam aliquid in homine
+<lb ed="#L" n="22"/>gratificato esse, quasi quandam formam et 
+per<lb ed="#L" break="no" n="23"/>fectionem ipsius. Quod enim in aliquem finem
+<lb ed="#L" n="24"/>dirigitur, oportet quod habeat continuum ordinem
+<lb ed="#L" n="25"/>in ipsum: nam. movens continue mutat quousque
+<lb ed="#L" n="26"/>mobile per:motum finem sortiatur. Cum igitur
+<lb ed="#L" n="27"/>auxilio divinae gratiae homo dirigatur in ultimum
+<lb ed="#L" n="28"/>finem, ut ostensum est , oportet quod continue
+<lb ed="#L" n="29"/>homo isto auxilio potiatur, quousque ad finem
+<lb ed="#L" n="30"/>perveniat. Hoc autem non esset si praedictum
+<lb ed="#L" n="31"/>auxilium participaret. homo secundum aliquem
+<lb ed="#L" n="32"/>motum aut passionem, et non secundum aliquam
+<lb ed="#L" n="33"/>formam manentem, et quasi quiescentem in ipso:
+<lb ed="#L" n="34"/>motus enim et passio talis non esset in homine
+<lb ed="#L" n="35"/>nisi quando actu converteretur in finem; quod
+<lb ed="#L" n="36"/>non continue ab homine agitur, ut praecipue
+<lb ed="#L" n="37"/>patet in dormientibus. Est ergo gratia gratum
+<lb ed="#L" n="38"/>faciens aliqua forma et perfectio in homine 
+ma<lb ed="#L" break="no" n="39"/>nens, etiam quando non operatur.
+</p>
+            <p xml:id="v8naTA-d1e2933-d1e250">
+               <lb ed="#L" n="40"/>Adhuc. Dilectio. Dei est causativa. boni quod
+<lb ed="#L" n="41"/>in. nobis est: sicut dilectio hominis provocatur
+<lb ed="#L" n="42"/>et causatur ex aliquo bono quod in dilecto est.
+<lb ed="#L" n="43"/>Sed homo provocatur ad specialiter aliquem 
+di<lb ed="#L" break="no" n="44"/>ligendum: propter aliquod speciale bonum. in
+<lb ed="#L" n="45"/>dilecto praeexistens. Ergo, ubi ponitur specialis
+<lb ed="#L" n="46"/>dilectio Dei ad hominem, oportet quod 
+conse<lb ed="#L" break="no" n="47"/>quenter ponatur aliquod grues bonum homini
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="48"/>a Deo collatum. Cum igitur, secundum 
+prae<lb ed="#L" break="no" n="49"/>dicta, gratia gratum faciens designet specialem
+<lb ed="#L" n="50"/>dilectionem Dei ad hominem, oportet .quod. aliqua
+<lb ed="#L" n="51"/>specialis bonitas et perfectio per hoc homini inesse
+<lb ed="#L" n="52"/>designetur
+</p>
+            <p xml:id="v8naTA-d1e2933-d1e283">
+               <lb ed="#L" n="53"/>Amplius. Unumquodque ordini in iiem
+<lb ed="#L" n="54"/>sibi convenientem secundum rationem suae 
+for<lb ed="#L" break="no" n="55"/>mae: diversarum enim specierum . diversi sunt
+<lb ed="#L" n="56"/>fines. Sed finis in quem homo dirigitur per 
+au<lb ed="#L" break="no" n="57"/>xilium .divinae gratiae, est supra naturam 
+huma<lb ed="#L" break="no" n="58"/>nam. Ergo oportet quod homini superaddatur
+<lb ed="#L" n="59"/>aliqua supernaturalis forma et perfectio, per quam
+<lb ed="#L" n="60"/>convenienter ordinetur in finem praedictum. |
+</p>
+            <p xml:id="v8naTA-d1e2933-d1e303">
+               <lb ed="#L" n="61"/>Item, Oportet. quod homo ad ultimum finem
+<lb ed="#L" n="62"/>per proprias operationes perveniat. 
+Unumquod<lb ed="#L" break="no" n="63"/>que autem operatur secundum propriam formam:
+</p>
+            <p xml:id="v8naTA-d1e2933-d1e312">
+               <lb ed="#L" n="64"/>Oportet igitur, ad hoc quod: homo perducatur 
+<lb ed="#L" n="65"/>in ultimum finem per proprias operationes, quod
+<lb ed="#L" n="66"/>superaddatur ei aliqua forma, ex qua eius 
+ope<lb ed="#L" break="no" n="67"/>rationes efficaciam aliquam sadpinto pint ME
+<lb ed="#L" n="68"/>ultimum finem.
+</p>
+            <p xml:id="v8naTA-d1e2933-d1e325">
+               <lb ed="#L" n="69"/>Praeterea. Divina provideitia omnibus: providet
+<lb ed="#L" n="70"/>secundum modum suae naturae, ut ex supra 
+<lb ed="#L" n="71"/>dictis patet, Est autem hic modus proprius 
+homi<lb ed="#L" break="no" n="72"/>num, quod ad perfectionem suarum operationum
+<lb ed="#L" n="73"/>oportet eis inesse, super naturales potentias, 
+quas<lb ed="#L" break="no" n="74"/>dam perfectiones et habitus, quibus quasi 
+conna<lb ed="#L" break="no" n="75"/>turaliter et faciliter et delectabiliter bonum et bene
+<lb ed="#L" n="76"/>operentur. Igitur auxilium gratiae, quod homo a
+<lb ed="#L" n="77"/>Deo consequitur ad perveniendum in ultimum
+<lb ed="#L" n="78"/>finem, aliquam inter et perfectionem homini
+<lb ed="#L" n="79"/>inesse designat.
+</p>
+            <p xml:id="v8naTA-d1e2933-d1e352">
+               <lb ed="#L" n="80"/>Hinc est quod gratia Dei in Scriptura quasi
+<lb ed="#L" n="81"/>lux quaedam designatur: dicit enim Apostolus,
+<lb ed="#L" n="82"/>Ephes. v: <quote xml:id="v8naTA-d1e2933-Qd1e360">Eratis aliquando tenebrae: nunc autem
+<lb ed="#L" n="83"/>lux in Domino</quote>. Decenter autem. perfectio »per
+<lb ed="#L" n="84"/>quam homo promovetur in ultimum finem, quae
+<lb ed="#L" n="85"/>in Dei visione consistit, dicitur lux, qur; est Pfds
+<lb ed="#L" n="86"/>cipium videndi.
+</p>
+            <p xml:id="v8naTA-d1e2933-d1e373">
+               <lb ed="#L" n="87"/>Per hoc autem excluditur opinio quorundam
+<lb ed="#L" n="88"/>dicentium. quod gratia Dei nihil in homine ponit:
+<lb ed="#L" n="89"/>sicut nibil in aliquo ponitur ex hoc quod dicitur
+<lb ed="#L" n="90"/>gratiam regis habere, sed solum in rege diligente:
+<lb ed="#L" n="91"/>Patet ergo eos fuisse deceptos ex. hoc quod non 
+at<lb ed="#L" break="no" n="92"/>tenderunt differentiam inter dilectionem divinam et
+<lb ed="#L" n="93"/>humanam. Divina enim dilectio est causativa boni
+<lb ed="#L" n="94"/>quod in aliquo diligit: non semper autem humana.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

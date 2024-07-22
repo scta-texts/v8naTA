@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 51</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 51</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="139"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2124"><!-- v8naTA-l3c51 -->
+            <head xml:id="v8naTA-d1e2124-Hd1e101">Capitulum 51</head>
+            <head xml:id="v8naTA-d1e2124-Hd1e103" type="question-title">Quomodo deus per essentiam videatur.</head>
+            <p xml:id="v8naTA-d1e2124-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="107" type="fixed=139"/>CAPITULUM QUINQUAGESIMUM PRIMUM
+<lb ed="#L" n="108"/>QUOMODO DEUS PER ESSENTIAM VIDEATUR.
+</p>
+            <p xml:id="v8naTA-d1e2124-d1e115">
+               <lb ed="#L" n="109"/>CUM autem impossibile sit naturale 
+desi<lb ed="#L" break="no" n="110"/>derium esse inane, quod quidem esset
+<lb ed="#L" n="111"/>si non esset possibile pervenire ad 
+di<lb ed="#L" break="no" n="112"/>vinam substantiam intelligendam, quod
+<lb ed="#L" n="113"/>naturaliter omnes mentes desiderant; necesse est
+<lb ed="#L" n="114"/>dicere quod possibile sit substantiam Dei videri
+<cb ed="#L" n="d"/>
+               <lb ed="#L" n="115"/>per intellectum, et a substantiis intellectualibus 
+se<lb ed="#L" break="no" n="116"/>paratis, et ab animabus nostris.
+<lb ed="#L" n="117"/>Modus autem huius visionis satis iam ex dictis
+<lb ed="#L" n="118"/>qualis esse debeat, apparet. Ostensum enim est
+<lb ed="#L" n="119"/>supra  quod divina substantia non potest videri
+<lb ed="#L" n="120"/>per intellectum aliqua specie creata. Unde oportet,
+<pb ed="#L" n="140"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>si Dei essentia videatur, quod per ipsammet 
+es<lb ed="#L" break="no" n="2"/>sentiam divinam intellectus ipsam videat: ut sit
+<lb ed="#L" n="3"/>in tali visione divina essentia et quod videtur,
+<lb ed="#L" n="4"/>et quo videtur.
+</p>
+            <p xml:id="v8naTA-d1e2124-d1e159">
+               <lb ed="#L" n="5"/>Cum autem intellectus substantiam aliquam
+<lb ed="#L" n="6"/>intelligere non possit nisi fiat actu secundum
+<lb ed="#L" n="7"/>aliquam speciem informanteem ipsum quae sit
+<lb ed="#L" n="8"/>similitudo rei intellectae, impossibile videri 
+po<lb ed="#L" break="no" n="9"/>test alicui quod per essentiam divinam 
+intel<lb ed="#L" break="no" n="10"/>lectus creatus possit videre ipsam Dei 
+substan<lb ed="#L" break="no" n="11"/>tiam quasi per quandam speciem intelligibilem:
+<lb ed="#L" n="12"/>cum divina essentia sit quiddam per seipsum
+<lb ed="#L" n="13"/>subsistens; et in Primo  ostensum sit quod
+<lb ed="#L" n="14"/>Deus nullius potest esse forma.
+</p>
+            <p xml:id="v8naTA-d1e2124-d1e184">
+               <lb ed="#L" n="15"/>Ad huius igitur intelligentiam veritatis, 
+consi<lb ed="#L" break="no" n="16"/>derandum est quod substantia quae est per
+<lb ed="#L" n="17"/>seipsam subsistens, est vel forma tantum, vel
+<lb ed="#L" n="18"/>compositum ex materia et forma. lllud igitur
+<lb ed="#L" n="19"/>quod ex materia et forma compositum est, non
+<lb ed="#L" n="20"/>potest alterius esse forma: quia forma in eo est
+<lb ed="#L" n="21"/>iam contracta ad illam materiam, ut alterius rei
+<lb ed="#L" n="22"/>forma esse non possit. lllud autem quod sic est
+<lb ed="#L" n="23"/>subsistens ut tamen solum sit forma, potest 
+al<lb ed="#L" break="no" n="24"/>terius esse forma, dummodo esse suum sit tale
+<lb ed="#L" n="25"/>quod ab aliquo alio participari possit, sicut in
+<lb ed="#L" n="26"/>Secundo  ostendimus de anima humana. Si
+<lb ed="#L" n="27"/>vero esse suum ab altero participari non posset,
+<lb ed="#L" n="28"/>nullius rei forma esse posset: sic enim per suum
+<lb ed="#L" n="29"/>esse determinatur in seipso, sicut quae sunt 
+ma<lb ed="#L" break="no" n="30"/>terialia per materiam. Hoc autem, sicut in esse
+<lb ed="#L" n="31"/>substantiali vel naturali invenitur, sic et in esse
+<lb ed="#L" n="32"/>intelligibili considerandum est. Cum enim 
+intel<lb ed="#L" break="no" n="33"/>lectus perfectio sit verum, illud intelligibile erit
+<lb ed="#L" n="34"/>ut forma tantum in genere intelligibilium quod
+<lb ed="#L" n="35"/>est veritas ipsa. Quod convenit soli Deo: nam,
+<lb ed="#L" n="36"/>cum verum sequatur ad esse, illud tantum sua
+<lb ed="#L" n="37"/>veritas est quod est suum esse, quod est 
+pro<lb ed="#L" break="no" n="38"/>prium soli Deo, ut in Secundo  ostensum est,
+<lb ed="#L" n="39"/>Alia igitur intelligibilia subsistentia sunt. non ut
+<lb ed="#L" n="40"/>pura forma in genere intelligibilium, sed ut 
+for<lb ed="#L" break="no" n="41"/>mam in subiecto aliquo habentes: est enim
+<lb ed="#L" n="42"/>unumquodque eorum verum, non veritas; sicut
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="43"/>et est ens, non autem ipsum esse. Manifestum
+<lb ed="#L" n="44"/>est igitur quod essentia divina potest comparari
+<lb ed="#L" n="45"/>ad intellectum creatum ut species intelligibilis
+<lb ed="#L" n="46"/>qua intelligit: quod non contingit de essentia
+<lb ed="#L" n="47"/>alicuius alterius substantiae separatae. Nec tamen
+<lb ed="#L" n="48"/>potest esse forma alterius rei secundum esse 
+na<lb ed="#L" break="no" n="49"/>turale: sequeretur enim quod, simul cum alio
+<lb ed="#L" n="50"/>iuncta, constitueret unam naturam; quod esse
+<lb ed="#L" n="51"/>non potest, cum essentia divina in se perfecta
+<lb ed="#L" n="52"/>sit in sui natura. Species autem intelligibilis,
+<lb ed="#L" n="53"/>unita intellectui, non constituit aliquam naturam,
+<lb ed="#L" n="54"/>sed perficit ipsum ad intelligendum: quod 
+per<lb ed="#L" break="no" n="55"/>fectioni divinae essentiae non repugnat.
+</p>
+            <p xml:id="v8naTA-d1e2124-d1e278">
+               <lb ed="#L" n="56"/>Haec igitur visio immediata Dei repromittitur
+<lb ed="#L" n="57"/>nobis in Scriptura, I Cor. XIII: Videmus. nunc
+<lb ed="#L" n="58"/>per speculum in aenigmate: tunc autem facie ad
+<lb ed="#L" n="59"/>faciem. Quod corporali modo nefas est 
+intelli<lb ed="#L" break="no" n="60"/>gere, ut in ipsa divinitate corporalem faciem
+<lb ed="#L" n="61"/>imaginemur: cum ostensum sit Deum 
+incor<lb ed="#L" break="no" n="62"/>poreum esse; neque etiam sit possibile ut nostra
+<lb ed="#L" n="63"/>corporali facie Deum videamus, cum visus cor- .
+<lb ed="#L" n="64"/>poralis, qui in facie nostra residet, non nisi
+<lb ed="#L" n="65"/>rerum corporalium esse possit. Sic igitur facie
+<lb ed="#L" n="66"/>ad faciem Deum videbimus, quia immediate eum
+<lb ed="#L" n="67"/>videbimus, sicut hominem quem facie ad faciem
+<lb ed="#L" n="68"/>videmus.
+</p>
+            <p xml:id="v8naTA-d1e2124-d1e309">
+               <lb ed="#L" n="69"/>Secundum autem hanc visionem maxime Deo
+<lb ed="#L" n="70"/>assimilamur, et eius beatitudinis participes sumus:
+<lb ed="#L" n="71"/>ham ipse Deus per suam essentiam suam 
+sub<lb ed="#L" break="no" n="72"/>stantiam intelligit, et haec est eius felicitas. Unde
+<lb ed="#L" n="73"/>dicitur I Zoan. n^: Cum autem apparuerit, similes ei
+<lb ed="#L" n="74"/>erimus, el videbimus eum sicuti est. Et Luc. xxi? 3?
+<lb ed="#L" n="75"/>Dominus dicit: Ego dispono vobis sicut disposuit
+<lb ed="#L" n="76"/>mihi Pater meus mensam, ul edatis et bibatis super
+<lb ed="#L" n="77"/>mensam meam in regno meo. Quod quidem non
+<lb ed="#L" n="78"/>de corporali cibo vel potu intelligi potest, sed de
+<lb ed="#L" n="79"/>eo qui in mensa Sapientiae sumitur, de quo a
+<lb ed="#L" n="80"/>Sapientia dicitur, Proverb. IX: Comedite panes
+<lb ed="#L" n="81"/>meos, el bibite vinum quod miscui vobis. Super
+<lb ed="#L" n="82"/>mensam ergo Dei manducant et bibunt qui eadem
+<lb ed="#L" n="83"/>felicitate fruuntur qua Deus felix est, videntes eum
+<lb ed="#L" n="84"/>illo modo quo ipse videt seipsum.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

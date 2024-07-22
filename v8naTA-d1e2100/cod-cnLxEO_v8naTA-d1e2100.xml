@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 48</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 48</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="130"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2100"><!-- v8naTA-l3c48 -->
+            <head xml:id="v8naTA-d1e2100-Hd1e101">Capitulum 48</head>
+            <head xml:id="v8naTA-d1e2100-Hd1e103" type="question-title">Quod ultima hominis felicitas non sit in hac vita.</head>
+            <p xml:id="v8naTA-d1e2100-d1e106">
+               <pb ed="#L" n="130"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=130"/>CAPITULUM QUADRAGESIMUM OCTAVUM
+<lb ed="#L" n="2"/>QUOD ULTIMA HOMINIS FELICITAS NON SIT IN HAC VITA.
+</p>
+            <p xml:id="v8naTA-d1e2100-d1e117">
+               <lb ed="#L" n="3"/>Si ergo humana felicitas ultima non 
+con<lb ed="#L" break="no" n="4"/>sistit in cognitione Dei qua communiter
+<lb ed="#L" n="5"/>ab omnibus vel pluribus cognoscitur 
+se<lb ed="#L" break="no" n="6"/>cundum quandam aestimationem 
+con<lb ed="#L" break="no" n="7"/>fusam, neque iterum in cognitione Dei qua 
+co<lb ed="#L" break="no" n="8"/>gnoscitur per viam demonstrationis in scientiis
+<lb ed="#L" n="9"/>speculativis, neque in cognitione Dei qua 
+co<lb ed="#L" break="no" n="10"/>gnoscitur per fidem, ut in superioribus est 
+osten<lb ed="#L" break="no" n="11"/>sum ; non est autem possibile in hac vita
+<lb ed="#L" n="12"/>ad altiorem Dei cognitionem pervenire ut per
+<lb ed="#L" n="13"/>essentiam cognoscatur , vel saltem ita quod aliae
+<lb ed="#L" n="14"/>substantiae separatae intelligantur, ut ex his posset
+<lb ed="#L" n="15"/>Deus quasi de propinquiori cognosci, ut 
+osten<lb ed="#L" break="no" n="16"/>sum est; oportet autem in aliqua Dei 
+cogni<lb ed="#L" break="no" n="17"/>tione felicitatem ultimam poni, ut supra  
+pro<lb ed="#L" break="no" n="18"/>batum est: impossibile est quod in hac vita sit
+<lb ed="#L" n="19"/>ultima hominis felicitas.
+</p>
+            <p xml:id="v8naTA-d1e2100-d1e156">
+               <lb ed="#L" n="20"/>Item. Ultimus finis hominis terminat eius 
+ap<lb ed="#L" break="no" n="21"/>petitum naturalem, ita. quod, eo habito, nihil
+<lb ed="#L" n="22"/>aliud quaeritur: si enim adhuc movetur ad aliud,
+<lb ed="#L" n="23"/>nondum habet finem in quo quiescat. Hoc autem
+<lb ed="#L" n="24"/>in hac vita non est possibile accidere. Quanto
+<lb ed="#L" n="25"/>enim. plus aliquis intelligit, tanto magis in eo
+<lb ed="#L" n="26"/>desiderium intelligendi augetur, quod est 
+homi<lb ed="#L" break="no" n="27"/>nibus naturale: nisi forte aliquis sit qui omnia
+<lb ed="#L" n="28"/>intelligat. Quod in hac vita nulli unquam 
+ac<lb ed="#L" break="no" n="29"/>cidit qui esset solum homo, nec est possibile
+<lb ed="#L" n="30"/>accidere: cum in hac vita substantias separatas,
+<lb ed="#L" n="31"/>quae sunt maxime intelligibilia, cognoscere non
+<lb ed="#L" n="32"/>possimus, ut ostensum est . Non est igitur 
+pos<lb ed="#L" break="no" n="33"/>sibile ultimam hominis felicitatem in hac vita esse.
+</p>
+            <p xml:id="v8naTA-d1e2100-d1e190">
+               <lb ed="#L" n="34"/>Adhuc. Omne quod movetur in finem, 
+desi<lb ed="#L" break="no" n="35"/>derat naturaliter stabiliri et quiescere in illo: unde
+<lb ed="#L" n="36"/>a loco quo corpus naturaliter movetur, non 
+re<lb ed="#L" break="no" n="37"/>cedit nisi per motum violentum, qui contrariatur
+<lb ed="#L" n="38"/>appetitui. Felicitas autem est ultimus finis, quem
+<lb ed="#L" n="39"/>homo naturaliter desiderat. Est igitur hominis
+<lb ed="#L" n="40"/>desiderium. naturale ad hoc. quod in felicitate
+<lb ed="#L" n="41"/>stabiliatur. Nisi igitur cum felicitate pariter 
+im<lb ed="#L" break="no" n="42"/>mobilem stabilitatem consequatur, nondum est
+<lb ed="#L" n="43"/>felix, eius desiderio naturali nondum quiescente.
+<lb ed="#L" n="44"/>Cum igitur aliquis felicitatem consequitur, pariter
+<lb ed="#L" n="45"/>stabilitatem. et quietem. consequetur: unde et
+<lb ed="#L" n="46"/>omnium haec est de felicitate conceptio, quod
+<lb ed="#L" n="47"/>de sui ratione stabilitatem requirat; propter quod 
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="48"/>Philosophus dicit, in I Eth., quod on 
+aesti<lb ed="#L" break="no" n="49"/>mamus felicem esse chamaeleontem quendam. In
+<lb ed="#L" n="50"/>vita autem ista non est aliqua certa stabilitas :
+<lb ed="#L" n="51"/>cuilibet enim, quantumcumque felix dicatur, 
+pos<lb ed="#L" break="no" n="52"/>sibile est infirmitates et infortunia accidere, quibus
+<lb ed="#L" n="53"/>impeditur ab operatione, quaecumque sit illa, in
+<lb ed="#L" n="54"/>qua ponitur felicitas. Non est igitur possibile in
+<lb ed="#L" n="55"/>hac vita esse ultimam hominis felicitatem.
+</p>
+            <p xml:id="v8naTA-d1e2100-d1e242">
+               <lb ed="#L" n="56"/>Amplius. Inconveniens videtur et irrationabile
+<lb ed="#L" n="57"/>quod tempus generationis alicuius rei sit magnum,
+<lb ed="#L" n="58"/>tempus autem durationis ipsius sit parvum: 
+se<lb ed="#L" break="no" n="59"/>queretur enim quod natura in maiori tempore
+<lb ed="#L" n="60"/>suo fine privaretur; unde. videmus quod 
+ani<lb ed="#L" break="no" n="61"/>malia quae parvo tempore vivunt, parvum etiam
+<lb ed="#L" n="62"/>tempus ad hoc quod perficiantur habent. Si autem
+<lb ed="#L" n="63"/>felicitas consistat in perfecta operatione 
+secun<lb ed="#L" break="no" n="64"/>dum virtutem perfectam , vel intellectualem vel
+<lb ed="#L" n="65"/>moralem, impossibile est eam advenire homini
+<lb ed="#L" n="66"/>nisi post tempus diuturnum. Et hoc maxime in
+<lb ed="#L" n="67"/>speculativis apparet, in quibus ultima felicitas
+<lb ed="#L" n="68"/>hominis ponitur, ut ex dictis patet: nam vix
+<lb ed="#L" n="69"/>in ultima aetate homo ad perfectum in 
+specu<lb ed="#L" break="no" n="70"/>latione scientiarum pervenire potest. Tunc autem,
+<lb ed="#L" n="71"/>ut plurimum, modicum restat humanae vitae.
+<lb ed="#L" n="72"/>Non est igitur possibile in hac vita ultimam
+<lb ed="#L" n="73"/>hominis felicitatem esse.
+</p>
+            <p xml:id="v8naTA-d1e2100-d1e284">
+               <lb ed="#L" n="74"/>Praeterea. Felicitatem perfectum quoddam 
+bo<lb ed="#L" break="no" n="75"/>num omnes confitentur: alias appetitum non
+<lb ed="#L" n="76"/>quietaret. Perfectum autem bonum est quod
+<lb ed="#L" n="77"/>omnino caret admixtione mali: sicut perfecte
+<lb ed="#L" n="78"/>album est quod est omnino impermixtum nigro.
+<lb ed="#L" n="79"/>Non. est autem possibile quod homo in statu
+<lb ed="#L" n="80"/>istius vitae omnino sit immunis a malis: non
+<lb ed="#L" n="81"/>solum corporalibus, quae sunt fames, sitis, aestus
+<lb ed="#L" n="82"/>et frigus, et alia huiusmodi; sed etiam a malis
+<lb ed="#L" n="83"/>animae. Nullus enim invenitur qui non aliquando
+<lb ed="#L" n="84"/>inordinatis passionibus inquietetur; qui non 
+ali<lb ed="#L" break="no" n="85"/>quando praetereat medium, in quo virtus 
+con<lb ed="#L" break="no" n="86"/>sistit, vel in plus vel in minus; qui non etiam
+<lb ed="#L" n="87"/>in aliquibus decipiatur; vel saltem ignoret quae
+<lb ed="#L" n="88"/>scire desiderat; aut etiam debili opinione 
+con<lb ed="#L" break="no" n="89"/>cipiat ea de quibus certitudinem habere vellet.
+<lb ed="#L" n="90"/>Non est igitur aliquis in hac vita felix.
+</p>
+            <p xml:id="v8naTA-d1e2100-d1e323">
+               <lb ed="#L" n="91"/>Adhuc. Homo naturaliter refugit mortem, et
+<lb ed="#L" n="92"/>tristatur de ipsa: non solum ut nunc, cum eam
+<pb ed="#L" n="131"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>sentit, eam refugiens, sed etiam cum eam 
+reco<lb ed="#L" break="no" n="2"/>gitat. Hoc autem quod non moriatur, homo non 
+<lb ed="#L" n="3"/>potest assequi in hac vita. Non est igitur 
+pos<lb ed="#L" break="no" n="4"/>sibile quod homo in hac vita sit felix. 
+</p>
+            <p xml:id="v8naTA-d1e2100-d1e343">
+               <lb ed="#L" n="5"/>Amplius. Felicitas ultima non consistit in 
+ha<lb ed="#L" break="no" n="6"/>bitu, sed in operatione: habitus enim propter 
+<lb ed="#L" n="7"/>actus sunt. Sed impossibile est in hac vita 
+con<lb ed="#L" break="no" n="8"/>tinue agere quamcumque actionem. Impossibile 
+<lb ed="#L" n="9"/>est igitur in hac vita hominem totaliter esse 
+fe<lb ed="#L" break="no" n="10"/>licem. :» autem inane desiderium naturae si nunquam
+</p>
+            <p xml:id="v8naTA-d1e2100-d1e359">
+               <lb ed="#L" n="11"/>Item. Quanto aliquid est magis desideratum — 
+<lb ed="#L" n="12"/>et dilectum, tanto eius amissio maiorem dolorem 
+<lb ed="#L" n="13"/>vel tristitiam affert. Felicitas autem maxime 
+de<lb ed="#L" break="no" n="14"/>sideratur et amatur. Maxime igitur eius amissio 
+<lb ed="#L" n="15"/>tristitiam habet. Sed si sit in. hac vita ultima 
+<lb ed="#L" n="16"/>felicitas, certum est quod amitteretur, saltem per 
+<lb ed="#L" n="17"/>mortem. Et non est certum utrum uratied sit 
+<lb ed="#L" n="18"/>usque ad mortem: cum cuilibet homini possibile 
+<lb ed="#L" n="19"/>sit in hac vita accidere morbos quibus totaliter 
+<lb ed="#L" n="20"/>ab operatione virtutis impeditur, sicut phrenesim » 
+<lb ed="#L" n="21"/>et alios huiusmodi, quibus impeditur rationis 
+<lb ed="#L" n="22"/>usus. Semper igitur talis felicitas habebit 
+tristi<lb ed="#L" break="no" n="23"/>tiam naturaliter annexam. Non erit igitur 
+per<lb ed="#L" break="no" n="24"/>fecta felicitas. 
+</p>
+            <p xml:id="v8naTA-d1e2100-d1e393">
+               <lb ed="#L" n="25"/>Potest autem aliquis dicere quod, cum felicitas; 
+<lb ed="#L" n="26"/>sit bonum intellectualis naturae, perfecta et vera 
+<lb ed="#L" n="27"/>felicitas est illorum in quibus natura intellectualis 
+<lb ed="#L" n="28"/>perfecta invenitur, idest in substantiis separatis: 
+<lb ed="#L" n="29"/>in hominibus autem invenitur imperfecta, per 
+<lb ed="#L" n="30"/>modum participationis cuiusdam. Ad veritatem 
+<lb ed="#L" n="31"/>enim intelligendam plene, non nisi per quendam 
+<lb ed="#L" n="32"/>inquisitionis motum pertingere possunt; et ad 
+<lb ed="#L" n="33"/>ea quae sunt secundum naturam maxime 
+intel<lb ed="#L" break="no" n="34"/>ligibilia, omnino deficiunt, sicut ex dictis  patet. 
+<lb ed="#L" n="35"/>Unde nec felicitas, secundum suam perfectam ; 
+<lb ed="#L" n="36"/>rationem, potest hominibus adesse: sed aliquid 
+<lb ed="#L" n="37"/>ipsius participant, etiam in hac vita. Et haec 
+<lb ed="#L" n="38"/>videtur fuisse sententia Aristotelis de felicitate. 
+<lb ed="#L" n="39"/>Unde in I Ethicorum, ubi inquirit utrum 
+infor<lb ed="#L" break="no" n="40"/>tunia tollant felicitatem, ostenso quod felicitas » 
+<lb ed="#L" n="41"/>sit in operibus virtutis, quae maxime 
+perma<lb ed="#L" break="no" n="42"/>nentes in hac vita esse videntur, concludit illos 
+<lb ed="#L" n="43"/>quibus talis perfectio in hac vita adest, esse 
+<lb ed="#L" n="44"/>beatos ut homines, quasi non simpliciter ad 
+fe<lb ed="#L" break="no" n="45"/>licitatem pertingentes, sed modo humano. 
+</p>
+            <p xml:id="v8naTA-d1e2100-d1e441">
+               <lb ed="#L" n="46"/>Quod autem praedicta responsio rationes 
+prae<lb ed="#L" break="no" n="47"/>missas non evacuet, ostendendum est. Homo 
+<lb ed="#L" n="48"/>enim etsi naturae ordine substantiis separatis sit 
+<lb ed="#L" n="49"/>inferior, creaturis tamen irrationabilibus superior 
+<lb ed="#L" n="50"/>est. Perfectiori igitur modo suum finem ultimum 
+<lb ed="#L" n="51"/>consequitur quam illa. Illa vero sic perfecte suum 
+<lb ed="#L" n="52"/>finem ultimum consequuntur quod nihil aliud 
+<lb ed="#L" n="53"/>quaerunt: grave enim, cum fuerit in suo ubi, 
+<lb ed="#L" n="54"/>quiescit; animalia etiam cum fruuntur 
+delecta<lb ed="#L" break="no" n="55"/>bilibus secundum sensum, eorum naturale desi- 
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="56"/>derium quietatur. Oportet igitur multo. fortius
+<lb ed="#L" n="57"/>quod, cum. homo pervenerit ad suum finem
+<lb ed="#L" n="58"/>ultimum, naturale eius desiderium quietetur. Sed
+<lb ed="#L" n="59"/>hoc non potest fieri in vita ista. Ergo homo non
+<lb ed="#L" n="60"/>consequitur felicitatem, prout est finis proprius
+<lb ed="#L" n="61"/>eius, in hac vita, ut ostensum est. Oportet ergo
+<lb ed="#L" n="62"/>quod consequatur post hanc vitam.
+</p>
+            <p xml:id="v8naTA-d1e2100-d1e483">
+               <lb ed="#L" n="63"/>Adhuc. Impossibile est naturale desiderium
+<lb ed="#L" n="64"/>esse inane: natura enim nihil facit frustra . Esset
+<lb ed="#L" n="65"/>posset impleri. Est igitur implebile desiderium
+<lb ed="#L" n="66"/>naturale hominis. Non autem in hac vita, ut
+<lb ed="#L" n="67"/>ostensum est. Oportet igitur quod impleatur post
+<lb ed="#L" n="68"/>hanc vitam. Est igitur felicitas ultima hominis
+<lb ed="#L" n="69"/>post hanc vitam.
+</p>
+            <p xml:id="v8naTA-d1e2100-d1e501">
+               <lb ed="#L" n="70"/>Amplius. Quandiu aliquid movetur ad 
+per<lb ed="#L" break="no" n="71"/>fectionem, nondum est in ultimo fine. Sed omnes
+<lb ed="#L" n="72"/>homines in cognoscendo veritatem semper se
+<lb ed="#L" n="73"/>habent ut moti et tendentes ad perfectionem:
+<lb ed="#L" n="74"/>quia illi qui sequuntur, superinveniunt aliqua illis
+<lb ed="#L" n="75"/>quae a prioribus sunt inventa, sicut etiam dicitur
+<lb ed="#L" n="76"/>in II Metaphysicae . Non igitur homines in 
+co<lb ed="#L" break="no" n="77"/>gnitione veritatis sic se habent quasi in ultimo
+<lb ed="#L" n="78"/>fine existentes. Cum igitur in speculatione, per
+<lb ed="#L" n="79"/>quam quaeritur cognitio veritatis, maxime 
+vi<lb ed="#L" break="no" n="80"/>deatur ultima felicitas hominis in hac vita 
+con<lb ed="#L" break="no" n="81"/>sistere, sicut etiam ipse Aristoteles probat in
+<lb ed="#L" n="82"/>X Eth., impossibile est dicere quod homo in
+<lb ed="#L" n="83"/>hac vita ultimum suum finem consequatur.
+</p>
+            <p xml:id="v8naTA-d1e2100-d1e534">
+               <lb ed="#L" n="84"/>Praeterea. Omne quod est in potentia, intendit
+<lb ed="#L" n="85"/>exire in actum. Quandiu igitur non est ex toto
+<lb ed="#L" n="86"/>factum in actu, non est in suo fine ultimo. 
+In<lb ed="#L" break="no" n="87"/>tellectus autem noster est in potentia ad omnes
+<lb ed="#L" n="88"/>formas rerum cognoscendas: reducitur autem in
+<lb ed="#L" n="89"/>actum cum aliquam earum cognoscit. Ergo non
+<lb ed="#L" n="90"/>erit ex toto in actu, nec in ultimo suo fine, nisi
+<lb ed="#L" n="91"/>quando omnia, saltem ista materialia, cognoscit.
+<lb ed="#L" n="92"/>Sed hoc non potest homo assequi per scientias
+<lb ed="#L" n="93"/>speculativas, quibus in hac vita veritatem 
+co<lb ed="#L" break="no" n="94"/>gnoscimus. Non est igitur possibile quod ultima
+<lb ed="#L" n="95"/>felicitas hominjs sit in hac vita.
+</p>
+            <p xml:id="v8naTA-d1e2100-d1e563">
+               <lb ed="#L" n="96"/>Propter has autem et huiusmodi rationes,
+<lb ed="#L" n="97"/>Alexander et Averroes posuerunt ultimam 
+ho<lb ed="#L" break="no" n="98"/>minis felicitatem non esse in cognitione humana,
+<lb ed="#L" n="99"/>quae est per scientias speculativas, sed per 
+con<lb ed="#L" break="no" n="100"/>tinuationem cum substantia separata, quam esse
+<lb ed="#L" n="101"/>credebant possibilem homini in hac vita . Quia
+<lb ed="#L" n="102"/>vero Aristoteles vidit quod non est alia cognitio
+<lb ed="#L" n="103"/>hominis in hac vita quam per scientias 
+specu<lb ed="#L" break="no" n="104"/>lativas, posuit hominem non consequi 
+felicita<lb ed="#L" break="no" n="105"/>tem perfectam, sed suo modo.
+</p>
+            <p xml:id="v8naTA-d1e2100-d1e588">
+               <lb ed="#L" n="106"/>In quo satis apparet quantam angustiam 
+pa<lb ed="#L" break="no" n="107"/>tiebantur hinc inde eorum praeclara ingenia. A
+<lb ed="#L" n="108"/>quibus angustiis liberabimur si ponamus, 
+secun<lb ed="#L" break="no" n="109"/>dum probationes praemissas, hominem ad veram
+<pb ed="#L" n="132"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>felicitatem post hanc vitam pervenire posse, anima
+<lb ed="#L" n="2"/>hominis immortali existente, in quo statu anima
+<lb ed="#L" n="3"/>intelliget per modum quo intelligunt substantiae
+<lb ed="#L" n="4"/>separatae, sicut in Secundo huius Operis  
+osten<lb ed="#L" break="no" n="5"/>sum est,
+</p>
+            <p xml:id="v8naTA-d1e2100-d1e614">
+               <lb ed="#L" n="6"/>Erit igitur ultima felicitas hominis in cognitione
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="7"/>Dei quam habet humana mens post hanc vitam,
+<lb ed="#L" n="8"/>per modum quo ipsum cognoscunt substantiae
+<lb ed="#L" n="9"/>separatae. Propter quod, AMatth. v^, Dominus
+<lb ed="#L" n="10"/>mercedem nobis in caelis promittit; et Matth. xxu,
+<lb ed="#L" n="11"/>dicit quod Sancti erunt sicut Angeli, qui vident
+<lb ed="#L" n="12"/>semper Deum in caelis, ut dicitur Matth. xvim
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

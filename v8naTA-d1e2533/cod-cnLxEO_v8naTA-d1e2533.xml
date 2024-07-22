@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 101</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 101</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="312"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2533"><!-- v8naTA-l3c101 -->
+            <head xml:id="v8naTA-d1e2533-Hd1e101">Capitulum 101</head>
+            <head xml:id="v8naTA-d1e2533-Hd1e103" type="question-title">De miraculis.</head>
+            <p xml:id="v8naTA-d1e2533-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="103" type="fixed=312"/>CAPITULUM CENTESIMUM PRIMUM
+<lb ed="#L" n="104"/>DE MIRACULIS.
+</p>
+            <p xml:id="v8naTA-d1e2533-d1e115">
+               <lb ed="#L" n="105"/>HAEC autem quae praeter ordinem 
+com<lb ed="#L" break="no" n="106"/>muniter in rebus statutum quandoque
+<lb ed="#L" n="107"/>divinitus fiunt, miracula dici solent:
+<lb ed="#L" n="108"/>admiramur enim aliquid cum, effectum
+<lb ed="#L" n="109"/>videntes, causam ignoramus. Et quia causa una
+<lb ed="#L" n="110"/>et eadem a quibusdam interdum est cognita et
+<lb ed="#L" n="111"/>a quibusdam ignota, inde contingit quod viden-
+<cb ed="#L" n="d"/>
+               <lb ed="#L" n="112"/>tium simul aliquem effectum, aliqui mirantur et
+<lb ed="#L" n="113"/>aliqui non mirantur: astrologus enim non miratur
+<lb ed="#L" n="114"/>videns eclipsim solis, quia cognoscit causam;
+<lb ed="#L" n="115"/>ignarus autem huius scientiae necesse habet 
+ad<lb ed="#L" break="no" n="116"/>mirari, causam ignorans. Sic igitur est aliquid
+<lb ed="#L" n="117"/>mirum quoad hunc, non autem quoad illum.
+<lb ed="#L" n="118"/>Illud ergo simpliciter mirum est quod habet causam
+<pb ed="#L" n="313"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>simpliciter occultam: et hoc sonat nomen 
+7mnira<lb ed="#L" break="no" n="2"/>culi, quod scilicet sit de se admiratione plenum,
+<lb ed="#L" n="3"/>non quoad hunc vel illum tantum. Causa autem
+<lb ed="#L" n="4"/>simpliciter occulta omni homini est Deus: 
+pro<lb ed="#L" break="no" n="5"/>batum enim est supra quod eius essentiam nullus
+<lb ed="#L" n="6"/>homo in statu huius vitae intellectu capere potest.
+<lb ed="#L" n="7"/>llla igitur proprie miracula: dicenda sunt quae
+<lb ed="#L" n="8"/>divinitus fiunt praeter ordinem communiter 
+obser<lb ed="#L" break="no" n="9"/>vatum in rebus.
+</p>
+            <p xml:id="v8naTA-d1e2533-d1e174">
+               <lb ed="#L" n="10"/>Horum autem miraculorum diversi sunt gradus
+<lb ed="#L" n="11"/>et ordines. Nam summum gradum inter miracula
+<lb ed="#L" n="12"/>tenent in quibus aliquid fit a Deo quod natura
+<lb ed="#L" n="13"/>nunquam facere potest: sicut quod duo corpora
+<lb ed="#L" n="14"/>sint simul, quod sol retrocedat aut stet, quod
+<lb ed="#L" n="15"/>mare divisum transeuntibus iter praebeat. Et inter
+<lb ed="#L" n="16"/>haec etiam ordo attenditur. Nam quanto maiora
+<lb ed="#L" n="17"/>sunt illa quae Deus operatur, et quanto magis
+<lb ed="#L" n="18"/>sunt remota a facultate naturae, tanto miraculum
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="19"/>maius est: sicut maius est miraculum quod sol
+<lb ed="#L" n="20"/>retrocedat quam quod mare dividatur.
+</p>
+            <p xml:id="v8naTA-d1e2533-d1e204">
+               <lb ed="#L" n="21"/>Secundum autem gradum in miraculis tenent
+<lb ed="#L" n="22"/>illa in quibus Deus aliquid facit quod natura facere
+<lb ed="#L" n="23"/>potest, sed. non. per illum ordinem. Opus enim
+<lb ed="#L" n="24"/>naturae est quod aliquod animal vivat, videat et
+<lb ed="#L" n="25"/>ambulet: sed quod post mortem vivat, post 
+caeci<lb ed="#L" break="no" n="26"/>tatem videat, post debilitatem claudus ambulet,
+<lb ed="#L" n="27"/>hoc natura facere non potest, sed Deus interdum
+<lb ed="#L" n="28"/>miraculose operatur. Inter haec etiam miracula
+<lb ed="#L" n="29"/>gradus attenditur, secundum quod illud. quod fit,
+<lb ed="#L" n="30"/>magis est a facultate naturae remotum.
+</p>
+            <p xml:id="v8naTA-d1e2533-d1e228">
+               <lb ed="#L" n="31"/>Tertius autem gradus miraculorum est cum
+<lb ed="#L" n="32"/>Deus facit quod consuetum est fieri operatione
+<lb ed="#L" n="33"/>naturae, tamen absque principiis naturae 
+operan<lb ed="#L" break="no" n="34"/>tibus: sicut cum aliquis a febre curabili per 
+na<lb ed="#L" break="no" n="35"/>turam, divina virtute curatur; et cum pluit sine
+<lb ed="#L" n="36"/>operatione principiorum naturae.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

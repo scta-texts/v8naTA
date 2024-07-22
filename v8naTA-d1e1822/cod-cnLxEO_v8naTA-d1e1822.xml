@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 14</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 14</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="37"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1822"><!-- v8naTA-l3c14 -->
+            <head xml:id="v8naTA-d1e1822-Hd1e101">Capitulum 14</head>
+            <head xml:id="v8naTA-d1e1822-Hd1e103" type="question-title">Quod malum est causa per accidens.</head>
+            <p xml:id="v8naTA-d1e1822-d1e106">
+               <cb ed="#L" n="f"/>
+               <lb ed="#L" n="58" type="fixed=36"/>CAPITULUM DECIMUM QUARTUM
+<lb ed="#L" n="59"/>QUOD MALUM EST CAUSA PER ACCIDENS.
+</p>
+            <p xml:id="v8naTA-d1e1822-d1e115">
+               <cb ed="#L" n="g"/>
+               <lb ed="#L" n="60"/>Ex eisdem etiam patet quod malum, etsi
+<lb ed="#L" n="61"/>non sit causa per se, est tamen causa
+<lb ed="#L" n="62"/>per accidens.
+</p>
+            <p xml:id="v8naTA-d1e1822-d1e126">
+               <lb ed="#L" n="63"/>Si enim aliquid est causa alicuius
+<lb ed="#L" n="64"/>per se, id quod accidit ei, est causa illius per
+<lb ed="#L" n="65"/>accidens: sicut album quod accidit aedificatori,
+<lb ed="#L" n="66"/>est causa domus per accidens. Omne autem 
+ma<lb ed="#L" break="no" n="67"/>lum est in aliquo bono . Bonum autem omne est
+<lb ed="#L" n="68"/>alicuius aliquo modo causa: materia enim est
+<lb ed="#L" n="69"/>quodammodo causa. formae, et quodammodo e
+<lb ed="#L" n="70"/>converso; et similiter est deagente et fine. Unde
+<lb ed="#L" n="71"/>non sequitur processus in infinitum in causis,
+<lb ed="#L" n="72"/>si quodlibet est. alicuius causa, propter circulum
+<lb ed="#L" n="73"/>inventum in causis et causatis secundum species
+<lb ed="#L" n="74"/>diversas causarum. Malum igitur est per accidens 
+<lb ed="#L" n="75"/>causa.
+</p>
+            <p xml:id="v8naTA-d1e1822-d1e158">
+               <lb ed="#L" n="76"/>Adhuc. Malum est privatio quaedam, ut ex
+<lb ed="#L" n="77"/>praedictis patet. Privatio autem est principium
+<lb ed="#L" n="78"/>per accidens in rebus mobilibus, sicut materia et
+<lb ed="#L" n="79"/>forma per se. Malum igitur est alicuius causa »»
+<lb ed="#L" n="80"/>per accidens.
+</p>
+            <p xml:id="v8naTA-d1e1822-d1e171">
+               <cb ed="#L" n="h"/>
+               <lb ed="#L" n="81"/>Praeterea. Ex defectu causae sequitur defectus
+<lb ed="#L" n="82"/>in effectu. Defectus autem in causa est aliquod
+<lb ed="#L" n="83"/>malum. Non tamen potest esse causa per se:
+<lb ed="#L" n="84"/>quia res non est causa per hoc quod est 
+defi<lb ed="#L" break="no" n="85"/>ciens, sed per hoc quod est ens; si enim tota
+<lb ed="#L" n="86"/>deficeret, nullius esset causa. Malum igitur est
+<lb ed="#L" n="87"/>alicuius causa non per se, sed per accidens
+</p>
+            <p xml:id="v8naTA-d1e1822-d1e191">
+               <lb ed="#L" n="88"/>Item. Secundum omnes species causarum 
+dis<lb ed="#L" break="no" n="89"/>currendo, invenitur malum esse per accidens
+<lb ed="#L" n="90"/>causa. In specie quidem causae efficientis, quia
+<lb ed="#L" n="91"/>propter causae agentis deficientem virtutem 
+se<lb ed="#L" break="no" n="92"/>quitur defectus in effectu et actione. In specie
+<lb ed="#L" n="93"/>vero causae materialis, quia ex materiae 
+indispo<lb ed="#L" break="no" n="94"/>sitione causatur in effectu defectus. In specie
+<lb ed="#L" n="95"/>vero causae formalis, quia uni formae semper 
+ad<lb ed="#L" break="no" n="96"/>iungitur alterius formae privatio. In specie vero
+<lb ed="#L" n="97"/>causae finalis, quia indebito fini adiungitur 
+ma<lb ed="#L" break="no" n="98"/>lum, inquantum per ipsum finis debitus 
+impe<lb ed="#L" break="no" n="99"/>ditur.
+</p>
+            <p xml:id="v8naTA-d1e1822-d1e220">
+               <lb ed="#L" n="100"/>Patet igitur quod malum est causa per 
+acci<lb ed="#L" break="no" n="101"/>dens, et non potest esse causa per se.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

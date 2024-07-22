@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 82</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 82</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="243"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2377"><!-- v8naTA-l3c82 -->
+            <head xml:id="v8naTA-d1e2377-Hd1e101">Capitulum 82</head>
+            <head xml:id="v8naTA-d1e2377-Hd1e103" type="question-title">Quod inferiora corpora reguntur a deo
+per corpora caelestia.</head>
+            <p xml:id="v8naTA-d1e2377-d1e106">
+               <pb ed="#L" n="243"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=243"/>CAPITULUM OCTOGESIMUM SECUNDUM
+<lb ed="#L" n="2"/>QUOD INFERIORA CORPORA REGUNTUR A DEO
+<lb ed="#L" n="3"/>PER CORPORA CAELESTIA.
+</p>
+            <p xml:id="v8naTA-d1e2377-d1e119">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="4"/>SICUT autem in substantiis intellectualibus
+<lb ed="#L" n="5"/>est superius et inferius, ita etiam in
+<lb ed="#L" n="6"/>substantiis corporalibus. Substantiae
+<lb ed="#L" n="7"/>autem intellectuales reguntur a 
+supe<lb ed="#L" break="no" n="8"/>rioribus, ut dispositio divinae providentiae 
+pro<lb ed="#L" break="no" n="9"/>portionaliter descendat usque ad infima, sicut
+<lb ed="#L" n="10"/>iam  dictum est. Ergo, pari ratione, inferiora
+<lb ed="#L" n="11"/>corpora per superiora disponuntur.
+</p>
+            <p xml:id="v8naTA-d1e2377-d1e141">
+               <lb ed="#L" n="12"/>Amplius. Quanto aliquod corpus est superius
+<lb ed="#L" n="13"/>loco, tanto invenitur esse formalius; et propter
+<lb ed="#L" n="14"/>hoc etiam rationabiliter est locus inferioris, nam
+<lb ed="#L" n="15"/>formae est continere, sicut et loci; aqua enim
+<lb ed="#L" n="16"/>est formalior terra, aer aqua, ignis aere. Sed
+<lb ed="#L" n="17"/>corpora caelestia sunt omnibus loco superiora.
+<lb ed="#L" n="18"/>Ipsa igitur sunt magis formalia omnibus aliis.
+<lb ed="#L" n="19"/>Ergo magis activa. Agunt ergo in inferiora 
+cor<lb ed="#L" break="no" n="20"/>pora. Et sic per ea inferiora disponuntur.
+</p>
+            <p xml:id="v8naTA-d1e2377-d1e164">
+               <lb ed="#L" n="21"/>Item. Quod est in sua natura perfectum absque
+<lb ed="#L" n="22"/>contrarietate, est universalioris virtutis quam illud
+<lb ed="#L" n="23"/>quod in sua natura non perficitur nisi cum 
+con<lb ed="#L" break="no" n="24"/>trarietate: contrarietas enim est ex differentiis
+<lb ed="#L" n="25"/>determinantibus et contrahentibus genus; unde
+<lb ed="#L" n="26"/>in acceptione intellectus, quia est universalis,
+<lb ed="#L" n="27"/>species contrariorum non sunt contrariae, cum
+<lb ed="#L" n="28"/>sint simul. Corpora autem caelestia sunt in suis
+<lb ed="#L" n="29"/>naturis absque omni contrarietate perfecta: non
+<lb ed="#L" n="30"/>enim sunt levia neque gravia, neque calida neque
+<lb ed="#L" n="31"/>frigida. Corpora vero inferiora non perficiuntur
+<lb ed="#L" n="32"/>in suis naturis nisi cum aliqua contrarietate. Et
+<lb ed="#L" n="33"/>hoc etiam motus eorum demonstrant: nam motui
+<lb ed="#L" n="34"/>circulari corporum caelestium non est aliquid
+<lb ed="#L" n="35"/>contrarium, unde nec in eis violentia esse potest ;
+<lb ed="#L" n="36"/>motui autem inferiorum corporum contrarii sunt,
+<lb ed="#L" n="37"/>scilicet motus deorsum motui sursum. Corpora
+<lb ed="#L" n="38"/>ergo caelestia sunt universalioris virtutis quam
+<lb ed="#L" n="39"/>corpora inferiora. Universales autem virtutes sunt
+<lb ed="#L" n="40"/>motivae particularium, sicut ex dictis patet.
+<lb ed="#L" n="41"/>Corpora igitur caelestia movent et disponunt
+<lb ed="#L" n="42"/>corpora inferiora.
+</p>
+            <p xml:id="v8naTA-d1e2377-d1e214">
+               <lb ed="#L" n="43"/>Adhuc. Ostensum est supra  quod per 
+sub<lb ed="#L" break="no" n="44"/>stantias intellectuales alia omnia reguntur. 
+Cor<lb ed="#L" break="no" n="45"/>pora autem caelestia sunt similiora substantiis
+<lb ed="#L" n="46"/>intellectualibus quam alia corpora, inquantum
+<lb ed="#L" n="47"/>sunt incorruptibilia. Sunt etiam eis propinquiora,
+<lb ed="#L" n="48"/>inquantum ab eis immediate moventur, ut supra, 
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="49"/>ostensum est. Per ipsa igitur reguntur inferiora
+<lb ed="#L" n="50"/>corpora.
+</p>
+            <p xml:id="v8naTA-d1e2377-d1e236">
+               <lb ed="#L" n="51"/>Praeterea. Oportet primum principium motus
+<lb ed="#L" n="52"/>esse aliquid immobile. Quae ergo magis 
+acce<lb ed="#L" break="no" n="53"/>dunt ad immobilitatem, debent esse aliorum
+<lb ed="#L" n="54"/>motiva. Corpora autem caelestia magis accedunt
+<lb ed="#L" n="55"/>ad immobilitatem primi principii quam inferiora:
+<lb ed="#L" n="56"/>quia non moventur nisi una specie motus, 
+sci<lb ed="#L" break="no" n="57"/>licet motu locali; alia vero corpora moventur
+<lb ed="#L" n="58"/>omnibus speciebus motus. Corpora igitur caelestia
+<lb ed="#L" n="59"/>sunt motiva et regitiva inferiorum corporum.
+</p>
+            <p xml:id="v8naTA-d1e2377-d1e258">
+               <lb ed="#L" n="60"/>Amplius. Primum in quolibet genere est causa
+<lb ed="#L" n="61"/>eorum quae suni posi. Inter omnes autem alios
+<lb ed="#L" n="62"/>motus, primus est motus caeli. Primo quidem,
+<lb ed="#L" n="63"/>quia motus localis est primus inter omnes motus.
+<lb ed="#L" n="64"/>Et tempore: quia solus potest esse perpetuus, ut
+<lb ed="#L" n="65"/>probatur in <ref xml:id="v8naTA-d1e2377-Rd1e273">VIII Phys.</ref>. Et naturaliter: quia sine
+<lb ed="#L" n="66"/>eo non potest esse aliquis aliorum; non enim
+<lb ed="#L" n="67"/>augmentatur aliquid nisi praeexistente alteratione,
+<lb ed="#L" n="68"/>per quam quod prius erat dissimile, convertatur
+<lb ed="#L" n="69"/>et fiat simile; neque alteratio potest esse nisi
+<lb ed="#L" n="70"/>praeexistente loci mutatione, quia ad hoc quod
+<lb ed="#L" n="71"/>fiat alteratio, oportet quod alterans magis sit
+<lb ed="#L" n="72"/>propinquum alterato nunc quam prius. Est etiam
+<lb ed="#L" n="73"/>perfectione prior: quia motus localis non variat
+<lb ed="#L" n="74"/>rem secundum aliquid ei inhaerens, sed solum
+<lb ed="#L" n="75"/>secundum aliquid extrinsecum; et propter hoc
+<lb ed="#L" n="76"/>est rei iam perfectae. — Secundo. quia etiam
+<lb ed="#L" n="77"/>inter motus locales est motus circularis prior.
+<lb ed="#L" n="78"/>Et tempore: quia solus ipse potest esse perpetuus,
+<lb ed="#L" n="79"/>ut probatur in VIII Phys.. Et naturaliter: quia
+<lb ed="#L" n="80"/>est magis simplex et unus, cum non distinguatur
+<lb ed="#L" n="81"/>in principium, medium et finem, sed totus sit
+<lb ed="#L" n="82"/>quasi medium. Et etiam perfectione: quia 
+refle<lb ed="#L" break="no" n="83"/>citiru ad principium. - Tertio, quia solus motus
+<lb ed="#L" n="84"/>caeli invenitur semper regularis et uniformis: in
+<lb ed="#L" n="85"/>motibus enim naturalibus gravium et levium fit
+<lb ed="#L" n="86"/>additio velocitatis in fine, in violentis autem 
+ad<lb ed="#L" break="no" n="87"/>ditio tarditatis — Oportet ergo quod motus caeli
+<lb ed="#L" n="88"/>sit causa omnium aliorum motuum.
+</p>
+            <p xml:id="v8naTA-d1e2377-d1e326">
+               <lb ed="#L" n="89"/>Adhuc. Sicut se habet immobile simpliciter
+<lb ed="#L" n="90"/>ad motum simpliciter, ita se habet immobile 
+se<lb ed="#L" break="no" n="91"/>cundum hunc motum ad motum talem ld autem
+<lb ed="#L" n="92"/>quod est immobile simpliciter, est principium
+<lb ed="#L" n="93"/>omnis motus, ut supra  probatum est. Quod
+<pb ed="#L" n="244"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>ergo est immobile secundum alterationem, est
+<lb ed="#L" n="2"/>principium omnis alterationis. Corpora autem
+<lb ed="#L" n="3"/>caelestia sola inter corporalia sunt inalterabilia:
+<lb ed="#L" n="4"/>quod demonstrat dispositio eorum, quae semper
+<lb ed="#L" n="5"/>eadem invenitur. Est ergo corpus caeleste causa ;
+<lb ed="#L" n="6"/>omnis alterationis in his quae alterantur. Alteratio
+<lb ed="#L" n="7"/>autem in his inferioribus est principium omnis
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="8"/>motus: nam per alterationem pervenitur ad
+<lb ed="#L" n="9"/>augmentum et generationem; generans autem
+<lb ed="#L" n="10"/>est motor per se in motu locali gravium et
+<lb ed="#L" n="11"/>levium . Oportet ergo quod caelum sit causa
+<lb ed="#L" n="12"/>omnis motus in istis inferioribus corporibus.
+</p>
+            <p xml:id="v8naTA-d1e2377-d1e372">
+               <lb ed="#L" n="13"/>Sic ergo patet quod corpora inferiora a Deo
+<lb ed="#L" n="14"/>per corpora caelestia reguntur.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

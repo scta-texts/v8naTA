@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 148</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 148</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="437"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2916"><!-- v8naTA-l3c148 -->
+            <head xml:id="v8naTA-d1e2916-Hd1e101">Capitulum 148</head>
+            <head xml:id="v8naTA-d1e2916-Hd1e103" type="question-title">Quod per auxilium divinae gratiae
+homo non cogitur ad virtutem.</head>
+            <p xml:id="v8naTA-d1e2916-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="101" type="fixed=437"/>CAPITULUM
+<lb ed="#L" n="102"/>CENTESIMUM QUADRAGESIMUM OCTAVUM
+<lb ed="#L" n="103"/>QUOD PER AUXILIUM DIVINAE GRATIAE
+<lb ed="#L" n="104"/>HOMO NON COGITUR AD VIRTUTEM.
+</p>
+            <p xml:id="v8naTA-d1e2916-d1e119">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="105"/>POSSET autem videri alicui quod per 
+di<lb ed="#L" break="no" n="106"/>vinum auxilium aliqua coactio homini
+<lb ed="#L" n="107"/>inferatur ad bene agendum, ex hoc
+<lb ed="#L" n="108"/>quod dictum est , Nemo potest venire
+<lb ed="#L" n="109"/>ad me nisi Paler, qui misil me, traxerit eum; et ; 
+<lb ed="#L" n="110"/>ex hoc quod dicitur Rom. vur', Qui Spiritu Dei 
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="111"/>agiintir, hi filii Dei sunt; et II Cor. v', Caritas
+<lb ed="#L" n="112"/>Christi urget nos. Trahi enim, et agi, et urgeri,
+<lb ed="#L" n="113"/>coactionem importare videntur .
+</p>
+            <p xml:id="v8naTA-d1e2916-d1e145">
+               <lb ed="#L" n="114"/>Hoc autem non esse verum manifeste 
+osten<lb ed="#L" break="no" n="115"/>ditur. Divina enim providentia rebus omnibus
+<lb ed="#L" n="116"/>providet secundum modum eorum, ut supra  Cap xxx.
+<pb ed="#L" n="438"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>ostensum. est. Est autem proprium homini, et
+<lb ed="#L" n="2"/>omni rationali naturae, quod voluntarie agat et
+<lb ed="#L" n="3"/>suis actibus dominetur, ut ex supra  dictis patet.
+<lb ed="#L" n="4"/>Huic autem coactio contrariatur. Non igitur Deus
+<lb ed="#L" n="5"/>suo auxilio hominem cogit ad recte agendum.
+</p>
+            <p xml:id="v8naTA-d1e2916-d1e170">
+               <lb ed="#L" n="6"/>Adhuc. Divinum auxilium sic intelligitur ad
+<lb ed="#L" n="7"/>bene agendum homini adhiberi, quod in. nobis
+<lb ed="#L" n="8"/>nostra opera operatur, sicut causa prima operatur
+<lb ed="#L" n="9"/>operationes causarum secundarum, et agens 
+prin<lb ed="#L" break="no" n="10"/>cipale operatur actionem instrumenti: unde 
+di<lb ed="#L" break="no" n="11"/>citur Jsaiae xxvi: Omnia opera nostra operatus
+<lb ed="#L" n="12"/>es in nobis, Domine. Causa autem prima causat
+<lb ed="#L" n="13"/>operationem causae secundae secundum modum
+<lb ed="#L" n="14"/>ipsius. Ergo et Deus causat in nobis nostra opera
+<lb ed="#L" n="15"/>secundum modum nostrum, qui est ut 
+volun<lb ed="#L" break="no" n="16"/>tarie, et non coacte agamus. Non igitur divino
+<lb ed="#L" n="17"/>auxilio aliquis cogitur ad recte agendum.
+<lb ed="#L" n="18"/>Amplius. Homo per voluntatem ordinatur in
+<lb ed="#L" n="19"/>finem: obiectum enim voluntatis est bonum et
+<lb ed="#L" n="20"/>finis. Auxilium autem divinum nobis ad hoc 
+prae<lb ed="#L" break="no" n="21"/>cipue impenditur ut consequamur finem. Eius
+<lb ed="#L" n="22"/>ergo auxilium non excludit a nobis actum  
+vo<lb ed="#L" break="no" n="23"/>luntatis, sed ipsum praecipue in nobis facit: unde
+<lb ed="#L" n="24"/>et Apostolus dicit, Philipp. n^: Deus est qui 
+ope<lb ed="#L" break="no" n="25"/>ratur in nobis velle et perficere; pro bona 
+vo<lb ed="#L" break="no" n="26"/>luntate. Coactio autem excludit in nobis actum
+<lb ed="#L" n="27"/>voluntatis: .coacte enim agimus cuius contrarium
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="28"/>volumus. Non ergo Deus suo auxilio nos cogit
+<lb ed="#L" n="29"/>ad recte agendum.
+</p>
+            <p xml:id="v8naTA-d1e2916-d1e227">
+               <lb ed="#L" n="30"/>Item. Homo pervenit ad ultimum suum finem
+<lb ed="#L" n="31"/>per actus virtutum: felicitas enim virtutis 
+prae<lb ed="#L" break="no" n="32"/>mium ponitur, Actus autem coacti non sunt
+<lb ed="#L" n="33"/>actus virtutum: nam in virtute praecipuum est
+<lb ed="#L" n="34"/>electio, quae sine voluntario esse non potest, cui
+<lb ed="#L" n="35"/>violentum :contrarium est. Non igitur divinitus
+<lb ed="#L" n="36"/>homo cogitur ad recte agendum.
+</p>
+            <p xml:id="v8naTA-d1e2916-d1e245">
+               <lb ed="#L" n="37"/>Praeterea. Ea quae sunt ad finem, debent esse
+<lb ed="#L" n="38"/>fini proportionata. Finis autem ultimus, qui est
+<lb ed="#L" n="39"/>felicitas, non competit nisi voluntarie agentibus,
+<lb ed="#L" n="40"/>qui sunt domini sui actus: unde neque 
+inani<lb ed="#L" break="no" n="41"/>mata, neque bruta animalia felicia dicimus, sicut
+<lb ed="#L" n="42"/>nec fortunata aut infortunata , nisi secundum
+<lb ed="#L" n="43"/>metaphoram. Auxilium igitur quod homini datur
+<lb ed="#L" n="44"/>divinitus ad felicitatem consequendam, non est
+<lb ed="#L" n="45"/>coactivum.
+</p>
+            <p xml:id="v8naTA-d1e2916-d1e267">
+               <lb ed="#L" n="46"/>Hinc est quod Deut. xxx'' dicitur: Considera
+<lb ed="#L" n="47"/>quod hodie proposuerit Dominus in conspectu tuo
+<lb ed="#L" n="48"/>vitam et bonum, el e contrario mortem et malum:
+<lb ed="#L" n="49"/>ut diligas Dominum Deum tuum, et ambules in
+<lb ed="#L" n="50"/>vus eius. Si aulem aversum fuerit cor tuum el
+<lb ed="#L" n="51"/>audire nolueris, praedico libi hodie quod pereas.
+<lb ed="#L" n="52"/>Et Eccli. xv dicitur: Ante hominem est vita el
+<lb ed="#L" n="53"/>mors, bonum et malum. Quod placuerit ei, 
+da<lb ed="#L" break="no" n="54"/>bitur. illi.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

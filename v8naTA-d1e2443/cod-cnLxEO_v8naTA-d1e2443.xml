@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 90</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 90</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="275"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2443"><!-- v8naTA-l3c90 -->
+            <head xml:id="v8naTA-d1e2443-Hd1e101">Capitulum 90</head>
+            <head xml:id="v8naTA-d1e2443-Hd1e103" type="question-title">Quod electiones et voluntates humanae
+subduntur divinae providentiae.</head>
+            <p xml:id="v8naTA-d1e2443-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="103" type="fixed=275"/>CAPITULUM NONAGESIMUM
+<lb ed="#L" n="104"/>QUOD ELECTIONES ET VOLUNTATES HUMANAE
+<lb ed="#L" n="105"/>SUBDUNTUR DIVINAE PROVIDENTIAE.
+</p>
+            <p xml:id="v8naTA-d1e2443-d1e117">
+               <lb ed="#L" n="106"/>EX quo patet quod oportet etiam 
+volun<lb ed="#L" break="no" n="107"/>tates humanas et electiones divinae
+<lb ed="#L" n="108"/>providentiae subditas esse.
+</p>
+            <p xml:id="v8naTA-d1e2443-d1e126">
+               <lb ed="#L" n="109"/>Omnia enim quae Deus agit, ex 
+or<lb ed="#L" break="no" n="110"/>dine providentiae suae agit. Cum igitur ipse sit 
+<lb ed="#L" n="111"/>et voluntates nostrae divinae providentiae 
+sub<lb ed="#L" break="no" n="112"/>duntur.
+</p>
+            <p xml:id="v8naTA-d1e2443-d1e138">
+               <lb ed="#L" n="113"/>Amplius. Omnia corporalia per spiritualia 
+ad<lb ed="#L" break="no" n="114"/>ministrantur, sicut superius  est ostensum. 
+Spi<lb ed="#L" break="no" n="115"/>ritualia autem agunt in corporalia per 
+volunta<lb ed="#L" break="no" n="116"/>causa electionis et voluntatis nostrae, electiones
+<lb ed="#L" n="117"/>tem. Si igitur electiones et motus voluntatum
+<pb ed="#L" n="276"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>intellectualium substantiarum ad Dei 
+providen<lb ed="#L" break="no" n="2"/>tiam non pertinent, sequitur quod etiam 
+corpo<lb ed="#L" break="no" n="3"/>ralia ipsius providentiae subtrahantur. Et sic
+<lb ed="#L" n="4"/>totaliter nulla erit providentia.
+</p>
+            <p xml:id="v8naTA-d1e2443-d1e164">
+               <lb ed="#L" n="5"/>Item. Quanto aliqua sunt nobiliora in universo,
+<lb ed="#L" n="6"/>tanto oportet quod magis participent ordine, in
+<lb ed="#L" n="7"/>quo bonum universi consistit. Unde Aristoteles,
+<lb ed="#L" n="8"/>in II Phys., arguit antiquos philosophos, qui 
+po<lb ed="#L" break="no" n="9"/>nebant casum et fortunam in constitutione 
+cae<lb ed="#L" break="no" n="10"/>lestium corporum, non autem in inferioribus
+<lb ed="#L" n="11"/>rebus. Substantiae autem intellectuales sunt 
+no<lb ed="#L" break="no" n="12"/>biliores substantiis corporalibus. Si ergo 
+substan<lb ed="#L" break="no" n="13"/>tiae corporales, quantum ad suas substantias et
+<lb ed="#L" n="14"/>actiones, cadunt sub ordine providentiae, multo
+<lb ed="#L" n="15"/>magis substantiae intellectuales.
+</p>
+            <p xml:id="v8naTA-d1e2443-d1e190">
+               <lb ed="#L" n="16"/>Praeterea. Ea quae sunt propinquiora fini, magis
+<lb ed="#L" n="17"/>cadunt sub ordine qui est ad finem: nam eis 
+me<lb ed="#L" break="no" n="18"/>diantibus etiam alia ordinantur in finem. Actiones
+<lb ed="#L" n="19"/>autem substantiarum intellectualium propinquius
+<lb ed="#L" n="20"/>ordinantur in Deum sicut in finem, quam actiones
+<lb ed="#L" n="21"/>aliarum rerum, sicut supra ostensum est. Magis
+<lb ed="#L" n="22"/>igitur cadunt actiones intellectualium 
+substantia<lb ed="#L" break="no" n="23"/>rum sub ordine providentiae, qua Deus omnia in
+<lb ed="#L" n="24"/>seipsum ordinat, quam actiones aliarum rerum.
+</p>
+            <p xml:id="v8naTA-d1e2443-d1e212">
+               <lb ed="#L" n="25"/>Adhuc. Gubernatio providentiae ex amore
+<lb ed="#L" n="26"/>divino procedit, quo Deus res a se creatas amat:
+<lb ed="#L" n="27"/>in hoc enim praecipue consistit amor, quod
+<lb ed="#L" n="28"/>amans amato bonum velit . Quanto ergo Deus
+<lb ed="#L" n="29"/>aliqua magis amat, magis sub eius providentia
+<lb ed="#L" n="30"/>cadunt. Hoc autem et Sacra Scriptura docet in
+<lb ed="#L" n="31"/>Psalmo , dicens, Custodit Dominus ommes 
+dili<lb ed="#L" break="no" n="32"/>gentes se; et etiam Philosophus tradit, in X 
+Kthi<lb ed="#L" break="no" n="33"/>corum , dicens quod Deus maxime curat de his
+<lb ed="#L" n="34"/>qui diligunt intellectum, tanquam de suis amicis.
+<lb ed="#L" n="35"/>Ex quo etiam habetur quod maxime substantias s; 
+<lb ed="#L" n="36"/>intellectuales amet. Sub eius igitur providentia
+<lb ed="#L" n="37"/>cadunt earum voluntates et electiones.
+</p>
+            <p xml:id="v8naTA-d1e2443-d1e243">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="38"/>Amplius. Bona interiora hominis, quae ex 
+vo<lb ed="#L" break="no" n="39"/>luntate et actione dependent, sunt magis propria
+<lb ed="#L" n="40"/>homini quam illa quae extra ipsum sunt, ut adeptio
+<lb ed="#L" n="41"/>divitiarum, vel si quid aliud est huiusmodi: unde
+<lb ed="#L" n="42"/>per haec homo dicitur esse bonus, non autem
+<lb ed="#L" n="43"/>per illa. Si igitur electiones humanae et voluntatis
+<lb ed="#L" n="44"/>motus non cadunt sub divina providentia, sed
+<lb ed="#L" n="45"/>solum exteriores proventus, verius erit quod res
+<lb ed="#L" n="46"/>humanae sint extra providentiam, quam quod
+<lb ed="#L" n="47"/>providentiae subsint. Quod quidem ex persona
+<lb ed="#L" n="48"/>blasphemantium inducitur, Zob xxiu', Circa 
+car<lb ed="#L" break="no" n="49"/>dines caeli considerat, nec nostra considerat; et
+<lb ed="#L" n="50"/>Ezech. ix?, Dereliquit Dominus terram, Dominus
+<lb ed="#L" n="51"/>non videt; et Thren. m?, Quis est iste qui dixit
+<lb ed="#L" n="52"/>ut fieret, Domino non iubente ?
+</p>
+            <p xml:id="v8naTA-d1e2443-d1e280">
+               <lb ed="#L" n="53"/>Videntur autem quaedam in Sacra Doctrina
+<lb ed="#L" n="54"/>secundum praedictam sententiam sonare. Dicitur
+<lb ed="#L" n="55"/>enim Eccli xv: <quote xml:id="v8naTA-d1e2443-Qd1e288">Deus ab initio constituit hominem,
+<lb ed="#L" n="56"/>et reliquit illum in manu consilii sui</quote>. Et infra:
+<quote xml:id="v8naTA-d1e2443-Qd1e293">Proposuit tibi aquam et ignem: ad quod volueris,
+<lb ed="#L" n="57"/>porrige manum iuam. Ante hominem vita et mors,
+<lb ed="#L" n="58"/>bonum et malum: quod placuerit ei, dabitur illi</quote>.
+<lb ed="#L" n="59"/>Et Deut. xxx 5: <quote xml:id="v8naTA-d1e2443-Qd1e303">Considera quod hodie proposuerit
+<lb ed="#L" n="60"/>in conspectu luo vitam et bonum, et e contrario
+<lb ed="#L" n="61"/>mortem ei malum</quote>. - Haec autem verba ad hoc
+<lb ed="#L" n="62"/>inducuntur ut hominem esse liberi arbitrii 
+osten<lb ed="#L" break="no" n="63"/>datur: non ut eius electiones a divina 
+provi<lb ed="#L" break="no" n="64"/>dentia subtrabantur.
+</p>
+            <p xml:id="v8naTA-d1e2443-d1e318">
+               <lb ed="#L" n="65"/>Et similiter quod Gregorius Nyssenus dicit,
+<lb ed="#L" n="66"/>in libro quem de Homine fecit, Providentia est
+<lb ed="#L" n="67"/>eorum quae non sunt in nobis, non autem eorum
+<lb ed="#L" n="68"/>quae sunt in nobis; et Damascenus, eum sequens,
+<lb ed="#L" n="69"/>dicit in secundo libro, quod ea quae sunt in nobis
+<lb ed="#L" n="70"/>Deus praenoscit, sed non praedeterminat, 
+expo<lb ed="#L" break="no" n="71"/>nenda sunt ut intelligantur ea quae sunt in nobis
+<lb ed="#L" n="72"/>divinae providentiae determinationi non esse 
+sub<lb ed="#L" break="no" n="73"/>lecta quasi ab ea necessilatrem accipientia.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

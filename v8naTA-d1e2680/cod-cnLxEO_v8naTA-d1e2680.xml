@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 119</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 119</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="370"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2680"><!-- v8naTA-l3c119 -->
+            <head xml:id="v8naTA-d1e2680-Hd1e101">Capitulum 119</head>
+            <head xml:id="v8naTA-d1e2680-Hd1e103" type="question-title">Quod per quaedam sensibilia mens nostra dirigitur in deum.</head>
+            <p xml:id="v8naTA-d1e2680-d1e106">
+               <pb ed="#L" n="370"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=370"/>CAPITULUM CENTESIMUM DECIMUM NONUM
+<lb ed="#L" n="2"/>QUOD PER QUAEDAM SENSIBILIA MENS NOSTRA DIRIGITUR IN DEUM.
+</p>
+            <p xml:id="v8naTA-d1e2680-d1e117">
+               <lb ed="#L" n="3"/>QUIA vero connaturale est homini ut per
+<lb ed="#L" n="4"/>sensus cognitionem accipiat, et 
+difficil<lb ed="#L" break="no" n="5"/>limum est sensibilia transcendere, 
+pro<lb ed="#L" break="no" n="6"/>visum est divinitus homini ut etiam in
+<lb ed="#L" n="7"/>sensibilibus rebus divinorum ei commemoratio
+<lb ed="#L" n="8"/>fieret, ut per hoc hominis intentio magis 
+revo<lb ed="#L" break="no" n="9"/>caretur ad divina, etiam illius cuius mens. non
+<lb ed="#L" n="10"/>est valida ad divina in seipsis contemplanda.
+</p>
+            <p xml:id="v8naTA-d1e2680-d1e137">
+               <lb ed="#L" n="11"/>Et propter hoc instituta sunt sensibilia 
+sacri<lb ed="#L" break="no" n="12"/>ficia: quae homo Deo offert, non propter hoc
+<lb ed="#L" n="13"/>quod Deus eis indigeat, sed ut repraesentetur 
+ho<lb ed="#L" break="no" n="14"/>mini quod et seipsum et omnia sua debet referre
+<lb ed="#L" n="15"/>in ipsum sicut in finem, et sicut in Creatorem et
+<lb ed="#L" n="16"/>Gubernatorem et Dominum universorum.
+</p>
+            <p xml:id="v8naTA-d1e2680-d1e154">
+               <lb ed="#L" n="17"/>Adhibentur etiam homini quaedam 
+sanctifica<lb ed="#L" break="no" n="18"/>tiones per quasdam res sensibiles, quibus homo
+<lb ed="#L" n="19"/>lavatur aut ungitur, aut pascitur vel potatur, cum
+<lb ed="#L" n="20"/>sensibilium verborum prolatione: ut homini 
+re<lb ed="#L" break="no" n="21"/>praesentetur per sensibilia intelligibilium donorum
+<lb ed="#L" n="22"/>processum in ipso ab extrinseco fieri et a Deo,
+<lb ed="#L" n="23"/>cuius nomen sensibilibus vocibus exprimitur.
+</p>
+            <p xml:id="v8naTA-d1e2680-d1e172">
+               <lb ed="#L" n="24"/>Exercentur etiam ab hominibus quaedam 
+sen<lb ed="#L" break="no" n="25"/>sibilia opera, non quibus Deum excitet, sed quibus
+<lb ed="#L" n="26"/>seipsum provocet in divina: sicut prostrationes,
+<lb ed="#L" n="27"/>genuflexiones, vocales clamores, et cantus. Quae
+<lb ed="#L" n="28"/>non fiunt quasi Deus his indigeat, qui omnia
+<lb ed="#L" n="29"/>novit, et cuius voluntas est immutabilis, et 
+affe<lb ed="#L" break="no" n="30"/>ctum mentis, non motum corporis propter se 
+ac<lb ed="#L" break="no" n="31"/>ceptat: sed ea propter nos facimus, ut per haec
+<lb ed="#L" n="32"/>sensibilia opera intentio nostra dirigatur in Deum,
+<lb ed="#L" n="33"/>et affectio accendatur. Simul etiam per haec Deum
+<lb ed="#L" n="34"/>profitemur animae et corporis auctorem, cui et
+<lb ed="#L" n="35"/>spiritualia et corporalia obsequia exhibemus.
+</p>
+            <p xml:id="v8naTA-d1e2680-d1e201">
+               <lb ed="#L" n="36"/>Propter hoc non est mirum si haeretici qui 
+cor<lb ed="#L" break="no" n="37"/>poris nostri Deum esse auctorem negant, 
+huius<lb ed="#L" break="no" n="38"/>modi corporalia obsequia Deo exhibita 
+reprehen<lb ed="#L" break="no" n="39"/>dunt. In quo etiam apparet quod se homines esse
+<lb ed="#L" n="40"/>non meminerunt, dum sensibilium sibi 
+repraesen<lb ed="#L" break="no" n="41"/>tationem necessariam non iudicant ad interiorem
+<lb ed="#L" n="42"/>cognitionem et affectionem. Nam experimento
+<lb ed="#L" n="43"/>apparet quod per corporales actus anima exci-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="44"/>tatur ad aliquam cognitionem vel affectionem.
+<lb ed="#L" n="45"/>Unde manifestum est convenienter etiam 
+corpora<lb ed="#L" break="no" n="46"/>libus quibusdam nos uti ad mentis nostrae 
+ele<lb ed="#L" break="no" n="47"/>vationem in Deum.
+</p>
+            <p xml:id="v8naTA-d1e2680-d1e232">
+               <lb ed="#L" n="48"/>In his autem corporalibus Deo exhibendis cultus
+<lb ed="#L" n="49"/>Deiconsistere dicitur. Illa enim colere dicimur 
+qui<lb ed="#L" break="no" n="50"/>bus per nostra opera studium adhibemus. Circa
+<lb ed="#L" n="51"/>Deum autem adhibemus studium nostro actu,
+<lb ed="#L" n="52"/>non quidem ut proficiamus ei, sicut cum alias res
+<lb ed="#L" n="53"/>nostris operibus colere dicimur : sed. quia per
+<lb ed="#L" n="54"/>huiusmodi actus proficimus in Deum. Et quia
+<lb ed="#L" n="55"/>per interiores actus directe in Deum tendimus,
+<lb ed="#L" n="56"/>ideo interioribus actibus proprie Deum colimus.
+<lb ed="#L" n="57"/>Sed tamen et exteriores actus ad cultum Dei 
+per<lb ed="#L" break="no" n="58"/>tinent, inquantum per huiusmodi actus mens 
+no<lb ed="#L" break="no" n="59"/>stra elevatur in Deum, ut dictum est.
+</p>
+            <p xml:id="v8naTA-d1e2680-d1e261">
+               <lb ed="#L" n="60"/>Hic etiam Dei cultus religio nominatur: quia
+<lb ed="#L" n="61"/>huiusmodi actibus quodammodo se homo ligat,
+<lb ed="#L" n="62"/>ut ab eo non evagetur. Et quia etiam quodam
+<lb ed="#L" n="63"/>naturali instinctu se obligatum sentit ut Deo suo
+<lb ed="#L" n="64"/>modo reverentiam impendat, a quo est sui esse
+<lb ed="#L" n="65"/>et omnis boni principium.
+</p>
+            <p xml:id="v8naTA-d1e2680-d1e277">
+               <lb ed="#L" n="66"/>Hinc etiam est quod religio nomen accipit 
+pie<lb ed="#L" break="no" n="67"/>latis. Nam pietas est per quam honorem debitum
+<lb ed="#L" n="68"/>parentibus impendimus. Unde convenienter quod
+<lb ed="#L" n="69"/>Deo, Parenti omnium, honor exhibeatur, pietatis
+<lb ed="#L" n="70"/>esse videtur. Propter quod, qui his quae ad Dei
+<lb ed="#L" n="71"/>cultum pertinent adversantur, impii dicuntur.
+</p>
+            <p xml:id="v8naTA-d1e2680-d1e294">
+               <lb ed="#L" n="72"/>Quia vero Deus non solum est nostri esse causa
+<lb ed="#L" n="73"/>et principium, sed totum nostrum esse in 
+pote<lb ed="#L" break="no" n="74"/>state ipsius est; et totum quod in nobis est, ipsi
+<lb ed="#L" n="75"/>debemus; ac per hoc vere Dominus noster est:
+<lb ed="#L" n="76"/>id quod in honorem Dei exhibemus, servitium
+<lb ed="#L" n="77"/>dicitur.
+</p>
+            <p xml:id="v8naTA-d1e2680-d1e310">
+               <lb ed="#L" n="78"/>Est autem Deus dominus non per accidens,
+<lb ed="#L" n="79"/>sicut hominis homo, sed per naturam. Et ideo
+<lb ed="#L" n="80"/>aliter debetur servitium Deo: et aliter homini, cui
+<lb ed="#L" n="81"/>per accidens subdimur, et qui habet aliquod 
+par<lb ed="#L" break="no" n="82"/>ticulare in rebus dominium, et a Deo derivatum.
+<lb ed="#L" n="83"/>Unde servitium quod Deo debetur, specialiter apud
+<lb ed="#L" n="84"/>Graecos latria vocatur.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 71</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 71</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="209"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2288"><!-- v8naTA-l3c71 -->
+            <head xml:id="v8naTA-d1e2288-Hd1e101">Capitulum 71</head>
+            <head xml:id="v8naTA-d1e2288-Hd1e103" type="question-title">Quod divina providentia non excludit totaliter
+malum a rebus.</head>
+            <p xml:id="v8naTA-d1e2288-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="81" type="fixed=209"/>CAPITULUM SEPTUAGESIMUM PRIMUM
+<lb ed="#L" n="82"/>QUOD DIVINA PROVIDENTIA NON EXCLUDIT TOTALITER
+<lb ed="#L" n="83"/>MALUM A REBUS.
+</p>
+            <p xml:id="v8naTA-d1e2288-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="84"/>Ex his autem apparet quod divina 
+provi<lb ed="#L" break="no" n="85"/>dentia, qua res gubernat, non impedit
+<lb ed="#L" n="86"/>quin corruptio et defectus et malum
+<lb ed="#L" n="87"/>in rebus inveniatur.
+</p>
+            <p xml:id="v8naTA-d1e2288-d1e130">
+               <lb ed="#L" n="88"/>Divina enim gubernatio, qua Deus operatur ; 
+<lb ed="#L" n="89"/>in rebus, non excludit operationem causarum
+<lb ed="#L" n="90"/>secundarum, sicut iam ostensum est. Contingit
+<lb ed="#L" n="91"/>autem provenire defectum in effectu propter 
+de<lb ed="#L" break="no" n="92"/>fectum causae secundae agentis, absque eo quod
+<lb ed="#L" n="93"/>sit defectus in primo agente: sicut cum in effectu:
+<lb ed="#L" n="94"/>artificis habentis perfecte artem, contingit aliquis
+<lb ed="#L" n="95"/>defectus propter instrumenti defectum; et sicut
+<lb ed="#L" n="96"/>hominem cuius vis motiva est fortis, contingit
+<lb ed="#L" n="97"/>claudicare, non propter defectum virtutis mo-
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="98"/>tivae, sed propter tibiae curvitatem. Contingit
+<lb ed="#L" n="99"/>igitur in his quae aguntur et gubernantur a Deo,
+<lb ed="#L" n="100"/>aliquem defectum et aliquod malum inveniri,
+<lb ed="#L" n="101"/>propter defectum agentium secundorum, licet in
+<lb ed="#L" n="102"/>ipso Deo nullus sit defectus.
+</p>
+            <p xml:id="v8naTA-d1e2288-d1e168">
+               <lb ed="#L" n="103"/>Amplius. Perfecta bonitas in rebus creatis non
+<lb ed="#L" n="104"/>inveniretur nisi esset ordo bonitatis in eis, ut
+<lb ed="#L" n="105"/>scilicet quaedam sint aliis meliora: non enim
+<lb ed="#L" n="106"/>implerentur omnes gradus possibiles bonitatis ;
+<lb ed="#L" n="107"/>neque etiam aliqua creatura Deo similaretur
+<lb ed="#L" n="108"/>quantum ad hoc quod alteri emineret. Tolleretur
+<lb ed="#L" n="109"/>etiam summus decor a rebus, si ab eis ordo
+<lb ed="#L" n="110"/>distinctorum et disparium tolleretur. Et quod
+<lb ed="#L" n="111"/>est amplius, tolleretur multitudo a rebus, inae-
+<pb ed="#L" n="210"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>qualitate bonitatis sublata: cum per differentias 
+<lb ed="#L" n="2"/>quibus res ad invicem differunt, unum altero 
+<lb ed="#L" n="3"/>melius existat; sicut animatum inanimato, et 
+ra<lb ed="#L" break="no" n="4"/>tionale irrationali. Et sic, si aequalitas 
+omni<lb ed="#L" break="no" n="5"/>moda esset.in rebus, non esset nisi unum bo- ; 
+<lb ed="#L" n="6"/>num creatum: quod manifeste perfectioni derogat 
+<lb ed="#L" n="7"/>creaturae. Gradus autem bonitatis superior est 
+<lb ed="#L" n="8"/>ut aliquid sit bonum quod non possit a 
+boni<lb ed="#L" break="no" n="9"/>tate deficere: inferior autem eo est quod potest
+<lb ed="#L" n="10"/>a bonitate deficere. Utrumque igitur gradum 
+bo<lb ed="#L" break="no" n="11"/>nitatis perfectio universi requirit. Ad providentiam 
+<lb ed="#L" n="12"/>autem gubernantis pertinet perfectionem in rebus — 
+<lb ed="#L" n="13"/>gubernatis servare, non autem eam minuere. 
+<lb ed="#L" n="14"/>Igitur non pertinet ad divinam providentiam ut 
+<lb ed="#L" n="15"/>omnino excludat a rebus potentiam deficiendi:
+<lb ed="#L" n="16"/>a bono. Hanc autem potentiam sequitur malum: 
+<lb ed="#L" n="17"/>pe quod potest deficere, quandoque deficit. 
+<lb ed="#L" n="18"/>Et ipse defectus boni malum est, ut supra  
+<lb ed="#L" n="19"/>ostensum est. Non est igitur ad divinam 
+pro<lb ed="#L" break="no" n="20"/>videntiam. pertinens ut omnino malum a rebus 
+<lb ed="#L" n="21"/>prohibeat. 
+</p>
+            <p xml:id="v8naTA-d1e2288-d1e240">
+               <lb ed="#L" n="22"/>Adhuc. Optimum in gubernatione qualibet est  
+<lb ed="#L" n="23"/>ut rebus gubernatis secundum modum suum  
+<lb ed="#L" n="24"/>provideatur: in hoc enim regiminis iustitia 
+con<lb ed="#L" break="no" n="25"/>sistit. Sicut igitur esset contra rationem humani»; 
+<lb ed="#L" n="26"/>regiminis si impedirentur a gubernatore civitatis 
+<lb ed="#L" n="27"/>homines agere secundum sua officia, - nisi forte 
+<lb ed="#L" n="28"/>quandoque ad horam, propter aliquam 
+necessi<lb ed="#L" break="no" n="29"/>tatem, — ita esset contra rationem divini regiminis 
+<lb ed="#L" n="30"/>si non sineret res creatas agere secundum modum ;» 
+<lb ed="#L" n="31"/>propriae naturae. Ex hoc autem quod creaturae 
+<lb ed="#L" n="32"/>sic agunt, sequitur corruptio et malum in rebus: 
+<lb ed="#L" n="33"/>cum, propter contrarietatem et repugnantiam quae 
+<lb ed="#L" n="34"/>est in rebus, una res sit alterius corruptiva. Non 
+<lb ed="#L" n="35"/>est igitur ad divinam providentiam pertinens 
+<lb ed="#L" n="36"/>malum omnino a rebus gubernatis excludere. 
+</p>
+            <p xml:id="v8naTA-d1e2288-d1e275">
+               <lb ed="#L" n="37"/>Item. Impossibile est quod agens operetur 
+ali<lb ed="#L" break="no" n="38"/>quod malum nisi propter hoc quod intendit 
+<lb ed="#L" n="39"/>aliquod bonum, sicut ex superioribus  apparet. 
+<lb ed="#L" n="40"/>Prohibere autem cuiuscumque boni intentionem.  
+<lb ed="#L" n="41"/>universaliter a rebus creatis, non pertinet ad 
+pro<lb ed="#L" break="no" n="42"/>videntiam eius qui est omnis boni causa: sic 
+<lb ed="#L" n="43"/>enim multa bona subtraherentur ab universitate 
+<lb ed="#L" n="44"/>rerum; sicut, si subtraheretur igni intentio 
+ge<lb ed="#L" break="no" n="45"/>nerandi sibi simile, ad quam sequitur hoc malum s 
+<lb ed="#L" n="46"/>quod est corruptio rerum combustibilium, 
+tolle<lb ed="#L" break="no" n="47"/>retur hoc bonum quod est generatio ignis, et 
+<lb ed="#L" n="48"/>conservatio ipsius secundum suam speciem. Non 
+<lb ed="#L" n="49"/>est igitur divinae providentiae malum totaliter a 
+<lb ed="#L" n="50"/>rebus excludere.
+</p>
+            <p xml:id="v8naTA-d1e2288-d1e308">
+               <lb ed="#L" n="51"/>Adhuc. Multa bona sunt in rebus quae, nisi 
+<lb ed="#L" n="52"/>mala essent, locum non haberent: sicut non esset 
+<lb ed="#L" n="53"/>patientia iustorum si non esset malignitas per- 
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="54"/>sequentium; nec esset locus iustitiae vindicanti
+<lb ed="#L" n="55"/>si delicta non essent; in rebus etiam naturalibus
+<lb ed="#L" n="56"/>non esset unius generatio nisi esset alterius 
+cor<lb ed="#L" break="no" n="57"/>ruptio. Si ergo malum totaliter ab universitate
+<lb ed="#L" n="58"/>rerum per divinam providentiam. excluderetur,
+<lb ed="#L" n="59"/>oporteret etiam bonorum multitudinem diminui.
+</p>
+            <p xml:id="v8naTA-d1e2288-d1e332">
+               <lb ed="#L" n="60"/>Quod esse non debet: quia virtuosius est bonum
+<lb ed="#L" n="61"/>in bonitate quam in malitia malum, sicut ex 
+su<lb ed="#L" break="no" n="62"/>perioribus  patet. Igitur non debet per divinam
+<lb ed="#L" n="63"/>providentiam totaliter malum excludi a rebus.
+</p>
+            <p xml:id="v8naTA-d1e2288-d1e343">
+               <lb ed="#L" n="64"/>Amplius. Bonum totius praeminet bono partis.
+<lb ed="#L" n="65"/>Ad providum igitur gubernatorem pertinet 
+negli<lb ed="#L" break="no" n="66"/>gere aliquem defectum bonitatis in parte, ut fiat
+<lb ed="#L" n="67"/>augmentum bonitatis in toto: sicut artifex 
+abscon<lb ed="#L" break="no" n="68"/>dit fundamenta sub terra ut tota domus habeat
+<lb ed="#L" n="69"/>firmitatem. Sed si malum a quibusdam partibus
+<lb ed="#L" n="70"/>universi subtraheretur, multum deperiret 
+per<lb ed="#L" break="no" n="71"/>fectionis universi, cuius pulcritudo ex ordinata
+<lb ed="#L" n="72"/>malorum et bonorum adunatione consurgit, dum
+<lb ed="#L" n="73"/>mala ex bonis deficientibus proveniunt, et tamen
+<lb ed="#L" n="74"/>ex eis quaedam bona consequuntur, ex providentia
+<lb ed="#L" n="75"/>gubernantis: sicut et silentii interpositio facit 
+can<lb ed="#L" break="no" n="76"/>tilenam esse suavem. Non igitur per divinam
+<lb ed="#L" n="77"/>providentiam debuit malum a rebus excludi.
+</p>
+            <p xml:id="v8naTA-d1e2288-d1e377">
+               <lb ed="#L" n="78"/>Adhuc. Res aliae, et praecipue inferiores, ad
+<lb ed="#L" n="79"/>bonum hominis ordinantur sicut ad finem. Si
+<lb ed="#L" n="80"/>autem nulla mala essent in rebus, multum de
+<lb ed="#L" n="81"/>bono hominis diminueretur, et quantum ad 
+co<lb ed="#L" break="no" n="82"/>gnitionem, et quantum ad boni desiderium vel
+<lb ed="#L" n="83"/>amorem. Nam bonum ex comparatione mali
+<lb ed="#L" n="84"/>magis cognoscitur; et dum aliqua mala 
+perpe<lb ed="#L" break="no" n="85"/>timur, ardentius bona optamus; sicut quantum
+<lb ed="#L" n="86"/>bonum sit sanitas, infirmi maxime cognoscunt;
+<lb ed="#L" n="87"/>qui etiam ad eam magis exardent quam sani.
+<lb ed="#L" n="88"/>Non igitur pertinet ad divinam providentiam
+<lb ed="#L" n="89"/>mala a rebus totaliter excludere.
+</p>
+            <p xml:id="v8naTA-d1e2288-d1e406">
+               <lb ed="#L" n="90"/>Propter quod dicitur, Isaiae xtv?: Faciens 
+pa<lb ed="#L" break="no" n="91"/>cem et creans malum. Et Amos III: Non
+<lb ed="#L" n="92"/>malum in civitate quod Deus non faciat.
+</p>
+            <p xml:id="v8naTA-d1e2288-d1e415">
+               <lb ed="#L" n="93"/>Per haec autem excluditur quorundam error
+<lb ed="#L" n="94"/>qui, propter hoc quod mala in mundo evenire
+<lb ed="#L" n="95"/>videbant, dicebant Deum non esse: sicut <ref xml:id="v8naTA-d1e2288-Rd1e423">Boetius,
+<lb ed="#L" n="96"/>in I de Cons.</ref> , introducit quendam philosophum
+<lb ed="#L" n="97"/>quaerentem: Si Deus esi unde malum? Esset
+<lb ed="#L" n="98"/>autem e contrario arguendum: Si malum. est,
+<lb ed="#L" n="99"/>Deus est. Non enim esset malum sublato ordine
+<lb ed="#L" n="100"/>boni, cuius privatio est malum. Hic autem ordo
+<lb ed="#L" n="101"/>non esset, si Deus non esset.
+</p>
+            <p xml:id="v8naTA-d1e2288-d1e440">
+               <lb ed="#L" n="102"/>Tollitur etiam et erroris occasio per praemissa
+<lb ed="#L" n="103"/>illis qui divinam providentiam usque ad haec
+<lb ed="#L" n="104"/>corruptibilia extendi negabant, propter hoc quod
+<lb ed="#L" n="105"/>in eis multa mala evenire conspiciebant; sola
+<lb ed="#L" n="106"/>autem incorruptibilia divinae providentiae subdi
+<pb ed="#L" n="211"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>dicebant, in quibus nullus defectus, nec malum
+<lb ed="#L" n="2"/>aliquod invenitur.
+</p>
+            <p xml:id="v8naTA-d1e2288-d1e462">
+               <lb ed="#L" n="3"/>Per haec etiam tollitur errandi occasio 
+Ma<lb ed="#L" break="no" n="4"/>nichaeis, qui duo prima principia agentia 
+po<lb ed="#L" break="no" n="5"/>suerunt, bonum et. malum , quasi malum sub
+<lb ed="#L" n="6"/>providentia boni Dei locum habere non posset.
+</p>
+            <p xml:id="v8naTA-d1e2288-d1e473">
+               <lb ed="#L" n="7"/>Solvitur etiam et quorundam dubitatio: utrum
+<lb ed="#L" n="8"/>scilicet actiones malae sint a Deo? Nam cum
+<lb ed="#L" n="9"/>ostensum sit omne agens actionem suam 
+pro<lb ed="#L" break="no" n="10"/>ducere inquantum agit virtute divina, et ex hoc,
+<lb ed="#L" n="11"/>Deum esse omnium et effectuum et actionum
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="12"/>causam; itemque ostensum sit  quod malum et
+<lb ed="#L" n="13"/>defectus in his quae providentia divina reguntur,
+<lb ed="#L" n="14"/>accidat ex conditione secundarum causarum, in
+<lb ed="#L" n="15"/>quibus potest esse defectus: manifestum est quod
+<lb ed="#L" n="16"/>actiones malae, secundum quod deficientes sunt,
+<lb ed="#L" n="17"/>non sunt a Deo, sed a causis proximis 
+deficien<lb ed="#L" break="no" n="18"/>tibus; quantum autem ad id quod de actione
+<lb ed="#L" n="19"/>et entitate habent, oportet quod sint a Deo; sicut
+<lb ed="#L" n="20"/>claudicatio est a virtute motiva quantum ad id
+<lb ed="#L" n="21"/>quod habet de motu, quantum vero ad id quod
+<lb ed="#L" n="22"/>habet de defectu, est ex curvitate cruris.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

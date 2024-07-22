@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 49</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 49</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="134"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2108"><!-- v8naTA-l3c49 -->
+            <head xml:id="v8naTA-d1e2108-Hd1e101">Capitulum 49</head>
+            <head xml:id="v8naTA-d1e2108-Hd1e103" type="question-title">Quod substantiae separatae non vident deum per essentiam
+ex hoc quod cognoscunt eum per suam essentiam.</head>
+            <p xml:id="v8naTA-d1e2108-d1e106">
+               <pb ed="#L" n="134"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=134"/>CAPITULUM QUADRAGESIMUM NONUM
+<lb ed="#L" n="2"/>QUOD SUBSTANTIAE SEPARATAE NON VIDENT DEUM PER ESSENTIAM
+<lb ed="#L" n="3"/>EX HOC QUOD COGNOSCUNT EUM PER SUAM ESSENTIAM.
+</p>
+            <p xml:id="v8naTA-d1e2108-d1e119">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="4"/>Oportet
+<lb ed="#L" n="5"/>cognitio qua substantiae separatae, et
+<lb ed="#L" n="6"/>animae post mortem, cognoscunt Deum
+<lb ed="#L" n="7"/>per suas essentias, sufficiat ad ipsarum
+<lb ed="#L" n="8"/>ultimam felicitatem.
+</p>
+            <p xml:id="v8naTA-d1e2108-d1e135">
+               <lb ed="#L" n="9"/>Ad cuius veritatis indaginem, primo 
+ostenden<lb ed="#L" break="no" n="10"/>dum est quod per talem modum cognitionis non
+<lb ed="#L" n="11"/>cognoscitur divina essentia.
+</p>
+            <p xml:id="v8naTA-d1e2108-d1e145">
+               <lb ed="#L" n="12"/>Contingit enim ex effectu cognoscere causam
+<lb ed="#L" n="13"/>multipliciter. Uno modo, secundum quod effectus
+<lb ed="#L" n="14"/>sumitur ut medium ad cognoscendum de causa
+<lb ed="#L" n="15"/>quod sit, et quod talis sit: sicut accidit in scientiis,
+<lb ed="#L" n="16"/>quae causam demonstrant per effectum. — Alio
+<lb ed="#L" n="17"/>modo, ita quod in ipso effectu. videatur causa,
+<lb ed="#L" n="18"/>inquantum similitudo causae resultat in effectu:
+<lb ed="#L" n="19"/>sicut homo videtur in speculo propter suam
+<lb ed="#L" n="20"/>similitudinem. Et differt hic modus a primo.
+<lb ed="#L" n="21"/>Nam in primo sunt duae cognitiones, effectus et
+<lb ed="#L" n="22"/>causae, quarum una est alterius causa: nam 
+co<lb ed="#L" break="no" n="23"/>gnitio effectus est causa quod cognoscatur eius
+<lb ed="#L" n="24"/>causa. In. modo autem secundo una est visio
+<lb ed="#L" n="25"/>utriusque: simul enim dum videtur effectus,
+<lb ed="#L" n="26"/>videtur et causa in ipso. — Tertio modo, ita
+<lb ed="#L" n="27"/>quod ipsa similitudo causae in effectu sit forma
+<lb ed="#L" n="28"/>qua cognoscit causam suus effectus: sicut si arca
+<lb ed="#L" n="29"/>haberet intellectum, et per formam suam 
+co<lb ed="#L" break="no" n="30"/>gnosceret artem a qua talis forma, velut eius
+<lb ed="#L" n="31"/>similitudo, processit, - Nullo autem istorum 
+mo<lb ed="#L" break="no" n="32"/>dorum per effectum potest cognosci de causa
+<lb ed="#L" n="33"/>quid est, nisi sit effectus causae adaequatus, in
+<lb ed="#L" n="34"/>quo tota virtus causae exprimatur.
+</p>
+            <p xml:id="v8naTA-d1e2108-d1e197">
+               <lb ed="#L" n="35"/>Substantiae autem separatae cognoscunt Deum
+<lb ed="#L" n="36"/>per suas substantias sicut causa cognoscitur per
+<lb ed="#L" n="37"/>effectum: non autem primo modo, quia sic eorum
+<lb ed="#L" n="38"/>cognitio esset discursiva; sed secundo modo, 
+in<lb ed="#L" break="no" n="39"/>quantum una videt Deum in alia; et modo tertio,
+<lb ed="#L" n="40"/>inquantum quaelibet earum videt Deum in seipsa.
+<lb ed="#L" n="41"/>Nulla autem earum est effectus adaequans 
+vir<lb ed="#L" break="no" n="42"/>tutem Dei, ut in secundo libro  ostensum est.
+<lb ed="#L" n="43"/>Non est igitur possibile quod per hunc modum
+<lb ed="#L" n="44"/>cognitionis ipsam divinam essentiam videant.
+</p>
+            <p xml:id="v8naTA-d1e2108-d1e221">
+               <lb ed="#L" n="45"/>Amplius. Similitudo intelligibilis per quam 
+in<lb ed="#L" break="no" n="46"/>telligitur aliquid secundum suam substantiam,
+<lb ed="#L" n="47"/>oportet quod sit eiusdem speciei, vel magis 
+spe<lb ed="#L" break="no" n="48"/>cies eius; sicut forma domus quae est in mente ; 
+<lb ed="#L" n="49"/>artificis, est eiusdem speciei cum forma domus
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="50"/>quae est in materia, vel potius species eius; non
+<lb ed="#L" n="51"/>enim per speciem hominis intelligitur de asino
+<lb ed="#L" n="52"/>vel equo quid est. Sed ipsa natura substantiae
+<lb ed="#L" n="53"/>separatae non est idem specie cum natura 
+di<lb ed="#L" break="no" n="54"/>vina, quinimmo nec genere, ut in primo libro 
+<lb ed="#L" n="55"/>ostensum est. Non est igitur possibile quod
+<lb ed="#L" n="56"/>substantia separata intelligat divinam substantiam
+<lb ed="#L" n="57"/>per propriam naturam. .
+</p>
+            <p xml:id="v8naTA-d1e2108-d1e254">
+               <lb ed="#L" n="58"/>Item. Omne creatum ad aliquod genus vel
+<lb ed="#L" n="59"/>speciem terminatur. Divina autem essentia est
+<lb ed="#L" n="60"/>infinita, comprehendens in se omnem 
+perfectio<lb ed="#L" break="no" n="61"/>nem totius esse, ut in primo libro  ostensum
+<lb ed="#L" n="62"/>est. Impossibile est igitur quod per aliquid 
+crea<lb ed="#L" break="no" n="63"/>tum divina substantia videatur.
+</p>
+            <p xml:id="v8naTA-d1e2108-d1e270">
+               <lb ed="#L" n="64"/>Praeterea. Omnis intelligibilis species per quam
+<lb ed="#L" n="65"/>intelligitur quidditas vel essentia alicuius rei, 
+com<lb ed="#L" break="no" n="66"/>prehendit in repraesentando rem illam: unde 
+et<lb ed="#L" break="no" n="67"/>orationes significantes quod quid est terminos et
+<lb ed="#L" n="68"/>definitiones vocamus. Impossibile est autem. quod
+<lb ed="#L" n="69"/>aliqua similitudo creata taliter Deum  
+reprae<lb ed="#L" break="no" n="70"/>sentet: cum quaelibet similitudo creata sit 
+ali<lb ed="#L" break="no" n="71"/>cuius generis determinati, non autem Deus, ut
+<lb ed="#L" n="72"/>in Primo  ostensum est. Non est igitur possibile
+<lb ed="#L" n="73"/>quod per aliquam peimputsitun creatam divina
+<lb ed="#L" n="74"/>substantia intelligatur.
+</p>
+            <p xml:id="v8naTA-d1e2108-d1e296">
+               <lb ed="#L" n="75"/>Amplius. Divina substantia est suum esse, ut in
+<lb ed="#L" n="76"/>Primo  ostensum est. Ipsum autem esse upstadd
+<lb ed="#L" n="77"/>tiae separatae est aliud quam sua substantia, ut in
+<lb ed="#L" n="78"/>Secundo probatum est. Essentia igitur substantiae
+<lb ed="#L" n="79"/>separatae non est sufficiens medium quo Deus per
+<lb ed="#L" n="80"/>essentiam videri possit.
+</p>
+            <p xml:id="v8naTA-d1e2108-d1e313">
+               <lb ed="#L" n="81"/>Cognoscit tamen substantia separata per suam
+<lb ed="#L" n="82"/>substantiam de Deo quia est; et quod est 
+om<lb ed="#L" break="no" n="83"/>nium causa ; et eminentem omnibus; et remotum
+<lb ed="#L" n="84"/>ab omnibus, non solum quae sunt, sed etiam
+<lb ed="#L" n="85"/>quae mente creata concipi possunt. Ad quam
+<lb ed="#L" n="86"/>etiam cognitionem de Deo nos utcumque 
+per<lb ed="#L" break="no" n="87"/>tingere possumus: per effectus enim. de Deo
+<lb ed="#L" n="88"/>cognoscimus quia est, et quod causa aliorum
+<lb ed="#L" n="89"/>est, aliis supereminens, et ab omnibus remotus.
+<lb ed="#L" n="90"/>Et hoc est ultimum et perfectissimum nostrae
+<lb ed="#L" n="91"/>cognitionis in hac vita, ut Dionysius dicit, in
+<lb ed="#L" n="92"/>Libro De Mystica Theologia, cum Deo quasi
+<lb ed="#L" n="93"/>ignolo coniungimur: quod quidem contingit dum
+</p>
+            <p xml:id="v8naTA-d1e2108-d1e344">
+               <lb ed="#L" n="94"/>de eo quid non sit cognoscimus, quid vero sit
+<lb ed="#L" n="95"/>penitus manet ignotum. Unde et ad huius su-
+<pb ed="#L" n="135"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>blimissimae cognitionis ignorantiam 
+demonstran<lb ed="#L" break="no" n="2"/>dam, de Moyse dicitur, Exodi xx, quod accessit
+<lb ed="#L" n="3"/>ad caliginem in qua est Deus.
+</p>
+            <p xml:id="v8naTA-d1e2108-d1e362">
+               <lb ed="#L" n="4"/>Quia vero natura inferior in sui summo non
+<lb ed="#L" n="5"/>nisi ad infimum superioris naturae attingit, 
+opor<lb ed="#L" break="no" n="6"/>tet quod haec ipsa cognitio sit eminentior in
+<lb ed="#L" n="7"/>substantiis separatis quam in nobis. Quod per
+<lb ed="#L" n="8"/>singula patet. Nam quanto propinquior et 
+expres<lb ed="#L" break="no" n="9"/>sior alicuius. causae effectus cognoscitur, tanto
+<lb ed="#L" n="10"/>evidentius apparet de causa eius quod sit. 
+Sub<lb ed="#L" break="no" n="11"/>stantiae autem separatae, quae per seipsas Deum
+<lb ed="#L" n="12"/>cognoscunt, sunt propinquiores effectus, et 
+expres<lb ed="#L" break="no" n="13"/>sius Dei similitudinem gerentes, quam effectus
+<lb ed="#L" n="14"/>per quos nos Deum cognoscimus. Certius ergo
+<lb ed="#L" n="15"/>sciunt substantiae separatae et clarius quam nos,
+<lb ed="#L" n="16"/>quod Deus est. — Rursus: cum per negationes ad
+<lb ed="#L" n="17"/>propriam cognitionem. rei quoquo modo 
+deve<lb ed="#L" break="no" n="18"/>niatur, ut supra  dictum est, quanto plura et magis
+<lb ed="#L" n="19"/>propinqua quis ab aliquo remota esse cognoverit,
+<lb ed="#L" n="20"/>tanto magis ad propriam ipsius cognitionem 
+acce<lb ed="#L" break="no" n="21"/>dit: sicut magis accedit ad propriam hominis 
+cogni<lb ed="#L" break="no" n="22"/>tionem qui scit eum non esse neque inanimatum
+<lb ed="#L" n="23"/>neque insensibilem, quam qui scit solum eum non
+<lb ed="#L" n="24"/>esse inanimatum, licet neuter sciat de homine quid
+<lb ed="#L" n="25"/>sit. Substantiae autem separatae plura cognoscunt
+<lb ed="#L" n="26"/>quam nos, et quae sunt Deo magis propinqua:
+<lb ed="#L" n="27"/>et per consequens suo intellectu plura et magis
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="28"/>propinqua a Deo removent quam nos. Magis
+<lb ed="#L" n="29"/>igitur accedunt ad propriam ipsius cognitionem
+<lb ed="#L" n="30"/>quam nos: licet nec ipsae, per hoc quod seipsas
+<lb ed="#L" n="31"/>intelligunt, divinam substantiam videant. — Item:
+<lb ed="#L" n="32"/>tanto aliquis. alicuius altitudinem | magis novit,
+<lb ed="#L" n="33"/>quanto altioribus scit eum esse praelatum: sicut,
+<lb ed="#L" n="34"/>etsi rusticus sciat regem esse summum in regno;
+<lb ed="#L" n="35"/>quia tamen non cognoscit nisi quaedam infima
+<lb ed="#L" n="36"/>regni officia, cum quibus aliquid habet negotii,
+<lb ed="#L" n="37"/>non ita cognoscit regis eminentiam sicut aliquis
+<lb ed="#L" n="38"/>qui omnium principum regni dignitates novit,
+<lb ed="#L" n="39"/>quibus scit regem esse praelatum; quamvis neuter
+<lb ed="#L" n="40"/>altitudinem regiae dignitatis comprehendat. Nos
+<lb ed="#L" n="41"/>autem nescimus nisi quaedam infima entium.
+<lb ed="#L" n="42"/>"5 Licet ergo sciamus Deum omnibus. entibus 
+emi<lb ed="#L" break="no" n="43"/>nere, non tamen ita cognoscimus eminentiam
+<lb ed="#L" n="44"/>divinam sicut substantiae separatae, quibus 
+al<lb ed="#L" break="no" n="45"/>tissimi rerum ordines noti sunt, et eis omnibus
+<lb ed="#L" n="46"/>superiorem Deum . esse cognoscunt. — Ulterius:
+<lb ed="#L" n="47"/>manifestum est quod causalitas alicuius. causae,
+<lb ed="#L" n="48"/>et virtus eius, tanto magis cognoscitur, quanto
+<lb ed="#L" n="49"/>plures et maiores eius effectus innotescunt. Ex
+<lb ed="#L" n="50"/>quo manifestum fit quod substantiae separatae
+<lb ed="#L" n="51"/>causalitatem Dei et eius virtutem magis 
+cogno<lb ed="#L" break="no" n="52"/>s scunt quam nos, licet nos omnium entium eum
+<lb ed="#L" n="53"/>esse causam sciamus. siu
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

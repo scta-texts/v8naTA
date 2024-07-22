@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 33</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 33</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="89"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1977"><!-- v8naTA-l3c33 -->
+            <head xml:id="v8naTA-d1e1977-Hd1e101">Capitulum 33</head>
+            <head xml:id="v8naTA-d1e1977-Hd1e103" type="question-title">Quod felicitas humana non consistit in sensu.</head>
+            <p xml:id="v8naTA-d1e1977-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="15" type="fixed=89"/>CAPITULUM TRIGESIMUM TERTIUM
+<lb ed="#L" n="16"/>QUOD FELICITAS HUMANA NON CONSISTIT IN SENSU.
+</p>
+            <p xml:id="v8naTA-d1e1977-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="17"/>PER eadem etiam apparet quod neque
+<lb ed="#L" n="18"/>summum hominis bonum est in bonis
+<lb ed="#L" n="19"/>sensitivae partis. Nam haec etiam bona
+<lb ed="#L" n="20"/>sunt homini et aliis animalibus 
+com<lb ed="#L" break="no" n="21"/>munia.
+</p>
+            <p xml:id="v8naTA-d1e1977-d1e131">
+               <lb ed="#L" n="22"/>Item. Intellectus est melior sensu. Bonum
+<lb ed="#L" n="23"/>igitur intellectus est melius quam bonum sensus.
+<lb ed="#L" n="24"/>Non igitur summum hominis bonum in sensu
+<lb ed="#L" n="25"/>consistit.
+</p>
+            <p xml:id="v8naTA-d1e1977-d1e143">
+               <lb ed="#L" n="26"/>Adhuc. Maximae delectationum secundum 
+sen<lb ed="#L" break="no" n="27"/>sum sunt in cibis et venereis, in quibus 
+opor<lb ed="#L" break="no" n="28"/>teret esse summum bonum, si in sensu esset.
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="29"/>Non est autem in his. Non est igitur in sensu 
+<lb ed="#L" n="30"/>summum hominis bonum.
+</p>
+            <p xml:id="v8naTA-d1e1977-d1e159">
+               <lb ed="#L" n="31"/>Amplius. Sensus diliguntur propter utilitatem,
+<lb ed="#L" n="32"/>et propter cognitionem. Tota autem utilitas 
+sen<lb ed="#L" break="no" n="33"/>suum ad corporis bona refertur. Cognitio autem
+<lb ed="#L" n="34"/>sensus ad intellectivam ordinatur: unde 
+ani<lb ed="#L" break="no" n="35"/>malia intellectu carentia non delectantur in 
+sen<lb ed="#L" break="no" n="36"/>tiendo nisi per comparationem ad utilitatem ad
+<lb ed="#L" n="37"/>corpus pertinentem, secundum quod per sensus
+<lb ed="#L" n="38"/>cognitionem consequuntur cibos vel venerea. Non
+<lb ed="#L" n="39"/>est igitur in parte sensitiva summum hominis
+<lb ed="#L" n="40"/>bonum, quod est felicitas.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

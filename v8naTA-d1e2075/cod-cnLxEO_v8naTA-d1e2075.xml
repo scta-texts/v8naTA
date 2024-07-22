@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 45</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 45</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="117"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2075"><!-- v8naTA-l3c45 -->
+            <head xml:id="v8naTA-d1e2075-Hd1e101">Capitulum 45</head>
+            <head xml:id="v8naTA-d1e2075-Hd1e103" type="question-title">Quod non possumus in hac vita intelligere
+substantias separatas.</head>
+            <p xml:id="v8naTA-d1e2075-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="19" type="fixed=117"/>CAPITULUM QUADRAGESIMUM QUINTUM
+<lb ed="#L" n="20"/>QUOD NON POSSUMUS IN HAC VITA INTELLIGERE
+<lb ed="#L" n="21"/>SUBSTANTIAS SEPARATAS.
+</p>
+            <p xml:id="v8naTA-d1e2075-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="22"/>QUIA ergo secundum modos praedictos
+<lb ed="#L" n="23"/>substantiae separatae non possunt 
+co<lb ed="#L" break="no" n="24"/>gnosci a nobis in vita ista , 
+inquiren<lb ed="#L" break="no" n="25"/>Roca dum restat utrum aliquo modo i in vita
+<lb ed="#L" n="26"/>ista substantias ipsas separatas intelligere 
+pos<lb ed="#L" break="no" n="27"/>simus.
+</p>
+            <p xml:id="v8naTA-d1e2075-d1e135">
+               <lb ed="#L" n="28"/>Quod autem hoc sit possibile, nititur 
+osten<lb ed="#L" break="no" n="29"/>dere Themistius per locum a minori. 
+Substan<lb ed="#L" break="no" n="30"/>tiae enim separatae sunt magis intelligibiles quam
+<lb ed="#L" n="31"/>materialia: haec enim sunt intelligibilia inquantum
+<lb ed="#L" n="32"/>sunt facta intellecta in actu per intellectum 
+agen<lb ed="#L" break="no" n="33"/>tem; illa vero sunt secundum seipsa intelligibilia.
+<lb ed="#L" n="34"/>Si ergo intellectus. noster comprehendit haec
+<lb ed="#L" n="35"/>materialia, multo magis natus est intelligere illas
+<lb ed="#L" n="36"/>substantias separatas.
+</p>
+            <p xml:id="v8naTA-d1e2075-d1e158">
+               <lb ed="#L" n="37"/>Haec autem ratio, secundum diversas opiniones
+<lb ed="#L" n="38"/>de intellectu possibili, diversimode iudicanda est.
+<lb ed="#L" n="39"/>Si enim intellectus possibilis non sit virtus a
+<lb ed="#L" n="40"/>materia dependens; et sit iterum secundum esse
+<lb ed="#L" n="41"/>a corpore separatus, ut Averroes ponit: sequetur
+<lb ed="#L" n="42"/>quod nullum necessarium ordinem ad res 
+ma<lb ed="#L" break="no" n="43"/>teriales habeat; unde quae sunt magis 
+intelligi<lb ed="#L" break="no" n="44"/>bilia in seipsis, erunt sibi magis intelligibilia. Sed
+<lb ed="#L" n="45"/>tunc sequi videtur quod, cum nos a principio
+<lb ed="#L" n="46"/>per intellectum possibilem intelligamus, quod a
+<lb ed="#L" n="47"/>principio intelligamus substantias separatas: quod
+<lb ed="#L" n="48"/>patet esse falsum.
+</p>
+            <p xml:id="v8naTA-d1e2075-d1e187">
+               <lb ed="#L" n="49"/>Sed hoc inconveniens evitare Averroes nititur,
+<lb ed="#L" n="50"/>secundum ea quae de eius opinione praedicta
+<lb ed="#L" n="51"/>sunt: quae patet esse falsa ex praemissis.
+</p>
+            <p xml:id="v8naTA-d1e2075-d1e196">
+               <lb ed="#L" n="52"/>Si autem intellectus possibilis non est a 
+cor<lb ed="#L" break="no" n="53"/>pore separatus secundum esse, ex hoc ipso quod
+<lb ed="#L" n="54"/>est tali corpori unitus secundum esse, habet
+<lb ed="#L" n="55"/>quendam necessarium ordinem ad materialia, ut
+<lb ed="#L" n="56"/>nisi per illa ad aliorum cognitionem pervenire
+<lb ed="#L" n="57"/>non possit. Unde non sequitur, si substantiae
+<lb ed="#L" n="58"/>separatae sint in seipsis magis intelligibiles, quod
+<lb ed="#L" n="59"/>propter hoc sint magis intelligibiles intellectui
+<lb ed="#L" n="60"/>nostro. Et hoc demonstrant verba Aristotelis in
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="61"/>II Metaphysicae. Dicit enim ibidem quod 
+dif<lb ed="#L" break="no" n="62"/>ficultas intelligendi res illas accidi ex nobis, non
+<lb ed="#L" n="63"/>ex illis: nam intellectus noster se habet ad 
+mani<lb ed="#L" break="no" n="64"/>festissima rerum sicut se habet oculus 
+vespertilio<lb ed="#L" break="no" n="65"/>nis ad lucem solis. Unde, cum per materialia
+<lb ed="#L" n="66"/>intellecta non possint intelligi substantiae 
+sepa<lb ed="#L" break="no" n="67"/>ratae, ut supra  ostensum est, sequetur quod
+<lb ed="#L" n="68"/>intellectus possibilis noster nullo modo possit
+<lb ed="#L" n="69"/>intelligere substantias separatas.
+</p>
+            <p xml:id="v8naTA-d1e2075-d1e240">
+               <lb ed="#L" n="70"/>Hoc etiam apparet ex ordine intellectus 
+pos<lb ed="#L" break="no" n="71"/>sibilis ad agentem. Potentia enim passiva ad illa
+<lb ed="#L" n="72"/>solum est in potentia in quae potest proprium
+<lb ed="#L" n="73"/>eius activum: omni enim potentiae passivae
+<lb ed="#L" n="74"/>respondet potentia activa in natura; alias 
+po<lb ed="#L" break="no" n="75"/>tentia passiva esset frustra, cum non possit 
+re<lb ed="#L" break="no" n="76"/>duci in actum nisi per activam ; unde videmus
+<lb ed="#L" n="77"/>quod visus non est susceptivus nisi colorum,
+<lb ed="#L" n="78"/>qui illuminantur per lucem. Intellectus autem
+<lb ed="#L" n="79"/>possibilis, cum sit virtus quodammodo passiva,
+<lb ed="#L" n="80"/>habet proprium agens sibi respondens, scilicet
+<lb ed="#L" n="81"/>intellectum agentem, qui ita se habet ad 
+intel<lb ed="#L" break="no" n="82"/>lectum possibilem sicut se habet lux ad visum.
+<lb ed="#L" n="83"/>Non est igitur intellectus possibilis in potentia
+<lb ed="#L" n="84"/>nisi ad illa intelligibilia quae sunt facta per 
+in<lb ed="#L" break="no" n="85"/>tellectum agentem. Unde et <ref xml:id="v8naTA-d1e2075-Rd1e276">Aristoteles, in III de
+<lb ed="#L" n="86"/>Anima</ref> , describens utrumque intellectum, dicit
+<lb ed="#L" n="87"/>quod intellectus possibilis est quo est omnia fieri,
+<lb ed="#L" n="88"/>agens vero quo est omnia facere; ut ad eadem
+<lb ed="#L" n="89"/>utriusque potentia referri intelligatur, huius activa, 
+<lb ed="#L" n="90"/>illius passiva. Cum ergo substantiae separatae non
+<lb ed="#L" n="91"/>sint factae intellectae in actu per intellectum 
+agen<lb ed="#L" break="no" n="92"/>tem, sed solum materialia, ad haec sola se extendit
+<lb ed="#L" n="93"/>possibilis intellectus. Non igitur per ipsum 
+pos<lb ed="#L" break="no" n="94"/>sumus intelligere substantias separatas.
+</p>
+            <p xml:id="v8naTA-d1e2075-d1e300">
+               <lb ed="#L" n="95"/>Propter quod et Aristoteles congruo exemplo
+<lb ed="#L" n="96"/>usus est: nam oculus vespertilionis nunquam
+<lb ed="#L" n="97"/>potest videre lucem solis. Quamvis Averroes hoc
+<lb ed="#L" n="98"/>exemplum depravare nitatur , dicens quod simile
+<lb ed="#L" n="99"/>non est de intellectu nostro ad substantias sepa-
+<pb ed="#L" n="118"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>ratas, et oculo vespertilionis ad lucem solis, 
+quan<lb ed="#L" break="no" n="2"/>tum ad impossibilitatem, sed solum quantum ad
+<lb ed="#L" n="3"/>diffucultatem. Quod tali, ratione probat. ibidem.
+<lb ed="#L" n="4"/>Quia. si illa quae sunt intellecta. secundum. se,
+<lb ed="#L" n="5"/>scilicet substantiae separatae, essent nobis 
+impos<lb ed="#L" break="no" n="6"/>sibiles ad intelligendum, frustra essent: sicut si
+<lb ed="#L" n="7"/>esset aliquod visibile quod nullo visu videri posset.
+</p>
+            <p xml:id="v8naTA-d1e2075-d1e333">
+               <lb ed="#L" n="8"/>Quae quidem ratio quam frivola sit, apparet.
+<lb ed="#L" n="9"/>Etsi enim a nobis nunquam illae substantiae 
+in<lb ed="#L" break="no" n="10"/>telligerentur, tamen intelliguntur a seipsis. Unde
+<lb ed="#L" n="11"/>nec frustra intelligibiles essent: sicut nec sol frustra ,
+<lb ed="#L" n="12"/>visibilis est, ut Aristotelis exemplum prosequamur,
+<lb ed="#L" n="13"/>quia non potest ipsum videre vespertilio; cum
+<lb ed="#L" n="14"/>possit ipsum videre homo et alia animalia.
+</p>
+            <p xml:id="v8naTA-d1e2075-d1e352">
+               <lb ed="#L" n="15"/>Sic ergo intellectus possibilis, si ponitur 
+cor<lb ed="#L" break="no" n="16"/>pori unitus secundum esse, non potest intelligere
+<lb ed="#L" n="17"/>substantias separatas. Interest tamen qualiter de
+<lb ed="#L" n="18"/>substantia ipsius sentiatur. Si enim ponatur esse
+<lb ed="#L" n="19"/>quaedam virtus materialis generabilis et corrupti-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="20"/>bilis, ut quidam posuerunt, sequitur quod ex
+<lb ed="#L" n="21"/>sua substantia determinatur ad intelligendum 
+ma<lb ed="#L" break="no" n="22"/>terialia. Unde necesse est quod nullo modo 
+in<lb ed="#L" break="no" n="23"/>telligere possit substantias separatas: quia 
+impos<lb ed="#L" break="no" n="24"/>sibile erit ipsum esse separatum. — Si autem 
+in<lb ed="#L" break="no" n="25"/>tellectus possibilis, quamvis sit: corpori unitus,
+<lb ed="#L" n="26"/>est tamen incorruptibilis et a materia Mi 
+de<lb ed="#L" break="no" n="27"/>pendens secundum suum esse, sicut supra  
+osten<lb ed="#L" break="no" n="28"/>dimus; sequitur quod obligatio ad intelligendas
+<lb ed="#L" n="29"/>res materiales accidat ei ex unione ad corpus.
+<lb ed="#L" n="30"/>Unde, cum anima a corpore tali fuerit separata,
+<lb ed="#L" n="31"/>intellectus possibilis "intelligere poterit ea quae
+<lb ed="#L" n="32"/>sunt secundum se intelligibilia, scilicet substantias
+<lb ed="#L" n="33"/>separatas, per lumen intellectus agentis, quae est
+<lb ed="#L" n="34"/>similitudo in anima intellectualis luminis qubd
+<lb ed="#L" n="35"/>est in substantiis separatis. .
+</p>
+            <p xml:id="v8naTA-d1e2075-d1e402">
+               <lb ed="#L" n="36"/>Et haec est sententia nostrae fidei de 
+intelli<lb ed="#L" break="no" n="37"/>gendo substantias separatas a nobis post mortem,
+<lb ed="#L" n="38"/>et non in hac vita.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

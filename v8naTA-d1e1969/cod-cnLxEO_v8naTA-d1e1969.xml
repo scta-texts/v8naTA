@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 32</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 32</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="89"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1969"><!-- v8naTA-l3c32 -->
+            <head xml:id="v8naTA-d1e1969-Hd1e101">Capitulum 32</head>
+            <head xml:id="v8naTA-d1e1969-Hd1e103" type="question-title">Quod felicitas non consistit in bonis corporis.</head>
+            <p xml:id="v8naTA-d1e1969-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="45" type="fixed=88"/>CAPITULUM TRIGESIMUM SECUNDUM
+<lb ed="#L" n="46"/>QUOD FELICITAS NON CONSISTIT IN BONIS CORPORIS.
+</p>
+            <p xml:id="v8naTA-d1e1969-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="47"/>QUOD autem nec in corporis bonis, 
+cuius<lb ed="#L" break="no" n="48"/>modi sunt sanitas, pulcritudo et robur,
+<lb ed="#L" n="49"/>sit hominis summum bonum, per 
+si<lb ed="#L" break="no" n="50"/>milia  manifeste . apparet. Haec enim
+<lb ed="#L" n="51"/>etiam bonis et malis communia sunt; et instabilia 5
+<lb ed="#L" n="52"/>sunt; et voluntati non subiacent.
+</p>
+            <p xml:id="v8naTA-d1e1969-d1e133">
+               <lb ed="#L" n="53"/>Praeterea. Anima est melior corpore, quod non
+<lb ed="#L" n="54"/>vivit, nec praedicta bona habet, nisi per animam.
+<lb ed="#L" n="55"/>Bonum igitur animae, sicut intelligere et alia 
+huius<lb ed="#L" break="no" n="56"/>igitur corporis bonum summum hominis bonum.
+</p>
+            <p xml:id="v8naTA-d1e1969-d1e145">
+               <cb ed="#L" n="e"/>
+               <lb ed="#L" n="57"/>Adhuc. Haec bona sunt homini et aliis 
+ani<lb ed="#L" break="no" n="58"/>malibus communia. Felicitas autem est proprium
+<lb ed="#L" n="59"/>hominis bonum . Non est igitur in praemissis
+<lb ed="#L" n="60"/>bonis hominis felicitas.
+</p>
+            <p xml:id="v8naTA-d1e1969-d1e158">
+               <lb ed="#L" n="61"/>Amplius. Multa animalia, quantum ad bona
+<lb ed="#L" n="62"/>corporis, sunt homine potiora: quaedam enim
+<lb ed="#L" n="63"/>sunt velociora homine, quaedam robustiora, et
+<lb ed="#L" n="64"/>sic de aliis. Si igitur in his esset summum  
+ho<lb ed="#L" break="no" n="65"/>minis, bonum, non esset homo optimum 
+anima<lb ed="#L" break="no" n="66"/>lium: quod patet esse falsum. .Non est igitur 
+fe<lb ed="#L" break="no" n="67"/>licitas humana in bonis epupat consistens.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

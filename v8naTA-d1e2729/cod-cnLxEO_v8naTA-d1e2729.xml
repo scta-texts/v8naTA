@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 125</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 125</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="387"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2729"><!-- v8naTA-l3c125 -->
+            <head xml:id="v8naTA-d1e2729-Hd1e101">Capitulum 125</head>
+            <head xml:id="v8naTA-d1e2729-Hd1e103" type="question-title">Quod matrimonium non debet fieri inter propinquos.</head>
+            <p xml:id="v8naTA-d1e2729-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="75" type="fixed=387"/>CAPITULUM CENTESIMUM VIGESIMUM QUINTUM
+<lb ed="#L" n="76"/>QUOD MATRIMONIUM NON DEBET FIERI INTER PROPINQUOS.
+</p>
+            <p xml:id="v8naTA-d1e2729-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="77"/>PROPTER huiusmodi etiam causas 
+ratio<lb ed="#L" break="no" n="78"/>nabiles ordinatum est legibus quod
+<lb ed="#L" n="79"/>certae personae a matrimonio 
+exclu<lb ed="#L" break="no" n="80"/>dantur, quae sunt secundum originem
+<lb ed="#L" n="81"/>coniunctae.
+</p>
+            <p xml:id="v8naTA-d1e2729-d1e131">
+               <lb ed="#L" n="82"/>Nam cum in matrimonio sit diversarum 
+per<lb ed="#L" break="no" n="83"/>sonarum coniunctio, illae personae quae se debent
+<lb ed="#L" n="84"/>reputare quasi unum propter eandem originem,
+<lb ed="#L" n="85"/>convenienter a matrimonio excluduntur, ut, dum
+<lb ed="#L" n="86"/>se per hoc unum esse recognoscunt, ferventius
+<lb ed="#L" n="87"/>se diligant.
+</p>
+            <p xml:id="v8naTA-d1e2729-d1e148">
+               <lb ed="#L" n="88"/>Item. Cum ea quae inter virum et uxorem
+<lb ed="#L" n="89"/>aguntur, quandam naturalem verecundiam 
+ha<lb ed="#L" break="no" n="90"/>beant, ab his mutuo agendis illas personas 
+pro<lb ed="#L" break="no" n="91"/>hiberi oportuit quibus, propter coniunctionem
+<lb ed="#L" n="92"/>sanguinis, reverentia debetur. Quae quidem ratio
+<lb ed="#L" n="93"/>videtur in veteri lege inducta per hoc quod 
+di<lb ed="#L" break="no" n="94"/>citur: Turpitudinem sororis tuae non discooperias,
+<lb ed="#L" n="95"/>et similiter de aliis.
+</p>
+            <p xml:id="v8naTA-d1e2729-d1e168">
+               <cb ed="#L" n="e"/>
+               <lb ed="#L" n="96"/>Praeterea. Ad corruptionem bonorum morum
+<lb ed="#L" n="97"/>pertinet quod homines sint nimis dediti 
+volupta<lb ed="#L" break="no" n="98"/>tibus coitus: quia, cum haec voluptas maxime
+<lb ed="#L" n="99"/>mentem absorbeat, impediretur ratio ab his quae
+<lb ed="#L" n="100"/>recte agenda essent. Sequeretur autem nimius 
+vo<lb ed="#L" break="no" n="101"/>luptatis usus si liceret homini per coitum coniungi
+<lb ed="#L" n="102"/>ills personis quibus commorandi habet. 
+necessi<lb ed="#L" break="no" n="103"/>tatem, sicut sororibus et aliis propinquis: quia
+<lb ed="#L" n="104"/>talibus occasio coitus subtrahi non posset. 
+Conve<lb ed="#L" break="no" n="105"/>niens igitur fuit bonis moribus ut talis coniunctio
+<lb ed="#L" n="106"/>legibus inhiberetur.
+</p>
+            <p xml:id="v8naTA-d1e2729-d1e197">
+               <lb ed="#L" n="107"/>Adhuc. Delectatio coitus maxime corrumpit
+<lb ed="#L" n="108"/>existimationem prudentiae. Multiplicatio igitur
+<lb ed="#L" n="109"/>talis delectationis repugnat bonos mores. Talis
+<lb ed="#L" n="110"/>autem delectatio augetur per amorem 
+persona<lb ed="#L" break="no" n="111"/>rum quae coniunguntur. Esset igitur contrarium
+<lb ed="#L" n="112"/>bonis moribus propinquis coniungi: quia in eis
+<lb ed="#L" n="113"/>adiungeretur amor qui est ex communione 
+ori<lb ed="#L" break="no" n="114"/>ginis et connutritione, amori concupiscentiae; et,
+<pb ed="#L" n="388"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>multiplicato amore, necesse esset animam magis
+<lb ed="#L" n="2"/>delectationibus subdi.
+</p>
+            <p xml:id="v8naTA-d1e2729-d1e226">
+               <lb ed="#L" n="3"/>Amplius. In societate humana hoc est maxime
+<lb ed="#L" n="4"/>necessarium ut sit amicitia inter multos. 
+Multi<lb ed="#L" break="no" n="5"/>plicatur autem amicitia inter homines dum 
+per<lb ed="#L" break="no" n="6"/>sonae extraneae per matrimonia colligantur. 
+Con<lb ed="#L" break="no" n="7"/>veniens igitur fuit legibus ordinari quod 
+matri<lb ed="#L" break="no" n="8"/>monia contraherentur cum extraneis personis, et
+<lb ed="#L" n="9"/>non cum propinquis.
+</p>
+            <p xml:id="v8naTA-d1e2729-d1e244">
+               <lb ed="#L" n="10"/>Adhuc. Inconveniens est ut illis personis aliquis
+<lb ed="#L" n="11"/>socialiter iungatur quibus naturaliter debet esse
+<lb ed="#L" n="12"/>subiectus. Naturale autem est quod aliquis 
+paren<lb ed="#L" break="no" n="13"/>tibus sit subiectus. Ergo inconveniens esset quod
+<lb ed="#L" n="14"/>cum parentibus aliquis matrimonium contraheret:
+<lb ed="#L" n="15"/>cum in matrimonio sit quaedam coniunctio socialis.
+<lb ed="#L" n="16"/>Hinc est quod dicitur Levit. xvit^: Omnis homo
+<lb ed="#L" n="17"/>ad proximam sanguinis sui non accedat.
+</p>
+            <p xml:id="v8naTA-d1e2729-d1e264">
+               <lb ed="#L" n="18"/>Per haec autem excluditur consuetudo eorum
+<lb ed="#L" n="19"/>qui propinquis suis se carnaliter commiscent.
+</p>
+            <p xml:id="v8naTA-d1e2729-d1e272">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="20"/>Sciendum est autem quod, sicut naturalis 
+in<lb ed="#L" break="no" n="21"/>clinatio est ad ea quae sunt ut in pluribus, ita -
+<lb ed="#L" n="22"/>et lex posita est secundum id quod in pluribus
+<lb ed="#L" n="23"/>accidit. Non est praedictis rationibus contrarium
+<lb ed="#L" n="24"/>si in aliquo aliter. possit accidere: non. enim
+<lb ed="#L" n="25"/>propter bonum unius debet praetermitti bonum
+<lb ed="#L" n="26"/>multorum, cum bonum multitudinis semper sit
+<lb ed="#L" n="27"/>divinius quam bonum unius . Ne tamen defectus
+<lb ed="#L" n="28"/>qui in aliquo uno posset accidere, omnino absque
+<lb ed="#L" n="29"/>medela remaneat, residet apud legislatores, et eis
+<lb ed="#L" n="30"/>similes, auctoritas dispensandi in eo quod 
+com<lb ed="#L" break="no" n="31"/>muniter est statutum, secundum quod est 
+neces<lb ed="#L" break="no" n="32"/>sarium in aliquo casu particulari. Et si quidem
+<lb ed="#L" n="33"/>lex sit humana, per homines similem potestatem
+<lb ed="#L" n="34"/>habentes dispensari potest. Si autem lex sit 
+di<lb ed="#L" break="no" n="35"/>vinitus posita, auctoritate divina dispensatio fieri
+<lb ed="#L" n="36"/>potest: sicut in veteri lege ex dispensatione 
+in<lb ed="#L" break="no" n="37"/>dultum videtur uxores plures habere et 
+concu<lb ed="#L" break="no" n="38"/>binas, et uxoris repudium.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

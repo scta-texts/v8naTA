@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 62</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 62</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="171"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2214"><!-- v8naTA-l3c62 -->
+            <head xml:id="v8naTA-d1e2214-Hd1e101">Capitulum 62</head>
+            <head xml:id="v8naTA-d1e2214-Hd1e103" type="question-title">Quod videntes deum in perpetuum eum videbunt.</head>
+            <p xml:id="v8naTA-d1e2214-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="23" type="fixed=171"/>CAPITULUM SEXAGESIMUM SECUNDUM
+<lb ed="#L" n="24"/>QUOD VIDENTES DEUM IN PERPETUUM EUM VIDEBUNT.
+</p>
+            <p xml:id="v8naTA-d1e2214-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="25"/>Ex hoc autem apparet quod illi qui 
+ul<lb ed="#L" break="no" n="26"/>timam felicitatem consequuntur ex 
+vi<lb ed="#L" break="no" n="27"/>sione divina, nunquam ab illa decident.
+</p>
+            <p xml:id="v8naTA-d1e2214-d1e126">
+               <lb ed="#L" n="28"/>Omne enim quod quandoque est et
+<lb ed="#L" n="29"/>quandoque non est, tempore mensuratur: ut patet
+<lb ed="#L" n="30"/>in IV Physicorum . Visio autem praedicta, quae
+<lb ed="#L" n="31"/>intellectuales creaturas beatas facit, non est in
+<lb ed="#L" n="32"/>tempore, sed in aeternitate. Impossibile est ergo
+<lb ed="#L" n="33"/>quod ex quo illius particeps aliquis fit, ipsam
+<lb ed="#L" n="34"/>amittat.
+</p>
+            <p xml:id="v8naTA-d1e2214-d1e145">
+               <lb ed="#L" n="35"/>Adhuc. Creatura intellectualis non pervenit ad
+<lb ed="#L" n="36"/>ultimum finem nisi quando eius naturale 
+desi<lb ed="#L" break="no" n="37"/>derium quietatur. Sicut autem naturaliter 
+desi<lb ed="#L" break="no" n="38"/>derat felicitatem, ita naturaliter desiderat felicitatis
+<lb ed="#L" n="39"/>perpetuitatem: cum enim in sua substantia sit
+<lb ed="#L" n="40"/>perpetua, illud quod propter se desiderat et non
+<lb ed="#L" n="41"/>propter aliud, desiderat ut semper habendum,
+<lb ed="#L" n="42"/>Non igitur esset felicitas ultimus finis nisi 
+per<lb ed="#L" break="no" n="43"/>petuo permaneret.
+</p>
+            <p xml:id="v8naTA-d1e2214-d1e167">
+               <lb ed="#L" n="44"/>Amplius. Omne illud quod cum amore 
+pos<lb ed="#L" break="no" n="45"/>sidetur, si sciatur quod quandoque amittatur,
+<lb ed="#L" n="46"/>tristitiam infert. Visio autem praedicta, quae
+<lb ed="#L" n="47"/>beatos facit, cum sit maxime delectabilis et
+<lb ed="#L" n="48"/>maxime desiderata, maxime a possidentibus eam
+<lb ed="#L" n="49"/>amatur. Impossibile ergo esset eos non tristari
+<lb ed="#L" n="50"/>si scirent se quandoque eam amissuros. Si autem
+<lb ed="#L" n="51"/>non esset perpetua, hoc scirent: iam enim 
+osten<lb ed="#L" break="no" n="52"/>sum est quod, videndo divinam substantiam,
+<lb ed="#L" n="53"/>etiam alia cognoscunt quae naturaliter sunt; unde
+<lb ed="#L" n="54"/>multo magis cognoscunt qualis illa visio sit, utrum
+<lb ed="#L" n="55"/>perpetua vel quandoque desitura. Non ergo talis
+<lb ed="#L" n="56"/>visio adesset eis sine tristitia. Et ita non esset
+<lb ed="#L" n="57"/>vera felicitas, quae ab omni malo immunem
+<lb ed="#L" n="58"/>reddere debet, ut supra  ostensum est.
+</p>
+            <p xml:id="v8naTA-d1e2214-d1e202">
+               <lb ed="#L" n="59"/>Item. Quod movetur naturaliter ad aliquid
+<lb ed="#L" n="60"/>sicut ad finem sui motus, non removetur ab eo
+<lb ed="#L" n="61"/>nisi per violentiam, sicut grave cum proiicitur
+<lb ed="#L" n="62"/>sursum. Constat autem ex praedictis quod omnis
+<lb ed="#L" n="63"/>substantia intellectualis naturali desiderio tendit
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="64"/>ad illam visionem. Non ergo ab illa deficiet nisi
+<lb ed="#L" n="65"/>per violentiam. Nihil autem tollitur per 
+violen<lb ed="#L" break="no" n="66"/>tiam alicuius nisi virtus auferentis sit maior 
+vir<lb ed="#L" break="no" n="67"/>tute causantis. Visionis autem divinae causa est
+<lb ed="#L" n="68"/>Deus, ut supra  probatum est. Ergo, cum nulla
+<lb ed="#L" n="69"/>virtus divinam virtutem excedat, impossibile est
+<lb ed="#L" n="70"/>quod illa visio per violentiam tollatur. In 
+perpe<lb ed="#L" break="no" n="71"/>tuum ergo durabit.
+</p>
+            <p xml:id="v8naTA-d1e2214-d1e235">
+               <lb ed="#L" n="72"/>Adhuc. Si aliquis videre desinat quod prius
+<lb ed="#L" n="73"/>videbat, aut hoc erit quia deficit ei facultas 
+vi<lb ed="#L" break="no" n="74"/>dendi, sicut cum aliquis moritur vel caecatur,
+<lb ed="#L" n="75"/>vel aliqualiter aliter impeditur; aut erit quia non
+<lb ed="#L" n="76"/>vult amplius videre, sicut cum quis avertit visum
+<lb ed="#L" n="77"/>a re quam prius videbat; vel quia obiectum
+<lb ed="#L" n="78"/>subtrahitur. Et hoc commuhiter verum est, sive
+<lb ed="#L" n="79"/>de visione sensus, sive de intellectuali visione
+<lb ed="#L" n="80"/>loquamur. Substantiae autem intellectuali videnti
+<lb ed="#L" n="81"/>Deum non potest deesse facultas Deum videndi:
+<lb ed="#L" n="82"/>neque per hoc quod esse desinat, cum sit 
+per<lb ed="#L" break="no" n="83"/>petua, ut supra  ostensum est; neque per 
+de<lb ed="#L" break="no" n="84"/>fectum luminis quo Deum videt, cum lumen
+<lb ed="#L" n="85"/>illud incorruptibiliter recipiatur, secundum 
+con<lb ed="#L" break="no" n="86"/>ditionem et recipientis et dantis. Neque potest
+<lb ed="#L" n="87"/>deesse ei voluntas tali visione fruendi, ex quo
+<lb ed="#L" n="88"/>percipit in illa visione esse suam ultimam 
+feli<lb ed="#L" break="no" n="89"/>citatem: sicut non potest velle non esse felix.
+<lb ed="#L" n="90"/>Nec etiam videre desinet per subtractionem
+<lb ed="#L" n="91"/>obiecti: quia obiectum illud, quod, est Deus,
+<lb ed="#L" n="92"/>semper eodem modo se habet; nec elongatur a
+<lb ed="#L" n="93"/>nobis nisi inquantum nos elongamur ab ipso.
+<lb ed="#L" n="94"/>Impossibile est igitur quod visio illa Dei, quae
+<lb ed="#L" n="95"/>beatos facit, unquam deficiat.
+</p>
+            <p xml:id="v8naTA-d1e2214-d1e290">
+               <lb ed="#L" n="96"/>Praeterea. Impossibile est quod aliquis a bono
+<lb ed="#L" n="97"/>quo fruitur velit discedere nisi propter aliquod
+<lb ed="#L" n="98"/>malum quod in fruitione illius boni aestimat,
+<lb ed="#L" n="99"/>saltem. propter hoc quod aestimatur impeditivum
+<lb ed="#L" n="100"/>maioris boni: sicut enim nihil desiderat appetitus
+<lb ed="#L" n="101"/>nisi sub ratione boni, ita nihil fugit nisi sub 
+ra<lb ed="#L" break="no" n="102"/>tione mali. Sed in fruitione illius visionis non
+<pb ed="#L" n="172"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>potest esse aliquod malum: cum sit optimum
+<lb ed="#L" n="2"/>ad quod creatura intellectualis pervenire potest.
+<lb ed="#L" n="3"/>Neque etiam potest esse quod ab eo qui illa
+<lb ed="#L" n="4"/>fruitur visione, aestimetur in ea esse aliquod
+<lb ed="#L" n="5"/>malum, vel aliquid eo melius: cum visio illius
+<lb ed="#L" n="6"/>Summae Veritatis omnem falsam aestimationem
+<lb ed="#L" n="7"/>excludat. Impossibile est igitur quod substantia
+<lb ed="#L" n="8"/>intellectualis quae Deum videt, unquam illa 
+vi<lb ed="#L" break="no" n="9"/>sione carere velit.
+</p>
+            <p xml:id="v8naTA-d1e2214-d1e332">
+               <lb ed="#L" n="10"/>Item. Fastidium alicuius quo prius aliquis 
+de<lb ed="#L" break="no" n="11"/>lectabiliter fruebatur, accidit propter hoc quod
+<lb ed="#L" n="12"/>res illa aliquam immutationem facit in re, 
+cor<lb ed="#L" break="no" n="13"/>rumpendo vel debilitando virtutem ipsius. Et
+<lb ed="#L" n="14"/>propter hoc vires sensibiles, quibus accidit 
+fati<lb ed="#L" break="no" n="15"/>gatio in suis actionibus propter immutationem 
+<lb ed="#L" n="16"/>corporalium organorum a sensibilibus; a quibus
+<lb ed="#L" n="17"/>etiam, si fuerint excellentia, corrumpuntur ; 
+fasti<lb ed="#L" break="no" n="18"/>diunt post aliquod tempus frui eo quod prius
+<lb ed="#L" n="19"/>delectabiliter sentiebant. Et propter hoc etiam
+<lb ed="#L" n="20"/>in intelligendo fastidium patimur post longam  
+<lb ed="#L" n="21"/>vel vehementem meditationem, quia fatigantur
+<lb ed="#L" n="22"/>potentiae utentes corporalibus organis, sine quibus
+<lb ed="#L" n="23"/>consideratio intellectus nunc compleri non potest.
+<lb ed="#L" n="24"/>Divina autem substantia non corrumpit, sed
+<lb ed="#L" n="25"/>maxime perficit intellectum. Neque ad eius 
+vi<lb ed="#L" break="no" n="26"/>sionem concurrit aliquis actus qui per organa
+<lb ed="#L" n="27"/>corporalia exerceatur. Impossibile est igitur quod
+<lb ed="#L" n="28"/>illus visionis aliquem fastidiat qui prius ea 
+de<lb ed="#L" break="no" n="29"/>lectabiliter fruebatur.
+</p>
+            <p xml:id="v8naTA-d1e2214-d1e379">
+               <lb ed="#L" n="30"/>Amplius. Nihil quod cum admiratione 
+conside<lb ed="#L" break="no" n="31"/>ratur, potest esse fastidiosum: quia quandiu sub
+<lb ed="#L" n="32"/>admiratione est, adhuc desiderium movet. Divina
+<lb ed="#L" n="33"/>autem substantia a quolibet intellectu creato 
+sem<lb ed="#L" break="no" n="34"/>per cum admiratione videtur: cum nullus 
+intel<lb ed="#L" break="no" n="35"/>lectus creatus eam comprehendat. Impossibile est
+<lb ed="#L" n="36"/>igitur quod substantia intellectualis illam visionem
+<lb ed="#L" n="37"/>fastidiat. Et ita non potest esse quod per propriam
+<lb ed="#L" n="38"/>voluntatem ab illa visione desistat.
+</p>
+            <p xml:id="v8naTA-d1e2214-d1e401">
+               <lb ed="#L" n="39"/>Adhuc. Si aliqua duo fuerunt prius unita et
+<lb ed="#L" n="40"/>postmodum separantur, oportet quod hoc 
+acci<lb ed="#L" break="no" n="41"/>dat per mutationem alicuius eorum: relatio enim,
+<lb ed="#L" n="42"/>sicut non incipit esse de novo absque 
+muta<lb ed="#L" break="no" n="43"/>tione alterius relatorum, ita nec absque alterius
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="44"/>mutatione de novo esse desistit. Intellectus autem
+<lb ed="#L" n="45"/>creatus videt Deum per hoc quod ei 
+quodam<lb ed="#L" break="no" n="46"/>modo unitur, ut ex dictis  patet. Si ergo visio
+<lb ed="#L" n="47"/>illa desinat, unione huiusmodi desinente, oportet
+<lb ed="#L" n="48"/>quod hoc fiat per mutationem divinae substantiae,
+<lb ed="#L" n="49"/>vel intellectus ipsam videntis. Quorum utrumque
+<lb ed="#L" n="50"/>est impossibile: nam divina substantia 
+immuta<lb ed="#L" break="no" n="51"/>bilis est, ut in primo libro  ostensum est; 
+sub<lb ed="#L" break="no" n="52"/>stantia etiam intellectualis elevatur supra omnem
+<lb ed="#L" n="53"/>mutationem cum Dei substantiam videt. 
+Impos<lb ed="#L" break="no" n="54"/>sibile. est igitur quod aliquis decidat ab illa 
+feli<lb ed="#L" break="no" n="55"/>citate qua Dei substantiam videt.
+</p>
+            <p xml:id="v8naTA-d1e2214-d1e443">
+               <lb ed="#L" n="56"/>Item. Quanto aliquid est Deo propinquius, qui
+<lb ed="#L" n="57"/>est omnino immobilis, tanto est minus mutabile,
+<lb ed="#L" n="58"/>et magis perseverans: unde quaedam corpora,
+<lb ed="#L" n="59"/>propter hoc quod longe distant a Deo, non 
+pos<lb ed="#L" break="no" n="60"/>sunt in perpetuum durare, sicut dicitur in Il de
+<lb ed="#L" n="61"/>Generatione . Sed nulla creatura potest Deo 
+vi<lb ed="#L" break="no" n="62"/>cinius appropinquare quam quae eius 
+substan<lb ed="#L" break="no" n="63"/>tiam videt. Creatura igitur intellectualis quae Dei
+<lb ed="#L" n="64"/>substantiam videt, summam immutabilitatem 
+con<lb ed="#L" break="no" n="65"/>sequetur. Non igitur possibile est quod unquam
+<lb ed="#L" n="66"/>ab illa visione deficiat.
+</p>
+            <p xml:id="v8naTA-d1e2214-d1e469">
+               <lb ed="#L" n="67"/>Hinc est quod in Psalm. dicitur: Beati qui
+<lb ed="#L" n="68"/>habitant in domo iua, Domine: in saecula 
+saecu<lb ed="#L" break="no" n="69"/>lorum laudabunt 1e. Et alibi: Non 
+commove<lb ed="#L" break="no" n="70"/>bitur in aeternum qui habitat in Ierusaiem. Et
+<lb ed="#L" n="71"/>Isaiae xxxu^??': Oculi tui videbunt Ierusalem, 
+civi<lb ed="#L" break="no" n="72"/>tatem. opulentam, tabernaculum. quod nequaquam
+<lb ed="#L" n="73"/>transferri poterit, nec auferentur clavi eius in 
+sem<lb ed="#L" break="no" n="74"/>piternum, et omnes funiculi eius non rumpentur:
+<lb ed="#L" n="75"/>quia solummodo ibi magnificus Dominus Deus
+<lb ed="#L" n="76"/>noster. Et Apoc. m": Qui vicerit, faciam illum
+<lb ed="#L" n="77"/>columnam in templo Dei mei, et foras non 
+egre<lb ed="#L" break="no" n="78"/>dietur amplius.
+</p>
+            <p xml:id="v8naTA-d1e2214-d1e498">
+               <lb ed="#L" n="79"/>Per haec autem excluditur error Platonicorum,
+<lb ed="#L" n="80"/>qui dicebant separatas animas, postquam 
+felici<lb ed="#L" break="no" n="81"/>tatem ultimam adeptae fuissent, iterum ad 
+cor<lb ed="#L" break="no" n="82"/>pora incipere velle redire; et, finita felicitate illius
+<lb ed="#L" n="83"/>vitae, iterum miseriis huius vitae involvi. — Et
+<lb ed="#L" n="84"/>etiam error Origenis, qui dixit animas et angelos,
+<lb ed="#L" n="85"/>post beatitudinem, iterum posse ad miseriam
+<lb ed="#L" n="86"/>devenire .
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

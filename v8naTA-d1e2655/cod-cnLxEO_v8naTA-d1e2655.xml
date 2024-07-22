@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 116</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 116</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="365"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2655"><!-- v8naTA-l3c116 -->
+            <head xml:id="v8naTA-d1e2655-Hd1e101">Capitulum 116</head>
+            <head xml:id="v8naTA-d1e2655-Hd1e103" type="question-title">Quod finis legis divinae est dilectio dei.</head>
+            <p xml:id="v8naTA-d1e2655-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="53" type="fixed=365"/>CAPITULUM CENTESIMUM DECIMUM SEXTUM
+<lb ed="#L" n="54"/>QUOD FINIS LEGIS DIVINAE EST DILECTIO DEI.
+</p>
+            <p xml:id="v8naTA-d1e2655-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="55"/>QUIA vero intentio divinae legis ad hoc
+<lb ed="#L" n="56"/>principaliter est ut homo Deo adhaereat;
+<lb ed="#L" n="57"/>homo autem potissime adhaeret Deo
+<lb ed="#L" n="58"/>per amorem: necesse est quod intentio
+<lb ed="#L" n="59"/>divinae legis principaliter ordinetur ad amandum,
+</p>
+            <p xml:id="v8naTA-d1e2655-d1e131">
+               <lb ed="#L" n="60"/>Quod autem per amorem homo maxime Deo
+<lb ed="#L" n="61"/>adhaereat, manifestum est. Duo enim sunt in 
+ho<lb ed="#L" break="no" n="62"/>mine quibus Deo potest adhaerere, intellectus 
+sci<lb ed="#L" break="no" n="63"/>licet et voluntas: nam secundum inferiores animae
+<lb ed="#L" n="64"/>partes Deo adhaerere non potest, sed inferioribus
+<lb ed="#L" n="65"/>rebus. Adhaesio autem quae est per intellectum,
+<lb ed="#L" n="66"/>completionem recipit per eam quae est voluntatis:
+<lb ed="#L" n="67"/>quia per voluntatem homo quodammodo quiescit
+<lb ed="#L" n="68"/>in eo quod intellectus apprehendit. Voluntas autem
+<lb ed="#L" n="69"/>adhaeret alicui rei vel propter amorem, vel propter
+<lb ed="#L" n="70"/>timorem: sed differenter. Nam ei quidem cui
+<lb ed="#L" n="71"/>inhaeret propter timorem, inhaeret propter aliud:
+<lb ed="#L" n="72"/>ut scilicet evitet malum quod, si non adhaereat
+<lb ed="#L" n="73"/>ei, imminet. Ei vero cui adhaeret propter amorem,
+<lb ed="#L" n="74"/>adhaeret propter seipsum. Quod autem est propter
+<lb ed="#L" n="75"/>se, principalius est eo quod est propter aliud .
+<lb ed="#L" n="76"/>Adhaesio igitur amoris ad Deum est potissimus
+<lb ed="#L" n="77"/>modus ei adhaerendi. Hoc igitur est potissime 
+in<lb ed="#L" break="no" n="78"/>tentum in divina lege.
+</p>
+            <p xml:id="v8naTA-d1e2655-d1e176">
+               <lb ed="#L" n="79"/>Item. Finis cuiuslibet legis, et praecipue divinae
+<lb ed="#L" n="80"/>est homines facere bonos . Homo autem dicitur
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="81"/>bonus ex eo quod habet voluntatem bonam, per
+<lb ed="#L" n="82"/>quam in actum reducit quicquid boni in ipso est.
+<lb ed="#L" n="83"/>Voluntas autem est bona ex eo quod vult bonum:
+<lb ed="#L" n="84"/>et praecipue maximum bonum, quod est finis.
+<lb ed="#L" n="85"/>Quanto igitur huiusmodi bonum magis voluntas
+<lb ed="#L" n="86"/>vult, tanto magis homo est bonus. Sed magis
+<lb ed="#L" n="87"/>vult homo id quod vult propter amorem, quam
+<lb ed="#L" n="88"/>id quod vult propter timorem tantum: nam quod
+<lb ed="#L" n="89"/>vult propter timorem tantum, dicitur mixtum 
+invo<lb ed="#L" break="no" n="90"/>luntario; sicut aliquis vult in mari proiectionem
+<lb ed="#L" n="91"/>mercium propter timorem. Ergo amor Summi
+<lb ed="#L" n="92"/>Boni, scilicet Dei, maxime facit bonos, et est
+<lb ed="#L" n="93"/>maxime intentum in divina lege.
+</p>
+            <p xml:id="v8naTA-d1e2655-d1e213">
+               <lb ed="#L" n="94"/>Praeterea. Bonitas hominis est per virtutem:
+<lb ed="#L" n="95"/>virtus enim est quae bonum facit habentem. Unde
+<lb ed="#L" n="96"/>et lex intendit homines facere virtuosos; et 
+praece<lb ed="#L" break="no" n="97"/>pta legis sunt de actibus, virtutum . Sed de 
+con<lb ed="#L" break="no" n="98"/>ditione virtutis est ut virtuosus ef firmiter etl
+<lb ed="#L" n="99"/>delectabiliter operetur. Hoc. autem maxime facit
+<lb ed="#L" n="100"/>amor: nam ex amore aliquid firmiter et 
+delecta<lb ed="#L" break="no" n="101"/>biliter facimus. Amor igitur boni est ultimum 
+in<lb ed="#L" break="no" n="102"/>tentum in lege divina.
+</p>
+            <p xml:id="v8naTA-d1e2655-d1e235">
+               <lb ed="#L" n="103"/>Adhuc. Legislatores imperio legis editae movent
+<lb ed="#L" n="104"/>eos quibus lex datur. In omnibus autem quae
+<lb ed="#L" n="105"/>moventur ab aliquo primo movente, tanto aliquid
+<lb ed="#L" n="106"/>perfectius movetur quanto magis participat de
+</p>
+            <p xml:id="v8naTA-d1e2655-d1e246">
+               <pb ed="#L" n="366"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>Scit, quam qui tantum cognoscit Deum et ipsum non
+<lb ed="#L" n="2"/>motione primi moventis, et de similitudine ipsius.
+<lb ed="#L" n="3"/>Deus autem, qui est legis divinae dator, omnia
+<lb ed="#L" n="4"/>facit propter suum amorem. Qui igitur hoc modo
+<lb ed="#L" n="5"/>tendit in ipsum, scilicet amando, . perfectissime
+<lb ed="#L" n="6"/>movetur in ipsum. Omne. autem agens intendit ;
+<lb ed="#L" n="7"/>perfectionem in eo: quod .agit.. Hic igitur est finis
+<lb ed="#L" n="8"/>totius legislationis, ut homo Deum amet:
+</p>
+            <p xml:id="v8naTA-d1e2655-d1e270">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="9"/>Hinc est quod. dicitur <ref xml:id="v8naTA-d1e2655-Rd1e276">1. Tim. 1</ref>: <quote xml:id="v8naTA-d1e2655-Qd1e278">Finis praecepti
+<lb ed="#L" n="10"/>caritas est</quote>. Et <ref xml:id="v8naTA-d1e2655-Rd1e283">Matlh. xxu 7?</ref>, dicitur quod <quote xml:id="v8naTA-d1e2655-Qd1e286">primum
+<lb ed="#L" n="11"/>et maximum mandatum in dege est; Diliges. 
+Do<lb ed="#L" break="no" n="12"/>minum Deum. tuum</quote>
+            </p>
+            <p xml:id="v8naTA-d1e2655-d1e294">
+               <lb ed="#L" n="13"/>Inde est etiam quod lex. nova, tanquam 
+per<lb ed="#L" break="no" n="14"/>fectior, dicitur. Jex amoris: lex autem vetus, 
+tan<lb ed="#L" break="no" n="15"/>quam imperfectior, lex timoris?.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

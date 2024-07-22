@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 144</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 144</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="429"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2884"><!-- v8naTA-l3c144 -->
+            <head xml:id="v8naTA-d1e2884-Hd1e101">Capitulum 144</head>
+            <head xml:id="v8naTA-d1e2884-Hd1e103" type="question-title">Quod per peccatum mortale
+ultimo fine ehe in aeternum privatur.</head>
+            <p xml:id="v8naTA-d1e2884-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="65" type="fixed=429"/>CAPITULUM
+<lb ed="#L" n="66"/>CENTESIMUM QUADRAGESIMUM QUARTUM
+<lb ed="#L" n="67"/>QUOD PER PECCATUM MORTALE
+<lb ed="#L" n="68"/>ULTIMO FINE EHE IN AETERNUM PRIVATUR.
+</p>
+            <p xml:id="v8naTA-d1e2884-d1e119">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="69"/>OPORTET autem hanc poenam. qua quis
+<lb ed="#L" n="70"/>privatur ultimo fine, esse 
+intermina<lb ed="#L" break="no" n="71"/>bilem.
+</p>
+            <p xml:id="v8naTA-d1e2884-d1e130">
+               <lb ed="#L" n="72"/>Privatio enim alicuius non est nisi
+<lb ed="#L" n="73"/>quando natum est haberi: non enim catulus mox
+<lb ed="#L" n="74"/>natus dicitur visu privatus. Ultimum autem finem
+<lb ed="#L" n="75"/>consequi non est homo aptus natus in hac vita,
+<lb ed="#L" n="76"/>ut probatum est. Privatio ergo huiusmodi finis
+<lb ed="#L" n="77"/>oportet quod sit poena post hanc vitam. Sed
+<lb ed="#L" n="78"/>post hanc vitam non remanet homini facultas
+<lb ed="#L" n="79"/>adipiscendi ultimum finem. Anima enim indiget
+<lb ed="#L" n="80"/>corpore ad consecutionem sui finis: inquantum
+<lb ed="#L" n="81"/>per corpus perfectionem acquirit et in scientia
+<lb ed="#L" n="82"/>et in virtute. Anima autem, postquam a corpore
+<lb ed="#L" n="83"/>fuerit separata, non redit iterum ad hunc statum : 
+<lb ed="#L" n="84"/>quod per corpus perfectionem accipiat, sicut 
+di<lb ed="#L" break="no" n="85"/>cebant transcorporationem ponentes, contra quos
+<lb ed="#L" n="86"/>superius  disputatum est. Necesse est igitur quod
+<lb ed="#L" n="87"/>ille qui hac poena punitur ut ultimo fine privetur,
+<lb ed="#L" n="88"/>in aeternum privatus remaneat.
+</p>
+            <p xml:id="v8naTA-d1e2884-d1e170">
+               <cb ed="#L" n="e"/>
+               <lb ed="#L" n="89"/>Adhuc. Si aliquid privatur eo quod est in 
+na<lb ed="#L" break="no" n="90"/>tura eius ut habeatur, impossibile est illud 
+repa<lb ed="#L" break="no" n="91"/>rari nisi fiat resolutio in praeiacentem materiam,
+<lb ed="#L" n="92"/>ut iterum aliud de novo generetur: sicut cum
+<lb ed="#L" n="93"/>animal amittit visum aut alium sensum. 
+Impos<lb ed="#L" break="no" n="94"/>sibile est autem quod id quod iam generatum
+<lb ed="#L" n="95"/>est, iterum generetur, nisi prius corrumpatur: et
+<lb ed="#L" n="96"/>tunc ex eadem materia poterit aliud integrum
+<lb ed="#L" n="97"/>generari, non idem numero, sed specie. Res autem
+<lb ed="#L" n="98"/>spiritualis, ut anima vel angelus, non potest 
+re<lb ed="#L" break="no" n="99"/>solvi per corruptionem in aliquam praeiacentem
+<lb ed="#L" n="100"/>materiam, ut iterum generetur aliud idem specie.
+<lb ed="#L" n="101"/>Si igitur privetur eo quod est in natura ipsius
+<lb ed="#L" n="102"/>ut habeat, oportet quod in perpetuum maneat
+<lb ed="#L" n="103"/>talis privatio. Est autem in natura animae et 
+an<lb ed="#L" break="no" n="104"/>geli ordo ad ultimum finem, qui est Deus. Si
+<lb ed="#L" n="105"/>ergo ab hoc ordine decidat per aliquam poenam,
+<lb ed="#L" n="106"/>in perpetuum talis poena manebit.
+</p>
+            <p xml:id="v8naTA-d1e2884-d1e214">
+               <lb ed="#L" n="107"/>Item. Naturalis aequitas hoc habere videtur,
+<lb ed="#L" n="108"/>quod unusquisque privetur bono contra quod
+<pb ed="#L" n="430"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>agit: ex hoc enim reddit se tali bono indignum.
+<lb ed="#L" n="2"/>Et inde est quod, secundum civilem iustitiam,
+<lb ed="#L" n="3"/>qui contra rempublicam peccat, societate 
+reipu<lb ed="#L" break="no" n="4"/>blicae privatur omnino, vel per mortem vel per
+<lb ed="#L" n="5"/>exilium perpetuum : nec attenditur quanta fuerit
+<lb ed="#L" n="6"/>mora temporis in peccando, sed quid sit contra
+<lb ed="#L" n="7"/>quod peccavit. Eadem autem est comparatio 
+to<lb ed="#L" break="no" n="8"/>tius vitae praesentis ad rempublicam terrenam,
+<lb ed="#L" n="9"/>et totius aeternitatis ad societatem Beatorum, qui,
+<lb ed="#L" n="10"/>ut supra  ostensum est, ultimo fine aeternaliter
+<lb ed="#L" n="11"/>potiuntur. Qui ergo contra ultimum finem 
+pec<lb ed="#L" break="no" n="12"/>cat, et contra caritatem, per quam est societas
+<lb ed="#L" n="13"/>Beatorum et tendentium in beatitudinem, in 
+aeter<lb ed="#L" break="no" n="14"/>num debet puniri, quamvis aliqua brevi temporis
+<lb ed="#L" n="15"/>mora -peccaverit.
+</p>
+            <p xml:id="v8naTA-d1e2884-d1e258">
+               <lb ed="#L" n="16"/>Praeterea. Apud divinum iudicium voluntas pro
+<lb ed="#L" n="17"/>faclo computatur : quia, sicut homines vident ea
+<lb ed="#L" n="18"/>quae exterius aguntur, ita Deus inspicit hominum
+<lb ed="#L" n="19"/>corda. Qui autem propter aliquod temporale 
+bo<lb ed="#L" break="no" n="20"/>num aversus est ab ultimo fine, qui in aeternum
+<lb ed="#L" n="21"/>possidetur, praeposuit fruitionem temporalem 
+il<lb ed="#L" break="no" n="22"/>lius boni temporalis aeternae fruitioni ultimi finis.
+<lb ed="#L" n="23"/>Unde patet quod multo magis voluisset in 
+aeter<lb ed="#L" break="no" n="24"/>num illo bono temporali frui. Ergo, secundum
+<lb ed="#L" n="25"/>divinum iudicium, ita puniri debet ac si 
+aeter<lb ed="#L" break="no" n="26"/>naliter peccasset. Nulli autem dubium est quin
+<lb ed="#L" n="27"/>pro aeterno peccato aeterna poena debeatur. 
+De<lb ed="#L" break="no" n="28"/>betur igitur ei qui ab ultimo fine avertitur, poena
+<lb ed="#L" n="29"/>aeterna.
+</p>
+            <p xml:id="v8naTA-d1e2884-d1e291">
+               <lb ed="#L" n="30"/>Adhuc. Eadem iustitiae ratione poena peccatis
+<lb ed="#L" n="31"/>redditur, et bonis actibus praemium . Praemium
+<lb ed="#L" n="32"/>aulem virtutis est beatitudo . Quae quidem est
+<lb ed="#L" n="33"/>aeterna, ut supra  ostensum est. Ergo et poena
+<lb ed="#L" n="34"/>qua quis a beatitudine excluditur, debet esse
+<lb ed="#L" n="35"/>aeterna.
+</p>
+            <p xml:id="v8naTA-d1e2884-d1e307">
+               <lb ed="#L" n="36"/>Hinc est quod dicitur Matth. xxv ^ : Ibunt hi in
+<lb ed="#L" n="37"/>supplicium aeternum, iusti autem in vitam aeternam.
+</p>
+            <p xml:id="v8naTA-d1e2884-d1e314">
+               <lb ed="#L" n="38"/>Per hoc autem excluditur error dicentium 
+poe<lb ed="#L" break="no" n="39"/>nas malorum quandoque esse terminandas. Quae
+<lb ed="#L" n="40"/>quidem positio ortum habuisse videtur a 
+posi<lb ed="#L" break="no" n="41"/>tione quorundam philosophorum, qui dicebant
+<lb ed="#L" n="42"/>omnes poenas purgatorias esse, et ita quandoque
+<lb ed="#L" n="43"/>terminandas.
+</p>
+            <p xml:id="v8naTA-d1e2884-d1e331">
+               <lb ed="#L" n="44"/>Videbatur autem hoc persuasibile: tum ex 
+hu<lb ed="#L" break="no" n="45"/>mana consuetudine. Poenae enim humanis 
+legi<lb ed="#L" break="no" n="46"/>bus inferuntur ad emendationem vitiorum: unde
+<lb ed="#L" n="47"/>sicut medicinae quaedam sunt. - Tum etiam 
+ra<lb ed="#L" break="no" n="48"/>tione. Si enim poena non propter aliud infertur
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="49"/>a puniente, sed propter se tantum, sequitur quod
+<lb ed="#L" n="50"/>in poenis propter se delectetur: quod bonitati
+<lb ed="#L" n="51"/>divinae non congruit. Oportet igitur poenas 
+pro<lb ed="#L" break="no" n="52"/>pter aliud inferri. Nec videtur alius convenientior
+<lb ed="#L" n="53"/>finis quam emendatio vitiorum. — Videtur igitur
+<lb ed="#L" n="54"/>convenienter dici omnes poenas purgatorias esse,
+<lb ed="#L" n="55"/>et per consequens quandoque terminandas: cum
+<lb ed="#L" n="56"/>illud quod est purgabile, accidentale sit rationi
+<lb ed="#L" n="57"/>creaturae, et possit removeri absque consumptione
+<lb ed="#L" n="58"/>substantiae.
+</p>
+            <p xml:id="v8naTA-d1e2884-d1e368">
+               <lb ed="#L" n="59"/>Est autem concedendum quod poenae 
+infe<lb ed="#L" break="no" n="60"/>runtur a Deo non propter se, quasi Deus in ipsis
+<lb ed="#L" n="61"/>delectetur, sed propter aliud : scilicet propter 
+ordi<lb ed="#L" break="no" n="62"/>nem imponendum creaturis, in quo bonum 
+uni<lb ed="#L" break="no" n="63"/>versi consistit. Exigit autem hoc ordo rerum,
+</p>
+            <p xml:id="v8naTA-d1e2884-d1e381">
+               <lb ed="#L" n="64"/>ut proportionaliter omnia divinitus dispensentur:
+<lb ed="#L" n="65"/>propter quod dicitur in libro Sapientiae, quod
+<lb ed="#L" n="66"/>Deus omnia facit zn pondere, numero et mensura.
+<lb ed="#L" n="67"/>Sicut autem praemia proportionaliter respondent
+<lb ed="#L" n="68"/>actibus virtuosis, ita poenae peccatis. Et 
+quibus<lb ed="#L" break="no" n="69"/>dam peccatis proportionantur poenae 
+sempiter<lb ed="#L" break="no" n="70"/>nae, ut ostensum est. Infligit igitur Deus pro
+<lb ed="#L" n="71"/>quibusdam peccatis poenas aeternas, ut debitus
+<lb ed="#L" n="72"/>ordo servetur in rebus, qui eius sapientiam 
+de<lb ed="#L" break="no" n="73"/>monstrat.
+</p>
+            <p xml:id="v8naTA-d1e2884-d1e405">
+               <lb ed="#L" n="74"/>Si quis tamen concedat omnes poenas ad 
+emen<lb ed="#L" break="no" n="75"/>dationem morum induci, et non propter aliud:
+<lb ed="#L" n="76"/>non tamen propter hoc cogitur ponere omnes
+<lb ed="#L" n="77"/>poenas purgatorias et terminabiles esse. Nam et
+<lb ed="#L" n="78"/>secundum leges humanas aliqui morte 
+puniun<lb ed="#L" break="no" n="79"/>tur, non quidem ad emendationem sui, sed 
+alio<lb ed="#L" break="no" n="80"/>rum. Hinc est quod Prov. xix ^5 dicitur: Pestilente
+<lb ed="#L" n="81"/>flagellato, stultus sapientior erit. Quidam etiam, 
+se<lb ed="#L" break="no" n="82"/>cundum humanas leges, a civitate perpetuo exilio
+<lb ed="#L" n="83"/>excluduntur, ut, eis subtractis, civitas purior 
+red<lb ed="#L" break="no" n="84"/>datur. Unde dicitur Prov. xxii:Eiice derisorem,
+<lb ed="#L" n="85"/>et exibit cum eo iurgium, cessabuntque causae et
+<lb ed="#L" n="86"/>contumeliae. Nihil igitur prohibet, etiam si poenae
+<lb ed="#L" n="87"/>non nisi ad emendationem morum adhibeantur,
+<lb ed="#L" n="88"/>quin, secundum divinum iudicium, aliqui debeant
+<lb ed="#L" n="89"/>a societate bonorum perpetuo separari et in 
+aeter<lb ed="#L" break="no" n="90"/>num puniri, ut ex perpetuae poenae timore 
+homi<lb ed="#L" break="no" n="91"/>nes peccare desistant, et bonorum societas purior
+<lb ed="#L" n="92"/>ex eorum separatione reddatur: sicut dicitur <ref xml:id="v8naTA-d1e2884-Rd1e448">Apoc.
+<lb ed="#L" n="93"/>XXI</ref>: <quote xml:id="v8naTA-d1e2884-Qd1e453">Non intrabit in eam, idest in lerusalem 
+cae<lb ed="#L" break="no" n="94"/>lestem, per quam designatur societas bonorum,
+<lb ed="#L" n="95"/>aliquid coinquinatum, aut faciens abominationem et
+<lb ed="#L" n="96"/>mendacium</quote>.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

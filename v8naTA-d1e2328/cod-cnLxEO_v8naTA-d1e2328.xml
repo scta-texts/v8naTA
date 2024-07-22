@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 76</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 76</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="224"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2328"><!-- v8naTA-l3c76 -->
+            <head xml:id="v8naTA-d1e2328-Hd1e101">Capitulum 76</head>
+            <head xml:id="v8naTA-d1e2328-Hd1e103" type="question-title">Quod providentia dei sit omnium singularium immediate.</head>
+            <p xml:id="v8naTA-d1e2328-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="57" type="fixed=224"/>CAPITULUM SEPTUAGESIMUM SEXTUM
+<lb ed="#L" n="58"/>QUOD PROVIDENTIA DEI SIT OMNIUM SINGULARIUM IMMEDIATE.
+</p>
+            <p xml:id="v8naTA-d1e2328-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="59"/>QUIDAM autem concesserunt providentiam 
+<lb ed="#L" n="60"/>divinam usque ad haec singularia 
+pro<lb ed="#L" break="no" n="61"/>cedere, sed quibusdam mediantibus  visores.
+<lb ed="#L" n="62"/>causis. Posuit enim Plato, ut 
+Grego<lb ed="#L" break="no" n="63"/>rius Nyssenus dicit, triplicem providentiam. : 
+<lb ed="#L" n="64"/>Quarum prima est summi Dei, qui primo et 
+<lb ed="#L" n="65"/>principaliter providet propriis, idest omnibus 
+spi<lb ed="#L" break="no" n="66"/>ritualibus et intellectualibus; consequenter vero 
+<lb ed="#L" n="67"/>toti mundo quantum ad genera et species, et 
+uni<lb ed="#L" break="no" n="68"/>versales causas, quae sunt corpora caelestia. - Se- 
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="69"/>cunda vero est qua providetur singularibus 
+ani<lb ed="#L" break="no" n="70"/>malium et plantarum, et aliorum generabilium — 
+<lb ed="#L" n="71"/>et corruptibillium, quantum ad eorum 
+genera<lb ed="#L" break="no" n="72"/>tionem et corruptionem et alias mutationes. 
+</p>
+            <p xml:id="v8naTA-d1e2328-d1e152">
+               <lb ed="#L" n="73"/>Quam quidem providentiam Plato attribuit diis: 
+<lb ed="#L" n="74"/>qui caelum circueunt. Aristoteles vero horum 
+<lb ed="#L" n="75"/>causalitatem attribuit obliquo circulo. — Tertiam 
+<lb ed="#L" n="76"/>vero providentiam ponit rerum quae ad 
+huma<lb ed="#L" break="no" n="77"/>nam vitam pertinent. Quam quidem attribuit 
+<lb ed="#L" n="78"/>quibusdam daemonibus circa terram existentibus.
+<lb ed="#L" n="79"/>qui sunt, secundum ipsum, humanarum actionum 
+<lb ed="#L" n="80"/>custodes. - Sed tamen, secundum Platonem, se- 
+<cb ed="#L" n="f"/>
+               <lb ed="#L" n="81"/>cunda et tertia providentia a prima dependet:
+<lb ed="#L" n="82"/>nam Deus summus secundos et tertios statuit. pro-
+</p>
+            <p xml:id="v8naTA-d1e2328-d1e179">
+               <lb ed="#L" n="83"/>Haec autem positio Catholicae fidei consonat
+<lb ed="#L" n="84"/>quantum ad hoc quod omnium providentiam
+<lb ed="#L" n="85"/>reducit in Deum sicut in primum auctorem. 
+Vi<lb ed="#L" break="no" n="86"/>detur autem sententiae fidei repugnare quantum
+<lb ed="#L" n="87"/>ad hoc, quod non omnia particularia divinae
+<lb ed="#L" n="88"/>providentiae immediate dicit esse subiecta. Quod
+<lb ed="#L" n="89"/>ex praemissis ostendi potest.
+</p>
+            <p xml:id="v8naTA-d1e2328-d1e197">
+               <lb ed="#L" n="90"/>Habet enim Deus immediatam singularium
+<lb ed="#L" n="91"/>cognitionem, non quasi ea in suis causis 
+cogno<lb ed="#L" break="no" n="92"/>scens tantum, sed etiam in seipsis: sicut in Primo
+<lb ed="#L" n="93"/>huius Operis ostensum est . Inconveniens autem
+<lb ed="#L" n="94"/>videtur quod, singularia cognoscens, eorum or-,
+<lb ed="#L" n="95"/>dinem non velit, in quo bonum praecipuum
+<lb ed="#L" n="96"/>eorum constat: cum voluntas sua sit totius 
+bo<lb ed="#L" break="no" n="97"/>nitatis principium. Oportet ergo quod, sicut 
+im<lb ed="#L" break="no" n="98"/>mediate singularia cognoscit, ita immediate eorum
+<lb ed="#L" n="99"/>ordinem statuat.
+</p>
+            <p xml:id="v8naTA-d1e2328-d1e221">
+               <lb ed="#L" n="100"/>Amplius. Ordo qui per providentiam in rebus
+<lb ed="#L" n="101"/>gubernatis statuitur, ex ordine illo provenit quem
+<pb ed="#L" n="225"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>provisor in sua mente disponit: sicut et forma 
+<lb ed="#L" n="2"/>artis quae fit in materia, ab ea procedit quae 
+<lb ed="#L" n="3"/>est in mente artificis. Oportet autem, ubi sunt 
+<lb ed="#L" n="4"/>multi provisores unus sub alio, quod ordinem 
+<lb ed="#L" n="5"/>conceptum superior inferiori tradat: sicut ars : 
+<lb ed="#L" n="6"/>inferior accipit principia a superiori Si igitur 
+<lb ed="#L" n="7"/>secundi et tertii provisores ponuntur esse sub 
+<lb ed="#L" n="8"/>primo provisore, qui est Deus summus, oportet 
+<lb ed="#L" n="9"/>quod ordinem statuendum in rebus a summo 
+<lb ed="#L" n="10"/>Deo accipiant. Non est autem possibile quod 
+<lb ed="#L" n="11"/>iste ordo sit in eis perfectior quam in summo 
+<lb ed="#L" n="12"/>Deo: quinimmo omnes perfectiones per modum 
+<lb ed="#L" n="13"/>descensus ab eo in alia proveniunt, ut ex 
+supe<lb ed="#L" break="no" n="14"/>rioribus  patet. Oportet autem quod ordo rerum 
+<lb ed="#L" n="15"/>sit in secundis provisoribus non solum in 
+uni<lb ed="#L" break="no" n="16"/>versali, sed etiam quantum ad singularia: alias 
+<lb ed="#L" n="17"/>non possent sua providentia in singularibus 
+or<lb ed="#L" break="no" n="18"/>dinem statuere. Multo igitur magis ordo 
+singu<lb ed="#L" break="no" n="19"/>larium est in divinae providentiae dispositione. 
+</p>
+            <p xml:id="v8naTA-d1e2328-d1e273">
+               <lb ed="#L" n="20"/>Adhuc. In his quae humana providentia re-:» 
+<lb ed="#L" n="21"/>guntur, invenitur quod aliquis superior provisor 
+<lb ed="#L" n="22"/>circa quaedam magna et universalia per seipsum 
+<lb ed="#L" n="23"/>excogitat qualiter sint ordinanda, minimorum 
+<lb ed="#L" n="24"/>vero ordinem ipse non excogitat, sed aliis 
+infe<lb ed="#L" break="no" n="25"/>rioribus excogitandum relinquit. Et hoc quidem :; 
+<lb ed="#L" n="26"/>contingit propter eius defectum: inquantum vel 
+<lb ed="#L" n="27"/>singularium minimorum conditiones ignorat; vel 
+<lb ed="#L" n="28"/>non suffucit ad omnium ordinem excogitandum, 
+<lb ed="#L" n="29"/>propter laborem et temporis prolixitatem quae 
+<lb ed="#L" n="30"/>requireretur. Huiusmodi autem defectus longe: ^ 
+<lb ed="#L" n="31"/>sunt a Deo: nam ipse omnia singularia cognoscit; 
+<lb ed="#L" n="32"/>nec in intelligendo laborat, aut tempus requirit, 
+<lb ed="#L" n="33"/>cum intelligendo seipsum, omnia alia cognoscat, 
+<lb ed="#L" n="34"/>sicut supra  ostensum est. Ipse igitur omnium 
+<lb ed="#L" n="35"/>et singularium ordinem excogitat. Eius igitur: 
+<lb ed="#L" n="36"/>providentia est omnium singularium immediate. 
+<lb ed="#L" n="37"/>Item. In rebus humanis inferiores provisores 
+<lb ed="#L" n="38"/>per suam industriam ordinem excogitant in his 
+<lb ed="#L" n="39"/>quorum gubernatio eis a praesidente committitur. 
+<lb ed="#L" n="40"/>Quam quidem industriam a praesidente homine  
+<lb ed="#L" n="41"/>non habent, nec usum ipsius: si vero a 
+supe<lb ed="#L" break="no" n="42"/>riore eam haberent, iam ordinatio per superiorem 
+<lb ed="#L" n="43"/>fieret, ipsi autem essent ilius ordinationis non 
+<lb ed="#L" n="44"/>provisores, sed executores. Constat autem per 
+<lb ed="#L" n="45"/>a summo Deo in omnibus intelligentibus causatur; 
+<lb ed="#L" n="46"/>nec intellectus aliquis potest aliquid intelligere 
+<lb ed="#L" n="47"/>nisi virtute divina, sicut nec aliquod agens 
+ope<lb ed="#L" break="no" n="48"/>ratur nisi inquantum agit in virtute ipsius. Est 
+<lb ed="#L" n="49"/>igitur ipse Deus immediate sua providentia omnia ; 
+<lb ed="#L" n="50"/>dispensans: quicumque vero sub ipso provisores 
+<lb ed="#L" n="51"/>dicuntur, sunt providentiae ipsius executores.
+</p>
+            <p xml:id="v8naTA-d1e2328-d1e345">
+               <lb ed="#L" n="52"/>Praeterea. Superior providentia dat regulas 
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="53"/>providentiae inferiori: sicut politicus dat regulas
+<lb ed="#L" n="54"/>et leges duci exercitus, qui dat leges et regulas
+<lb ed="#L" n="55"/>centurionibus et tribunis. Si igitur sub prima
+<lb ed="#L" n="56"/>providentia Dei summi sunt aliae providentiae,
+<lb ed="#L" n="57"/>oportet quod Deus illis secundis vel tertiis 
+pro<lb ed="#L" break="no" n="58"/>visoribus det regulas sui regiminis. Aut ergo dat
+<lb ed="#L" n="59"/>eis regulas et leges universales, aut particulares.
+<lb ed="#L" n="60"/>Si autem dat eis universales regulas regiminis,
+<lb ed="#L" n="61"/>cum universales regulae non possint semper ad
+<lb ed="#L" n="62"/>particularia applicari, maxime in rebus mobilibus,
+<lb ed="#L" n="63"/>quae non semper eodem modo se habent; 
+opor<lb ed="#L" break="no" n="64"/>teret quod illi provisores secundi vel tertii 
+quan<lb ed="#L" break="no" n="65"/>doque praeter regulas sibi datas ordinarent de
+<lb ed="#L" n="66"/>rebus suae provisioni subiectis. Haberent ergo
+<lb ed="#L" n="67"/>iudicium super regulas acceptas: quando 
+secun<lb ed="#L" break="no" n="68"/>dum eas oporteret agere, et quando eas 
+praeter<lb ed="#L" break="no" n="69"/>mittere oporteret. Quod esse non potest: quia
+<lb ed="#L" n="70"/>hoc iudicium ad superiorem pertinet; nam eius
+<lb ed="#L" n="71"/>est interpretari leges et dispensare in eis, cuius
+<lb ed="#L" n="72"/>est eas condere. Hoc igitur iudicium de regulis
+<lb ed="#L" n="73"/>universalibus datis, oportet quod fiat per 
+supre<lb ed="#L" break="no" n="74"/>mum provisorem. Quod quidem esse non posset
+<lb ed="#L" n="75"/>si se ordinationi horum singularium immediate
+<lb ed="#L" n="76"/>non immisceret. Oportet igitur, secundum hoc,
+<lb ed="#L" n="77"/>quod sit horum immediatus provisor. — Si vero
+<lb ed="#L" n="78"/>secundi et tertii provisores a summo provisore
+<lb ed="#L" n="79"/>particulares regulas et leges accipiunt, manifeste
+<lb ed="#L" n="80"/>apparet quod horum singularium ordinatio fit
+<lb ed="#L" n="81"/>immediate per divinam providentiam.
+</p>
+            <p xml:id="v8naTA-d1e2328-d1e415">
+               <lb ed="#L" n="82"/>Amplius. Semper provisor superior habet 
+iudi<lb ed="#L" break="no" n="83"/>cium de his quae ab inferioribus provisoribus
+<lb ed="#L" n="84"/>ordinantur: utrum sint bene ordinata necne. Si
+<lb ed="#L" n="85"/>igitur secundi provisores vel tertii sunt sub Deo
+<lb ed="#L" n="86"/>primo provisore, oportet quod Deus iudicium
+<lb ed="#L" n="87"/>habeat de his quae ab his ordinantur. Quod
+<lb ed="#L" n="88"/>quidem esse non potest, si horum singularium
+<lb ed="#L" n="89"/>ordinem non consideret. Habet igitur ipse per
+<lb ed="#L" n="90"/>seipsum curam de his singularibus.
+</p>
+            <p xml:id="v8naTA-d1e2328-d1e438">
+               <lb ed="#L" n="91"/>Adhuc. Si Deus per seipsum immediate haec
+<lb ed="#L" n="92"/>inferiora singularia non curat, hoc non est nisi
+<lb ed="#L" n="93"/>vel quia ea despicit; vel ne eis eius dignitas 
+inqui<lb ed="#L" break="no" n="94"/>netur, ut quidam dicunt. Hoc autem irrationabile
+<lb ed="#L" n="95"/>est. Nam dignius est provide aliquorum 
+ordina<lb ed="#L" break="no" n="96"/>tionem excogitare, quam in eis operari. Si igitur
+<lb ed="#L" n="97"/>est, nec in hoc aliquid eius dignitati derogatur,
+<lb ed="#L" n="98"/>quinimmo pertinet ad eius universalem et 
+sum<lb ed="#L" break="no" n="99"/>mam virtutem; nullo modo despiciendum est ei,
+<lb ed="#L" n="100"/>vel eius dignitatem commaculat, si circa haec
+<lb ed="#L" n="101"/>singularia immediate providentiam habeat.
+</p>
+            <p xml:id="v8naTA-d1e2328-d1e464">
+               <lb ed="#L" n="102"/>Item. Omnis sapiens qui provide sua virtute
+<lb ed="#L" n="103"/>utitur, in agendo moderatur suae virtutis usum,
+<lb ed="#L" n="104"/>ordinans ad quid et quantum perveniat: alias
+<pb ed="#L" n="226"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>virtus in agendo sapientiam non sequeretur. 
+Con<lb ed="#L" break="no" n="2"/>stat autem ex praemissis  quod divina virtus in 
+<lb ed="#L" n="3"/>operando usque ad infima rerum pervenit. Igitur
+<lb ed="#L" n="4"/>divina sapientia est ordinativa qui, et quot, et 
+<lb ed="#L" n="5"/>qualiter ex eius virtute progrediantur effectus, ; 
+<lb ed="#L" n="6"/>etiam in infimis rebus. Est igitur ipse immediate
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="7"/>sua providentia omnium rerum ordinem 
+exco<lb ed="#L" break="no" n="8"/>gitans.
+</p>
+            <p xml:id="v8naTA-d1e2328-d1e497">
+               <lb ed="#L" n="9"/>Hinc est quod dicitur Rom. xm: Quae a Deo
+<lb ed="#L" n="10"/>sunt, ordinata sunt. Et Iudith 1x: Tu fecisti priora,
+<lb ed="#L" n="11"/>et illa post illa cogitasti, et hoc factum esl quod
+<lb ed="#L" n="12"/>ipse voluisti.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

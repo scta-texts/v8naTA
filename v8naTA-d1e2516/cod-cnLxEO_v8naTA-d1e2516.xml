@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 99</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 99</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="306"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2516"><!-- v8naTA-l3c99 -->
+            <head xml:id="v8naTA-d1e2516-Hd1e101">Capitulum 99</head>
+            <head xml:id="v8naTA-d1e2516-Hd1e103" type="question-title">Quod deus potest operari praeter ordinem rebus inditum,
+producendo effectus absque causis proximis.</head>
+            <p xml:id="v8naTA-d1e2516-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="55" type="fixed=306"/>CAPITULUM NONAGESIMUM NONUM
+<lb ed="#L" n="56"/>QUOD DEUS POTEST OPERARI PRAETER ORDINEM REBUS INDITUM,
+<lb ed="#L" n="57"/>PRODUCENDO EFFECTUS ABSQUE CAUSIS PROXIMIS.
+</p>
+            <p xml:id="v8naTA-d1e2516-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="58"/>RESTAT autem ostendere quod praeter
+<lb ed="#L" n="59"/>ordinem ab ipso rebus inditum agere
+<lb ed="#L" n="60"/>possit.
+</p>
+            <p xml:id="v8naTA-d1e2516-d1e128">
+               <lb ed="#L" n="61"/>Est enim ordo divinitus institutus in
+<lb ed="#L" n="62"/>rebus ut inferiora per superiora moveantur a Deo,
+<lb ed="#L" n="63"/>ut supra dictum est. Potest autem Deus praeter
+<lb ed="#L" n="64"/>hunc ordinem facere: ut scilicet ipse effectum 
+ali<lb ed="#L" break="no" n="65"/>quem in inferioribus operetur, nihil ad hoc agente
+<lb ed="#L" n="66"/>superiori agente. In hoc enim differt agens 
+secun<lb ed="#L" break="no" n="67"/>dum necessitatem naturae, ab agente secundum 
+vo<lb ed="#L" break="no" n="68"/>luntatem, quod ab agente secundum necessitatem
+<lb ed="#L" n="69"/>naturae effectus non potest sequi nisi secundum
+<lb ed="#L" n="70"/>modum virtutis activae: unde agens quod est
+<lb ed="#L" n="71"/>maximae virtutis, non potest immediate producere
+<lb ed="#L" n="72"/>effectum aliquem parvum, sed producit effectum
+<lb ed="#L" n="73"/>suae virtuti proportionatum ; in quo tamen 
+inve<lb ed="#L" break="no" n="74"/>nitur quandoque minor virtus quam in causa,
+<lb ed="#L" n="75"/>et sic per multa media tandem a causa suprema
+<lb ed="#L" n="76"/>provenit aliquis parvus effectus. In agente autem
+<lb ed="#L" n="77"/>per voluntatem non est sic. Nam agens per 
+volun<lb ed="#L" break="no" n="78"/>tatem statim sine medio potest producere 
+quem<lb ed="#L" break="no" n="79"/>cumque effectum qui suam non excedat virtutem :
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="80"/>artifex enim perfectissimus potest facere opus quale
+<lb ed="#L" n="81"/>faciat artifex imperfectus. Deus autem operatur
+<lb ed="#L" n="82"/>per voluntatem, et non per necessitatem naturae,
+<lb ed="#L" n="83"/>ut supra ostensum est. Igitur minores effectus,
+<lb ed="#L" n="84"/>qui fiunt per causas inferiores, potest facere 
+im<lb ed="#L" break="no" n="85"/>mediate absque propriis causis.
+</p>
+            <p xml:id="v8naTA-d1e2516-d1e188">
+               <lb ed="#L" n="86"/>Adhuc. Virtus divina comparatur ad omnes 
+vir<lb ed="#L" break="no" n="87"/>tutes activas sicut virtus universalis ad virtutes 
+par<lb ed="#L" break="no" n="88"/>ticulares, sicut per supra  dicta patet. Virtus autem
+<lb ed="#L" n="89"/>activa universalis ad particularem effectum 
+produ<lb ed="#L" break="no" n="90"/>cendum determinari potest dupliciter. Uno modo,
+<lb ed="#L" n="91"/>per causam mediam particularem: sicut virtus
+<lb ed="#L" n="92"/>activa caelestis corporis determinatur ad effectum
+<lb ed="#L" n="93"/>generationis humanae per virtutem particularem
+<lb ed="#L" n="94"/>quae est in semine; sicut et in syllogismis virtus
+<lb ed="#L" n="95"/>propositionis universalis determinatur ad 
+conclu<lb ed="#L" break="no" n="96"/>sionem particularem per assumptionem 
+particu<lb ed="#L" break="no" n="97"/>larem. Alio modo, per intellectum, qui 
+determi<lb ed="#L" break="no" n="98"/>natam formam apprehendit, et eam in effectum
+<lb ed="#L" n="99"/>producit. Divinus autem intellectus non. solum
+<lb ed="#L" n="100"/>est cognoscitivus suae essentiae, quae est quasi
+<lb ed="#L" n="101"/>universalis virtus activa; neque etiam tantum
+<pb ed="#L" n="307"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>universalium et primarum causarum; sed omnium 
+<lb ed="#L" n="2"/>particularium, sicut per supra dicta patet. 
+Po<lb ed="#L" break="no" n="3"/>test igitur producere immediate omnem effectum 
+<lb ed="#L" n="4"/>quem producit quodcumque particulare agens. 
+</p>
+            <p xml:id="v8naTA-d1e2516-d1e238">
+               <lb ed="#L" n="5"/>Amplius. Cum accidentia consequantur prin- ; 
+<lb ed="#L" n="6"/>cipia substantialia rei, oportet quod ille qui 
+imme<lb ed="#L" break="no" n="7"/>diate substantiam rei producit, possit immediate 
+<lb ed="#L" n="8"/>circa ipsam rem operari quaecumque ad 
+substan<lb ed="#L" break="no" n="9"/>tiam ipsius consequuntur: generans enim, quod 
+<lb ed="#L" n="10"/>dat formam, dat omnes proprietates et motus 
+<lb ed="#L" n="11"/>consequentes. Ostensum autem est supra quod 
+<lb ed="#L" n="12"/>Deus, in prima rerum institutione, omnes res per 
+<lb ed="#L" n="13"/>creationem immediate in esse produxit. Potest 
+<lb ed="#L" n="14"/>igitur immediate unamquamque rem movere ad 
+<lb ed="#L" n="15"/>aliquem effectum absque mediis causis. : 
+</p>
+            <p xml:id="v8naTA-d1e2516-d1e264">
+               <lb ed="#L" n="16"/>Item. Ordo rerum profluit a Deo in res 
+se<lb ed="#L" break="no" n="17"/>cundum quod est praecogitatusinintellectu ipsius: 
+<lb ed="#L" n="18"/>sicut videmus in rebus humanis quod princeps 
+<lb ed="#L" n="19"/>civitatis ordinem apud se praemeditatum civibus 
+<lb ed="#L" n="20"/>imponit. Intellectus autem divinus non est 
+deter<lb ed="#L" break="no" n="21"/>minatus ad hunc ordinemex necessitate, ut nullum — 
+<lb ed="#L" n="22"/>alium ordinem intelligere possit: cum et nos alium — 
+<lb ed="#L" n="23"/>ordinem per intellectum apprehendere possumus;  
+<lb ed="#L" n="24"/>potest enim intelligi a nobis quod Deus hominem 
+<lb ed="#L" n="25"/>absque semine ex terra formet. Potest igitur Deus, 
+<lb ed="#L" n="26"/>praeter inferiores causas, effectum illis causis 
+<lb ed="#L" n="27"/>proprium operari. 
+</p>
+            <p xml:id="v8naTA-d1e2516-d1e293">
+               <lb ed="#L" n="28"/>Praeterea. Licet ordo rebus inditus a 
+provi<lb ed="#L" break="no" n="29"/>dentia divina divinam bonitatem suo modo 
+re<lb ed="#L" break="no" n="30"/>praesentet, non tamen ipsam repraesentat perfecte 
+<lb ed="#L" n="31"/>cum non pertingat bonitas creaturae ad 
+aequa<lb ed="#L" break="no" n="32"/>litatem bonitatis divinae. Quod autem non 
+re<lb ed="#L" break="no" n="33"/>praesentatur perfecte per aliquod exemplatum, 
+<lb ed="#L" n="34"/>potest iterum praeter hoc alio modo repraesentari. 
+<lb ed="#L" n="35"/>Repraesentatio autem divinae bonitatis in rebus 
+<lb ed="#L" n="36"/>est finis productionis rerum a Deo, ut supra 
+<lb ed="#L" n="37"/>ostensum est. Non est igitur voluntas divina 
+deter<lb ed="#L" break="no" n="38"/>minata ad hunc ordinem causarum et effectuum, 
+<lb ed="#L" n="39"/>ut non possit velle effectum aliquem in 
+inferio<lb ed="#L" break="no" n="40"/>ribus producere immediate absque aliis causis. 
+</p>
+            <p xml:id="v8naTA-d1e2516-d1e324">
+               <lb ed="#L" n="41"/>Adhuc. Universa creatura magis est Deo subdita 
+<lb ed="#L" n="42"/>quam corpus humanum sit subditum animae eius: 
+<lb ed="#L" n="43"/>nam anima est corpori proportionata ut forma 
+<lb ed="#L" n="44"/>ipsius, Deus autem omnem proportionem 
+crea<lb ed="#L" break="no" n="45"/>turae excedit. Ex hoc autem quod anima 
+ima<lb ed="#L" break="no" n="46"/>ginatur aliquid et vehementer afficitur ad illud, 
+<lb ed="#L" n="47"/>sequitur aliquando immutatio in corpore ad 
+sani<lb ed="#L" break="no" n="48"/>tatem vel aegritudinem absque actione 
+princi<lb ed="#L" break="no" n="49"/>piorum corporalium quae sunt nata in corpore 
+<lb ed="#L" n="50"/>aegritudinem vel sanitatem causare. Multo igitur 
+<lb ed="#L" n="51"/>magis ex voluntate divina potest effectus aliquis 
+<lb ed="#L" n="52"/>sequi in creaturis absque causis quae natae sunt, 
+<lb ed="#L" n="53"/>secundum. naturam, illum effectum producere. 
+</p>
+            <p xml:id="v8naTA-d1e2516-d1e355">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="54"/>Praeterea. Secundum naturae ordinem, virtutes
+<lb ed="#L" n="55"/>activae elementorum sub virtutibus activis 
+cor<lb ed="#L" break="no" n="56"/>porum caelestium ordinantur. Proprium autem
+<lb ed="#L" n="57"/>effectum virtutum elementarium interdum virtus
+<lb ed="#L" n="58"/>caelestis efficit absque actione elementi: sicut
+<lb ed="#L" n="59"/>patet cum sol calefacit absque ignis actione. Multo
+<lb ed="#L" n="60"/>igitur magis et divina virtus, absque actione
+<lb ed="#L" n="61"/>causarum creatarum, potest producere proprios
+<lb ed="#L" n="62"/>effectus earum.
+
+<lb ed="#L" n="63"/>Si autem quis dicat quod, cum ordinem istum
+<lb ed="#L" n="64"/>rebus Deus indiderit, non potest esse absque
+<lb ed="#L" n="65"/>mutatione ipsius ut, praeter ordinem ab ipso
+<lb ed="#L" n="66"/>statutum, operetur in rebus effectus absque 
+pro<lb ed="#L" break="no" n="67"/>priis causis producendo: ex ipsa rerum natura
+<lb ed="#L" n="68"/>repelli potest. Ordo enim inditus rebus a Deo,
+<lb ed="#L" n="69"/>secundum id est quod in rebus frequenter 
+acci<lb ed="#L" break="no" n="70"/>dere solet, non autem ubique secundum id quod
+<lb ed="#L" n="71"/>est semper: multae enim naturalium causarum
+<lb ed="#L" n="72"/>effectus suos producunt eodem modo ut 
+fre<lb ed="#L" break="no" n="73"/>quenter, non autem ut semper; nam quandoque,
+<lb ed="#L" n="74"/>licet ut in paucioribus, aliter accidit, vel propter
+<lb ed="#L" n="75"/>defectum virtutis agentis, vel propter materiae
+<lb ed="#L" n="76"/>indispositionem, vel propter aliquod fortius agens;
+<lb ed="#L" n="77"/>sicut cum natura in homine generat digitum
+<lb ed="#L" n="78"/>sextum. Non autem propter hoc deficit aut
+<lb ed="#L" n="79"/>mutatur providentiae ordo: nam et hoc ipsum
+<lb ed="#L" n="80"/>quod naturalis ordo, institutus. secundum ea
+<lb ed="#L" n="81"/>quae sunt frequenter, quandoque deficiat, 
+pro<lb ed="#L" break="no" n="82"/>videntiae subest divinae. Si ergo per aliquam
+<lb ed="#L" n="83"/>virtutem creatam fieri potest ut ordo naturalis
+<lb ed="#L" n="84"/>mutetur ab eo quod est frequenter ad id quod
+<lb ed="#L" n="85"/>est raro, absque mutatione providentiae divinae;
+<lb ed="#L" n="86"/>multo magis divina virtus quandoque aliquid
+<lb ed="#L" n="87"/>facere potest, sine suae providentiae praeiudicio,
+<lb ed="#L" n="88"/>praeter ordinem naturalibus inditum rebus a
+<lb ed="#L" n="89"/>Deo. Hoc enim ipsum ad suae virtutis 
+mani<lb ed="#L" break="no" n="90"/>festationem facit interdum. Nullo enim modo
+<lb ed="#L" n="91"/>melius manifestari potest quod tota natura 
+di<lb ed="#L" break="no" n="92"/>vinae subiecta est voluntati, quam ex hoc quod
+<lb ed="#L" n="93"/>quandoque ipse praeter naturae ordinem aliquid
+<lb ed="#L" n="94"/>operatur: ex hoc enim apparet quod ordo rerum
+<lb ed="#L" n="95"/>processit ab eo non per neeessitatem naturae,
+<lb ed="#L" n="96"/>sed per liberam voluntatem.
+</p>
+            <p xml:id="v8naTA-d1e2516-d1e454">
+               <lb ed="#L" n="97"/>Nec debet haec ratio frivola reputari, quod Deus
+<lb ed="#L" n="98"/>aliquid facit in natura ad hoc quod se mentibus
+<lb ed="#L" n="99"/>hominum manifestet: cum supra ostensum sit
+<lb ed="#L" n="100"/>quod omnes creaturae corporales ad naturam
+<lb ed="#L" n="101"/>intellectualem ordinentur quodammodo sicut in
+<lb ed="#L" n="102"/>finem; ipsius autem intellectualis naturae finis est
+<lb ed="#L" n="103"/>divina cognitio, ut in superioribus  est ostensum.
+<lb ed="#L" n="104"/>Non est ergo mirum si, ad cognitionem de Deo
+<lb ed="#L" n="105"/>intellectuali naturae praebendam, fit aliqua 
+immu<lb ed="#L" break="no" n="106"/>tatio in substantia corporali.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 34</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 34</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="89"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1985"><!-- v8naTA-l3c34 -->
+            <head xml:id="v8naTA-d1e1985-Hd1e101">Capitulum 34</head>
+            <head xml:id="v8naTA-d1e1985-Hd1e103" type="question-title">Quod ultima hominis felicitas
+non consistit in actibus virtutum moralium.</head>
+            <p xml:id="v8naTA-d1e1985-d1e106">
+               <cb ed="#L" n="i"/>
+               <lb ed="#L" n="69" type="fixed=89"/>CAPITULUM TRIGESIMUM QUARTUM
+<lb ed="#L" n="70"/>QUOD ULTIMA HOMINIS FELICITAS
+<lb ed="#L" n="71"/>NON CONSISTIT IN ACTIBUS VIRTUTUM MORALIUM.
+</p>
+            <p xml:id="v8naTA-d1e1985-d1e117">
+               <cb ed="#L" n=""/>
+               <lb ed="#L" n="72"/>APPARET autem quod nec in 
+operationi<lb ed="#L" break="no" n="73"/>bus moralibus consistit ultima felicitas
+<lb ed="#L" n="74"/>hominis.
+</p>
+            <p xml:id="v8naTA-d1e1985-d1e128">
+               <lb ed="#L" n="75"/>Felicitas enim humana non est ad
+<lb ed="#L" n="76"/>ulteriorem finem ordinabilis, si sit ultima. Omnes
+<lb ed="#L" n="77"/>autem operationes morales sunt ordinabiles ad
+<lb ed="#L" n="78"/>aliquid aliud. Quod patet ex his quae inter eas sunt
+<cb ed="#L" n=""/>
+               <lb ed="#L" n="79"/>praecipuae. Operationes enim fortitudinis quae
+<lb ed="#L" n="80"/>sunt in rebus bellicis, ordinantur ad victoriam et
+<lb ed="#L" n="81"/>ad pacem: stultum enim esset propter se tantum
+<lb ed="#L" n="82"/>bellare . Similiter operationes iustitiae ordinantur
+<lb ed="#L" n="83"/>ad pacem inter homines servandam, per hoc
+<lb ed="#L" n="84"/>quod unusquisque quiete quod suum est 
+pos<lb ed="#L" break="no" n="85"/>sidet. Et similiter patet in omnibus aliis. Non
+<pb ed="#L" n="90"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>est igitur in operationibus moralibus ultima 
+ho<lb ed="#L" break="no" n="2"/>minis felicitas.
+</p>
+            <p xml:id="v8naTA-d1e1985-d1e166">
+               <lb ed="#L" n="3"/>Adhuc. Virtutes morales ad hoc sunt ut per
+<lb ed="#L" n="4"/>eas conservetur medium in passionibus 
+intrin<lb ed="#L" break="no" n="5"/>secis et exterioribus rebus, Non est autem pos-
+</p>
+            <p xml:id="v8naTA-d1e1985-d1e175">
+               <lb ed="#L" n="6"/>teriarum sit ultimus finis humanae vitae: cum
+<lb ed="#L" n="7"/>ipsae passiones et exteriores res sint ad aliud 
+or<lb ed="#L" break="no" n="8"/>dinabiles. Non est igitur possibile quod in actibus
+<lb ed="#L" n="9"/>virtutum moralium sit ultima hominis felicitas.
+</p>
+            <p xml:id="v8naTA-d1e1985-d1e186">
+               <lb ed="#L" n="10"/>Amplius. Cum homo sit homo ex eo quod
+<lb ed="#L" n="11"/>est rationem habens, oportet quod proprium eius
+<lb ed="#L" n="12"/>bonum, quod est felicitas, sit secundum id quod
+<lb ed="#L" n="13"/>est proprium rationi. Magis autem est proprium
+<lb ed="#L" n="14"/>rationis quod ipsa in se habet, quam quod in
+<lb ed="#L" n="15"/>alio facit. Cum igitur bonum moralis virtutis sit
+<lb ed="#L" n="16"/>quoddam a ratione in rebus aliis a se institutum,
+<lb ed="#L" n="17"/>non poterit esse optimum hominis, quod est 
+fe<lb ed="#L" break="no" n="18"/>licitas: sed magis bonum quod est in ipsa 
+ra<lb ed="#L" break="no" n="19"/>tione situm.
+</p>
+            <p xml:id="v8naTA-d1e1985-d1e210">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="20"/>Item. Ostensum est supra  quod finis omnium
+<lb ed="#L" n="21"/>rerum ultimus est assimilari ad Deum. lllud 
+igi<lb ed="#L" break="no" n="22"/>tur secundum quod homo maxime assimilatur
+<lb ed="#L" n="23"/>Deo, erit eius felicitas. Hoc autem non est 
+se<lb ed="#L" break="no" n="24"/>cundum actus morales: cum tales actus Deo 
+at<lb ed="#L" break="no" n="25"/>sibile quod modificatio passionum vel rerum 
+ex<lb ed="#L" break="no" n="26"/>tribui non possint nisi metaphorice; non enim
+<lb ed="#L" n="27"/>Deo convenit habere passiones, vel aliqua 
+huius<lb ed="#L" break="no" n="28"/>modi, circa quae sunt actus morales. Non est
+<lb ed="#L" n="29"/>igitur ultima felicitas hominis, quae est ultimus
+<lb ed="#L" n="30"/>eius finis, consistens in actibus moralibus.
+</p>
+            <p xml:id="v8naTA-d1e1985-d1e239">
+               <lb ed="#L" n="31"/>Praeterea. Felicitas est proprium hominis 
+bo<lb ed="#L" break="no" n="32"/>num . Illud igitur quod est maxime proprium 
+ho<lb ed="#L" break="no" n="33"/>minis inter omnia bona humana respectu aliorum
+<lb ed="#L" n="34"/>animalium, est in quo quaerenda est eius ultima
+<lb ed="#L" n="35"/>felicitas. Huiusmodi autem non est virtutum 
+mo<lb ed="#L" break="no" n="36"/>ralium actus: nam aliqua animalia aliquid 
+partici<lb ed="#L" break="no" n="37"/>pant vel liberalitatis vel fortitudinis ; intellectualis
+<lb ed="#L" n="38"/>autem actionis nullum animal aliquid participat.
+<lb ed="#L" n="39"/>Non est igitur ultima hominis felicitas in actibus
+<lb ed="#L" n="40"/>moralibus.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

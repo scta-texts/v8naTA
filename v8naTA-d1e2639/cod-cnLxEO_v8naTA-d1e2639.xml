@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 114</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 114</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="363"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2639"><!-- v8naTA-l3c114 -->
+            <head xml:id="v8naTA-d1e2639-Hd1e101">Capitulum 114</head>
+            <head xml:id="v8naTA-d1e2639-Hd1e103" type="question-title">Quod divinitus hominibus leges dantur.</head>
+            <p xml:id="v8naTA-d1e2639-d1e106">
+               <pb ed="#L" n="363"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=363"/>CAPITULUM CENTESIMUM DECIMUM QUARTUM
+<lb ed="#L" n="2"/>QUOD DIVINITUS HOMINIBUS LEGES DANTUR.
+</p>
+            <p xml:id="v8naTA-d1e2639-d1e117">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="3"/>Ex hoc autem apparet quod necessarium
+<lb ed="#L" n="4"/>fuit homini divinitus legem dari. Sicut
+<lb ed="#L" n="5"/>enim actus irrationalium creaturarum
+<lb ed="#L" n="6"/>diriguntur a Deo ea ratione qua ad
+<lb ed="#L" n="7"/>speciem pertinent, ita actus hominum diriguntur
+<lb ed="#L" n="8"/>a Deo secundum quod ad. individuum pertinent,
+<lb ed="#L" n="9"/>ut ostensum est Sed actus: creaturarum 
+irratio<lb ed="#L" break="no" n="10"/>nalium, prout ad speciem pertinent, diriguntur a
+<lb ed="#L" n="11"/>Deo quadam naturali inclinatione, quae naturam
+<lb ed="#L" n="12"/>speciei consequitur. Ergo, supra hoc, dandum est
+<lb ed="#L" n="13"/>aliquid hominibus quo in suis personalibus actibus
+<lb ed="#L" n="14"/>dirigantur. Et hoc dicimus legem. '
+</p>
+            <p xml:id="v8naTA-d1e2639-d1e148">
+               <lb ed="#L" n="15"/>Adhuc. Rationalis creatura, ut dictum est, sic
+<lb ed="#L" n="16"/>divinae providentiae subditur quod etiam 
+simi<lb ed="#L" break="no" n="17"/>litudinem quandam divinae providentiae 
+partici<lb ed="#L" break="no" n="18"/>pat, inquantum se in suis actibus et alia gubernare
+<lb ed="#L" n="19"/>potest. Id autem quo aliquorum actus 
+guber<lb ed="#L" break="no" n="20"/>naantur, dicitur lex. Conveniens igitur fuit 
+homi<lb ed="#L" break="no" n="21"/>nibus a Deo legem dari.
+</p>
+            <p xml:id="v8naTA-d1e2639-d1e167">
+               <lb ed="#L" n="22"/>Item. Cum lex nihil aliud sit quam quaedam
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="23"/>ratio et regula operandi illis solum convenit
+<lb ed="#L" n="24"/>dari legem qui sui operis rationem cognoscunt.
+<lb ed="#L" n="25"/>Hoc autem convenit solum rationali creaturae.
+<lb ed="#L" n="26"/>Soli igitur rationali creaturae fuit conveniens
+<lb ed="#L" n="27"/>dari legem.
+</p>
+            <p xml:id="v8naTA-d1e2639-d1e185">
+               <lb ed="#L" n="28"/>Praeterea. Illis danda est lex in quibus est agere
+<lb ed="#L" n="29"/>et non agere. Hoc autem convenit soli rationali
+<lb ed="#L" n="30"/>creaturae. Sola igitur rationalis creatura est 
+susce<lb ed="#L" break="no" n="31"/>ptiva legis.:
+</p>
+            <p xml:id="v8naTA-d1e2639-d1e196">
+               <lb ed="#L" n="32"/>Amplius. Cum lex nihil aliud. sit t quam ratio
+<lb ed="#L" n="33"/>operis; cuiuslibet autem operis ratio a fine 
+sumi<lb ed="#L" break="no" n="34"/>tur: ab eo unusquisque legis capax suscipit legem
+<lb ed="#L" n="35"/>a quo ad finem perducitur; sicut inferior: artifex
+<lb ed="#L" n="36"/>ab architectore, et miles a duce exercitus. Sed
+<lb ed="#L" n="37"/>creatura rationalis finem suum ultimum in Deo et
+<lb ed="#L" n="38"/>a Deo consequitur, ut ex superioribus  patet. Fuit
+<lb ed="#L" n="39"/>igitur conveniens a Deo legem hominibus dari.
+</p>
+            <p xml:id="v8naTA-d1e2639-d1e216">
+               <lb ed="#L" n="40"/>Hinc est quod dicitur Jerem, xxxi: Dabo legem
+<lb ed="#L" n="41"/>meam in visceribus eorum ; et Oseae vin": Scribam
+<lb ed="#L" n="42"/>eis. multiplices leges meas.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

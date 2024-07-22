@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 79</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 79</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="232"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2353"><!-- v8naTA-l3c79 -->
+            <head xml:id="v8naTA-d1e2353-Hd1e101">Capitulum 79</head>
+            <head xml:id="v8naTA-d1e2353-Hd1e103" type="question-title">Quod substantiae intellectivae inferiores
+reguntur per superiores.</head>
+            <p xml:id="v8naTA-d1e2353-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="61" type="fixed=231"/>CAPITULUM SEPTUAGESIMUM NONUM
+<lb ed="#L" n="62"/>QUOD SUBSTANTIAE INTELLECTIVAE INFERIORES
+<lb ed="#L" n="63"/>REGUNTUR PER SUPERIORES.
+</p>
+            <p xml:id="v8naTA-d1e2353-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="64"/>CUM autem inter creaturas intellectuales
+<lb ed="#L" n="65"/>quaedam sint aliis altiores, ut ex 
+su<lb ed="#L" break="no" n="66"/>perioribus  patet, oportet quod etiam
+<lb ed="#L" n="67"/>inferiores intellectualium naturarum
+<lb ed="#L" n="68"/>per superiores gubernentur.
+</p>
+            <p xml:id="v8naTA-d1e2353-d1e133">
+               <lb ed="#L" n="69"/>Adhuc. Virtutes magis universales sunt 
+mo<lb ed="#L" break="no" n="70"/>tivae virtutum particularium, sicut dictum est .
+<lb ed="#L" n="71"/>Superiores autem inter intellectuales naturas 
+ha<lb ed="#L" break="no" n="72"/>bent formas magis universales, ut supra  
+osten<lb ed="#L" break="no" n="73"/>sum est. Sunt igitur ipsae regitivae inferiorum
+<lb ed="#L" n="74"/>intellectualium ;naturarum.
+</p>
+            <p xml:id="v8naTA-d1e2353-d1e150">
+               <lb ed="#L" n="75"/>Item. Potentia intellectiva quae est 
+propin<lb ed="#L" break="no" n="76"/>quior principio, semper invenitur regitiva 
+intel<lb ed="#L" break="no" n="77"/>lectualis virtutis quae magis a principio distat.
+<lb ed="#L" n="78"/>Quod quidem apparet tam in scientiis speculativis
+<lb ed="#L" n="79"/>quam in activis: scientia enim speculativa quae
+<lb ed="#L" n="80"/>accipit ab alia principia ex quibus demonstrat,
+<lb ed="#L" n="81"/>dicitur esse illi subalternata; et scientia activa
+<lb ed="#L" n="82"/>quae est propinquior fini, qui es! principium
+<lb ed="#L" n="83"/>in operalivis , est architectonica respectu magis
+<lb ed="#L" n="84"/>distantis. Cum ergo inter intellectuales substan-
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="85"/>tias quaedam sint primo principio, scilicet Deo,
+<lb ed="#L" n="86"/>propinquiores, ut in Secundo  ostensum est,
+<lb ed="#L" n="87"/>ipsae erunt aliarum regitivae.
+</p>
+            <p xml:id="v8naTA-d1e2353-d1e183">
+               <lb ed="#L" n="88"/>Adhuc. Superiores intellectuales substantiae
+<lb ed="#L" n="89"/>perfectius divinae sapientiae influentiam in seipsis
+<lb ed="#L" n="90"/>recipiunt: cum unumquodque recipiat aliquid
+<lb ed="#L" n="91"/>secundum modum suum. Per sapientiam autem
+<lb ed="#L" n="92"/>divinam omnia gubernantur. Et sic oportet quod
+<lb ed="#L" n="93"/>ea quae magis divinam sapientiam participant,
+<lb ed="#L" n="94"/>sint gubernativa eorum quae minus participant.
+<lb ed="#L" n="95"/>Substantiae igitur intellectuales inferiores 
+guber<lb ed="#L" break="no" n="96"/>nantur per superiores.
+</p>
+            <p xml:id="v8naTA-d1e2353-d1e205">
+               <lb ed="#L" n="97"/>Dicuntur igitur superiores spiritus et angeli,
+<lb ed="#L" n="98"/>inquantum inferiores spiritus dirigunt quasi eis
+<lb ed="#L" n="99"/>annuntiando, nam angeli quasi nuntii dicuntur;
+<lb ed="#L" n="100"/>et ministrii inquantum per suam operationem
+<lb ed="#L" n="101"/>exequuntur, etiam in corporalibus, divinae 
+pro<lb ed="#L" break="no" n="102"/>videntiae ordinem, nam minister est quasi 
+instru<lb ed="#L" break="no" n="103"/>mentum animatum, secundum Philosophum . Et
+<lb ed="#L" n="104"/>hoc. est quod dicitur in Psalmo: Qui facit 
+an<lb ed="#L" break="no" n="105"/>gelos suos spiritus, et ministros suos flammam ignis.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

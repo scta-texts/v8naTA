@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 55</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 55</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="155"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2157"><!-- v8naTA-l3c55 -->
+            <head xml:id="v8naTA-d1e2157-Hd1e101">Capitulum 55</head>
+            <head xml:id="v8naTA-d1e2157-Hd1e103" type="question-title">Quod intellectus creatus
+non comprehendit divinam substantiam.</head>
+            <p xml:id="v8naTA-d1e2157-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="39" type="fixed=153"/>CAPITULUM QUINQUAGESIMUM QUINTUM
+<lb ed="#L" n="40"/>QUOD INTELLECTUS CREATUS
+<lb ed="#L" n="41"/>NON COMPREHENDIT DIVINAM SUBSTANTIAM.
+</p>
+            <p xml:id="v8naTA-d1e2157-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="42"/>QUIA vero cuiuslibet actionis modus 
+se<lb ed="#L" break="no" n="43"/>quitur efficaciam activi principii, magis
+<lb ed="#L" n="44"/>P enim calefacit cuius calor virtuosior est ;
+<lb ed="#L" n="45"/>QU oportet quod etiam modus cognitionis
+<lb ed="#L" n="46"/>sequatur efficaciam principii cognoscendi.
+</p>
+            <p xml:id="v8naTA-d1e2157-d1e133">
+               <lb ed="#L" n="47"/>Lumen autem praedictum  est quoddam 
+di<lb ed="#L" break="no" n="48"/>vinae cognitionis principium: cum per ipsum
+<lb ed="#L" n="49"/>elevetur intellectus creatus ad divinam 
+substan<lb ed="#L" break="no" n="50"/>tiam videndam. Oportet ergo quod modus 
+di<lb ed="#L" break="no" n="51"/>vinae visionis commensuretur virtuti praedicti
+<lb ed="#L" n="52"/>luminis. Lumen autem praedictum multo deficit
+<lb ed="#L" n="53"/>in virtute a claritate divini intellectus. Impossibile
+<lb ed="#L" n="54"/>est ergo quod per huiusmodi lumen ita perfecte
+<lb ed="#L" n="55"/>divina substantia videatur sicut eam videt 
+intel<lb ed="#L" break="no" n="56"/>lectus divinus. Intellectus autem divinus 
+substan<lb ed="#L" break="no" n="57"/>tiam illam videt ita perfecte sicut perfecte visibilis
+<lb ed="#L" n="58"/>est: veritas enim divinae substantiae, et claritas
+<lb ed="#L" n="59"/>intellectus divini, sunt aequalia; immo magis sunt
+<lb ed="#L" n="60"/>unum. Impossibile est igitur quod intellectus
+<lb ed="#L" n="61"/>creatus per lumen praedictum videat divinam
+<lb ed="#L" n="62"/>substantiam ita perfecte sicut perfecte est visibilis.
+<lb ed="#L" n="63"/>Omne autem quod comprehenditur ab aliquo
+<lb ed="#L" n="64"/>cognoscente, cognoscitur ab eo ita perfecte sicut
+<lb ed="#L" n="65"/>cognoscibile est: qui enim novit quod triangulus
+<lb ed="#L" n="66"/>habet tres angulos aequales duobus rectis, quasi
+<lb ed="#L" n="67"/>opinabile quoddam probabili ratione, quia sic a
+<lb ed="#L" n="68"/>sapientibus dicitur, nondum hoc comprehendit;
+<lb ed="#L" n="69"/>sed solum ille qui hoc novit quasi quoddam
+<lb ed="#L" n="70"/>scibile, per medium quod est causa. Impossibile
+<lb ed="#L" n="71"/>est igitur quod intellectus creatus divinam 
+sub<lb ed="#L" break="no" n="72"/>stantiam comprehendat.
+</p>
+            <p xml:id="v8naTA-d1e2157-d1e193">
+               <lb ed="#L" n="73"/>Adhuc. Virtus finita non potest adaequare in sua
+<lb ed="#L" n="74"/>operatione obiectum infinitum. Substantia autem
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="75"/>divina est quoddam infinitum per comparationem
+<lb ed="#L" n="76"/>ad omnem intellectum creatum: cum omnis 
+intel<lb ed="#L" break="no" n="77"/>lectus creatus sub certa specie terminetur. 
+Impos<lb ed="#L" break="no" n="78"/>sibile est ergo quod visio alicuius intellectus creati
+<lb ed="#L" n="79"/>adaequet in videndo divinam substantiam, scilicet
+<lb ed="#L" n="80"/>ita perfecte ipsam videndo sicut visibilis est. Nullus
+<lb ed="#L" n="81"/>igitur intellectus creatus ipsam comprehendit.
+</p>
+            <p xml:id="v8naTA-d1e2157-d1e217">
+               <lb ed="#L" n="82"/>Amplius. Omne agens in tantum perfecte agit
+<lb ed="#L" n="83"/>in quantum perfecte participat formam quae est
+<lb ed="#L" n="84"/>operationis principium. Forma autem intelligibilis
+<lb ed="#L" n="85"/>qua divina substantia videtur, est ipsa divina
+<lb ed="#L" n="86"/>essentia: quae etsi fiat forma intelligibilis 
+intel<lb ed="#L" break="no" n="87"/>lectus creati, non tamen intellectus creatus capit
+<lb ed="#L" n="88"/>ipsam secundum totum posse eius. Non igitur
+<lb ed="#L" n="89"/>ita perfecte ipsam videt sicut ipsa visibilis est. Nor
+<lb ed="#L" n="90"/>ergo comprehenditur ab intellectu creato.
+</p>
+            <p xml:id="v8naTA-d1e2157-d1e239">
+               <lb ed="#L" n="91"/>Item. Nullum comprehensum excedit terminos
+<lb ed="#L" n="92"/>comprehendentis. Si igitur intellectus creatus 
+di<lb ed="#L" break="no" n="93"/>vinam substantiam comprehenderet, divina 
+sub<lb ed="#L" break="no" n="94"/>stantia. non excederet limites intellectus creati:
+<lb ed="#L" n="95"/>quod est impossibile. Impossibile est igitur quod
+<lb ed="#L" n="96"/>intellectus creatus divinam substantiam 
+compre<lb ed="#L" break="no" n="97"/>hendat.
+</p>
+            <p xml:id="v8naTA-d1e2157-d1e257">
+               <lb ed="#L" n="98"/>Non autem sic dicitur quod divina substantia
+<lb ed="#L" n="99"/>ab intellectu creato videtur, non tamen 
+com<lb ed="#L" break="no" n="100"/>prehenditur, quasi aliquid eius videatur et aliquid
+<lb ed="#L" n="101"/>non videatur: cum divina substantia sit simplex
+<lb ed="#L" n="102"/>omnino. Sed quia non ita perfecte ab intellectu
+<lb ed="#L" n="103"/>creato videtur sicut visibilis est: per quem modum
+<lb ed="#L" n="104"/>dicitur opinans conclusionem demonstrativam 
+co<lb ed="#L" break="no" n="105"/>gnoscere sed non comprehendere, quia non 
+per<lb ed="#L" break="no" n="106"/>fecte ipsam cognoscit, scilicet per modum 
+scien<lb ed="#L" break="no" n="107"/>tiae, licet nulla pars eius sit quam non cognoscat.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

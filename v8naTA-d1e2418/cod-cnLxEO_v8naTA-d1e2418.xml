@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 87</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 87</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="266"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2418"><!-- v8naTA-l3c87 -->
+            <head xml:id="v8naTA-d1e2418-Hd1e101">Capitulum 87</head>
+            <head xml:id="v8naTA-d1e2418-Hd1e103" type="question-title">Quod motus caelestis corporis non sit causa
+electionum nostrarum ex virtute animae. moventis,
+ut quidam dicunt.</head>
+            <p xml:id="v8naTA-d1e2418-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="47" type="fixed=266"/>CAPITULUM OCTOGESIMUM SEPTIMUM
+<lb ed="#L" n="48"/>QUOD MOTUS CAELESTIS CORPORIS NON SIT CAUSA
+<lb ed="#L" n="49"/>ELECTIONUM NOSTRARUM EX VIRTUTE ANIMAE. MOVENTIS,
+<lb ed="#L" n="50"/>UT QUIDAM DICUNT.
+</p>
+            <p xml:id="v8naTA-d1e2418-d1e119">
+               <cb ed="#L" n="d"/>
+            </p>
+            <p xml:id="v8naTA-d1e2418-d1e124">
+               <lb ed="#L" n="51"/>EST tamen attendendum quod Avicenna 
+<lb ed="#L" n="52"/>vult quod motus caelestium corporum .
+<lb ed="#L" n="53"/>sint etiam nostrarum electionum causae,
+<lb ed="#L" n="54"/>non quidem pef occasionem tantum,
+<lb ed="#L" n="55"/>sicut supra  dictum est, sed per se. Ponit enim
+<lb ed="#L" n="56"/>corpora caelestia esse animata. Uride oportet, cum
+<lb ed="#L" n="57"/>motus caelestis sit ab anima et sit motus corporis,
+<lb ed="#L" n="58"/>quod sicut, inquantum est. motus corporis, habet
+<lb ed="#L" n="59"/>virtutem. transmutandi corpora, ita, bx
+<lb ed="#L" n="60"/>est. ab anima,- habeat virtutem imprimendi i
+<lb ed="#L" n="61"/>animas nostras, et sic motus caelestis sit causa
+<lb ed="#L" n="62"/>nostrarum voluntatum et. electionum.. Ad. quod
+<lb ed="#L" n="63"/>etiam redire videtur positio Albumasar, in Primo
+<lb ed="#L" n="64"/>sui Introductorii .
+</p>
+            <p xml:id="v8naTA-d1e2418-d1e158">
+               <lb ed="#L" n="65"/>Haec autem positio irrationabilis est. Omnem
+<lb ed="#L" n="66"/>enim effectum qui est per instrumentum aliquod
+<lb ed="#L" n="67"/>ab efficiente procedens, oportet esse 
+proportio<lb ed="#L" break="no" n="68"/>natum instrumento, sicut et agenti: non enim
+<lb ed="#L" n="69"/>quolibet instrumento utimur ad quemlibet effe-.
+<lb ed="#L" n="70"/>ctum. Unde illud non potest fieri per aliquod:
+<lb ed="#L" n="71"/>instrumrientum ad quod nullo modo se extendit
+<lb ed="#L" n="72"/>actio. instrumenti, . Actio. autem corporis nullo
+<lb ed="#L" n="73"/>modo se extendit ad immutationem intellectus
+<lb ed="#L" n="74"/>et voluntatis, ut ostensum est: nisi forte per
+<lb ed="#L" n="75"/>accidens, inquantum ex his immutatur corpus,
+<lb ed="#L" n="76"/>sicut praedictum est , Impossibile est ergo quod
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="77"/>anima caelestis corporis, si sit animatum, in 
+in<lb ed="#L" break="no" n="78"/>tellectum et voluntatem imprimat mediante motu
+<lb ed="#L" n="79"/>caelestis corporis.
+</p>
+            <p xml:id="v8naTA-d1e2418-d1e195">
+               <lb ed="#L" n="80"/>Amplius. Causa agens particularis 
+similitudin<lb ed="#L" break="no" n="81"/>nem in agendo gerit causae agentis universalis,
+<lb ed="#L" n="82"/>et est exemplum eius, Si autem anima humana
+<lb ed="#L" n="83"/>in aliam animam humanam: aliquid per 
+opera<lb ed="#L" break="no" n="84"/>tionem corporalem imprimeret, sicut cum per
+<lb ed="#L" n="85"/>significationem vocis suam intelligentiam pandit,
+<lb ed="#L" n="86"/>actio corporalis quae est ab una anima non 
+per<lb ed="#L" break="no" n="87"/>venit ad aliam nisi mediante. corpore: vox enim
+<lb ed="#L" n="88"/>prolata immutat organum auditus, et, sic a sensu
+<lb ed="#L" n="89"/>percepta, pervenit eius significatum usque ad
+<lb ed="#L" n="90"/>intellectum. Si igitur anima caelestis aliquid 
+im<lb ed="#L" break="no" n="91"/>primat in animas nostras per motum corporeum,
+<lb ed="#L" n="92"/>actio illa non perveniet ad animam nostram nisi
+<lb ed="#L" n="93"/>per immutationem corporis nostri. Quae quidem
+<lb ed="#L" n="94"/>non est causa electionum nostrarum, sed occasio
+<lb ed="#L" n="95"/>tantum, sicut ex praemissis  patet. Non igitur
+<lb ed="#L" n="96"/>erit motus caelestis causa nostrae electionis nisi
+<lb ed="#L" n="97"/>per occasionem tantum. :
+</p>
+            <p xml:id="v8naTA-d1e2418-d1e237">
+               <lb ed="#L" n="98"/>Item. Cum movens et motum oporteat esse
+<lb ed="#L" n="99"/>simul, ut probatur in VII Phys., oportet quod ;
+<lb ed="#L" n="100"/>a primo movente perveniat motus usque ad 
+ul<lb ed="#L" break="no" n="101"/>timum quod movetur, quodam ordine: ut scilicet
+<lb ed="#L" n="102"/>movens per id quod est sibi proximum, moveat
+<pb ed="#L" n="267"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>illud quod est ab eo distans. Corpori autem :
+cae<lb ed="#L" break="no" n="2"/>lest, quod moveri ponitur ab anima sibi 
+con<lb ed="#L" break="no" n="3"/>iuncta, propinquius est corpus nostrum quam
+<lb ed="#L" n="4"/>anima, quae non habet ordinem ad corpus 
+cae<lb ed="#L" break="no" n="5"/>leste nisi mediante corpore: — quod ex hoc patet,
+<lb ed="#L" n="6"/>quia intellectus separati nullum ordinem habent
+<lb ed="#L" n="7"/>ad corpus caeleste, nisi forte moventis ad motum.
+<lb ed="#L" n="8"/>Immutatio igitur corporis caelestis ab anima eius
+<lb ed="#L" n="9"/>procedens non pertingit ad animam nostram nisi
+<lb ed="#L" n="10"/>mediante corpore. Ad motum autem corporis
+<lb ed="#L" n="11"/>non movetur anima nisi per accidens, nec 
+im<lb ed="#L" break="no" n="12"/>mutationem corporis sequitur electio nisi per 
+oc<lb ed="#L" break="no" n="13"/>casionem, ut dictum est . Motus igitur caelestis
+<lb ed="#L" n="14"/>non potest esse causa electionis nostrae per hoc
+<lb ed="#L" n="15"/>quod est ab anima.
+</p>
+            <p xml:id="v8naTA-d1e2418-d1e287">
+               <lb ed="#L" n="16"/>Praeterea. Secundum positionem Avicennae, et
+<lb ed="#L" n="17"/>quorundam aliorum philosophorum, intellectus
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="18"/>agens est quaedam substantia separata, quae
+<lb ed="#L" n="19"/>quidem agit in animas nostras inquantum facit
+<lb ed="#L" n="20"/>intellecta in potentia esse intellecta in actu . Hoc
+<lb ed="#L" n="21"/>autem. fit per abstractionem ab omnibus 
+mate<lb ed="#L" break="no" n="22"/>rialibus dispositionibus : ut patet ex his quae dicta
+<lb ed="#L" n="23"/>sunt in Secundo. Quod igitur agit directe in
+<lb ed="#L" n="24"/>animam, non agit in eam per motum 
+corpo<lb ed="#L" break="no" n="25"/>reum, sed magis per abstractionem ab omni 
+cor<lb ed="#L" break="no" n="26"/>poreo. Anima igitur caeli, si sit animatum, non
+<lb ed="#L" n="27"/>potest esse causa electionum vel intelligentiarum
+<lb ed="#L" n="28"/>nostrarum per motum caeli.
+</p>
+            <p xml:id="v8naTA-d1e2418-d1e320">
+               <lb ed="#L" n="29"/>Per easdem etiam rationes potest probari quod
+<lb ed="#L" n="30"/>motus caeli non sit causa electionum nostrarum
+<lb ed="#L" n="31"/>per virtutem substantiae separatae, si quis. ponat
+<lb ed="#L" n="32"/>caelum non esse animatum, sed a substantia 
+se<lb ed="#L" break="no" n="33"/>parata moveri.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

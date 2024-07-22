@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 54</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 54</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="149"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2149"><!-- v8naTA-l3c54 -->
+            <head xml:id="v8naTA-d1e2149-Hd1e101">Capitulum 54</head>
+            <head xml:id="v8naTA-d1e2149-Hd1e103" type="question-title">Rationes quibus videtur probari quod deus
+non possit videri per essentiam, et solutiones earum.</head>
+            <p xml:id="v8naTA-d1e2149-d1e106">
+               <pb ed="#L" n="149"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=149"/>CAPITULUM QUIN QUAGESIMUM QUARTUM
+<lb ed="#L" n="2"/>RATIONES QUIBUS VIDETUR PROBARI QUOD DEUS
+<lb ed="#L" n="3"/>NON POSSIT VIDERI PER ESSENTIAM, ET SOLUTIONES EARUM.
+</p>
+            <p xml:id="v8naTA-d1e2149-d1e119">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="4"/>OBICIET autem aliquis contra praedicta. 
+<lb ed="#L" n="5"/>Nullum enim lumen adveniens visui 
+<lb ed="#L" n="6"/>x»P potest visum elevare ad videndum ea 
+<lb ed="#L" n="7"/>EN D», quae naturalem facultatem visus 
+cor<lb ed="#L" break="no" n="8"/>pori excedunt: non enim potest visus videre ; 
+<lb ed="#L" n="9"/>nisi colorata. Divina autem substantia excedit 
+<lb ed="#L" n="10"/>omnem intellectus creati capacitatem, etiam magis 
+<lb ed="#L" n="11"/>quam intellectus excedat capacitatem sensus. Nullo 
+<lb ed="#L" n="12"/>igitur lumine superveniente intellectus creatus 
+ele<lb ed="#L" break="no" n="13"/>vari poterit ad divinam substantiam videndam. —
+</p>
+            <p xml:id="v8naTA-d1e2149-d1e145">
+               <lb ed="#L" n="14"/>— Praeterea. Lumen illud quod in intellectu creato 
+<lb ed="#L" n="15"/>recipitur, creatum aliquid est. Et ipsum ergo in 
+<lb ed="#L" n="16"/>infinitum .a Deo distat. Non. potest igitur per 
+<lb ed="#L" n="17"/>huiusmodi lumen intellectus creatus ad divinae 
+<lb ed="#L" n="18"/>substantiae visionem elevari.
+</p>
+            <p xml:id="v8naTA-d1e2149-d1e159">
+               <lb ed="#L" n="19"/>Item. Si hoc quidem potest facere lumen 
+prae<lb ed="#L" break="no" n="20"/>dictum propter hoc quod est divinae substantiae 
+<lb ed="#L" n="21"/>similitudo, .cum omnis intellectualis substantia, 
+<lb ed="#L" n="22"/>ex hoc ipso quod intellectualis est, divinam 
+si<lb ed="#L" break="no" n="23"/>militudinem gerat, ipsa natura cuiuslibet 
+intel<lb ed="#L" break="no" n="24"/>lectualis substantiae ad visionem divinam sufficiet. 
+</p>
+            <p xml:id="v8naTA-d1e2149-d1e175">
+               <lb ed="#L" n="25"/>Adhuc. Si lumen illud creatum est; nihil autem 
+<lb ed="#L" n="26"/>prohibet quod est creatum alicui rei creatae 
+con<lb ed="#L" break="no" n="27"/>naturale esse; poterit aliquis intellectus creatus 
+<lb ed="#L" n="28"/>esse qui suo connaturali lumine divinam substan- ;; 
+<lb ed="#L" n="29"/>tiam videbit. Cuius contrarium ostensum est. 
+</p>
+            <p xml:id="v8naTA-d1e2149-d1e188">
+               <lb ed="#L" n="30"/>Amplius. Infinitum, inguantum huiusmodi, 
+igno<lb ed="#L" break="no" n="31"/>ium esi. Ostensum est autem in Primo  Deum 
+<lb ed="#L" n="32"/>esse infinitum. Non igitur potest divina substantia 
+<lb ed="#L" n="33"/>per lumen praedictum videri.  
+</p>
+            <p xml:id="v8naTA-d1e2149-d1e199">
+               <lb ed="#L" n="34"/>Adhuc. Oportet esse proportionem intelligentis 
+<lb ed="#L" n="35"/>ad rem intellectam. Non est autem aliqua 
+pro<lb ed="#L" break="no" n="36"/>portio intellectus creati, etiam lumine praedicto 
+per<lb ed="#L" break="no" n="37"/>fecti, ad substantiam divinam: cum adhuc 
+rema<lb ed="#L" break="no" n="38"/>neat distantia infinita. Non potest igitur 
+intel<lb ed="#L" break="no" n="39"/>lectus creatus ad divinam substantiam videndam 
+<lb ed="#L" n="40"/>per lumen aliquod elevari. 
+</p>
+            <p xml:id="v8naTA-d1e2149-d1e217">
+               <lb ed="#L" n="41"/>Ex his autem et similibus rationibus aliqui 
+<lb ed="#L" n="42"/>moti sunt ad ponendum quod divina substantia 
+<lb ed="#L" n="43"/>nunquam ab aliquo intellectu creato videtur. 
+<lb ed="#L" n="44"/>Quae quidem positio et veram creaturae 
+ratio<lb ed="#L" break="no" n="45"/>nalis beatitudinem tollit, quae non potest esse 
+<lb ed="#L" n="46"/>nisi in visione divinae substantiae, ut ostensum 
+<lb ed="#L" n="47"/>est : et auctoritati Sacrae Scripturae contradicit, 
+<lb ed="#L" n="48"/>ut ex superioribus  patet. Unde tanquam falsa, 
+<lb ed="#L" n="49"/>et haeretica abiicienda est. 
+</p>
+            <p xml:id="v8naTA-d1e2149-d1e239">
+               <lb ed="#L" n="50"/>Rationes autem praedictas non diffucile est 
+<lb ed="#L" n="51"/>solvere. Divina enim substantia non sic est extra 
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="52"/>facultatem creati intellectus quasi aliquid omnino
+<lb ed="#L" n="53"/>extraneum ab ipso, sicut est sonus a visu, vel
+<lb ed="#L" n="54"/>substantia immaterialis a sensu, nam divina 
+sub<lb ed="#L" break="no" n="55"/>stantia est primum intelligibile, et totius 
+intel<lb ed="#L" break="no" n="56"/>lectualis cognitionis principium: sed est extra
+<lb ed="#L" n="57"/>facultatem. intellectus creati sicut excedens 
+vir<lb ed="#L" break="no" n="58"/>tutem eius, sicut excellentia sensibilium sunt
+<lb ed="#L" n="59"/>extra facultatem sensus. Unde et Philosophus, in,
+<lb ed="#L" n="60"/>II Metaph., dicit quod intellectus noster se habet
+<lb ed="#L" n="61"/>ad rerum manifestissima sicut oculus noctuae ad
+<lb ed="#L" n="62"/>lucem solis. Indiget igitur confortari intellectus
+<lb ed="#L" n="63"/>creatus aliquo divino lumine ad hoc quod 
+di<lb ed="#L" break="no" n="64"/>vinam essentiam videre «possa, Per quod prima
+<lb ed="#L" n="65"/>ratio solvitur.
+</p>
+            <p xml:id="v8naTA-d1e2149-d1e279">
+               <lb ed="#L" n="66"/>Huiusmodi autem lumen intellectum creatum
+<lb ed="#L" n="67"/>ad Dei visionem exaltat, non propter eius 
+indistan<lb ed="#L" break="no" n="68"/>tiam a divina substantia, sed propter virtutem
+<lb ed="#L" n="69"/>quam a Deo sortitur ad talem effectum: licet
+<lb ed="#L" n="70"/>secundum suum esse a Deo in infinitum distet,
+<lb ed="#L" n="71"/>ut secunda ratio proponebat. Non. enim hoc
+<lb ed="#L" n="72"/>lumen intellectum creatum Deo coniungit 
+secun<lb ed="#L" break="no" n="73"/>dum esse, sed secundum intelligere solum.
+</p>
+            <p xml:id="v8naTA-d1e2149-d1e299">
+               <lb ed="#L" n="74"/>Quia vero ipsius Dei proprium est ut suam
+<lb ed="#L" n="75"/>substantiam perfecte cognoscat, lumen praedictum
+<lb ed="#L" n="76"/>Dei similitudo est quantum ad hoc quod ad Dei
+<lb ed="#L" n="77"/>substantiam videndam perducit. Hoc autem modo
+<lb ed="#L" n="78"/>nulla intellectualis substantia similitudo Dei esse
+<lb ed="#L" n="79"/>potest. Cum enim nullius substantiae creatae
+<lb ed="#L" n="80"/>simplicitas sit aequalis divinae, impossibile est
+<lb ed="#L" n="81"/>quod totam suam perfectionem creata substantia
+<lb ed="#L" n="82"/>habeat in eodem: hoc enim est proprium Dei,
+<lb ed="#L" n="83"/>ut in Primo  ostensum est, qui secundum idem
+<lb ed="#L" n="84"/>est ens, intelligens et beatus. Aliud igitur oportet
+<lb ed="#L" n="85"/>esse in substantia intellectuali creata lumen quo
+<lb ed="#L" n="86"/>divina visione beatificatur; et aliud quodcumque
+<lb ed="#L" n="87"/>lumen quo in specie suae naturae completur,
+<lb ed="#L" n="88"/>et proportionaliter suae substantiae intelligit. Ex
+<lb ed="#L" n="89"/>quo patet solutio tertiae rationis.
+</p>
+            <p xml:id="v8naTA-d1e2149-d1e336">
+               <lb ed="#L" n="90"/>Quarta vero solvitur per hoc quod visio .
+di<lb ed="#L" break="no" n="91"/>vinae. substantiae omnem naturalem virtutem
+<lb ed="#L" n="92"/>excedit, ut ostensum est . Unde et lumen quo
+<lb ed="#L" n="93"/>intellectus creatus perficitur ad divinae 
+substan<lb ed="#L" break="no" n="94"/>tiae visionem, oportet esse supernaturale.
+</p>
+            <p xml:id="v8naTA-d1e2149-d1e349">
+               <lb ed="#L" n="95"/>Neque autem divinae substantiae visionem 
+im<lb ed="#L" break="no" n="96"/>pedire potest quod Deus dicitur esse infinitus,
+<lb ed="#L" n="97"/>ut quinta ratio proponebat. Non enim dicitur
+<lb ed="#L" n="98"/>infinitus privative, sicut quantitas. Huiusmodi
+<lb ed="#L" n="99"/>enim infinitum rationabiliter est ignotum: quia
+<pb ed="#L" n="150"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>est quasi materia carens forma, quae est 
+cogni<lb ed="#L" break="no" n="2"/>tionis principium. Sed dicitur infinitus negative,
+<lb ed="#L" n="3"/>quasi forma per se subsistens non limitata per
+<lb ed="#L" n="4"/>materiam ftecipientem. Unde quod sic infinitum
+<lb ed="#L" n="5"/>est, maxime cognoscibile est secundum se.
+<lb ed="#L" n="6"/>Proportio autem intellectus creati est quidem
+<lb ed="#L" n="7"/>ad Deum intelligendum, non. secundum 
+com<lb ed="#L" break="no" n="8"/>mensurationem aliquam proportione existente,
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="9"/>sed secundum quod proportio significat 
+quam<lb ed="#L" break="no" n="10"/>cumque habitudinem unius ad alterum, ut 
+ma<lb ed="#L" break="no" n="11"/>teriae ad formam, vel causae ad effectum. Sic
+<lb ed="#L" n="12"/>autem nihil prohibet esse proportionem creaturae
+<lb ed="#L" n="13"/>ad Deum secundum habitudinem  intelligentis
+<lb ed="#L" n="14"/>ad intellectum, sicut et secundum habitudinem
+<lb ed="#L" n="15"/>effectus ad causam. Unde patet solutio sextae
+<lb ed="#L" n="16"/>obiectionis.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 7</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 7</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="18"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1765"><!-- v8naTA-l3c7 -->
+            <head xml:id="v8naTA-d1e1765-Hd1e101">Capitulum 7</head>
+            <head xml:id="v8naTA-d1e1765-Hd1e103" type="question-title">Quod malum non est aliqua essentia.</head>
+            <p xml:id="v8naTA-d1e1765-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="91" type="fixed=18"/>CAPITULUM SEPTIMUM
+<lb ed="#L" n="92"/>QUOD MALUM NON EST ALIQUA ESSENTIA.
+</p>
+            <p xml:id="v8naTA-d1e1765-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="93"/>Ex his autem apparet quod nulla essentia
+<lb ed="#L" n="94"/>est secundum se mala.
+</p>
+            <p xml:id="v8naTA-d1e1765-d1e124">
+               <lb ed="#L" n="95"/>Malum enim, ut dictum est ?, nihil
+<lb ed="#L" n="96"/>est aliud quam privatio eius quod quis
+<lb ed="#L" n="97"/>natus est et debet habere: sic enim apud omnes
+<lb ed="#L" n="98"/>est usus huius nominis malum. Privatio autem
+<lb ed="#L" n="99"/>non est aliqua essentia, sed est negatio in 
+sub<lb ed="#L" break="no" n="100"/>stantia. Malum igitur non est aliqua essentia in
+<lb ed="#L" n="101"/>rebus. 
+</p>
+            <p xml:id="v8naTA-d1e1765-d1e143">
+               <lb ed="#L" n="102"/>Adhuc. Unumquodque secundum suam 
+es<lb ed="#L" break="no" n="103"/>sentiam habet esse. Inquantum autem habet
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="104"/>esse, habet aliquid boni: nam, si bonum est
+<lb ed="#L" n="105"/>quod omnia appetunt, oportet ipsum esse bonum
+<lb ed="#L" n="106"/>dicere, cum omnia esse appetant. Secundum
+<lb ed="#L" n="107"/>hoc igitur unumquodque bonum est quod 
+es<lb ed="#L" break="no" n="108"/>sentiam habet. Bonum autem et malum 
+oppo<lb ed="#L" break="no" n="109"/>nuntur. Nihil igitur est malum secundum quod
+<lb ed="#L" n="110"/>essentiam habet. Nulla igitur essentia mala est.
+</p>
+            <p xml:id="v8naTA-d1e1765-d1e167">
+               <lb ed="#L" n="111"/>Amplius. Omnis res vel est agens, vel est facta.
+<lb ed="#L" n="112"/>Malum autem non potest esse agens: quia 
+quic<lb ed="#L" break="no" n="113"/>quid agit, agit inquantum est actu existens et 
+per<lb ed="#L" break="no" n="114"/>fectum. Et similiter non potest esse factum: nam
+<pb ed="#L" n="19"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>cuiuslibet generationis terminus est forma et 
+bo<lb ed="#L" break="no" n="2"/>num. Nulla igitur res secundum suam essentiam
+<lb ed="#L" n="3"/>est mala. :
+</p>
+            <p xml:id="v8naTA-d1e1765-d1e189">
+               <lb ed="#L" n="4"/>Item. Nihil tendit ad suum contrarium: 
+unum<lb ed="#L" break="no" n="5"/>quodque enim appetit quod est sibi simile. et
+<lb ed="#L" n="6"/>conveniens. Omne autem ens agendo intendit 
+bo<lb ed="#L" break="no" n="7"/>num, ut ostensum est. Nullum igitur ens, 
+inquan<lb ed="#L" break="no" n="8"/>tum huiusmodi, est malum.
+</p>
+            <p xml:id="v8naTA-d1e1765-d1e202">
+               <lb ed="#L" n="9"/>Adhuc. Omnis essentia est alicui rei naturalis.
+<lb ed="#L" n="10"/>Si enim est in genere substantiae, est ipsa natura
+<lb ed="#L" n="11"/>rei. Si vero sit in genere accidentis, oportet quod
+<lb ed="#L" n="12"/>ex principiis alicuius substantiae causetur, et sic
+<lb ed="#L" n="13"/>illi substantiae erit naturalis: licet forte alteri 
+sub<lb ed="#L" break="no" n="14"/>stantiae non sit naturalis, sicut caliditas est 
+natu<lb ed="#L" break="no" n="15"/>ralis igni, licet sit innaturalis aquae. Quod autem
+<lb ed="#L" n="16"/>est secundum se malum, non potest esse alicui
+<lb ed="#L" n="17"/>naturale. De ratione enim mali est privatio eius
+<lb ed="#L" n="18"/>quod est alicui natum inesse et debitum ei. 
+Ma<lb ed="#L" break="no" n="19"/>]um igitur, cum sit eius quod est naturale 
+pri<lb ed="#L" break="no" n="20"/>vatio, non potest esse alicui naturale. Unde et
+<lb ed="#L" n="21"/>quicquid naturaliter inest alicui, est ei bonum,
+<lb ed="#L" n="22"/>et malum si ei desit. Nulla igitur essentia est 
+se<lb ed="#L" break="no" n="23"/>cundum se mala.
+</p>
+            <p xml:id="v8naTA-d1e1765-d1e237">
+               <lb ed="#L" n="24"/>Amplius. Quicquid habet essentiam aliquam,
+<lb ed="#L" n="25"/>aut ipsummet est forma, aut habet formam 
+ali<lb ed="#L" break="no" n="26"/>quam: per formam enim collocatur 
+unumquod<lb ed="#L" break="no" n="27"/>que in genere vel specie. Forma autem, 
+inquan<lb ed="#L" break="no" n="28"/>tum huiusmodi, habet rationem bonitatis: cum
+<lb ed="#L" n="29"/>sit principium actionis; et finis quem intendit
+<lb ed="#L" n="30"/>omne faciens; et actus quo unumquodque habens
+<lb ed="#L" n="31"/>formam perfectum est. Quicquid igitur habet
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="32"/>essentiam aliquam, inquantum huiusmodi, est
+<lb ed="#L" n="33"/>bonum. Malum igitur non habet essentiam
+<lb ed="#L" n="34"/>aliquam.
+</p>
+            <p xml:id="v8naTA-d1e1765-d1e266">
+               <lb ed="#L" n="35"/>Item. Ens per actum et potentiam dividitur.
+<lb ed="#L" n="36"/>Actus autem, inquantum huiusmodi, bonum est:
+<lb ed="#L" n="37"/>quia secundum quod aliquid est actu, secundum
+<lb ed="#L" n="38"/>hoc est perfectum. Potentia etiam bonum aliquid
+<lb ed="#L" n="39"/>est: tendit enim potentia ad actum, ut in 
+quo<lb ed="#L" break="no" n="40"/>libet motu apparet; et est etiam actui 
+proportio<lb ed="#L" break="no" n="41"/>nata, non ei contraria; et est in eodem genere
+<lb ed="#L" n="42"/>cum actu; et privatio non competit ei nisi per 
+ac<lb ed="#L" break="no" n="43"/>cidens. Omne igitur quod est, quocumque modo
+<lb ed="#L" n="44"/>sit, inquantum est ens, bonum est. Malum igitur
+<lb ed="#L" n="45"/>non habet aliquam essentiam.
+</p>
+            <p xml:id="v8naTA-d1e1765-d1e293">
+               <lb ed="#L" n="46"/>Amplius. Probatum est in Secundo huius ,
+<lb ed="#L" n="47"/>quod omne esse, quocumque modo sit, est a Deo.
+<lb ed="#L" n="48"/>Deum autem esse perfectam bonitatem, in Primo
+<lb ed="#L" n="49"/>ostendimus . Cum igitur boni effectus malum
+<lb ed="#L" n="50"/>esse non possit, impossibile est aliquod ens, 
+in<lb ed="#L" break="no" n="51"/>quantum est ens, esse malum.
+</p>
+            <p xml:id="v8naTA-d1e1765-d1e309">
+               <lb ed="#L" n="52"/>Hinc est quod Gen. 1 dicitur: <quote xml:id="v8naTA-d1e1765-Qd1e313">Vidit Deus cuncta
+<lb ed="#L" n="53"/>quae fecerat, et erant valde bona</quote>; et Eccle. m! :
+<quote xml:id="v8naTA-d1e1765-Qd1e318">Cuncta fecit bona in tempore suo</quote>; et 1 Tim. IV:
+<quote xml:id="v8naTA-d1e1765-Qd1e320">Omnis creatura Dei bona</quote>.
+</p>
+            <p xml:id="v8naTA-d1e1765-d1e323">
+               <lb ed="#L" n="54"/>Et Dionysius, cap. iv de Div. Nom., dicit quod
+<lb ed="#L" n="55"/>malum non est existens, scilicet per se, nec aliquid
+<lb ed="#L" n="56"/>in existentibus, quasi accidens, sicut albedo vel
+<lb ed="#L" n="57"/>nigredo.
+</p>
+            <p xml:id="v8naTA-d1e1765-d1e334">
+               <lb ed="#L" n="58"/>Per hoc autem excluditur error 
+Manichaeo<lb ed="#L" break="no" n="59"/>rum, ponentium aliquas res secundum suas 
+na<lb ed="#L" break="no" n="60"/>turas esse malas.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

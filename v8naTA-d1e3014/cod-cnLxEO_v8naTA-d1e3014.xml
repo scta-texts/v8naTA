@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 160</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 160</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="466"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e3014"><!-- v8naTA-l3c160 -->
+            <head xml:id="v8naTA-d1e3014-Hd1e101">Capitulum 160</head>
+            <head xml:id="v8naTA-d1e3014-Hd1e103" type="question-title">Quod homo in peccato. existens
+sine gratia peccatum vitare non potest.</head>
+            <p xml:id="v8naTA-d1e3014-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="45" type="fixed=466"/>CAPITULUM CENTESIMUM SEXAGESIMUM
+<lb ed="#L" n="46"/>QUOD HOMO IN PECCATO. EXISTENS
+<lb ed="#L" n="47"/>SINE GRATIA PECCATUM VITARE NON POTEST.
+</p>
+            <p xml:id="v8naTA-d1e3014-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="48"/>QUOD autem dictum est. in potestate liberi
+<lb ed="#L" n="49"/>arbitrii esse ne impedimentum gratiae 
+<lb ed="#L" n="50"/>praestet, competit his in quibus 
+natu<lb ed="#L" break="no" n="51"/>ralis potentia integra fuerit. Si autem 
+<lb ed="#L" n="52"/>per inordinationem praecedentem declinaverit ad 
+<lb ed="#L" n="53"/>malum, non erit omnino in potestate eius nullum  
+<lb ed="#L" n="54"/>impedimentum gratiae praestare. Etsi enim, ad 
+<lb ed="#L" n="55"/>aliquod momentum. ab aliquo peccati actu 
+par<lb ed="#L" break="no" n="56"/>ticulari possit abstinere propria potestate: si tamen 
+<lb ed="#L" n="57"/>diu sibi relinquitur, in peccatum cadet, per quod 
+<lb ed="#L" n="58"/>gratiae impedimentum praestatur. Cum enim 
+<lb ed="#L" n="59"/>mens hominis a statu rectitudinis declinaverit. 
+<lb ed="#L" n="60"/>manifestum est quod recessit ab ordine debiti 
+<lb ed="#L" n="61"/>finis. Illud igitur quod deberet esse in affectu 
+<lb ed="#L" n="62"/>praecipuum, tanquam ultimus finis, efficitur minus : 
+<lb ed="#L" n="63"/>dilectum illo ad quod mens inordinate conversa 
+<lb ed="#L" n="64"/>est sicut in ultimum finem. Quandocumque igitur 
+<lb ed="#L" n="65"/>occurrerit aliquid conveniens inordinato fini, 
+re<lb ed="#L" break="no" n="66"/>pugnans autem fini debito, eligetur, nisi reducatur 
+<lb ed="#L" n="67"/>ad debitum ordinem, ut finem debitum omnibus 
+<lb ed="#L" n="68"/>praeferat, quod est gratiae effectus. Dum autem 
+<lb ed="#L" n="69"/>eligitur aliquid quod repugnat ultimo fini, 
+impe<lb ed="#L" break="no" n="70"/>dimentum praestat gratiae, quae dirigit in finem. 
+<lb ed="#L" n="71"/>Unde manifestum est quod, post peccatum, non 
+<lb ed="#L" n="72"/>potest homo abstinere ab omni peccato, antequam 
+<lb ed="#L" n="73"/>per gratiam ad debitum ordinem reducatur. 
+<lb ed="#L" n="74"/>Praeterea. Cum mens inclinata fuerit ad aliquid, 
+<lb ed="#L" n="75"/>non se iam habet aequaliter ad utrumque 
+oppo<lb ed="#L" break="no" n="76"/>sitorum, sed magis ad illud ad quod est inclinata. 
+<lb ed="#L" n="77"/>Illud autem ad quod mens magis se habet. eligit, 
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="78"/>nisi per rationis discussionem ab eo quadam 
+solli<lb ed="#L" break="no" n="79"/>citudine abducatur: unde et in repentinis signum
+<lb ed="#L" n="80"/>interioris habitus praecipue accipi potest. Non
+<lb ed="#L" n="81"/>est autem possibile mentem hominis continue
+<lb ed="#L" n="82"/>in ea vigilantia esse ut per rationem discutiat
+<lb ed="#L" n="83"/>quicquid debet velle vel agere. Unde consequitur
+<lb ed="#L" n="84"/>quod mens aliquando eligat id ad quod est 
+in<lb ed="#L" break="no" n="85"/>clinata, inclinatione manente. Et ita, si inclinata
+<lb ed="#L" n="86"/>fuerit in peccatum, non stabit diu quin peccet,
+<lb ed="#L" n="87"/>impedimentum gratiae praestans, nisi ad statum
+<lb ed="#L" n="88"/>rectitudinis reducatur.
+</p>
+            <p xml:id="v8naTA-d1e3014-d1e213">
+               <lb ed="#L" n="89"/>Ad hoc etiam operantur impetus corporalium
+<lb ed="#L" n="90"/>passionum; et appetibilia secundum sensum; et
+<lb ed="#L" n="91"/>plurimae occasiones male agendi; quibus de facili
+<lb ed="#L" n="92"/>homo provocatur ad peccandum, nisi retrahatur
+<lb ed="#L" n="93"/>per firmam inhaesionem ad ultimum finem, quam
+<lb ed="#L" n="94"/>gratia facit.
+</p>
+            <p xml:id="v8naTA-d1e3014-d1e230">
+               <lb ed="#L" n="95"/>Unde apparet stulta Pelagianorum opinio, qui
+<lb ed="#L" n="96"/>dicebant hominem in peccato existentem sine
+<lb ed="#L" n="97"/>gratia posse vitare peccata. Cuius contrarium
+<lb ed="#L" n="98"/>apparet ex hoc quod Psalmus petit : Dum 
+de<lb ed="#L" break="no" n="99"/>fecerit virtus mea, ne derelinquas me. Et Dominus
+<lb ed="#L" n="100"/>orare nos docet: Ff? ne nos inducas in 
+tentatio<lb ed="#L" break="no" n="101"/>nem, sed libera nos a malo.
+</p>
+            <p xml:id="v8naTA-d1e3014-d1e248">
+               <lb ed="#L" n="102"/>Quamvis autem illi qui in peccato sunt, vitare
+<lb ed="#L" n="103"/>non possint per propriam potestatem quin 
+impe<lb ed="#L" break="no" n="104"/>dimentum gratiae ponant, ut ostensum est, nisi
+<lb ed="#L" n="105"/>auxilio gratiae praeveniantur; nihilominus tamen
+<lb ed="#L" n="106"/>hoc eis imputatur ad culpam, quia hic defectus ex
+<lb ed="#L" n="107"/>culpa praecedente in eis relinquitur; sicut ebrius
+<pb ed="#L" n="467"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>ad homicidio non excusatur quod per ebrietatem
+<lb ed="#L" n="2"/>committit, quam sua culpa incurrit.
+</p>
+            <p xml:id="v8naTA-d1e3014-d1e272">
+               <lb ed="#L" n="3"/>Praeterea, licet ille qui est in peccato, non habeat
+<lb ed="#L" n="4"/>hoc in propria potestate quod omnino vitet pec-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="5"/>catum, habet tamen in potestate nunc vitare hoc
+<lb ed="#L" n="6"/>vel illud peccatum, ut dictum est. Unde 
+quod<lb ed="#L" break="no" n="7"/>cumque committat, voluntarie committit. Et ita
+<lb ed="#L" n="8"/>non immerito ei imputatur ad culpam.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

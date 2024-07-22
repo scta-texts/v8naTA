@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 100</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 100</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="310"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2524"><!-- v8naTA-l3c100 -->
+            <head xml:id="v8naTA-d1e2524-Hd1e101">Capitulum 100</head>
+            <head xml:id="v8naTA-d1e2524-Hd1e103" type="question-title">Quod ea quae deus facit praeter naturae ordinem
+non sunt contra naturam.</head>
+            <p xml:id="v8naTA-d1e2524-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="61" type="fixed=310"/>CAPITULUM CENTESIMUM
+<lb ed="#L" n="62"/>QUOD EA QUAE DEUS FACIT PRAETER NATURAE ORDINEM
+<lb ed="#L" n="63"/>NON SUNT CONTRA NATURAM.
+</p>
+            <p xml:id="v8naTA-d1e2524-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="64"/>CONSIDERANDUM tamen videtur quod, licet
+<lb ed="#L" n="65"/>Deus interdum praeter ordinem rebus
+<lb ed="#L" n="66"/>inditum aliquid operetur, nihil tamen
+<lb ed="#L" n="67"/>facit contra naturam.
+</p>
+            <p xml:id="v8naTA-d1e2524-d1e130">
+               <lb ed="#L" n="68"/>Cum enim Deus sit actus purus, omnia vero
+<lb ed="#L" n="69"/>alia habeant aliquid de potentia admixtum, oportet
+<lb ed="#L" n="70"/>quod Deus comparetur ad omnia sicut movens
+<lb ed="#L" n="71"/>ad motum, et activum ad id quod est in potentia.
+<lb ed="#L" n="72"/>Quod autem est in potentia secundum ordinem
+<lb ed="#L" n="73"/>naturalem in respectu alicuius agentis, si aliquid
+<lb ed="#L" n="74"/>imprimatur in ipsum ab illo agente, non.est contra
+<lb ed="#L" n="75"/>naturam simpliciter, etsi sit aliquando contrarium
+<lb ed="#L" n="76"/>particulari formae quae corrumpitur per 
+huius<lb ed="#L" break="no" n="77"/>modi actionem: cum enim generatur ignis et 
+cor<lb ed="#L" break="no" n="78"/>rumpitur aer igne agente, est generatio et corruptio
+<lb ed="#L" n="79"/>naturalis. Quicquid igitur a Deo fit in rebus creatis,
+<lb ed="#L" n="80"/>non est contra naturam, etsi videatur esse contra
+<lb ed="#L" n="81"/>ordinem proprium alicuius naturae.
+</p>
+            <p xml:id="v8naTA-d1e2524-d1e164">
+               <lb ed="#L" n="82"/>Adhuc. Cum Deus sit primum agens, ut supra
+<lb ed="#L" n="83"/>ostensum est, omnia quae sunt post ipsum, sunt
+<lb ed="#L" n="84"/>quasi quaedam instrumenta ipsius. Ad hoc autem
+<lb ed="#L" n="85"/>sunt instrumenta instituta ut deserviant actioni
+<lb ed="#L" n="86"/>principalis agentis, dum moventur ab ipso: unde
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="87"/>talis instrumenti materia et forma esse debet ut sit
+<lb ed="#L" n="88"/>competens actioni quam intendit principale agens.
+<lb ed="#L" n="89"/>Et propter hoc non est contra naturam instrumenti
+<lb ed="#L" n="90"/>ut moveatur a principali agente, sed est ei maxime
+<lb ed="#L" n="91"/>conveniens. Neque igitur est contra naturam cum
+<lb ed="#L" n="92"/>res creatae moventur qualitercumque a Deo: sic
+<lb ed="#L" n="93"/>enim institutae sunt ut ei deserviant.
+</p>
+            <p xml:id="v8naTA-d1e2524-d1e195">
+               <lb ed="#L" n="94"/>Praeterea. In agentibus etiam corporalibus hoc
+<lb ed="#L" n="95"/>videtur, quod motus qui sunt in inferioribus 
+cor<lb ed="#L" break="no" n="96"/>poribus ex impressione superiorum, non sunt
+<lb ed="#L" n="97"/>violenti neque contra naturam, quamvis non 
+vi<lb ed="#L" break="no" n="98"/>deantur convenientes motui naturali quem corpus
+<lb ed="#L" n="99"/>inferius habet secundum proprietatem suae 
+for<lb ed="#L" break="no" n="100"/>mae: non enim dicimus quod fluxus et refluxus
+<lb ed="#L" n="101"/>maris sit motus violentus, cum sit ex impressione
+<lb ed="#L" n="102"/>caelestis corporis, licet naturalis motus aquae sit
+<lb ed="#L" n="103"/>solum ad unam partem, scilicet ad medium. Multo
+<lb ed="#L" n="104"/>igitur magis quicquid a Deo fit in qualibet crea-.
+<lb ed="#L" n="105"/>tura, non potest dici violentum neque contra
+<lb ed="#L" n="106"/>naturam.
+</p>
+            <p xml:id="v8naTA-d1e2524-d1e226">
+               <lb ed="#L" n="107"/>Item. Prima mensura essentiae et naturae
+<lb ed="#L" n="108"/>cuiuslibet rei est Deus, sicut primum ens, quod
+<lb ed="#L" n="109"/>est omnibus causa essendi. Cum autem per men-
+<pb ed="#L" n="311"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>suram de unaquaque re sumatur iudicium, oportet
+<lb ed="#L" n="2"/>hoc dici naturale unicuique rei per quod 
+con<lb ed="#L" break="no" n="3"/>formatur suae mensurae. Hoc igitur erit naturale
+<lb ed="#L" n="4"/>unicuique rei quod ei a Deo inditum est. Ergo
+<lb ed="#L" n="5"/>etsi eidem rei a Deo aliquid aliter imprimatur,
+<lb ed="#L" n="6"/>non est contra naturam.
+</p>
+            <p xml:id="v8naTA-d1e2524-d1e252">
+               <lb ed="#L" n="7"/>Amplius. Omnes creaturae comparantur ad
+<lb ed="#L" n="8"/>Deum sicut artificiata ad artificem, ut ex 
+prae<lb ed="#L" break="no" n="9"/>missis patet. Unde tota natura est sicut quoddam
+<lb ed="#L" n="10"/>artificiatum divinae artis. Non est autem contra 
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="11"/>rationem artificii si artifex aliter aliquid operetur
+<lb ed="#L" n="12"/>in suo artificio, etiam postquam ei primam formam
+<lb ed="#L" n="13"/>dedit. Neque ergo est contra naturam si Deus in
+<lb ed="#L" n="14"/>rebus naturalibus aliquid operetur aliter quam
+<lb ed="#L" n="15"/>consuetus cursus naturae habet:
+</p>
+            <p xml:id="v8naTA-d1e2524-d1e276">
+               <lb ed="#L" n="16"/>Hinc est quod Augustinus dicit: Deus, creator
+<lb ed="#L" n="17"/>et conditor omnium naturarum, nihil contra 
+na<lb ed="#L" break="no" n="18"/>turam facit: quia id est naturale cuique rei quod
+<lb ed="#L" n="19"/>facit a quo est omnis modus, numerus et ordo.
+<lb ed="#L" n="20"/>naturae.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 47</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 47</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="127"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2092"><!-- v8naTA-l3c47 -->
+            <head xml:id="v8naTA-d1e2092-Hd1e101">Capitulum 47</head>
+            <head xml:id="v8naTA-d1e2092-Hd1e103" type="question-title">Quod non possumus in hac vita videre deum per essentiam. .</head>
+            <p xml:id="v8naTA-d1e2092-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="19" type="fixed=127"/>CAPITULUM QUADRAGESIMUM SEPTIMUM
+<lb ed="#L" n="20"/>QUOD NON POSSUMUS IN HAC VITA VIDERE DEUM PER ESSENTIAM. .
+</p>
+            <p xml:id="v8naTA-d1e2092-d1e115">
+               <lb ed="#L" n="21"/>SI autem alias substantias separatas in
+<lb ed="#L" n="22"/>hac vita intelligere non possumus, 
+prop<lb ed="#L" break="no" n="23"/>ter connaturalitatem intellectus nostri
+<lb ed="#L" n="24"/>ad phantasmata, multo minus in hac
+<lb ed="#L" n="25"/>vita divinam essentiam videre possumus, quae
+<lb ed="#L" n="26"/>transcendit omnes substantias separatas.
+</p>
+            <p xml:id="v8naTA-d1e2092-d1e131">
+               <lb ed="#L" n="27"/>Huius autem signum hinc etiam accipi potest,
+<lb ed="#L" n="28"/>quia quanto magis mens nostra ad contemplanda
+<lb ed="#L" n="29"/>spiritualia elevatur, tanto magis abstrahitur a
+<lb ed="#L" n="30"/>sensibilibus. Ultimus autem terminus quo 
+con<lb ed="#L" break="no" n="31"/>templatio pertingere potest, est divina substantia.
+<lb ed="#L" n="32"/>Unde oportet mentem quae divinam substantiam
+<lb ed="#L" n="33"/>videt, totaliter a corporalibus sensibus esse 
+abso<lb ed="#L" break="no" n="34"/>lutam, vel per mortem vel per aliquem raptum.
+<lb ed="#L" n="35"/>Hinc est quod dicitur ex persona Dei, Exodi xxxur^:
+<lb ed="#L" n="36"/>Non videbit me homo et vivet.
+</p>
+            <p xml:id="v8naTA-d1e2092-d1e156">
+               <lb ed="#L" n="37"/>Quod autem in Sacra Scriptura aliqui Deum
+<lb ed="#L" n="38"/>vidisse dicuntur, oportet intelligi hoc fuisse vel
+<lb ed="#L" n="39"/>per aliquam imaginariam visionem; seu etiam
+<lb ed="#L" n="40"/>corporalem, prout scilicet per aliquas corporeas
+<lb ed="#L" n="41"/>species, vel exterius apparentes vel interius 
+for<lb ed="#L" break="no" n="42"/>matas in imaginatione, divinae virtutis praesentia
+<lb ed="#L" n="43"/>demonstrabatur; vel etiam secundum quod aliqui
+<lb ed="#L" n="44"/>per spirituales effectus aliquam cognitionem de
+<lb ed="#L" n="45"/>Deo intelligibilem perceperunt.
+</p>
+            <p xml:id="v8naTA-d1e2092-d1e178">
+               <lb ed="#L" n="46"/>Difficultatem autem afferunt quaedam verba
+<lb ed="#L" n="47"/>Augustini, ex quibus videtur quod in hac vita
+<lb ed="#L" n="48"/>possimus intelligere ipsum Deum. Dicit enim in
+<ref xml:id="v8naTA-d1e2092-Rd1e186">IX libro de Trin.</ref>, quod <quote xml:id="v8naTA-d1e2092-Qd1e188" source="http://scta.info/resource/adt-l9-d1e1074@1-44">in aeterna veritate, ex
+<lb ed="#L" n="49"/>qua omnia Temporalia facta sunt, formam 
+secun<lb ed="#L" break="no" n="50"/>dum quam sumus, et secundum quam vel in nobis
+<lb ed="#L" n="51"/>vel in corporibus vera et recta ratione aliquid
+<lb ed="#L" n="52"/>operamur, visu mentis aspicimus, atque inde 
+con<lb ed="#L" break="no" n="53"/>ceptam rerum veracem notitiam apud nos habemus.</quote>
+               <lb ed="#L" n="54"/>- In <ref xml:id="v8naTA-d1e2092-Rd1e204">XII etiam Confessionum</ref>  dicit: <quote xml:id="v8naTA-d1e2092-Qd1e206" source="http://scta.info/resource/aconf-l12-d1e279@46-83">Si ambo 
+<cb ed="#L" n="d"/>
+                  <lb ed="#L" n="55"/>videmus verum esse quod dicis, et ambo videmus
+<lb ed="#L" n="56"/>verum esse quod dico, ubi, quaeso, id videmus 
+<lb ed="#L" n="57"/>Nec ego utique in te, nec tu in me. Sed ambo
+<lb ed="#L" n="58"/>in ipsa quae supra mentes nostras est, 
+incommu<lb ed="#L" break="no" n="59"/>tabili veritate</quote>. — In <ref xml:id="v8naTA-d1e2092-Rd1e222">libro etiam de Vera 
+Reli<lb ed="#L" break="no" n="60"/>gione</ref> dicit quod <quote xml:id="v8naTA-d1e2092-Qd1e227">secundum veritatem divinam
+<lb ed="#L" n="61"/>de omnibus iudicamus</quote>. — In libro autem 
+Solilo<lb ed="#L" break="no" n="62"/>quiorum dicit quod <quote xml:id="v8naTA-d1e2092-Qd1e235">prius est veritas cognoscenda</quote>,
+<lb ed="#L" n="63"/>per quam possunt alia cognosci. Quod de 
+veri<lb ed="#L" break="no" n="64"/>tate divina intelligere videtur. - Videtur ergo ex
+<lb ed="#L" n="65"/>verbis eius quod ipsum Deum, qui sua veritas
+<lb ed="#L" n="66"/>est, videamus, et per ipsum alia cognoscamus.
+</p>
+            <p xml:id="v8naTA-d1e2092-d1e246">
+               <lb ed="#L" n="67"/>Ad idem etiam pertinere videntur verba eiusdem
+<lb ed="#L" n="68"/>quae ponit in  <ref xml:id="v8naTA-d1e2092-Rd1e252">XII de Trin.</ref>, sic dicens: <quote xml:id="v8naTA-d1e2092-Qd1e254" source="http://scta.info/resource/adt-l12-d1e1296@128-148">Rationis
+<lb ed="#L" n="69"/>est iudicare de istis corporalibus secundum rationes
+<lb ed="#L" n="70"/>incorporales ei sempiternas, quae, nisi supra 
+men<lb ed="#L" break="no" n="71"/>lem humanam essent, incommutabiles profecto non
+<lb ed="#L" n="72"/>essent</quote>. Rationes autem incommutabiles et. 
+sem<lb ed="#L" break="no" n="73"/>piternae alibi quam in Deo esse non possunt:
+<lb ed="#L" n="74"/>» cum solus Deus, secundum fidei doctrinam, sit
+<lb ed="#L" n="75"/>sempiternus. Videtur igitur sequi quod Deum
+<lb ed="#L" n="76"/>in ista vita videre possimus, et per hoc quod
+<lb ed="#L" n="77"/>eum et in eo rationes rerum videmus, de aliis
+<lb ed="#L" n="78"/>iudicemus. ;
+</p>
+            <p xml:id="v8naTA-d1e2092-d1e279">
+               <lb ed="#L" n="79"/>Non est autem credendum quod Augustinus
+<lb ed="#L" n="80"/>hoc in verbis praemissis senserit, quod in hac
+<lb ed="#L" n="81"/>vita Deum per suam essentiam intelligere 
+pos<lb ed="#L" break="no" n="82"/>simus. Qualiter igitur illam zncommutabilem 
+ve<lb ed="#L" break="no" n="83"/>rilatem, vel istas rationes aeternas, in hac vita
+<lb ed="#L" n="84"/>videamus, et secundum eam de aliis iudicemus,
+<lb ed="#L" n="85"/>inquirendum est,
+</p>
+            <p xml:id="v8naTA-d1e2092-d1e297">
+               <lb ed="#L" n="86"/>Veritatem quidem in anima esse, ipse 
+Augusti<lb ed="#L" break="no" n="87"/>nus in libro Soliloquiorum  confitetur: unde ex
+<lb ed="#L" n="88"/>aeternitate veritatis immortalitatem animae probat.
+<lb ed="#L" n="89"/>Non solum autem sic veritas est in anima sicut
+<pb ed="#L" n="128"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>Deus per essentiam in rebus omnibus dicitur;
+<lb ed="#L" n="2"/>neque sicut in rebus omnibus est per suam 
+simili<lb ed="#L" break="no" n="3"/>tudinem, prout unaquaeque res in tantum dicitur
+<lb ed="#L" n="4"/>vera inquantum ad Dei similitudinem accedit:
+<lb ed="#L" n="5"/>non enim in hoc anima rebus aliis praeferretur.
+<lb ed="#L" n="6"/>Est ergo speciali modo in anima inquantum
+<lb ed="#L" n="7"/>veritatem cognoscit. Sicut igitur animae et res
+<lb ed="#L" n="8"/>aliae verae quidem dicuntur in suis naturis, 
+se<lb ed="#L" break="no" n="9"/>cundum quod similitudinem illius summae 
+na<lb ed="#L" break="no" n="10"/>turae habent, quae est ipsa veritas, cum sit suum
+<lb ed="#L" n="11"/>intellectum esse: ita id quod per animam 
+co<lb ed="#L" break="no" n="12"/>gnitum est, verum est inquantum illius divinae
+<lb ed="#L" n="13"/>veritatis quam- Deus cognoscit, similitudo 
+quae<lb ed="#L" break="no" n="14"/>dam existit in ipso. Unde et Glossa super illud
+<lb ed="#L" n="15"/>Psalmi , Diminutae sunt veritates a filiis hominum,
+<lb ed="#L" n="16"/>dicit quod, sicut ab una facie resultant multae in
+<lb ed="#L" n="17"/>speculo, ita ab una prima verilate resultant multae
+<lb ed="#L" n="18"/>verilales in mentibus hominum . Quamvis autem
+<lb ed="#L" n="19"/>diversa a diversis cognoscuntur et creduntur
+<lb ed="#L" n="20"/>vera, tamen quaedam sunt vera in quibus omnes
+<lb ed="#L" n="21"/>homines concordant, sicut sunt prima principia
+<lb ed="#L" n="22"/>intellectus tam speculativi quam practici: 
+secun<lb ed="#L" break="no" n="23"/>dum quod universaliter in mentibus omnium
+<lb ed="#L" n="24"/>divinae veritatis quasi quaedam imago resultat.
+<lb ed="#L" n="25"/>Inquantum ergo quaelibet mens quicquid per
+<lb ed="#L" n="26"/>certitudinem cognoscit, in his principiis intuetur,
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="27"/>secundum quae de omnibus iudicatur, facta 
+reso<lb ed="#L" break="no" n="28"/>lutione in ipsa, dicitur omnia in divina veritate vel
+<lb ed="#L" n="29"/>in rationibus aeternis videre, et secundum eas
+<lb ed="#L" n="30"/>de omnibus iudicare. Et hunc sensum confirmant
+<lb ed="#L" n="31"/>Augustini verba in libro Soliloquiorum , . qui
+<lb ed="#L" n="32"/>dicit quod scientiarum spectamina. videntur in
+<lb ed="#L" n="33"/>divina verilatle sicut haec visibilia in lumine solis,
+<lb ed="#L" n="34"/>quae constat non videri in ipso corpore solis, sed
+<lb ed="#L" n="35"/>per lumen, quod est similitudo solaris claritatis
+<lb ed="#L" n="36"/>in aere et similibus corporibus relicta.
+</p>
+            <p xml:id="v8naTA-d1e2092-d1e393">
+               <lb ed="#L" n="37"/>Ex his ergo verbis Augustini non habetur quod
+<lb ed="#L" n="38"/>Deus videatur secundum suam substantiam in
+<lb ed="#L" n="39"/>hac vita, sed solum sicut in speculo. Quod et
+<lb ed="#L" n="40"/>Apostolus de cognitione huius vitae confitetur,
+<lb ed="#L" n="41"/>dicens, I Cor. XIII: <quote xml:id="v8naTA-d1e2092-Qd1e406">Videmus nunc per speculum
+<lb ed="#L" n="42"/>in aenigmate</quote>.
+</p>
+            <p xml:id="v8naTA-d1e2092-d1e413">
+               <lb ed="#L" n="43"/>Quamvis autem hoc speculum quod est mens
+<lb ed="#L" n="44"/>humana, de propinquiori Dei similitudinem 
+re<lb ed="#L" break="no" n="45"/>praesentet quam inferiores creaturae, tamen 
+co<lb ed="#L" break="no" n="46"/>gnitio Dei.quae ex mente humana accipi potest,
+<lb ed="#L" n="47"/>non excedit illud genus cognitionis quod ex 
+sen<lb ed="#L" break="no" n="48"/>sibilibus sumitur: cum et ipsa anima de seipsa
+<lb ed="#L" n="49"/>cognoscat quid :est per hoc quod naturas 
+intel<lb ed="#L" break="no" n="50"/>ligit sensibilium, ut dictum est . Unde nec per
+<lb ed="#L" n="51"/>hanc viam cognosci Deus altiori: modo. potest
+<lb ed="#L" n="52"/>quam sicut causa cognoscitur per effectum.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

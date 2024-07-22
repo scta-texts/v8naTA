@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 158</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 158</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="462"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2998"><!-- v8naTA-l3c158 -->
+            <head xml:id="v8naTA-d1e2998-Hd1e101">Capitulum 158</head>
+            <head xml:id="v8naTA-d1e2998-Hd1e103" type="question-title">Qualiter homo a peccato liberatur.</head>
+            <p xml:id="v8naTA-d1e2998-d1e106">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="40" type="fixed=462"/>CAPITULUM
+<lb ed="#L" n="41"/>CENTESIMUM QUINQUAGESIMUM OCTAVUM.
+<lb ed="#L" n="42"/>QUALITER HOMO A PECCATO LIBERATUR.
+</p>
+            <p xml:id="v8naTA-d1e2998-d1e117">
+               <cb ed="#L" n="e"/>
+               <lb ed="#L" n="43"/>QUIA vero homo non potest ad unum
+<lb ed="#L" n="44"/>oppositorum redire nisi recedat ab alio,
+<lb ed="#L" n="45"/>ad hoc quod homo auxilio gratiae ad
+<lb ed="#L" n="46"/>statum rectitudinis redeat, necessarium
+<lb ed="#L" n="47"/>est quod a peccato, per quod a rectitudine 
+de<lb ed="#L" break="no" n="48"/>clinaverat, recedat. Et quia homo in ultimum
+<lb ed="#L" n="49"/>finem dirigitur et ab eo avertitur praecipue per
+<lb ed="#L" n="50"/>voluntatem, non solum necessarium est quod
+<lb ed="#L" n="51"/>homo exteriori actu a peccato recedat, peccare
+<lb ed="#L" n="52"/>desinens, sed etiam quod recedat voluntate, ad
+<lb ed="#L" n="53"/>hoc quod per gratiam a peccato resurgat. 
+Vo<lb ed="#L" break="no" n="54"/>luntate autem homo a peccato recedit dum et
+<lb ed="#L" n="55"/>de praeterito poenitet, et futurum vitare proponit. :
+<lb ed="#L" n="56"/>Necessarium est igitur quod homo a peccato 
+re<lb ed="#L" break="no" n="57"/>surgens et de peccato praeterito poeniteat, et 
+fu<lb ed="#L" break="no" n="58"/>tura vitare proponat. Si enim non proponeret
+<lb ed="#L" n="59"/>desistere a peccato, non esset peccatum 
+secun<lb ed="#L" break="no" n="60"/>dum se contrarium voluntati. Si vero vellet 
+de<lb ed="#L" break="no" n="61"/>sistere a peccato, non tamen doleret de peccato
+<lb ed="#L" n="62"/>praeterito, non esset illud idem peccatum quod
+<lb ed="#L" n="63"/>fecit, contrarium voluntati. — Est autem 
+contra<lb ed="#L" break="no" n="64"/>rius motus quo ab aliquo receditur, motui quo
+<lb ed="#L" n="65"/>ad illud pervenitur: sicut dealbatio contraria est
+<lb ed="#L" n="66"/>denigrationi. Unde oportet quod per contraria
+<lb ed="#L" n="67"/>voluntas recedat a peccato his per quae in 
+pec<lb ed="#L" break="no" n="68"/>catum inclinata fuit. Fuit autem inclinata in 
+pec<lb ed="#L" break="no" n="69"/>catum per appetitum et delectationem circa res
+<lb ed="#L" n="70"/>inferiores. Oportet igitur quod a peccato recedat
+<lb ed="#L" n="71"/>per aliqua poenalia, quibus affligatur propter hoc
+<lb ed="#L" n="72"/>quod peccavit : sicut enim per delectationem tracta
+<cb ed="#L" n="f"/>
+               <lb ed="#L" n="73"/>fuit voluntas ad consensum peccati, sic per poenas
+<lb ed="#L" n="74"/>confirmatur in abominatione peccati.
+</p>
+            <p xml:id="v8naTA-d1e2998-d1e193">
+               <lb ed="#L" n="75"/>Item. Videmus quod etiam bruta animalia a
+<lb ed="#L" n="76"/>maximis voluptatibus retrahuntur per dolores
+<lb ed="#L" n="77"/>verberum . Oportet autem eum qui a peccato
+<lb ed="#L" n="78"/>resurgit, non solum detestari peccatum 
+praete<lb ed="#L" break="no" n="79"/>ritum, sed etiam vitare futurum. Est igitur 
+con<lb ed="#L" break="no" n="80"/>veniens ut affligatur pro peccato, ut sic magis
+<lb ed="#L" n="81"/>confirmetur in proposito vitandi peccata.
+<lb ed="#L" n="82"/>Praeterea. Ea quae cum labore et poena 
+ac<lb ed="#L" break="no" n="83"/>quirimus, magis amamus, et diligentius 
+conser<lb ed="#L" break="no" n="84"/>vamus: unde illi qui per proprium laborem 
+ac<lb ed="#L" break="no" n="85"/>quirunt pecunias, minus eas expendunt quam
+<lb ed="#L" n="86"/>qui sine labore accipiunt, vel a parentibus, vel
+<lb ed="#L" n="87"/>quocumque alio modo. Sed homini resurgenti a
+<lb ed="#L" n="88"/>peccato hoc maxime necessarium est ut statum
+<lb ed="#L" n="89"/>gratiae et Dei amorem diligenter conservet, quem
+<lb ed="#L" n="90"/>negligenter peccando amisit. Est ergo conveniens
+<lb ed="#L" n="91"/>ut laborem et poenam sustineat pro peccatis
+<lb ed="#L" n="92"/>commissis.
+</p>
+            <p xml:id="v8naTA-d1e2998-d1e236">
+               <lb ed="#L" n="93"/>Adhuc. Ordo iustitiae hoc requirit ut peccato
+<lb ed="#L" n="94"/>poena reddatur. Ex hoc autem quod ordo 
+ser<lb ed="#L" break="no" n="95"/>vatur in rebus, sapientia Dei gubernantis apparet. -
+<lb ed="#L" n="96"/>Pertinet igitur ad. manifestationem divinae 
+boni<lb ed="#L" break="no" n="97"/>tatis et Dei gloriam quod pro peccato poena
+<lb ed="#L" n="98"/>reddatur. Sed peccator peccando contra ordinem
+<lb ed="#L" n="99"/>divinitus institutum facit, leges Dei 
+praetergre<lb ed="#L" break="no" n="100"/>diendo. Est igitur conveniens ut hoc recompenset
+<lb ed="#L" n="101"/>in seipso puniendo quod prius  peccaverat: sic
+<lb ed="#L" n="102"/>enim totaliter extra inordinationem constituetur.
+</p>
+            <p xml:id="v8naTA-d1e2998-d1e260">
+               <pb ed="#L" n="463"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>Per hoc ergo patet quod, postquam homo per
+<lb ed="#L" n="2"/>gratiam remissionem peccati consecutus est, et
+<lb ed="#L" n="3"/>ad statum gratiae reductus, remanet obligatus,
+<lb ed="#L" n="4"/>ex Dei iustitia, ad aliquam poenam pro peccato
+<lb ed="#L" n="5"/>commisso. Quam quidem poenam si propria 
+vo<lb ed="#L" break="no" n="6"/>luntate ase exegerit, per hoc Deo satisfacere 
+di<lb ed="#L" break="no" n="7"/>citur: inquantum. cum labore et poena ordinem .
+<lb ed="#L" n="8"/>divinitus institutum consequitur, pro peccato se
+<lb ed="#L" n="9"/>puniendo, quem peccando transgressus fuerat
+<lb ed="#L" n="10"/>propriam voluntatem sequendo. — Si autem a
+<lb ed="#L" n="11"/>se hanc poenam non exigat. cum ea quae 
+di<lb ed="#L" break="no" n="12"/>vinae providentiae subiacent, inordinata remanere
+<lb ed="#L" n="13"/>non possint, haec poena infligetur ei a Deo. Nec
+<lb ed="#L" n="14"/>talis poena satisfactoria dicetur, cum non fuerit
+<lb ed="#L" n="15"/>ex electione patientis: sed dicetur purgatoria, quia,
+<lb ed="#L" n="16"/>alio puniente, quasi purgabitur, dum quicquid
+<lb ed="#L" n="17"/>inordinatum fuit in eo, ad debitum ordinem 
+re<lb ed="#L" break="no" n="18"/>ducetur. - Hinc est quod Apostolus dicit, I ad
+<lb ed="#L" n="19"/>Cor. xi: Si nosmetipsos diiudicaremus, non utique
+<lb ed="#L" n="20"/>iudicaremur: cum autem iudicamur, a Domino
+<lb ed="#L" n="21"/>corripimur, ut non. cum hoc mundo damnemur.
+</p>
+            <p xml:id="v8naTA-d1e2998-d1e312">
+               <lb ed="#L" n="22"/>Considerandum tamen quod, cum mens a 
+pec<lb ed="#L" break="no" n="23"/>cato avertitur, tam vehemens potest esse peccati
+<lb ed="#L" n="24"/>displicentia, et inhaesio mentis ad Deum, quod
+<lb ed="#L" n="25"/>non remanebit obligatio ad aliquam poenam. :
+<lb ed="#L" n="26"/>Nam, ut ex praedictis colligi potest, poena quam
+<lb ed="#L" n="27"/>quis patitur post peccati remissionem, ad hoc
+<lb ed="#L" n="28"/>necessaria est ut mens firmius bono inhaereat,
+<lb ed="#L" n="29"/>homine per poenas castigato, poenae enim me-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="30"/>dicinae quaedam sunt; et ut etiam ordo iustitiae
+<lb ed="#L" n="31"/>servetur, dum qui peccavit, sustinet poenam. 
+Di<lb ed="#L" break="no" n="32"/>lectio autem ad Deum sufficit mentem hominis
+<lb ed="#L" n="33"/>firmare in bono, praecipue si vehemens fuerit:
+<lb ed="#L" n="34"/>displicentia autem culpae praeteritae, cum fuerit
+<lb ed="#L" n="35"/>intensa, magnum affert dolorem. Unde per 
+ve<lb ed="#L" break="no" n="36"/>hementiam dilectionis Dei, et odii peccati 
+prae<lb ed="#L" break="no" n="37"/>teriti, excluditur necessitas satisfactoriae vel 
+pur<lb ed="#L" break="no" n="38"/>gatoriae poenae: et, si non sit tanta vehementia
+<lb ed="#L" n="39"/>quod totaliter poenam excludat, tamen, quanto
+<lb ed="#L" n="40"/>vehementius fuerit, tanto minus de poena sufficiet.
+</p>
+            <p xml:id="v8naTA-d1e2998-d1e358">
+               <lb ed="#L" n="41"/>Quae autem per amicos facimus, per nos ipsos
+<lb ed="#L" n="42"/>facere videmur: quia amicitia ex duobus facit
+<lb ed="#L" n="43"/>unum per affectum, et praecipue dilectio caritatis.
+<lb ed="#L" n="44"/>Et ideo, sicut per seipsum, ita et per alium 
+po<lb ed="#L" break="no" n="45"/>test aliquis satisfacere Deo: praecipue cum 
+ne<lb ed="#L" break="no" n="46"/>cessitas fuerit. Nam et poenam quam amicus
+<lb ed="#L" n="47"/>propter ipsum patitur, reputat aliquis ac si ipse
+<lb ed="#L" n="48"/>pateretur: et sic poena ei non deest, dum 
+pa<lb ed="#L" break="no" n="49"/>tienti amico compatitur; et tanto amplius, quanto
+<lb ed="#L" n="50"/>ipse est ei causa patiendi. Et iterum affectio 
+ca<lb ed="#L" break="no" n="51"/>ritatis in eo qui pro amico patitur, facit magis
+<lb ed="#L" n="52"/>satisfactionem Deo acceptam quam si pro se 
+pa<lb ed="#L" break="no" n="53"/>teretur: hoc enim est promptae caritatis, illud
+<lb ed="#L" n="54"/>autem est necessitatis. Ex quo accipitur quod
+<lb ed="#L" n="55"/>unus pro alio satisfacere potest, dum uterque in
+<lb ed="#L" n="56"/>caritate fuerit. Hinc est quod Apostolus dicit,
+<lb ed="#L" n="57"/>Galat. vi: Alter alterius onera portate, et sic
+<lb ed="#L" n="58"/>adimplebitis legem Christi.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

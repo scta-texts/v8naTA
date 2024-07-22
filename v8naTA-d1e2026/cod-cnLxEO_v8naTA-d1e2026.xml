@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 39</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 39</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="95"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2026"><!-- v8naTA-l3c39 -->
+            <head xml:id="v8naTA-d1e2026-Hd1e101">Capitulum 39</head>
+            <head xml:id="v8naTA-d1e2026-Hd1e103" type="question-title">Uod felicitas humana non consistit in cognitione dei
+quae habetur per demonstrationem.</head>
+            <p xml:id="v8naTA-d1e2026-d1e106">
+               <cb ed="#L" n=""/>
+               <lb ed="#L" n="192" type="fixed=94"/>CAPITULUM TRIGESIMUM NONUM
+<lb ed="#L" n="193"/>QUOD FELICITAS HUMANA NON CONSISTIT IN COGNITIONE DEI
+<lb ed="#L" n="194"/>QUAE HABETUR PER DEMONSTRATIONEM.
+</p>
+            <p xml:id="v8naTA-d1e2026-d1e117">
+               <cb ed="#L" n=""/>
+               <lb ed="#L" n="195"/>RURSUS, est quaedam alia Dei cognitio,
+<lb ed="#L" n="196"/>altior quam praemissa, quae de Deo
+<lb ed="#L" n="197"/>per demonstrationem habetur, per
+<lb ed="#L" n="198"/>quam magis ad propriam. ipsius 
+co<lb ed="#L" break="no" n="199"/>gnitionem acceditur: cum per demonstrationem
+<lb ed="#L" n="200"/>removeantur ab eo multa, per quorum 
+remo<lb ed="#L" break="no" n="201"/>tionem ab aliis discretus intelligitur . Ostendit
+<lb ed="#L" n="202"/>enim demonstratio Deum esse immobilem, 
+aeter<lb ed="#L" break="no" n="203"/>num, incorporeum, omnino simplicem, unum,
+<lb ed="#L" n="204"/>et alia huiusmodi, quae in libro primo de Deo
+<lb ed="#L" n="205"/>ostendimus. Ad propriam autem alicuius rei 
+co<lb ed="#L" break="no" n="206"/>gnitionem pervenitur non solum per' 
+affirma<lb ed="#L" break="no" n="207"/>tiones, sed etiam per negationes: sicut enim 
+pro<lb ed="#L" break="no" n="208"/>prium hominis est esse animal rationale, ita
+<lb ed="#L" n="209"/>proprium eius est non esse inanimatum neque 
+<cb ed="#L" n=""/>
+               <lb ed="#L" n="210"/>irrationale. Sed hoc interest inter utrumque 
+co<lb ed="#L" break="no" n="211"/>gnitionis propriae modum, quod, per 
+affirma<lb ed="#L" break="no" n="212"/>tiones propria cognitione de re habita, scitur
+<lb ed="#L" n="213"/>quid est res, et quomodo ab aliis separatur: per
+<lb ed="#L" n="214"/>negationes autem habita propria cognitione de re,
+<lb ed="#L" n="215"/>scitur quod est ab aliis discreta, tamen quid sit
+<lb ed="#L" n="216"/>remanet ignotum. Talis autem est propria 
+co<lb ed="#L" break="no" n="217"/>gnitio quae de Deo habetur per demonstrationes.
+<lb ed="#L" n="218"/>Non est autem nec ista ad ultimam hominis
+<lb ed="#L" n="219"/>felicitatem sufficiens.
+</p>
+            <p xml:id="v8naTA-d1e2026-d1e178">
+               <lb ed="#L" n="220"/>Ea enim quae sunt alicuius speciei, 
+perve<lb ed="#L" break="no" n="221"/>niunt ad finem illius speciei ut in pluribus: ea
+<lb ed="#L" n="222"/>enim quae sunt a natura, sunt semper vel in
+<lb ed="#L" n="223"/>pluribus, deficiunt autem in paucioribus propter
+<lb ed="#L" n="224"/>aliquam corruptionem. Felicitas autem est finis
+<pb ed="#L" n="96"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>humanae speciei: cum omnes homines ipsam
+<lb ed="#L" n="2"/>naturaliter desiderent. Felicitas igitur est 
+quod<lb ed="#L" break="no" n="3"/>dam commune bonum possibile provenire 
+omni<lb ed="#L" break="no" n="4"/>bus hominibus, nisi accidat aliquibus 
+impedi<lb ed="#L" break="no" n="5"/>mentum quo sint orbati. Ad praedictam autem ;
+<lb ed="#L" n="6"/>cognitionem de Deo habendam per viam 
+de<lb ed="#L" break="no" n="7"/>monstrationis pauci perveniunt, propter 
+impe<lb ed="#L" break="no" n="8"/>dimenta huius cognitionis, quae in principio 
+Li<lb ed="#L" break="no" n="9"/>bri tetigimus. Non est igitur talis Dei cognitio
+<lb ed="#L" n="10"/>essentialiter ipsa humana felicitas.
+</p>
+            <p xml:id="v8naTA-d1e2026-d1e218">
+               <lb ed="#L" n="11"/>Adhuc. Esse in actu est finis existentis in 
+po<lb ed="#L" break="no" n="12"/>tentia, ut ex praemissis  patet. Felicitas igitur,
+<lb ed="#L" n="13"/>quae est ultimus finis, est actus cui non 
+adiun<lb ed="#L" break="no" n="14"/>gitur potentia ad ulteriorem actum. Talis autem
+<lb ed="#L" n="15"/>cognitio per viam demonstrationis de Deo habita
+<lb ed="#L" n="16"/>remanet adhuc in potentia ad aliquod ulterius
+<lb ed="#L" n="17"/>de Deo cognoscendum, vel eadem nobiliori modo:
+<lb ed="#L" n="18"/>posteriores enim conati sunt aliquid ad divinam
+<lb ed="#L" n="19"/>cognitionem pertinens adiungere his quae a 
+prio<lb ed="#L" break="no" n="20"/>ribus invenerunt tradita. Non est igitur talis: 
+co<lb ed="#L" break="no" n="21"/>gnitio ultima humana felicitas.
+</p>
+            <p xml:id="v8naTA-d1e2026-d1e244">
+               <lb ed="#L" n="22"/>Amplius. Felicitas omnem miseriam excludit:
+<lb ed="#L" n="23"/>nemo enim simul miser et felix esse potest.
+<lb ed="#L" n="24"/>Deceptio autem et error magna pars miseriae
+<lb ed="#L" n="25"/>est: hoc est enim quod omnes naturaliter 
+fu<lb ed="#L" break="no" n="26"/>giunt. Praedictae autem cognitioni quae de Deo
+<lb ed="#L" n="27"/>habetur, multiplex error adiungi potest: quod
+<lb ed="#L" n="28"/>patet in multis qui aliqua vera de Deo per viam
+<lb ed="#L" n="29"/>demonstrationis cognoverunt, qui, suas aestima- -
+<lb ed="#L" n="30"/>tiones sequentes, dum demonstratio eis deesset,
+<lb ed="#L" n="31"/>in errores multiplices inciderunt. Si autem aliqui
+<lb ed="#L" n="32"/>fuerunt qui sic de divinis veritatem invenerunt
+<lb ed="#L" n="33"/>demonstrationis via quod eorum aestimationi
+<lb ed="#L" n="34"/>nulla falsitas adiungeretur, patet eos fuisse 
+paucis<lb ed="#L" break="no" n="35"/>simos: quod non congruit felicitati, quae est
+<lb ed="#L" n="36"/>communis finis. Non igitur est in hac cognitione
+<lb ed="#L" n="37"/>de Deo ultima hominis felicitas.
+</p>
+            <p xml:id="v8naTA-d1e2026-d1e281">
+               <lb ed="#L" n="38"/>Praeterea. Felicitas in operatione perfecta 
+con<lb ed="#L" break="no" n="39"/>sistit. Ad perfectionem autem cognitionis 
+requi<lb ed="#L" break="no" n="40"/>ritur certitudo: unde scire aliter non dicimur 
+<lb ed="#L" n="41"/>nisi cognoscamus quod impossibile est aliter se
+<lb ed="#L" n="42"/>habere, ut patet in I Posteriorum . Cognitio
+<lb ed="#L" n="43"/>autem praedicta multum  incertitudinis habet:
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="44"/>quod demonstrat diversitas scientiarum de 
+di<lb ed="#L" break="no" n="45"/>vinis eorum qui haec per viam demonstrationis
+<lb ed="#L" n="46"/>invenire conati sunt. Non est igitur in tali 
+co<lb ed="#L" break="no" n="47"/>gnitione ultima felicitas.
+</p>
+            <p xml:id="v8naTA-d1e2026-d1e307">
+               <lb ed="#L" n="48"/>Item. Voluntas cum consecuta fuerit ultimum
+<lb ed="#L" n="49"/>finem, quietatur eius desiderium. Ultimus autem
+<lb ed="#L" n="50"/>finis omnis cognitionis humanae est felicitas. Illa
+<lb ed="#L" n="51"/>igitur cognitio Dei essentialiter est ipsa felicitas,
+<lb ed="#L" n="52"/>qua habita non restabit alicuius scibilis 
+deside<lb ed="#L" break="no" n="53"/>randa cognitio. Talis autem non est cognitio
+<lb ed="#L" n="54"/>quam philosophi per demonstrationes de Deo
+<lb ed="#L" n="55"/>habere potuerunt: quia adhuc, illa cognitione
+<lb ed="#L" n="56"/>habita, alia desideramus scire, quae per hanc 
+co<lb ed="#L" break="no" n="57"/>gnitionem nondum sciuntur. Non est. igitur in
+<lb ed="#L" n="58"/>tali cognitione Dei felicitas.
+</p>
+            <p xml:id="v8naTA-d1e2026-d1e333">
+               <lb ed="#L" n="59"/>Adhuc. Finis cuiuslibet existentis in potentia
+<lb ed="#L" n="60"/>est ut ducatur in actum: ad hoc enim tendit
+<lb ed="#L" n="61"/>per motum, quo movetur in finem. Tendit autem
+<lb ed="#L" n="62"/>unumquodque ens in potentia ad hoc quod sit
+<lb ed="#L" n="63"/>actu secundum quod est possibile. Aliquid enim
+<lb ed="#L" n="64"/>est existens in potentia cuius tota potentia potest
+<lb ed="#L" n="65"/>reduci in actum: unde huius finis est ut totaliter
+<lb ed="#L" n="66"/>in actum reducatur; sicut grave, extra medium
+<lb ed="#L" n="67"/>existens, est in potentia ad proprium ubi. Aliquid
+<lb ed="#L" n="68"/>vero cuius potentia tota non potest simul in
+<lb ed="#L" n="69"/>actum reduci, sicut patet de materia prima: unde
+<lb ed="#L" n="70"/>per suum motum appetit successive in actum
+<lb ed="#L" n="71"/>diversarum formarum exire, quae sibi, propter
+<lb ed="#L" n="72"/>earum diversitatem, simul inesse non possunt.
+<lb ed="#L" n="73"/>Intellectus autem noster est in potentia ad omnia
+<lb ed="#L" n="74"/>intelligibilia, ut in Secundo dictum est. Duo
+<lb ed="#L" n="75"/>autem intelligibilia possunt simul in intellectu
+<lb ed="#L" n="76"/>possibili existere secundum actum primum, qui
+<lb ed="#L" n="77"/>est scientia: licet forte non secundum actum
+<lb ed="#L" n="78"/>secundum, qui est consideratio. Ex quo patet
+<lb ed="#L" n="79"/>quod tota potentia intellectus possibilis potest
+<lb ed="#L" n="80"/>reduci simul in actum. Hoc igitur requiritur
+<lb ed="#L" n="81"/>ad eius ultimum finem, qui est felicitas. Hoc
+<lb ed="#L" n="82"/>autem non facit praedicta cognitio quae de Deo
+<lb ed="#L" n="83"/>per demonstrationem haberi potest: quia, ea
+<lb ed="#L" n="84"/>habita, adhuc multa ignoramus. Non est igitur
+<lb ed="#L" n="85"/>talis cognitio Dei sufficiens ad ultimam 
+felici<lb ed="#L" break="no" n="86"/>tatem.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

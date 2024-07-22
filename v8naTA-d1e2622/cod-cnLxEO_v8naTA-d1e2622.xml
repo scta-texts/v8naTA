@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 112</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 112</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="356"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2622"><!-- v8naTA-l3c112 -->
+            <head xml:id="v8naTA-d1e2622-Hd1e101">Capitulum 112</head>
+            <head xml:id="v8naTA-d1e2622-Hd1e103" type="question-title">Quod creaturae rationales gubernantur propter seipsas,
+aliae vero in ordine ad eas.</head>
+            <p xml:id="v8naTA-d1e2622-d1e106">
+               <pb ed="#L" n="356"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=356"/>CAPITULUM CENTESIMUM DUODECIMUM
+<lb ed="#L" n="2"/>QUOD CREATURAE RATIONALES GUBERNANTUR PROPTER SEIPSAS,
+<lb ed="#L" n="3"/>ALIAE VERO IN ORDINE AD EAS.
+</p>
+            <p xml:id="v8naTA-d1e2622-d1e119">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="4"/>PRIMUM igitur, ipsa conditio intellectualis
+<lb ed="#L" n="5"/>naturae, secundum quam est domina
+<lb ed="#L" n="6"/>sui actus, providentiae curam requirit
+<lb ed="#L" n="7"/>qua sibi propter se provideatur: 
+alio<lb ed="#L" break="no" n="8"/>rum vero conditio, quae non habent dominium
+<lb ed="#L" n="9"/>sui actus, hoc indicat, quod eis non propter ipsa
+<lb ed="#L" n="10"/>cura impendatur, sed velut ad alia ordinatis. Quod
+<lb ed="#L" n="11"/>enim ab.altero tantum agitur, rationem 
+instru<lb ed="#L" break="no" n="12"/>menti habet: quod vero per se agit, habet rationem
+<lb ed="#L" n="13"/>principalis. agentis.. Instrumentum autem non
+<lb ed="#L" n="14"/>quaeritur propter seipsum, sed ut eo principale
+<lb ed="#L" n="15"/>agens utatur. Unde oportet quod omnis 
+opera<lb ed="#L" break="no" n="16"/>tionis diligentia quae circa instrumenta adhibetur,
+<lb ed="#L" n="17"/>ad principale agens referatur sicut ad finem : quod
+<lb ed="#L" n="18"/>autem circa principale agens vel ab ipso vel ab
+<lb ed="#L" n="19"/>alio adhibetur, inquantum: est principale agens,
+<lb ed="#L" n="20"/>propter ipsum est. Disponuntur igitur a Deo 
+in<lb ed="#L" break="no" n="21"/>tellectuales creaturae quasi. propter se procuratae,
+<lb ed="#L" n="22"/>creaturae vero aliae quasi ad rationales 
+creatu<lb ed="#L" break="no" n="23"/>ras ordinatae.
+</p>
+            <p xml:id="v8naTA-d1e2622-d1e167">
+               <lb ed="#L" n="24"/>Adhuc. Quod dominium sui actus habet, 
+libe<lb ed="#L" break="no" n="25"/>rum est in agendo, /iber enim est qui sui causa
+<lb ed="#L" n="26"/>quod autem quadam necessitate ab alio
+<lb ed="#L" n="27"/>agitur ad operandum, servituti subiectum est.
+<lb ed="#L" n="28"/>Omnis, igitur alia creatura naturaliter servituti
+<lb ed="#L" n="29"/>subiecta est: sola intellectualis natura libera .est.
+<lb ed="#L" n="30"/>In quolibet. autem regimine, liberis providetur
+<lb ed="#L" n="31"/>propter seipsos: servis autem ut sint in usum
+<lb ed="#L" n="32"/>liberorum. Sic igitur per divinam providentiam
+<lb ed="#L" n="33"/>intellectualibus creaturis providetur propter se,
+<lb ed="#L" n="34"/>ceteris autem creaturis propter ipsa.
+</p>
+            <p xml:id="v8naTA-d1e2622-d1e194">
+               <lb ed="#L" n="35"/>Amplius.. Quandocumque sunt aliqua ordinata
+<lb ed="#L" n="36"/>ad finem aliquem, si qua inter illa ad finem 
+per<lb ed="#L" break="no" n="37"/>tingere non possunt: per seipsa, oportet ea 
+ordi<lb ed="#L" break="no" n="38"/>nari ad.illa quae finem consequuntur, quae propter
+<lb ed="#L" n="39"/>se ordinantur in finem: sicut finis exercitus est
+<lb ed="#L" n="40"/>victoria, quam milites consequuntur per proprium
+<lb ed="#L" n="41"/>actum pugnando, qui soli propter se in. exercitu
+<lb ed="#L" n="42"/>quaeruntur; omnes autem alii, ad alia officia
+<lb ed="#L" n="43"/>deputati, puta ad custodiendum equos, ad 
+paran<lb ed="#L" break="no" n="44"/>dum arma, propter milites in exercitu quaeruntur.
+<lb ed="#L" n="45"/>Constat autem ex praemissis finem ultimum
+<lb ed="#L" n="46"/>universi Deum esse, quem sola intellectualis natura
+<lb ed="#L" n="47"/>consequitur in seipso, eum scilicet cognoscendo
+<lb ed="#L" n="48"/>et amando, ut ex dictis patet. Sola igitur 
+in<lb ed="#L" break="no" n="49"/>tellectualis natura est propter se quaesita in 
+uni<lb ed="#L" break="no" n="50"/>verso, alia. autem omnia propter ipsam...
+</p>
+            <p xml:id="v8naTA-d1e2622-d1e231">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="51"/>Item. In quolibet toto partes principales
+<lb ed="#L" n="52"/>propter se exiguntur ad: constitutionem totius:
+<lb ed="#L" n="53"/>aliae vero ad conservationem, vel ad aliquam
+<lb ed="#L" n="54"/>meliorationem earum. Inter omnes autem partes
+<lb ed="#L" n="55"/>universi, nobiliores sunt intellectuales creaturae:
+<lb ed="#L" n="56"/>quia.magis ad similitudinem divinam accedunt.
+<lb ed="#L" n="57"/>Naturae ergo intellectuales sunt propter se a
+<lb ed="#L" n="58"/>divina providentia procuratae, alia vero omnia
+<lb ed="#L" n="59"/>propter ipsa.
+</p>
+            <p xml:id="v8naTA-d1e2622-d1e255">
+               <lb ed="#L" n="60"/>Praeterea. Manifestum est partes omnes 
+ordi<lb ed="#L" break="no" n="61"/>nari ad perfectionem totius: non enim est totum
+<lb ed="#L" n="62"/>propter partes, sed partes propter totum sunt.
+<lb ed="#L" n="63"/>Naturae autem intellectuales maiorem habent
+<lb ed="#L" n="64"/>afunitatem ad totum quam aliae naturae: nam
+<lb ed="#L" n="65"/>unaquaeque intellectualis substantia est 
+quodam<lb ed="#L" break="no" n="66"/>modo omnia, inquantum totius entis 
+comprehen<lb ed="#L" break="no" n="67"/>siva est suo intellectu: quaelibet autem alia 
+sub<lb ed="#L" break="no" n="68"/>stantia particularem solam entis participationem
+<lb ed="#L" n="69"/>habet. Convenienter igitur alia propter substantias
+<lb ed="#L" n="70"/>intellectuales providentur a Deo.
+</p>
+            <p xml:id="v8naTA-d1e2622-d1e281">
+               <lb ed="#L" n="71"/>Adhuc. Sicut agitur unumquodque cursu 
+na<lb ed="#L" break="no" n="72"/>turae, ita natum est agi. Sic autem videmus res
+<lb ed="#L" n="73"/>cursu naturae currere quod substantia intellectualis
+<lb ed="#L" n="74"/>omnibus aliis utitur propter se: vel ad intellectus
+<lb ed="#L" n="75"/>perfectionem, quia in eis veritatem speculatur; vel
+<lb ed="#L" n="76"/>ad suae virtutis executionem et scientiae 
+explica<lb ed="#L" break="no" n="77"/>tionem, ad modum quo artifex explicat artis suae
+<lb ed="#L" n="78"/>conceptionem in materia corporali; vel etiam ad
+<lb ed="#L" n="79"/>corporis sustentationem, quod est unitum animae
+<lb ed="#L" n="80"/>intellectuali, sicut in hominibus patet. Manifestum
+<lb ed="#L" n="81"/>est ergo quod propter substantias intellectuales
+<lb ed="#L" n="82"/>omnia divinitus providentur.
+</p>
+            <p xml:id="v8naTA-d1e2622-d1e310">
+               <lb ed="#L" n="83"/>Amplius. Quod aliquis propter se quaerit,
+<lb ed="#L" n="84"/>semper illud quaerit, quod enim per se est, semper
+<lb ed="#L" n="85"/>est: quod vero aliquis propter aliud quaerit, non
+<lb ed="#L" n="86"/>oportet quod semper illud quaerat, sed secundum
+<lb ed="#L" n="87"/>quod competit ei propter quod quaeritur. Esse
+<lb ed="#L" n="88"/>autem rerum ex divina voluntate profluxit, ut
+<lb ed="#L" n="89"/>ex superioribus  est manifestum. Quae igitur 
+<lb ed="#L" n="90"/>semper sunt in entibus, sunt propter se a Deo
+<lb ed="#L" n="91"/>volita: quae autem non semper, non propter se,
+<lb ed="#L" n="92"/>sed propter aliud. Substantiae autem intellectuales
+<lb ed="#L" n="93"/>maxime accedunt ad hoc. quod sint semper, quia
+<lb ed="#L" n="94"/>sunt incorruptibiles. Sunt etiam immutabiles, nisi
+<lb ed="#L" n="95"/>solum secundum electionem. Ergo substantiae
+<lb ed="#L" n="96"/>intellectuales gubernantur quasi REGPAGE, d se, alia
+<lb ed="#L" n="97"/>vero propter ipsas.
+</p>
+            <p xml:id="v8naTA-d1e2622-d1e345">
+               <pb ed="#L" n="357"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>Non est autem ei quod praemissis rationibus
+<lb ed="#L" n="2"/>est ostensum contrarium, quod omnes partes 
+uni<lb ed="#L" break="no" n="3"/>versi ad perfectionem totius ordinantur: sic enim
+<lb ed="#L" n="4"/>ad perfectionem totius omnes partes ordinantur,
+<lb ed="#L" n="5"/>inquantum una deservit alteri. Sicut in corpore
+<lb ed="#L" n="6"/>humano apparet quod pulmo in hoc est de 
+per<lb ed="#L" break="no" n="7"/>fectione corporis, quod deservit cordi: unde non
+<lb ed="#L" n="8"/>est contrarium pulmonem esse propter cor, et
+<lb ed="#L" n="9"/>propter totum animal. Et similiter non est 
+con<lb ed="#L" break="no" n="10"/>trarium. alias naturas esse propter intellectuales,
+<lb ed="#L" n="11"/>et propter perfectionem universi: si enim deessent
+<lb ed="#L" n="12"/>ea quae requirit substantiae intellectualis perfectio,
+<lb ed="#L" n="13"/>non esset universum completum.
+</p>
+            <p xml:id="v8naTA-d1e2622-d1e381">
+               <lb ed="#L" n="14"/>Similiter etiam praedictis non obviat quod 
+in<lb ed="#L" break="no" n="15"/>dividua sunt propter proprias species. Per hoc
+<lb ed="#L" n="16"/>enim quod ad suas species ordinantur, ordinem
+<lb ed="#L" n="17"/>habent ulterius ad intellectualem naturam. Non
+<lb ed="#L" n="18"/>enim aliquod corruptibilium ordinatur ad 
+homi<lb ed="#L" break="no" n="19"/>nem propter unum individuum hominis tantum,
+<lb ed="#L" n="20"/>sed propter totam humanam: speciem. Toti autem
+<lb ed="#L" n="21"/>humanae speciei non posset aliquod 
+corrupti<lb ed="#L" break="no" n="22"/>bilium deservire nisi secundum suam speciem
+<lb ed="#L" n="23"/>totam. Ordo igitur quo corruptibilia ordinantur
+<lb ed="#L" n="24"/>ad hominem, requirit quod individua ordinentur
+<lb ed="#L" n="25"/>ad speciem.
+</p>
+            <p xml:id="v8naTA-d1e2622-d1e410">
+               <lb ed="#L" n="26"/>Per hoc autem quod dicimus substantias 
+in<lb ed="#L" break="no" n="27"/>tellectuales propter se a divina providentia o
+r<lb ed="#L" break="no" n="28"/>dinari, non intelligimus quod ipsa ulterius non
+<lb ed="#L" n="29"/>referantur in Deum et ad perfectionem universi.
+<lb ed="#L" n="30"/>Sic igitur. propter se procurari dicuntur et alia
+<lb ed="#L" n="31"/>propter ipsa, quia bona quae per divinam pro-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="32"/>videntiam sortiuntur, non eis sunt data propter
+<lb ed="#L" n="33"/>alterius utilitatem; quae vero aliis dantur, in eorum
+<lb ed="#L" n="34"/>usum ex divina ordinatione cedunt.
+</p>
+            <p xml:id="v8naTA-d1e2622-d1e434">
+               <lb ed="#L" n="35"/>Hinc est quod dicitur Deut. 1V: Ne videas solem
+<lb ed="#L" n="36"/>et lunam et cetera astra, et errore deceplus, adores
+<lb ed="#L" n="37"/>ea, quae creavit Dominus Deus tuus in 
+ministe<lb ed="#L" break="no" n="38"/>rium cunctis gentibus quae sub caelo sunt. Et in
+<lb ed="#L" n="39"/>Psalmo dicitur: Omnia subiecisti sub pedibus eius:
+<lb ed="#L" n="40"/>oves et boves universas, insuper el pecora campi.
+<lb ed="#L" n="41"/>Et Sap. xi? dicitur: Zw autem, Dominator virtutis,
+<lb ed="#L" n="42"/>cum tranquillitate iudicas, et cum magna 
+reve<lb ed="#L" break="no" n="43"/>rentia disponis nos.
+</p>
+            <p xml:id="v8naTA-d1e2622-d1e456">
+               <lb ed="#L" n="44"/>Per haec autem excluditur error ponentium
+<lb ed="#L" n="45"/>homini esse peccatum si animalia bruta occidat.
+<lb ed="#L" n="46"/>Ex divina enim providentia naturali ordine in
+<lb ed="#L" n="47"/>usum hominis ordinantur. Unde absque iniuria
+<lb ed="#L" n="48"/>eis utitur homo, vel occidendo, vel quolibet
+<lb ed="#L" n="49"/>alio modo. Propter quod et Dominus dixit ad
+<lb ed="#L" n="50"/>Noe, Gen? x: Sicut olera. virentia dedi vobis
+<lb ed="#L" n="51"/>omnem carnem.
+</p>
+            <p xml:id="v8naTA-d1e2622-d1e476">
+               <lb ed="#L" n="52"/>Si qua vero in Sacra Scriptura i inveniantur 
+pro<lb ed="#L" break="no" n="53"/>hibentia aliquid crudelitatis in animalia bruta 
+com<lb ed="#L" break="no" n="54"/>mitti, sicut de ave cum pullis non occidenda :
+<lb ed="#L" n="55"/>hoc fit vel ad removendum hominis animum a
+<lb ed="#L" n="56"/>crudelitate in homines exercenda, ne aliquis, 
+exer<lb ed="#L" break="no" n="57"/>cendo crudelia circa bruta, ex hoc procedat ad
+<lb ed="#L" n="58"/>homines; vel quia in temporale damnum hominis
+<lb ed="#L" n="59"/>provenit animalibus illata. laesio, sive inferentis
+<lb ed="#L" n="60"/>sive alterius; vel propter aliquam significationem,
+<lb ed="#L" n="61"/>sicut Apostolus  MT illud de non alligando
+<lb ed="#L" n="62"/>ore bovis triturantis 
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

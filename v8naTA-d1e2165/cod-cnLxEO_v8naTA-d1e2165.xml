@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 56</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 56</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="155"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2165"><!-- v8naTA-l3c56 -->
+            <head xml:id="v8naTA-d1e2165-Hd1e101">Capitulum 56</head>
+            <head xml:id="v8naTA-d1e2165-Hd1e103" type="question-title">Quod nullus intellectus creatus, videndo deum,
+videt omnia quae in eo videri possunt.</head>
+            <p xml:id="v8naTA-d1e2165-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="34" type="fixed=155"/>CAPITULUM QUINQUAGESIMUM SEXTUM
+<lb ed="#L" n="35"/>QUOD NULLUS INTELLECTUS CREATUS, VIDENDO DEUM,
+<lb ed="#L" n="36"/>VIDET OMNIA QUAE IN EO VIDERI POSSUNT.
+</p>
+            <p xml:id="v8naTA-d1e2165-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="37"/>Ex hoc autem apparet quod intellectus
+<lb ed="#L" n="38"/>creatus, etsi divinam substantiam 
+vi<lb ed="#L" break="no" n="39"/>deat, non tamen omnia cognoscit quae
+<lb ed="#L" n="40"/>per divinam substantiam cognosci 
+pos<lb ed="#L" break="no" n="41"/>sunt.
+</p>
+            <p xml:id="v8naTA-d1e2165-d1e133">
+               <lb ed="#L" n="42"/>Tunc enim solum necesse est quod, cognito
+<lb ed="#L" n="43"/>aliquo principio, omnes eius effectus cognoscantur
+<lb ed="#L" n="44"/>per ipsum, quando principium comprehenditur
+<lb ed="#L" n="45"/>intellectu: sic enim principium aliquod secundum
+<lb ed="#L" n="46"/>suam totam virtutem cognoscitur, quando omnes
+<lb ed="#L" n="47"/>effectus eius cognoscuntur ex ipso. Per divinam
+<lb ed="#L" n="48"/>autem essentiam alia cognoscuntur sicut 
+co<lb ed="#L" break="no" n="49"/>gnoscitur effectus ex causa. Cum igitur 
+intel<lb ed="#L" break="no" n="50"/>lectus creatus non possit divinam substantiam
+<lb ed="#L" n="51"/>cognoscere sic quod ipsam comprehendat, non
+<lb ed="#L" n="52"/>est necesse quod. videndo ipsam, omnia videat
+<lb ed="#L" n="53"/>quae per ipsam cognosci possunt.
+</p>
+            <p xml:id="v8naTA-d1e2165-d1e163">
+               <lb ed="#L" n="54"/>Item. Quanto aliquis intellectus est altior, tanto
+<lb ed="#L" n="55"/>plura cognoscit, vel secundum rerum 
+multitu<lb ed="#L" break="no" n="56"/>dinem, vel saltem. secundum earundem rerum
+<lb ed="#L" n="57"/>plures rationes. Intellectus autem divinus excedit
+<lb ed="#L" n="58"/>omnem. intellectum: creatum. Plura igitur 
+co<lb ed="#L" break="no" n="59"/>gnoscit quam aliquis intellectus creatus. Non
+<lb ed="#L" n="60"/>autem cognoscit aliquid nisi per hoc quod suam
+<lb ed="#L" n="61"/>essentiam videt, ut in Primo  ostensum est.
+<lb ed="#L" n="62"/>Plura igitur sunt cognoscibilia per essentiam
+<lb ed="#L" n="63"/>divinam quam aliquis intellectus creatus - per
+<lb ed="#L" n="64"/>ipsam videre possit.
+</p>
+            <p xml:id="v8naTA-d1e2165-d1e189">
+               <lb ed="#L" n="65"/>Adhuc. Quantitas virtutis attenditur secundum
+<lb ed="#L" n="66"/>ea in quae potest. Idem igitut est cognoscere
+<lb ed="#L" n="67"/>omnia in quae potest aliqua virtus, et ipsam
+<lb ed="#L" n="68"/>virtutem comprehendere.. Divinam autem 
+virtu<lb ed="#L" break="no" n="69"/>tem, cum sit infinita, non potest aliquis creatus
+<lb ed="#L" n="70"/>intellectus. comprehendere, sicut nec essentiam
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="71"/>eius, ut probatum est . Neque igitur intellectus
+<lb ed="#L" n="72"/>creatus potest cognoscere omnia in quae divina
+<lb ed="#L" n="73"/>virtus potest. Omnia autem in quae divina virtus
+<lb ed="#L" n="74"/>potest, sunt per essentiam divinam cognoscibilia :
+<lb ed="#L" n="75"/>; omnia enim cognoscit Deus, et non nisi per 
+es<lb ed="#L" break="no" n="76"/>sentiam suam. Non igitur intellectus creatus, 
+vi<lb ed="#L" break="no" n="77"/>dens divinam substantiam, videt omnia quae in
+<lb ed="#L" n="78"/>Dei substantia videri possunt. 
+</p>
+            <p xml:id="v8naTA-d1e2165-d1e224">
+               <lb ed="#L" n="79"/>Amplius. Nulla virtus cognoscitiva cognoscit
+<lb ed="#L" n="80"/>rem aliquam nisi secundum  rationem proprii
+<lb ed="#L" n="81"/>obiecti: non enim visu cognoscimus aliquid nisi
+<lb ed="#L" n="82"/>inquantum est coloratum. Proprium autem 
+obie<lb ed="#L" break="no" n="83"/>ctum intellectus est quod quid est, idest 
+sub<lb ed="#L" break="no" n="84"/>stantia rei, ut dicitur in IIl de Amima. lgitur
+<lb ed="#L" n="85"/>:5 quicquid intellectus de aliqua re cognoscit, 
+co<lb ed="#L" break="no" n="86"/>gnoscit per cognitionem substantiae illius rej:
+<lb ed="#L" n="87"/>unde in qualibet demonstratione per quam. 
+in<lb ed="#L" break="no" n="88"/>notescunt nobis propria accidentia, principium
+<lb ed="#L" n="89"/>accipimus quod quid est, ut dicitur in I 
+Poste<lb ed="#L" break="no" n="90"/>» riorum . Si autem substantiam alicuius rei 
+in<lb ed="#L" break="no" n="91"/>tellectus cognoscat per accidentia, sicut dicitur
+<lb ed="#L" n="92"/>in 1 de Anima , quod accidentia magnam partem
+<lb ed="#L" n="93"/>conferunt ad cognoscendum quod quid est; hoc
+<lb ed="#L" n="94"/>est per accidens, inquantum cognitio intellectus
+<lb ed="#L" n="95"/>s; oritur a sensu, et sic per sensibilium 
+acciden<lb ed="#L" break="no" n="96"/>tium cognitionem oportet ad substantiae 
+intel<lb ed="#L" break="no" n="97"/>lectum pervenire; propter quod hoc non habet
+<lb ed="#L" n="98"/>locum in mathematicis, sed in naturalibus tantum.
+<lb ed="#L" n="99"/>Quicquid igitur est in re quod non potest 
+co<lb ed="#L" break="no" n="100"/>;» gnosci per cognitionem substantiae eius, oportet
+<lb ed="#L" n="101"/>esse intellectui ignotum. Quid autem velit aliquis
+<lb ed="#L" n="102"/>volens, non potest cognosci per cognitionem 
+sub<lb ed="#L" break="no" n="103"/>stantiae ipsius: nam voluntas non tendit in sua
+<lb ed="#L" n="104"/>volita omnino naturaliter; propter quod voluntas
+<pb ed="#L" n="156"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>et natura duo principia activa ponuntur. Non
+<lb ed="#L" n="2"/>potest igitur aliquis intellectus. cognoscere quid
+<lb ed="#L" n="3"/>volens velit, nisi forte per aliquos effectus, sicut,
+<lb ed="#L" n="4"/>cum videmus aliquem voluntarie operantem,
+<lb ed="#L" n="5"/>scimus quid voluerit; aut per causam, sicut Deus
+<lb ed="#L" n="6"/>voluntates nostras, sicut et alios suos effectus,
+<lb ed="#L" n="7"/>cognoscit per hoc quod est nobis causa volendi;
+<lb ed="#L" n="8"/>aut per hoc quod aliquis alteri suam voluntatem
+<lb ed="#L" n="9"/>insinuat, ut cum aliquis loquendo suum affectum
+<lb ed="#L" n="10"/>exprimit. Cum igitur multa ex simplici Dei 
+vo<lb ed="#L" break="no" n="11"/>luntate dependeant, ut partim ex superioribus 
+<lb ed="#L" n="12"/>patet, et adhuc erit amplius manifestum; 
+intel<lb ed="#L" break="no" n="13"/>lectus creatus, etsi Dei substantiam videat, non
+<lb ed="#L" n="14"/>tamen omnia cognoscit quae Deus per suam
+<lb ed="#L" n="15"/>substantiam videt.
+</p>
+            <p xml:id="v8naTA-d1e2165-d1e320">
+               <lb ed="#L" n="16"/>Potest autem aliquis contra praedicta obiicere
+<lb ed="#L" n="17"/>quod Dei substantia maius est aliquid quam
+<lb ed="#L" n="18"/>omnia quae ipse facere, vel intelligere, vel velle
+<lb ed="#L" n="19"/>potest, praeter seipsum: unde. si intellectus creatus
+<lb ed="#L" n="20"/>Dei substantiam videre potest, multo magis pos- » patet.
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="21"/>sibile est quod omnia cognoscat quae Deus,
+<lb ed="#L" n="22"/>praeter seipsum, vel intelligit, vel vult, vel 
+fa<lb ed="#L" break="no" n="23"/>cere potest.
+</p>
+            <p xml:id="v8naTA-d1e2165-d1e342">
+               <lb ed="#L" n="24"/>Sed, si diligenter consideretur, non est eiusdem
+<lb ed="#L" n="25"/>rationis aliquid cognosci in seipso, et in sua causa:
+<lb ed="#L" n="26"/>quaedam enim in seipsis de facili cognoscibilia
+<lb ed="#L" n="27"/>sunt quae tamen in suis causis non de facili
+<lb ed="#L" n="28"/>cognoscuntur. Verum est igitur quod maius est
+<lb ed="#L" n="29"/>intelligere divinam substantiam quam quicquid
+<lb ed="#L" n="30"/>est aliud praeter ipsam, quod in seipso cognosci
+<lb ed="#L" n="31"/>potest. Perfectioris tamen cognitionis est 
+co<lb ed="#L" break="no" n="32"/>gnoscere divinam substantiam et in ea eius
+<lb ed="#L" n="33"/>effectus videre, quam cognoscere divinam 
+sub<lb ed="#L" break="no" n="34"/>stantiam sine hoc quod effectus videantur in
+<lb ed="#L" n="35"/>ipsa. Et hoc quidem quod divina substantia 
+vi<lb ed="#L" break="no" n="36"/>deatur, absque comprehensione ipsius fieri potest.
+<lb ed="#L" n="37"/>Quod autem omnia quae per ipsam intelligi
+<lb ed="#L" n="38"/>possunt, cognoscantur, hoc absque ipsius 
+com<lb ed="#L" break="no" n="39"/>prehensione non potest accidere, ut ex praedictis
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

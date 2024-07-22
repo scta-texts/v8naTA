@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 31</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 31</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="89"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1961"><!-- v8naTA-l3c31 -->
+            <head xml:id="v8naTA-d1e1961-Hd1e101">Capitulum 31</head>
+            <head xml:id="v8naTA-d1e1961-Hd1e103" type="question-title">Felicitas non consistit in potentia mundana.</head>
+            <p xml:id="v8naTA-d1e1961-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="66" type="fixed=87"/>CAPITULUM TRIGESIMUM PRIMUM
+<lb ed="#L" n="67"/>FELICITAS NON CONSISTIT IN POTENTIA MUNDANA.
+</p>
+            <p xml:id="v8naTA-d1e1961-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="68"/>SIMILITER autem nec mundana potentia 
+<lb ed="#L" n="69"/>summum hominis bonum esse potest: 
+<lb ed="#L" n="70"/>cum etiam in ea obtinenda plurimum  
+<lb ed="#L" n="71"/>fortuna possit; et instabilis sit; et non 
+<lb ed="#L" n="72"/>subiaceat hominis voluntati; et plerumque malis  
+<lb ed="#L" n="73"/>adveniat; quae summo bono repugnant, ut ex 
+<lb ed="#L" n="74"/>Cap.xxvunsgg, praemissis  patet. 
+</p>
+            <p xml:id="v8naTA-d1e1961-d1e135">
+               <lb ed="#L" n="75"/>Item. Homo maxime dicitur borus secundum 
+<lb ed="#L" n="76"/>quod ad summum bonum attingit. Secundum 
+<lb ed="#L" n="77"/>autem quod habet potentiam, non dicitur neque » 
+<lb ed="#L" n="78"/>bonus neque malus: non enim est bonus omnisqui 
+<lb ed="#L" n="79"/>potest bona facere; neque malus est aliquis ex hoc 
+<lb ed="#L" n="80"/>quod potest mala facere. Summum igitur bonum 
+<lb ed="#L" n="81"/>non consistit in hoc quod est esse potentem. 
+</p>
+            <p xml:id="v8naTA-d1e1961-d1e154">
+               <lb ed="#L" n="82"/>Adhuc. Omnis potentia ad alterum est. 
+Sum<lb ed="#L" break="no" n="83"/>mum autem bonum non est ad. alterum. Non 
+<lb ed="#L" n="84"/>est igitur potentia summum hominis bonum. 
+</p>
+            <p xml:id="v8naTA-d1e1961-d1e163">
+               <lb ed="#L" n="85"/>Amplius. Illud quo quis potest et bene et male 
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="86"/>uti, non potest esse summum hominis bonum:
+<lb ed="#L" n="87"/>melius enim est quo nullus male uti. potest . 
+Po<lb ed="#L" break="no" n="88"/>tentia autem aliquis bene et male uti potest: nam
+<lb ed="#L" n="89"/>potestates rationales ad opposita sunt. Non est 
+<lb ed="#L" n="90"/>igitur potestas humana summum hominis bonum.
+</p>
+            <p xml:id="v8naTA-d1e1961-d1e181">
+               <lb ed="#L" n="91"/>Praeterea. Si aliqua potestas est summum 
+bo<lb ed="#L" break="no" n="92"/>num, oportet illam esse perfectissimam. Potestas
+<lb ed="#L" n="93"/>autem humana est imperfectissima: radicatur
+<lb ed="#L" n="94"/>enim in hominum voluntatibus et opinionibus,
+<lb ed="#L" n="95"/>in quibus est maxima inconstantia. Et quanto
+<lb ed="#L" n="96"/>maior reputatur potestas, tanto a pluribus 
+de<lb ed="#L" break="no" n="97"/>pendet: quod etiam ad eius debilitatem pertinet;
+<lb ed="#L" n="98"/>cum quod a multis dependet, destrui 
+multipli<lb ed="#L" break="no" n="99"/>citer possit. Non est igitur in potestate mundana
+<lb ed="#L" n="100"/>summum hominis bonum.
+</p>
+            <p xml:id="v8naTA-d1e1961-d1e205">
+               <lb ed="#L" n="101"/>Felicitas igitur hominis in nullo exteriori bono
+<lb ed="#L" n="102"/>consistit: cum omnia exteriora bona, quae 
+dicun<lb ed="#L" break="no" n="103"/>tur bona fortunae, sub praedictis  contineantur.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 40</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 40</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="99"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2034"><!-- v8naTA-l3c40 -->
+            <head xml:id="v8naTA-d1e2034-Hd1e101">Capitulum 40</head>
+            <head xml:id="v8naTA-d1e2034-Hd1e103" type="question-title">Quod felicitas humana non consistit in cognitione dei
+quae est per fidem</head>
+            <p xml:id="v8naTA-d1e2034-d1e106">
+               <pb ed="#L" n="99"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=99"/>CAPITULUM QUADRAGESIMUM -
+<lb ed="#L" n="2"/>QUOD FELICITAS HUMANA NON CONSISTIT IN COGNITIONE DEI
+<lb ed="#L" n="3"/>QUAE EST PER FIDEM
+</p>
+            <p xml:id="v8naTA-d1e2034-d1e119">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="4"/>EST autem et alia Dei cognitio, quantum
+<lb ed="#L" n="5"/>ad aliquid. superior cognitione 
+prae<lb ed="#L" break="no" n="6"/>dicta, qua 'scilicet Deus ab hominibus
+<lb ed="#L" n="7"/>per fidem cognoscitur. Quae quidem
+<lb ed="#L" n="8"/>quantum ad «hoc cognitionem quae de Deo per
+<lb ed="#L" n="9"/>demonstrationem habetur, excedit, quia quaedam
+<lb ed="#L" n="10"/>de Deo per fidem cognoscimus. ad quae, propter
+<lb ed="#L" n="11"/>sui eminentiam, ratio demonstrans pervenire non 
+<lb ed="#L" n="12"/>potest, sicut in principio huius Operis  dictum 
+<lb ed="#L" n="13"/>est. Non est.autem possibile neque in hac Dei
+<lb ed="#L" n="14"/>cognitione ultiriam hominis felicitatem consistere. 
+</p>
+            <p xml:id="v8naTA-d1e2034-d1e148">
+               <lb ed="#L" n="15"/>Felicitas enim est perfecta intellectus operatio, 
+<lb ed="#L" n="16"/>sicut ex dictis  patet. In cognitione autem fidei 
+<lb ed="#L" n="17"/>invenitur operatio intellectus imperfectissima  
+<lb ed="#L" n="18"/>quantum ad id quod est ex parte intellectus, 
+<lb ed="#L" n="19"/>quamvis maxima perfectio. inveniatur ex parte 
+<lb ed="#L" n="20"/>obiecti: non, enim intellectus capit illud cui 
+<lb ed="#L" n="21"/>assentit. credendo. Non est igitur, neque in hac 
+<lb ed="#L" n="22"/>Dei cognitione ultima hominis felicitas. 
+<lb ed="#L" n="23"/>Cap. xxvi. Item. Ostensum est supra  quod ultima 
+feli<lb ed="#L" break="no" n="24"/>E citas non consistit principaliter in actu 
+volun<lb ed="#L" break="no" n="25"/>E tatis: In cognitione autem fidei principalitatem 
+<lb ed="#L" n="26"/>habet voluntas : intellectus enim assentit per fidem 
+<lb ed="#L" n="27"/>his quae sibi. proponuntur, quia vult, non autem 
+<lb ed="#L" n="28"/>ex ipsa. veritatis evidentia necessario tractus. Non  
+<lb ed="#L" n="29"/>est igitur in hac rr metre ultima hominis 
+fe<lb ed="#L" break="no" n="30"/>licitas. 
+</p>
+            <p xml:id="v8naTA-d1e2034-d1e186">
+               <lb ed="#L" n="31"/>Adhuc. Qui. credit assensum praebet his quae 
+<lb ed="#L" n="32"/>sibi. ab alio proponuntur, quae ipse non videt: 
+<lb ed="#L" n="33"/>unde. fides. magis habet cognitionem auditui si- »  
+<lb ed="#L" n="34"/>milem quam: visioni. Non autem. crederet aliquis — 
+<lb ed="#L" n="35"/>nom visis ab alio propositis nisi aestimaret eum 
+<lb ed="#L" n="36"/>perfectiorem cognitionem habere de propositis 
+<lb ed="#L" n="37"/>quam ipse habeat qui non videt. Aut igitur 
+<lb ed="#L" n="38"/>aestimatio. credentis est falsa: aut oportet -quod ;; 
+<lb ed="#L" n="39"/>proponens habeat perfectiorem pro 
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="40"/>positorum. Quod et si ipse solum ,cognoscit ea
+<lb ed="#L" n="41"/>quasi, ab alio audiens, non potest hoc in 
+infi<lb ed="#L" break="no" n="42"/>nitum procedere: esset enim vanus. et absque
+<lb ed="#L" n="43"/>certitudine fidei assensus; non enim inveniretur
+<lb ed="#L" n="44"/>aliquod primum ex se certum, quod certitudinem
+<lb ed="#L" n="45"/>fidei credentium afferret. Non est autem 
+possi<lb ed="#L" break="no" n="46"/>bile fidei cognitionem esse falsam neque vanam,
+<lb ed="#L" n="47"/>ut ex dictis patet in principio Libri : et tamen,
+<lb ed="#L" n="48"/>si esset falsa et vana, in tali cognitione iclicibd
+<lb ed="#L" n="49"/>non posset consistere. Est igitur aliqua hominis
+<lb ed="#L" n="50"/>cognitio de Deo altior cognitione fidei: sive ipse
+<lb ed="#L" n="51"/>homo proponens fidem immediate videat. 
+veri<lb ed="#L" break="no" n="52"/>tatem, sicut Christo credimus; sive a vidente 
+im<lb ed="#L" break="no" n="53"/>mediate accipiat. sicut credimus. Apostolis . et
+<lb ed="#L" n="54"/>Prophetis. Cum igitur in summa Dei cognitione
+<lb ed="#L" n="55"/>felicitas hominis consistat, impossibile. est quod
+<lb ed="#L" n="56"/>consistat in fidei cognitione.
+</p>
+            <p xml:id="v8naTA-d1e2034-d1e247">
+               <lb ed="#L" n="57"/>Amplius. Per felicitatem, cum. sit ulumus finis,
+<lb ed="#L" n="58"/>naturale desiderium quietatur. Cognitio autem
+<lb ed="#L" n="59"/>fidei non: quietat desiderium, sed magis ipsum
+<lb ed="#L" n="60"/>accendit: quia unusquisque desiderat videre quod
+<lb ed="#L" n="61"/>credit. Non est igitur in cognitione fidei KHOA
+<lb ed="#L" n="62"/>hominis felicitas.
+</p>
+            <p xml:id="v8naTA-d1e2034-d1e263">
+               <lb ed="#L" n="63"/>Praeterea. Cognitio de Deo dicta est inn 3 
+in<lb ed="#L" break="no" n="64"/>quantum ultimo. fini rerum, scilicet Deo, 
+coh<lb ed="#L" break="no" n="65"/>iungit. Per cognitionem autem fidei non fit
+<lb ed="#L" n="66"/>res credita, intellectui praesens perfecte: quia
+<lb ed="#L" n="67"/>fides de absentibus est,.non de praesentibus.
+<lb ed="#L" n="68"/>Unde et Apostolus dicit, II. Cor. v?, quod 
+quan<lb ed="#L" break="no" n="69"/>diu per fidem ambulamus, peregrinamur a 
+Do<lb ed="#L" break="no" n="70"/>mino. Fit tamen per fidem Deus praesens affectui,
+<lb ed="#L" n="71"/>cum voluntarie credens Deo assentiat: secundum
+<lb ed="#L" n="72"/>quod dicitur Ephes. wu", habitare Christum per '
+<lb ed="#L" n="73"/>fidem in cordibus nostris. Non est. ergo possibile
+<lb ed="#L" n="74"/>quod in cognitione fidei ultima felicitas humana
+<lb ed="#L" n="75"/>consistat. 
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

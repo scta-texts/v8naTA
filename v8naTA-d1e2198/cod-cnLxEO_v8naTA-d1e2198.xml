@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 60</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 60</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="168"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2198"><!-- v8naTA-l3c60 -->
+            <head xml:id="v8naTA-d1e2198-Hd1e101">Capitulum 60</head>
+            <head xml:id="v8naTA-d1e2198-Hd1e103" type="question-title">Quod videntes deum omnia simul vident in ipso.</head>
+            <p xml:id="v8naTA-d1e2198-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="53" type="fixed=167"/>CAPITULUM SEXAGESIMUM
+<lb ed="#L" n="54"/>QUOD VIDENTES DEUM OMNIA SIMUL VIDENT IN IPSO.
+</p>
+            <p xml:id="v8naTA-d1e2198-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="55"/>CUM autem ostensum sit quod intellectus
+<lb ed="#L" n="56"/>creatus, divinam substantiam videns,
+<lb ed="#L" n="57"/>una specie videntur, oportet simul et una 
+vi<lb ed="#L" break="no" n="58"/>sione videri, cum visio principio visionis 
+respon<lb ed="#L" break="no" n="59"/>deat: necesse est ut intellectus qui divinam 
+sub<lb ed="#L" break="no" n="60"/>stantiam videt, non successive, sed simul omnia
+<lb ed="#L" n="61"/>contempletur.
+</p>
+            <p xml:id="v8naTA-d1e2198-d1e135">
+               <lb ed="#L" n="62"/>Item. Summa et perfecta felicitas intellectualis
+<lb ed="#L" n="63"/>naturae in Dei visione consistit, ut supra  
+osten<lb ed="#L" break="no" n="64"/>sum est. Felicitas autem non est secundum 
+ha<lb ed="#L" break="no" n="65"/>bitum, sed secundum actum: cum sit ultima
+<lb ed="#L" n="66"/>perfectio et ultimus finis. Ea igitur quae videntur
+<lb ed="#L" n="67"/>per visionem divinae substantiae, qua beati sumus,
+<lb ed="#L" n="68"/>omnia secundum actum videntur. Non ergo unum
+<lb ed="#L" n="69"/>prius et aliud posterius.
+</p>
+            <p xml:id="v8naTA-d1e2198-d1e156">
+               <lb ed="#L" n="70"/>Adhuc. Unaquaeque res, cum pervenerit ad
+<lb ed="#L" n="71"/>suum ultimum finem, quiescit: cum omnis motus
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="72"/>sit ad acquirendum finem. Ultimus autem finis
+<lb ed="#L" n="73"/>intellectus est visio divinae substantiae, ut supra 
+<lb ed="#L" n="74"/>ostensum est. Intellectus igitur divinam 
+substan<lb ed="#L" break="no" n="75"/>tiam videns non movetur de uno intelligibili in -
+<lb ed="#L" n="76"/>aliud. Omnia igitur quae per hanc visionem
+<lb ed="#L" n="77"/>cognoscit, simul actu considerat.
+</p>
+            <p xml:id="v8naTA-d1e2198-d1e178">
+               <lb ed="#L" n="78"/>Amplius. In divina substantia intellectus omnes
+<lb ed="#L" n="79"/>rerum species cognoscit, ut ex dictis  patet. 
+Quo<lb ed="#L" break="no" n="80"/>rundam autem generum sunt species infinitae:
+</p>
+            <p xml:id="v8naTA-d1e2198-d1e187">
+               <lb ed="#L" n="81"/>xSicut numerorum, figurarum et proportionum.
+<lb ed="#L" n="82"/>Intellectus igitur in divina substantia videt 
+infi<lb ed="#L" break="no" n="83"/>nita. Non autem omnia ea videre posset nisi
+<lb ed="#L" n="84"/>simul videret: quia zn/inila non est transire .
+<lb ed="#L" n="85"/>Oportet igitur quod omnia quae intellectus in
+<lb ed="#L" n="86"/>divina substantia videt, simul videat.
+</p>
+            <p xml:id="v8naTA-d1e2198-d1e203">
+               <lb ed="#L" n="87"/>Hinc est quod dicit Augustinus, in XV de Trin.:
+<quote xml:id="v8naTA-d1e2198-Qd1e207">Non erunt tunc. volubiles nostrae cogitationes,
+<lb ed="#L" n="88"/>ab aliis in alia euntes et redeuntes: sed omnem
+<lb ed="#L" n="89"/>scientiam nostram uno simul conspectu videbimus.</quote>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

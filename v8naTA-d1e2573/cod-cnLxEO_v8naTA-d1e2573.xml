@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 106</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 106</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="334"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2573"><!-- v8naTA-l3c106 -->
+            <head xml:id="v8naTA-d1e2573-Hd1e101">Capitulum 106</head>
+            <head xml:id="v8naTA-d1e2573-Hd1e103" type="question-title">Quod substantia intellectualis
+quae praestat efficaciam magicis operibus,
+non est bona secundum virtutem.</head>
+            <p xml:id="v8naTA-d1e2573-d1e106">
+               <pb ed="#L" n="334"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=334"/>CAPITULUM CENTESIMUM SEXTUM
+<lb ed="#L" n="2"/>QUOD SUBSTANTIA INTELLECTUALIS
+<lb ed="#L" n="3"/>QUAE PRAESTAT EFFICACIAM MAGICIS OPERIBUS,
+<lb ed="#L" n="4"/>NON EST BONA SECUNDUM VIRTUTEM.
+</p>
+            <p xml:id="v8naTA-d1e2573-d1e122">
+               <lb ed="#L" n="5"/>EST autem ulterius inquirendum quae
+<lb ed="#L" n="6"/>sit haec intellectualis natura, cuius 
+vir<lb ed="#L" break="no" n="7"/>tute tales operationes fiunt.
+</p>
+            <p xml:id="v8naTA-d1e2573-d1e131">
+               <lb ed="#L" n="8"/>4. Et primo quidem apparet quod non
+<lb ed="#L" n="9"/>sit bona et laudabilis. Praestare enim patrocinium
+<lb ed="#L" n="10"/>aliquibus quae sunt contraria virtuti, non est
+<lb ed="#L" n="11"/>alicuius intellectus bene dispositi. Hoc autem fit
+<lb ed="#L" n="12"/>in huiusmodi artibus: fiunt enim plerumque ad
+<lb ed="#L" n="13"/>adulteria, furta, homicidia, et alia huiusmodi 
+ma<lb ed="#L" break="no" n="14"/>leficia procuranda; unde utentes his artibus 
+ma<lb ed="#L" break="no" n="15"/>lefici vocantur. Non est ergo bene disposita
+<lb ed="#L" n="16"/>secundum virtutem intellectualis natura cuius
+<lb ed="#L" n="17"/>auxilio huiusmodi artes innituntur.
+</p>
+            <p xml:id="v8naTA-d1e2573-d1e156">
+               <lb ed="#L" n="18"/>Item. Non est intellectus bene dispositi 
+secun<lb ed="#L" break="no" n="19"/>dum virtutem familiarem esse, et patrocinium
+<lb ed="#L" n="20"/>exhibere sceleratis, et non quibuslibet optimis
+<lb ed="#L" n="21"/>viris. Huiusmodi autem artibus utuntur 
+plerum<lb ed="#L" break="no" n="22"/>que homines scelerati. Non igitur intellectualis
+<lb ed="#L" n="23"/>natura cuius auxilio. hae artes efficaciam habent,
+<lb ed="#L" n="24"/>est bene disposita secundum virtutem.
+</p>
+            <p xml:id="v8naTA-d1e2573-d1e174">
+               <lb ed="#L" n="25"/>Adhuc. Intellectus bene dispositi est reducere
+<lb ed="#L" n="26"/>homines in ea quae sunt hominum propria. bona,
+<lb ed="#L" n="27"/>quae sunt bona rationis. Abducere igitur ab istis,
+<lb ed="#L" n="28"/>pertrahendo ad aliqua minima bona, est 
+intel<lb ed="#L" break="no" n="29"/>lectus indecenter dispositi. Per huiusmodi autem
+<lb ed="#L" n="30"/>artes non adipiscuntur homines aliquem 
+pro<lb ed="#L" break="no" n="31"/>fectum in bonis rationis, quae sunt scientiae et
+<lb ed="#L" n="32"/>virtutes: sed in quibusdam minimis, sicut in 
+in<lb ed="#L" break="no" n="33"/>ventione furtorum et deprehensione latronum, et
+<lb ed="#L" n="34"/>his similibus. Non igitur substantiae intellectivae
+<lb ed="#L" n="35"/>quarum auxilio hae artes utuntur, sunt bene
+<lb ed="#L" n="36"/>dispositae secundum virtutem.
+</p>
+            <p xml:id="v8naTA-d1e2573-d1e203">
+               <lb ed="#L" n="37"/>Amplius. In operationibus praedictarum artium
+<lb ed="#L" n="38"/>illusio quaedam videtur, et irrationabilitas: re
+<lb ed="#L" n="39"/>quirunt enim huiusmodi artes hominem re 
+ve<lb ed="#L" break="no" n="40"/>nerea non attrectatum, cum tamen plerumque
+<lb ed="#L" n="41"/>adhibeantur ad illicitos concubitus conciliandos.
+<lb ed="#L" n="42"/>In operatione autem intellectus bene dispositi
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="43"/>nihil irrationabile et sibi diversum apparet. Non
+<lb ed="#L" n="44"/>igitur huiusmodi artes utuntur patrocinio 
+intel<lb ed="#L" break="no" n="45"/>lectus bene dispositi secundum virtutem.
+<lb ed="#L" n="46"/>Praeterea. Non est bene dispositus secundum
+<lb ed="#L" n="47"/>intellectum qui per aliqua scelera commissa 
+pro<lb ed="#L" break="no" n="48"/>vocatur ad auxilium alicui ferendum. Hoc autem
+<lb ed="#L" n="49"/>fit in istis artibus: nam aliqui in executione earum
+<lb ed="#L" n="50"/>leguntur innocentes pueros occidisse. Non igitur
+<lb ed="#L" n="51"/>sunt boni intellectus quorum auxilio ista fiunt.
+</p>
+            <p xml:id="v8naTA-d1e2573-d1e240">
+               <lb ed="#L" n="52"/>Item. Bonum proprium intellectus est veritas.
+<lb ed="#L" n="53"/>Cum igitur boni sit bonum adducere, cuiuslibet
+<lb ed="#L" n="54"/>intellectus bene dispositi esse videtur alios 
+perdu<lb ed="#L" break="no" n="55"/>cere ad veritatem. In operationibus. autem 
+ma<lb ed="#L" break="no" n="56"/>gorum pleraque fiunt quibus ludificentur homines
+<lb ed="#L" n="57"/>et decipiantur. Intellectus igitur cuius auxilio 
+utun<lb ed="#L" break="no" n="58"/>tur, non est bene dispositus secundum morem.
+</p>
+            <p xml:id="v8naTA-d1e2573-d1e258">
+               <lb ed="#L" n="59"/>Adhuc. Intellectus bene dispositus veritate 
+al<lb ed="#L" break="no" n="60"/>licitur, in qua delectatur, non autem mendaciis.
+<lb ed="#L" n="61"/>Magi autem in suis invocationibus utuntur 
+qui<lb ed="#L" break="no" n="62"/>busdam mendaciis, quibus alliciant eos quorum
+<lb ed="#L" n="63"/>auxilio utuntur: comminantur enim quaedam 
+im<lb ed="#L" break="no" n="64"/>possibilia, sicut quod, nisi ille qui invocatur opem
+<lb ed="#L" n="65"/>ferat, invocans caelum comminuet, aut sidera
+<lb ed="#L" n="66"/>deponet; ut narrat Porphyrius in Epistola ad
+<lb ed="#L" n="67"/>Anebontem. Illae igitur intellectuales substantiae
+<lb ed="#L" n="68"/>quibus adiuvantibus operationes magorum 
+perfi<lb ed="#L" break="no" n="69"/>ciuntur, non videntur bene dispositae secundum
+<lb ed="#L" n="70"/>intellectum.
+</p>
+            <p xml:id="v8naTA-d1e2573-d1e287">
+               <lb ed="#L" n="71"/>Amplius. Non videtur esse habentis intellectum
+<lb ed="#L" n="72"/>bene dispositum ut, si sit superior, imperanti sibi
+<lb ed="#L" n="73"/>subdatur sicut inferior: aut, si sit inferior, ut sibi
+<lb ed="#L" n="74"/>ab eo quasi superiori supplicari patiatur. Magi
+<lb ed="#L" n="75"/>autem invocant eos quorum auxilio utuntur 
+sup<lb ed="#L" break="no" n="76"/>pliciter, quasi superiores: cum autem advenerint,
+<lb ed="#L" n="77"/>imperant eis quasi inferioribus. Nullo igitur modo
+<lb ed="#L" n="78"/>videntur bene dispositi secundum intellectum.
+<lb ed="#L" n="79"/>Per haec autem excluditur gentilium error,
+<lb ed="#L" n="80"/>qui huiusmodi operationes diis attribuebant.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

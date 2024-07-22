@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 118</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 118</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="369"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2671"><!-- v8naTA-l3c118 -->
+            <head xml:id="v8naTA-d1e2671-Hd1e101">Capitulum 118</head>
+            <head xml:id="v8naTA-d1e2671-Hd1e103" type="question-title">Quod per divinam legem homines ad rectam fidem obligantur.</head>
+            <p xml:id="v8naTA-d1e2671-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="33" type="fixed=368"/>CAPITULUM CENTESIMUM DECIMUM OCTAVUM .
+<lb ed="#L" n="34"/>QUOD PER DIVINAM LEGEM HOMINES AD RECTAM FIDEM OBLIGANTUR.
+</p>
+            <p xml:id="v8naTA-d1e2671-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="35"/>Ex hoc autem apparet quod. per divinam 
+<lb ed="#L" n="36"/>legem homines ad. rectam fidem 
+obli<lb ed="#L" break="no" n="37"/>gantur. 
+</p>
+            <p xml:id="v8naTA-d1e2671-d1e126">
+               <lb ed="#L" n="38"/>Sicut enim amationis 
+corporalisprin<lb ed="#L" break="no" n="39"/>cipium est visio quae est per oculum corporalem, 
+<lb ed="#L" n="40"/>ita etiam dilectionis spiritualis initium esse oportet 
+<lb ed="#L" n="41"/>visionem intelligibilem diligibilis spiritualis. Visio 
+<lb ed="#L" n="42"/>autem illius spiritualis diligibilis quod est Deus, 
+<lb ed="#L" n="43"/>in praesenti haberi non potest a nobis nisi per 
+<lb ed="#L" n="44"/>fidem: eo quod naturalem rationem excedit; et 
+<lb ed="#L" n="45"/>praecipue secundum quod in eius fruitione nostra 
+<lb ed="#L" n="46"/>beatitudo consistit. Oportet igitur quod ex lege 
+<lb ed="#L" n="47"/>divina in fidem rectam inducamur. 
+</p>
+            <p xml:id="v8naTA-d1e2671-d1e151">
+               <lb ed="#L" n="48"/>Item. Lex divina ad hoc ordinat hominem utsit. 
+<lb ed="#L" n="49"/>totaliter subditus Deo. Sed sicut homo subditur 
+<lb ed="#L" n="50"/>Deo amando quantum ad voluntatem, ita subditur 
+<lb ed="#L" n="51"/>Deo credendo quantum ad intellectum. Non autem — 
+<lb ed="#L" n="52"/>credendo aliquid falsum : quia a Deo, qui est 
+ve<lb ed="#L" break="no" n="53"/>ritas, nullum falsum homini proponi potest; unde 
+<lb ed="#L" n="54"/>qui credit aliquod falsum, non credit Deo. Ex lege 
+<lb ed="#L" n="55"/>igitur divina ordinantur homines ad fidem rectam. 
+</p>
+            <p xml:id="v8naTA-d1e2671-d1e171">
+               <lb ed="#L" n="56"/>Adhuc. Quicumque errat circa aliquid quod est 
+<lb ed="#L" n="57"/>de essentia rei, non cognoscit illam rem: sicut 
+<lb ed="#L" n="58"/>si aliquis apprehenderet. animal irrationale 
+aesti<lb ed="#L" break="no" n="59"/>mans hoc esse hominem, non cognosceret 
+homi<lb ed="#L" break="no" n="60"/>nem. Secus autem esset si erraret circa aliquod 
+<lb ed="#L" n="61"/>accidentium eius. Sed in compositis, qui errat 
+<lb ed="#L" n="62"/>circa aliquod principiorum essentialium, etsi non 
+<lb ed="#L" n="63"/>cognoscat rem simpliciter, tamen. cognoscit eam 
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="64"/>secundum quid : sicut qui existimat hominem esse
+<lb ed="#L" n="65"/>animal irrationale, cognoscit eum secundum genus
+<lb ed="#L" n="66"/>suum. In simplicibus autem hoc non potest 
+acci<lb ed="#L" break="no" n="67"/>dere, sed quilibet error totaliter excludit 
+cogni<lb ed="#L" break="no" n="68"/>tionem rei. Deus autem est maxime simplex. Ergo
+<lb ed="#L" n="69"/>quicumque errat circa Deum, non cognoscit Deum:
+<lb ed="#L" n="70"/>sicut qui credit Deum esse corpus, nullo modo 
+co<lb ed="#L" break="no" n="71"/>gnoscit Deum, sed apprehendit aliquid aliud loco
+<lb ed="#L" n="72"/>Dei. Secundum autem quod aliquid cognoscitur,
+<lb ed="#L" n="73"/>secundum hoc amatur et desideratur. Qui ergo
+<lb ed="#L" n="74"/>errat circa Deum, nec amare potest Deum, nec
+<lb ed="#L" n="75"/>desiderare ipsum ut finem. Cum igitur lex divina
+<lb ed="#L" n="76"/>ad hoc tendat ut homines ament et desiderent
+<lb ed="#L" n="77"/>Deum , oportet quod ex lege divina homines
+<lb ed="#L" n="78"/>obligentur ad rectam fidem habendam de Deo.
+</p>
+            <p xml:id="v8naTA-d1e2671-d1e226">
+               <lb ed="#L" n="79"/>Amplius. Falsa opinio ita se habet in 
+intelli<lb ed="#L" break="no" n="80"/>gibilibus sicut vitium virtuti oppositum in 
+mora<lb ed="#L" break="no" n="81"/>libus: nam bonum intellectus est verum . Sed ad
+<lb ed="#L" n="82"/>legem divinam pertinet vitia prohibere. Ergo ad
+<lb ed="#L" n="83"/>eam. etiam pertinet falsas opiniones de Deo, et
+<lb ed="#L" n="84"/>de his quae sunt Dei, excludere.
+</p>
+            <p xml:id="v8naTA-d1e2671-d1e242">
+               <lb ed="#L" n="85"/>Hinc est quod dicitur <ref xml:id="v8naTA-d1e2671-Rd1e246">Heb. xi</ref>: <quote xml:id="v8naTA-d1e2671-Qd1e248">Sine fide 
+im<lb ed="#L" break="no" n="86"/>possibile est placere Deo</quote>. Et <ref xml:id="v8naTA-d1e2671-Rd1e253">Exodi xx</ref>, antequam
+<lb ed="#L" n="87"/>alia praecepta legis ponantur, praestituitur recta
+<lb ed="#L" n="88"/>fides de Deo, cum dicitur: <quote xml:id="v8naTA-d1e2671-Qd1e260">Audi Israel: Dominus
+<lb ed="#L" n="89"/>Deus tuus unus est.</quote>
+            </p>
+            <p xml:id="v8naTA-d1e2671-d1e266">
+               <lb ed="#L" n="90"/>Per hoc autem excluditur error quorundam
+<lb ed="#L" n="91"/>dicentium quod nihil refert ad. salutem hominis
+<lb ed="#L" n="92"/>cum quacumque fide serviat Deo.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

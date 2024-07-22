@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 67</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 67</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="190"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2255"><!-- v8naTA-l3c67 -->
+            <head xml:id="v8naTA-d1e2255-Hd1e101">Capitulum 67</head>
+            <head xml:id="v8naTA-d1e2255-Hd1e103" type="question-title">Quod deus est causa operandi omnibus operantibus.</head>
+            <p xml:id="v8naTA-d1e2255-d1e106">
+               <pb ed="#L" n="190"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=190"/>CAPITULUM SEXAGESIMUM SEPTIMUM
+<lb ed="#L" n="2"/>QUOD DEUS EST CAUSA OPERANDI OMNIBUS OPERANTIBUS.
+</p>
+            <p xml:id="v8naTA-d1e2255-d1e117">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="3"/>Ex hoc autem apparet quod Deus causa
+<lb ed="#L" n="4"/>est omnibus operantibus ut operentur.
+<lb ed="#L" n="5"/>Omne enim operans est aliquo modo
+<lb ed="#L" n="6"/>causa essendi, vel secundum esse 
+sub<lb ed="#L" break="no" n="7"/>stantiale, vel accidentale. Nihil autem est causa
+<lb ed="#L" n="8"/>essendi nisi inquantum agit in virtute Dei, ut
+<lb ed="#L" n="9"/>ostensum est . Omne igitur operans operatur
+<lb ed="#L" n="10"/>per virtutem Dei.
+</p>
+            <p xml:id="v8naTA-d1e2255-d1e139">
+               <lb ed="#L" n="11"/>Adhuc. Omnis operatio quae consequitur 
+ali<lb ed="#L" break="no" n="12"/>quam virtutem, attribuitur sicut causae illi rei
+<lb ed="#L" n="13"/>quae dedit illam virtutem: sicut motus gravium
+<lb ed="#L" n="14"/>et levium naturalis consequitur formam ipsorum,
+<lb ed="#L" n="15"/>secundum quam sunt gravia et levia, et ideo
+<lb ed="#L" n="16"/>causa motus ipsorum dicitur esse generans, qui
+<lb ed="#L" n="17"/>dedit formam . Omnis autem virtus cuiuscumque
+<lb ed="#L" n="18"/>agentis est a Deo, sicut a primo principio omnis
+<lb ed="#L" n="19"/>perfectionis. Ergo. cum omnis operatio 
+conse<lb ed="#L" break="no" n="20"/>quatur aliquam virtutem, oportet quod cuiuslibet
+<lb ed="#L" n="21"/>operationis causa sit Deus.
+</p>
+            <p xml:id="v8naTA-d1e2255-d1e166">
+               <lb ed="#L" n="22"/>Amplius. Manifestum est quod omnis actio
+<lb ed="#L" n="23"/>quae non potest permanere cessante impressione
+<lb ed="#L" n="24"/>alicuius agentis, est ab illo agente: sicut 
+mani<lb ed="#L" break="no" n="25"/>festatio colorum non posset esse cessante actione
+<lb ed="#L" n="26"/>solis qua aerem illuminat, unde non est dubium
+<lb ed="#L" n="27"/>quin sol sit causa manifestationis colorum, Et
+<lb ed="#L" n="28"/>similiter patet de motu violento, qui cessat 
+ces<lb ed="#L" break="no" n="29"/>sante violentia impellentis. Sicut autem Deus non
+<lb ed="#L" n="30"/>solum dedit esse rebus cum primo esse 
+incoe<lb ed="#L" break="no" n="31"/>perunt, sed quandiu sunt, esse in eis causat, res
+<lb ed="#L" n="32"/>in esse conservans, ut ostensum est; ita non
+<lb ed="#L" n="33"/>solum cum primo res conditae sunt, eis virtutes
+<lb ed="#L" n="34"/>operativas dedit, sed semper eas in rebus causat,
+<lb ed="#L" n="35"/>Unde, cessante influentia divina, omnis operatio
+<lb ed="#L" n="36"/>cessaret. Omnis igitur rei operatio in ipsum 
+re<lb ed="#L" break="no" n="37"/>ducitur sicut in causam.
+</p>
+            <p xml:id="v8naTA-d1e2255-d1e203">
+               <lb ed="#L" n="38"/>Item. Quicquid applicat virtutem activam ad
+<lb ed="#L" n="39"/>agendum, dicitur esse causa illius actionis: 
+ar<lb ed="#L" break="no" n="40"/>tifex enim applicans virtutem rei naturalis ad
+<lb ed="#L" n="41"/>aliquam actionem, dicitur esse causa illius 
+actio<lb ed="#L" break="no" n="42"/>nis, sicut coquus decoctionis, quae est per ignem.
+<lb ed="#L" n="43"/>Sed omnis applicatio virtutis ad operationem est
+<lb ed="#L" n="44"/>principaliter et primo a Deo. Applicantur enim
+<lb ed="#L" n="45"/>virtutes operativae ad proprias operationes per
+<lb ed="#L" n="46"/>aliquem motum vel corporis, vel animae. Primum
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="47"/>autem principium utriusque motus est Deus.
+<lb ed="#L" n="48"/>Est enim primum movens omnino immobile, ut
+<lb ed="#L" n="49"/>supra  ostensum est. Similiter etiam omnis motus
+<lb ed="#L" n="50"/>voluntatis quo applicantur aliquae virtutes ad
+<lb ed="#L" n="51"/>operandum, reducitur in Deum sicut in primum
+<lb ed="#L" n="52"/>appetibile et in primum volentem. Omnis igitur
+<lb ed="#L" n="53"/>operatio debet attribui Deo sicut primo et 
+prin<lb ed="#L" break="no" n="54"/>cipali agenti.
+</p>
+            <p xml:id="v8naTA-d1e2255-d1e245">
+               <lb ed="#L" n="55"/>Adhuc. In omnibus causis agentibus ordinatis
+<lb ed="#L" n="56"/>semper oportet quod causae sequentes agant in
+<lb ed="#L" n="57"/>virtute causae primae: sicut in rebus naturalibus
+<lb ed="#L" n="58"/>corpora inferiora agunt in virtute corporum 
+cae<lb ed="#L" break="no" n="59"/>lestium; et in rebus voluntariis omnes artifices
+<lb ed="#L" n="60"/>inferiores operantur secundum imperium supremi
+<lb ed="#L" n="61"/>architectoris. In ordine autem causarum agentium
+<lb ed="#L" n="62"/>Deus est prima causa, ut in Primo  ostensum
+<lb ed="#L" n="63"/>est. Ergo omnes causae inferiores agentes agunt
+<lb ed="#L" n="64"/>in virtute ipsius. Causa autem actionis magis
+<lb ed="#L" n="65"/>est illud cuius virtute agitur quam etiam illud
+<lb ed="#L" n="66"/>quod agit: sicut principale agens magis quam
+<lb ed="#L" n="67"/>instrumentum. Deus igitur principalius est causa
+<lb ed="#L" n="68"/>cuiuslibet actionis quam etiam secundae causae
+<lb ed="#L" n="69"/>agentes.
+</p>
+            <p xml:id="v8naTA-d1e2255-d1e280">
+               <lb ed="#L" n="70"/>Item. Omne operans per suam operationem
+<lb ed="#L" n="71"/>ordinatur ad finem ultimum: oportet enim quod
+<lb ed="#L" n="72"/>vel operatio ipsa sit finis; vel operatum, quod
+<lb ed="#L" n="73"/>est operationis effectus. Ordinare autem res in
+<lb ed="#L" n="74"/>finem est ipsius Dei, sicut supra  ostensum est.
+<lb ed="#L" n="75"/>Oportet igitur dicere quod omne agens virtute
+<lb ed="#L" n="76"/>divina agat. Ipse est igitur qui est causa actionis
+<lb ed="#L" n="77"/>omnium rerum.
+</p>
+            <p xml:id="v8naTA-d1e2255-d1e300">
+               <lb ed="#L" n="78"/>Hinc est quod dicitur Jsaiae xxvi, Omnia
+<lb ed="#L" n="79"/>opera nostra operalus es in nobis, Domine; et
+<lb ed="#L" n="80"/>loan. xv5, Sine me nihil potestis facere; et Philip.
+<lb ed="#L" n="81"/>11, Deus est qui operatur in nobis velle et 
+perfi<lb ed="#L" break="no" n="82"/>cere pro bona voluntate. Et hac ratione frequenter
+<lb ed="#L" n="83"/>in Scripturis naturae effectus operationi divinae
+<lb ed="#L" n="84"/>attribuuntur, quia ipse est qui operatur in omni
+<lb ed="#L" n="85"/>operante per naturam vel per voluntatem: sicut
+<lb ed="#L" n="86"/>illud Iob x'", Nonne sicut lac mulsisti me, et
+<lb ed="#L" n="87"/>sicut caseum me coagulasti? Pelle et carnibus 
+ve<lb ed="#L" break="no" n="88"/>stisti me, ossibus el nervis compegisti me; et in i
+<lb ed="#L" n="89"/>Psalmo , Intonuit de caelo Dominus, et Altissimus
+<lb ed="#L" n="90"/>dedit vocem suam, grando et carbones ignis.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

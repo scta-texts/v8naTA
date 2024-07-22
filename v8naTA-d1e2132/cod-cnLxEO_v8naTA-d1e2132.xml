@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 52</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 52</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="144"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2132"><!-- v8naTA-l3c52 -->
+            <head xml:id="v8naTA-d1e2132-Hd1e101">Capitulum 52</head>
+            <head xml:id="v8naTA-d1e2132-Hd1e103" type="question-title">Quod nulla creata substantia potest sua naturali virtute
+pervenire ad videndum deum per essentiam.</head>
+            <p xml:id="v8naTA-d1e2132-d1e106">
+               <pb ed="#L" n="144"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=144"/>CAPITULUM QUINQUAGESIMUM SECUNDUM
+<lb ed="#L" n="2"/>QUOD NULLA CREATA SUBSTANTIA POTEST SUA NATURALI VIRTUTE
+<lb ed="#L" n="3"/>PERVENIRE AD VIDENDUM DEUM PER ESSENTIAM.
+</p>
+            <p xml:id="v8naTA-d1e2132-d1e119">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="4"/>NON est autem possibile quod ad illum
+<lb ed="#L" n="5"/>visionis divinae modum aliqua creata
+<lb ed="#L" n="6"/>substantia ex virtute propria possit 
+at<lb ed="#L" break="no" n="7"/>tingere.
+</p>
+            <p xml:id="v8naTA-d1e2132-d1e132">
+               <lb ed="#L" n="8"/>Quod enim est superioris naturae proprium,
+<lb ed="#L" n="9"/>non potest consequi natura inferior nisi per 
+actio<lb ed="#L" break="no" n="10"/>nem superioris naturae cuius est proprium: sicut
+<lb ed="#L" n="11"/>aqua non potest esse calida nisi per actionem
+<lb ed="#L" n="12"/>ignis. Videre autem Deum per ipsam essentiam
+<lb ed="#L" n="13"/>divinam est proprium naturae divinae: operari
+<lb ed="#L" n="14"/>enim per propriam formam est proprium 
+cuius<lb ed="#L" break="no" n="15"/>libet operantis. Nulla igitur intellectualis 
+substan<lb ed="#L" break="no" n="16"/>tia potest videre Deum per ipsam divinam. 
+es<lb ed="#L" break="no" n="17"/>sentiam nisi Deo hoc faciente.
+</p>
+            <p xml:id="v8naTA-d1e2132-d1e157">
+               <lb ed="#L" n="18"/>Amplius. Forma alicuius propria non fit 
+al<lb ed="#L" break="no" n="19"/>terius nisi eo agente: agens enim facit sibi 
+si<lb ed="#L" break="no" n="20"/>mile inquantum formam. suam alteri 
+commu<lb ed="#L" break="no" n="21"/>nicat. Videre autem substantiam Dei impossibile
+<lb ed="#L" n="22"/>est nisi ipsa divina essentia sit forma intellectus
+<lb ed="#L" n="23"/>qua intelligit, ut probatum est. Impossibile est
+<lb ed="#L" n="24"/>igitur quod aliqua substantia creata ad illam 
+vi<lb ed="#L" break="no" n="25"/>sionem perveniat nisi per actionem divinam.
+</p>
+            <p xml:id="v8naTA-d1e2132-d1e177">
+               <lb ed="#L" n="26"/>Adhuc. Si aliqua duo debeant ad invicem
+<lb ed="#L" n="27"/>copulari quorum unum sit formale et aliud 
+ma<lb ed="#L" break="no" n="28"/>teriale, oportet quod copulatio eorum compleatur
+<lb ed="#L" n="29"/>per actionem quae est ex parte eius quod est
+<lb ed="#L" n="30"/>formale, non autem per actionem eius quod est
+<lb ed="#L" n="31"/>materiale: forma enim est principium agendi,
+<lb ed="#L" n="32"/>materia vero principium patiendi. Ad hoc autem
+<lb ed="#L" n="33"/>quod intellectus creatus videat Dei substantiam,
+<lb ed="#L" n="34"/>oportet quod ipsa divina essentia copuletur 
+in<lb ed="#L" break="no" n="35"/>tellectui ut forma intelligibilis, sicut probatum
+<lb ed="#L" n="36"/>est. Non est igitur possibile ad hanc visionem
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="37"/>perveniri ab aliquo intellectu creato nisi per
+<lb ed="#L" n="38"/>actionem divinam. Me
+</p>
+            <p xml:id="v8naTA-d1e2132-d1e210">
+               <lb ed="#L" n="39"/>Item. Quod est per se, causa est eius quod
+<lb ed="#L" n="40"/>est per aliud. Intellectus autem divinus per
+<lb ed="#L" n="41"/>seipsum divinam substantiam videt: nam 
+intel<lb ed="#L" break="no" n="42"/>lectus divinus est ipsa divina essentia, qua Dei
+<lb ed="#L" n="43"/>substantia videtur, ut in Primo  probatum est.
+<lb ed="#L" n="44"/>Intellectus autem creatus videt divinam 
+substan<lb ed="#L" break="no" n="45"/>tiam per essentiam Dei, quasi per aliud a se.
+<lb ed="#L" n="46"/>Haec igitur visio non potest advenire intellectui
+<lb ed="#L" n="47"/>creato nisi per actionem Dei.
+</p>
+            <p xml:id="v8naTA-d1e2132-d1e232">
+               <lb ed="#L" n="48"/>Praeterea. Quicquid excedit limites alicuius
+<lb ed="#L" n="49"/>naturae, non potest sibi advenire nisi per 
+actio<lb ed="#L" break="no" n="50"/>nem alterius: sicut aqua non tendit sursum nisi
+<lb ed="#L" n="51"/>ab aliquo alio mota. Videre autem Dei 
+substan<lb ed="#L" break="no" n="52"/>tiam transcendit limites omnis naturae creatae:
+<lb ed="#L" n="53"/>nam cuilibet naturae.intellectuali creatae 
+pro<lb ed="#L" break="no" n="54"/>prium est ut intelligat secundum. modum suae
+<lb ed="#L" n="55"/>substantiae; substantia autem divina non potest
+<lb ed="#L" n="56"/>sic intelligi, ut supra  ostensum est. Impossibile
+<lb ed="#L" n="57"/>est ergo perveniri ab aliquo intellectu creato ad
+<lb ed="#L" n="58"/>visionem divinae substantiae nisi per actionem
+<lb ed="#L" n="59"/>Dei, qui omnem creaturam transcendit.
+</p>
+            <p xml:id="v8naTA-d1e2132-d1e261">
+               <lb ed="#L" n="60"/>Hinc est quod Rom. vi? dicitur: Gratia Dei
+<lb ed="#L" n="61"/>vita aeterna. In ipsa enim divina visione 
+osten<lb ed="#L" break="no" n="62"/>dimus esse hominis beatitudinem, quae vita
+<lb ed="#L" n="63"/>aeterna dicitur: ad quam sola Dei gratia dicimur
+<lb ed="#L" n="64"/>pervenire, quia talis visio omnem creaturae 
+fa<lb ed="#L" break="no" n="65"/>cultatem excedit, nec est possibile ad eam 
+per<lb ed="#L" break="no" n="66"/>venire nisi divino munere; quae autem sic 
+ad<lb ed="#L" break="no" n="67"/>veniunt creaturae, Dei gratiae deputantur. Et
+<lb ed="#L" n="68"/>Ioan. xiv Dominus dicit: Ego manifestabo ei 
+me<lb ed="#L" break="no" n="69"/>ipsum.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

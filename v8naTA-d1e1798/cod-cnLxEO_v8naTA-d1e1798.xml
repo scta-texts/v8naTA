@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 11</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 11</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="33"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1798"><!-- v8naTA-l3c11 -->
+            <head xml:id="v8naTA-d1e1798-Hd1e101">Capitulum 11</head>
+            <head xml:id="v8naTA-d1e1798-Hd1e103" type="question-title">Quod malum fundatur in bono.</head>
+            <p xml:id="v8naTA-d1e1798-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="61" type="fixed=31"/>CAPITULUM UNDECIMUM
+<lb ed="#L" n="62"/>QUOD MALUM FUNDATUR IN BONO.
+</p>
+            <p xml:id="v8naTA-d1e1798-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="63"/>Ex praemissis etiam ostendi potest quod
+<lb ed="#L" n="64"/>omne malum est in aliquo bono 
+fun<lb ed="#L" break="no" n="65"/>datum.
+</p>
+            <p xml:id="v8naTA-d1e1798-d1e126">
+               <lb ed="#L" n="66"/>Malum enim non potest esse per se
+<lb ed="#L" n="67"/>existens: cum non sit essentiam habens, ut 
+su<lb ed="#L" break="no" n="68"/>pra ostensum est. Oportet igitur quod malum
+<lb ed="#L" n="69"/>sit in aliquo subiecto. Omne autem subiectum,
+<lb ed="#L" n="70"/>cum sit substantia quaedam, bonum quoddam
+<lb ed="#L" n="71"/>est, ut ex praemissis patet. Omne igitur malum
+<lb ed="#L" n="72"/>in bono aliquo est.
+</p>
+            <p xml:id="v8naTA-d1e1798-d1e145">
+               <lb ed="#L" n="73"/>Adhuc. Malum privatio quaedam est, ut ex
+<lb ed="#L" n="74"/>praemissis patet. Privatio autem et forma 
+pri<lb ed="#L" break="no" n="75"/>vata in eodem subiecto sunt. Subiectum autem
+<lb ed="#L" n="76"/>formae est ens in potentia ad formam, quod 
+bo<lb ed="#L" break="no" n="77"/>num est: nam in eodem genere sunt potentia: 
+<lb ed="#L" n="78"/>et actus. Privatio igitur, quae malum est, est in
+<lb ed="#L" n="79"/>bono aliquo sicut in subiecto.
+</p>
+            <p xml:id="v8naTA-d1e1798-d1e163">
+               <lb ed="#L" n="80"/>Amplius. Ex hoc dicitur aliquid malum, quia
+<lb ed="#L" n="81"/>nocet. Non autem nisi quia nocet bono: nocere
+<lb ed="#L" n="82"/>enim malo bonum est, cum corruptio mali sit
+<lb ed="#L" n="83"/>bona. Non autem noceret, formaliter loquendo,
+<lb ed="#L" n="84"/>bono, nisi esset in bono: sic enim caecitas 
+ho<lb ed="#L" break="no" n="85"/>mini nocet inquantum in ipso est. Oportet igitur
+<lb ed="#L" n="86"/>quod malum sit in bono.
+</p>
+            <p xml:id="v8naTA-d1e1798-d1e181">
+               <lb ed="#L" n="87"/>Item. Malum non causatur nisi a bono, et per
+<lb ed="#L" n="88"/>accidens tantum . Omne autem quod est per 
+ac<lb ed="#L" break="no" n="89"/>cidens, reducitur ad id quod est per se. Oportet
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="90"/>igitur semper cum malo causato, quod est 
+ef<lb ed="#L" break="no" n="91"/>fectus boni per accidens, esse bonum aliquod
+<lb ed="#L" n="92"/>quod est effectus boni per se, ita quod sit 
+fun<lb ed="#L" break="no" n="93"/>damentum eius: nam quod est per accidens, 
+fun<lb ed="#L" break="no" n="94"/>datur supra id quod est per se.
+</p>
+            <p xml:id="v8naTA-d1e1798-d1e203">
+               <lb ed="#L" n="95"/>Sed cum bonum et malum sint opposita; unum
+<lb ed="#L" n="96"/>autem oppositorum non possit esse alterius 
+sub<lb ed="#L" break="no" n="97"/>iectum, sed expellat ipsum: videbitur alicui primo
+<lb ed="#L" n="98"/>aspectu esse inconveniens si bonum subiectum
+<lb ed="#L" n="99"/>mali esse dicatur.
+</p>
+            <p xml:id="v8naTA-d1e1798-d1e216">
+               <lb ed="#L" n="100"/>Non est autem inconveniens, si veritas 
+perqui<lb ed="#L" break="no" n="101"/>ratur. Nam bonum communiter dicitur sicut et
+<lb ed="#L" n="102"/>ens: cum omne ens, inquantum huiusmodi, sit
+<lb ed="#L" n="103"/>bonum, ut probatum est. Non est autem 
+in<lb ed="#L" break="no" n="104"/>conveniens ut non ens sit in ente sicut in 
+su<lb ed="#L" break="no" n="105"/>biecto: privatio enim quaelibet est non ens, et
+<lb ed="#L" n="106"/>tamen subiectum eius est substantia, quae est
+<lb ed="#L" n="107"/>ens aliquod. Non tamen non ens est in ente sibi
+<lb ed="#L" n="108"/>opposito sicut in subiecto. Caecitas enim non est
+<lb ed="#L" n="109"/>non ens universale, sed non ens hoc, quo 
+sci<lb ed="#L" break="no" n="110"/>licet tollitur visus: non est igitur in visu sicut
+<lb ed="#L" n="111"/>in subiecto, sed in animali. Similiter autem malum
+<lb ed="#L" n="112"/>non est sicut in subiecto in bono sibi opposito, sed
+<lb ed="#L" n="113"/>hoc per malum tollitur: sed in aliquo alio bono;
+<lb ed="#L" n="114"/>sicut malum moris est in bono naturae; malum
+<lb ed="#L" n="115"/>autem naturae, quod est privatio formae, est in
+<lb ed="#L" n="116"/>materia, quae est bonum sicut ens in potentia.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

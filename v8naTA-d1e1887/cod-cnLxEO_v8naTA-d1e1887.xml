@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 22</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 22</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="52"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1887"><!-- v8naTA-l3c22 -->
+            <head xml:id="v8naTA-d1e1887-Hd1e101">Capitulum 22</head>
+            <head xml:id="v8naTA-d1e1887-Hd1e103" type="question-title">Quomodo diversimode res ordinantur in suos fines.</head>
+            <p xml:id="v8naTA-d1e1887-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="61" type="fixed=52"/>CAPITULUM VIGESIMUM SECUNDUM
+<lb ed="#L" n="62"/>QUOMODO DIVERSIMODE RES ORDINANTUR IN SUOS FINES.
+</p>
+            <p xml:id="v8naTA-d1e1887-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="63"/>Ex praemissis autem manifestum esse
+<lb ed="#L" n="64"/>potest quod ultimum per quod res 
+una<lb ed="#L" break="no" n="65"/>quaeque ordinatur ad finem, est eius
+<lb ed="#L" n="66"/>operatio: diversimode tamen, 
+secun<lb ed="#L" break="no" n="67"/>dum diversitatem operationis.
+</p>
+            <p xml:id="v8naTA-d1e1887-d1e131">
+               <lb ed="#L" n="68"/>Nam quaedam operatio est rei ut aliud 
+mo<lb ed="#L" break="no" n="69"/>ventis, sicut calefacere et secare. Quaedam vero
+<lb ed="#L" n="70"/>est operatio rei ut ab alio motae, sicut calefieri
+<lb ed="#L" n="71"/>et secari. Quaedam vero operatio est perfectio
+<lb ed="#L" n="72"/>operantis actu existentis in aliud transmutandum
+<lb ed="#L" n="73"/>non tendens: quorum primo differunt a passione
+<lb ed="#L" n="74"/>et motu; secundo vero, ab actione transmutativa
+<lb ed="#L" n="75"/>exterioris materiae. Huiusmodi autem operatio
+<lb ed="#L" n="76"/>est sicut intelligere, sentire et velle. Unde 
+mani<lb ed="#L" break="no" n="77"/>festum est quod ea quae moventur vel operantur
+<lb ed="#L" n="78"/>tantum, sine hoc quod moveant vel faciant, 
+ten<lb ed="#L" break="no" n="79"/>dunt in divinam similitudinem quantum ad hoc
+<lb ed="#L" n="80"/>quod sint in seipsis perfecta; quae vero faciunt
+<lb ed="#L" n="81"/>et movent, inquantum huiusmodi, tendunt in 
+di<lb ed="#L" break="no" n="82"/>vinam similitudinem in hoc quod sint aliorum
+<lb ed="#L" n="83"/>causae; quae vero per hoc quod moventur 
+mo<lb ed="#L" break="no" n="84"/>vent, intendunt divinam similitudinem quantum
+<lb ed="#L" n="85"/>ad utrumque.
+</p>
+            <p xml:id="v8naTA-d1e1887-d1e174">
+               <lb ed="#L" n="86"/>Corpora autem inferiora, secundum quod 
+mo<lb ed="#L" break="no" n="87"/>ventur motibus naturalibus, considerantur ut;
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="88"/>mota tantum, non autem ut moventia, nisi per
+<lb ed="#L" n="89"/>accidens: accidit enim lapidi quod, descendens,
+<lb ed="#L" n="90"/>aliquod obvians impellat. Et similiter est in 
+al<lb ed="#L" break="no" n="91"/>teratione et aliis motibus. Unde finis motus eorum
+<lb ed="#L" n="92"/>est ut consequantur divinam similitudinem 
+quan<lb ed="#L" break="no" n="93"/>tum ad hoc quod sint in seipsis perfecta, utpote
+<lb ed="#L" n="94"/>habentia propriam formam et proprium ubi.
+</p>
+            <p xml:id="v8naTA-d1e1887-d1e198">
+               <lb ed="#L" n="95"/>Corpora vero caelestia movent mota. Unde
+<lb ed="#L" n="96"/>finis motus eorum est consequi divinam 
+similitu<lb ed="#L" break="no" n="97"/>dinem quantum ad utrumque. Quantum quidem
+<lb ed="#L" n="98"/>ad propriam perfectionem, inquantum corpus 
+cae<lb ed="#L" break="no" n="99"/>leste sit in aliquo ubi in actu in quo prius erat
+<lb ed="#L" n="100"/>in potentia. — Nec propter hoc minus suam 
+per<lb ed="#L" break="no" n="101"/>fectionem consequitur, quamvis ad ubi in quo
+<lb ed="#L" n="102"/>prius erat actu, remaneat in potentia. Similiter
+<lb ed="#L" n="103"/>enim et materia prima in suam perfectionem
+<lb ed="#L" n="104"/>tendit per hoc quod acquirit in actu formam quam
+<lb ed="#L" n="105"/>prius habebat in potentia, licet et aliam habere
+<lb ed="#L" n="106"/>desinat quam prius actu habebat: sic enim 
+suc<lb ed="#L" break="no" n="107"/>Cessive materia omnes formas suscipit ad quas
+<lb ed="#L" n="108"/>est in potentia, ut tota eius potentia reducatur
+<lb ed="#L" n="109"/>in actum successive, quod simul fieri non poterat.
+<lb ed="#L" n="110"/>Unde, cum corpus caeleste sit in potentia ad ub
+<lb ed="#L" n="111"/>sicut materia prima ad formam, perfectionem
+<lb ed="#L" n="112"/>suam consequitur per hoc quod eius potentia tota
+<pb ed="#L" n="53"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>ad ubi reducitur in actum successive, quod simul
+<lb ed="#L" n="2"/>non poterat fieri.
+</p>
+            <p xml:id="v8naTA-d1e1887-d1e248">
+               <lb ed="#L" n="3"/>Inquantum vero movendo movent, est finis
+<lb ed="#L" n="4"/>motus eorum consequi divinam similitudinem
+<lb ed="#L" n="5"/>in hoc quod sint causae aliorum. Sunt autem
+<lb ed="#L" n="6"/>aliorum causae per hoc quod causant 
+genera<lb ed="#L" break="no" n="7"/>tionem et corruptionem et alios motus in istis
+<lb ed="#L" n="8"/>inferioribus. Motus igitur corporum caelestium,
+<lb ed="#L" n="9"/>inquantum movent, ordinantur ad generationem
+<lb ed="#L" n="10"/>et corruptionem quae est in istis inferioribus. -
+<lb ed="#L" n="11"/>Non est autem inconveniens quod corpora
+<lb ed="#L" n="12"/>caelestia moveant ad generationem horum 
+infe<lb ed="#L" break="no" n="13"/>riorum, quamvis haec inferiora corpora sint 
+cae<lb ed="#L" break="no" n="14"/>lestibus corporibus indigniora, cum tamen finem
+<lb ed="#L" n="15"/>oporteat esse potiorem eo quod est ad finem.
+<lb ed="#L" n="16"/>Generans enim agit ad formam generati: cum
+<lb ed="#L" n="17"/>tamen generatum non sit dignius generante, sed
+<lb ed="#L" n="18"/>in agentibus univocis sit eiusdem speciei cum
+<lb ed="#L" n="19"/>ipso. Intendit enim generans formam generati,
+<lb ed="#L" n="20"/>quae est generationis finis, non quasi ultimum
+<lb ed="#L" n="21"/>finem: sed similitudinem esse divini in 
+perpe<lb ed="#L" break="no" n="22"/>tuatione speciei, et in diffusione bonitatis suae,
+<lb ed="#L" n="23"/>per hoc quod aliis formam speciei suae tradit,
+<lb ed="#L" n="24"/>et aliorum sit causa. Similiter autem corpora 
+cae<lb ed="#L" break="no" n="25"/>lestia, licet sint digniora inferioribus corporibus,
+<lb ed="#L" n="26"/>tamen intendunt generationem eorum, et formas
+<lb ed="#L" n="27"/>generatorum in actum educere per suos motus,
+<lb ed="#L" n="28"/>non quasi ultimum finem: sed per hoc ad 
+divi<lb ed="#L" break="no" n="29"/>nam similitudinem intendentes quasi ad ultimum
+<lb ed="#L" n="30"/>finem, in hoc quod causae aliorum existant.
+</p>
+            <p xml:id="v8naTA-d1e1887-d1e311">
+               <lb ed="#L" n="31"/>Considerandum autem quod unumquodque,
+<lb ed="#L" n="32"/>inquantum participat similitudinem divinae 
+bo<lb ed="#L" break="no" n="33"/>nitatis, quae est obiectum voluntatis eius, 
+intan<lb ed="#L" break="no" n="34"/>tum participat de similitudine divinae voluntatis,
+<lb ed="#L" n="35"/>per quam res producuntur in esse et 
+conser<lb ed="#L" break="no" n="36"/>vantur. Superiora autem divinae bonitatis 
+simi<lb ed="#L" break="no" n="37"/>litudinem participant simplicius et universalius:
+<lb ed="#L" n="38"/>inferiora vero particularius et magis divisim. Unde
+<lb ed="#L" n="39"/>et inter corpora caelestia et inferiora non 
+atten<lb ed="#L" break="no" n="40"/>ditur similitudo secundum aequiparantiam, sicut
+<lb ed="#L" n="41"/>in his quae sunt unius speciei: sed sicut 
+uni<lb ed="#L" break="no" n="42"/>versalis agentis ad particularem effectum. Sicut
+<lb ed="#L" n="43"/>igitur agentis particularis in istis inferioribus 
+in<lb ed="#L" break="no" n="44"/>tentio contrahitur ad bonum huius speciei vel
+<lb ed="#L" n="45"/>illius, ita intentio corporis caelestis fertur ad 
+bo<lb ed="#L" break="no" n="46"/>num commune substantiae corporalis, quae per
+<lb ed="#L" n="47"/>generationem conservatur et multiplicatur et 
+au<lb ed="#L" break="no" n="48"/>getur.
+</p>
+            <p xml:id="v8naTA-d1e1887-d1e353">
+               <lb ed="#L" n="49"/>Cum vero, ut dictum est, quaelibet res mota,
+<lb ed="#L" n="50"/>inquantum movetur, tendat in divinam 
+similitu<lb ed="#L" break="no" n="51"/>dinem ut sit in se perfecta; perfectum autem
+<lb ed="#L" n="52"/>sit unumquodque inquantum fit actu: oportet
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="53"/>quod intentio cuiuslibet in potentia existentis sit
+<lb ed="#L" n="54"/>ut per motum tendat in actum. Quanto igitur
+<lb ed="#L" n="55"/>aliquis actus est posterior et magis perfectus, tanto
+<lb ed="#L" n="56"/>principalius in ipsum appetitus materiae fertur.
+<lb ed="#L" n="57"/>Unde oportet quod in ultimum et perfectissimum
+<lb ed="#L" n="58"/>actum quem materia consequi potest, tendat 
+ap<lb ed="#L" break="no" n="59"/>petitus materiae quo appetit formam, sicut in
+<lb ed="#L" n="60"/>ultimum finem generationis. In actibus autem
+<lb ed="#L" n="61"/>formarum gradus quidam inveniuntur. Nam 
+ma<lb ed="#L" break="no" n="62"/>teria. prima est in potentia primo ad formam 
+ele<lb ed="#L" break="no" n="63"/>menti. Sub forma vero elementi existens est in
+<lb ed="#L" n="64"/>potentia ad formam mixti: propter quod 
+ele<lb ed="#L" break="no" n="65"/>menta sunt materia mixti. Sub forma autem mixti
+<lb ed="#L" n="66"/>considerata, est in potentia ad animam 
+vegetabi<lb ed="#L" break="no" n="67"/>lem: nam talis corporis anima actus est. Itemque
+<lb ed="#L" n="68"/>anima vegetabilis est in potentia ad sensitivam;
+<lb ed="#L" n="69"/>sensitiva vero ad intellectivam. Quod processus
+<lb ed="#L" n="70"/>generationis ostendit: primo enim in generatione
+<lb ed="#L" n="71"/>est fetus vivens vita plantae, postmodum vero
+<lb ed="#L" n="72"/>vita animalis, demum vero vita hominis. Post
+<lb ed="#L" n="73"/>hanc autem formam non invenitur in 
+generabi<lb ed="#L" break="no" n="74"/>libus et corruptibilibus posterior forma et dignior.
+<lb ed="#L" n="75"/>"Ultimus igitur finis generationis totius est anima
+<lb ed="#L" n="76"/>humana, et in hanc tendit materia sicut in 
+ulti<lb ed="#L" break="no" n="77"/>mam formam. Sunt ergo elementa propter corpora
+<lb ed="#L" n="78"/>mixta; haec vero propter viventia; in quibus
+<lb ed="#L" n="79"/>plantae sunt propter animalia; animalia vero
+<lb ed="#L" n="80"/>propter hominem. Homo igitur est finis totius
+<lb ed="#L" n="81"/>generationis.
+</p>
+            <p xml:id="v8naTA-d1e1887-d1e429">
+               <lb ed="#L" n="82"/>Quia vero per eadem res generatur et 
+conser<lb ed="#L" break="no" n="83"/>vatur in esse, secundum ordinem praemissum in
+<lb ed="#L" n="84"/>generationibus rerum est etiam ordo in 
+conserva<lb ed="#L" break="no" n="85"/>tionibus earundem. Unde videmus quod corpora
+<lb ed="#L" n="86"/>mixta sustentantur per elementorum congruas
+<lb ed="#L" n="87"/>qualitates: plantae vero ex mixtis corporibus 
+nu<lb ed="#L" break="no" n="88"/>triuntur; animalia ex plantis nutrimentum habent;
+<lb ed="#L" n="89"/>et quaedam etiam perfectiora et virtuosiora ex 
+qui<lb ed="#L" break="no" n="90"/>busdam imperfectioribus et infirmioribus. Homo
+<lb ed="#L" n="91"/>vero utitur omnium rerum generibus ad sui 
+utili<lb ed="#L" break="no" n="92"/>tatem. Quibusdam quidem ad esum, quibusdam
+<lb ed="#L" n="93"/>vero ad vestitum: unde et a natura nudus est
+<lb ed="#L" n="94"/>institutus, utpote potens ex aliis sibi vestitum 
+prae<lb ed="#L" break="no" n="95"/>parare; sicut etiam nullum sibi congruum 
+nutri<lb ed="#L" break="no" n="96"/>mentum natura praeparavit nisi lac, ut ex 
+di<lb ed="#L" break="no" n="97"/>versis rebus sibi cibum conquireret. Quibusdam
+<lb ed="#L" n="98"/>vero ad vehiculum: nam in motus celeritate, et
+<lb ed="#L" n="99"/>in fortitudine ad sustinendos labores, multis 
+ani<lb ed="#L" break="no" n="100"/>malibus infirmior invenitur, quasi aliis animalibus
+<lb ed="#L" n="101"/>ad auxilium sibi praeparatis. Et super hoc 
+omni<lb ed="#L" break="no" n="102"/>bus sensibilibus utitur ad intellectualis 
+cognitio<lb ed="#L" break="no" n="103"/>nis perfectionem. Unde et de homine in Psalmo
+<lb ed="#L" n="104"/>dicitur, ad Deum directo sermone: Omnia sub-
+<pb ed="#L" n="54"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>iecisti sub. pedibus eius. Et<ref xml:id="v8naTA-d1e1887-Rd1e487"> Aristoteles dicit, in
+<lb ed="#L" n="2"/>I Politicorum</ref>, quod homo habet naturale 
+domi<lb ed="#L" break="no" n="3"/>nium super omnia animalia.
+</p>
+            <p xml:id="v8naTA-d1e1887-d1e496">
+               <lb ed="#L" n="4"/>Si igitur motio ipsius caeli ordinatur ad 
+gene<lb ed="#L" break="no" n="5"/>rationem; generatio autem tota ordinatur ad 
+ho<lb ed="#L" break="no" n="6"/>minem sicut in ultimum finem huius generis:
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="7"/>manifestum est quod finis motionis caeli 
+ordi<lb ed="#L" break="no" n="8"/>natur ad hominem sicut in ultimum finem in
+<lb ed="#L" n="9"/>genere generabilium et mobilium.
+</p>
+            <p xml:id="v8naTA-d1e1887-d1e514">
+               <lb ed="#L" n="10"/>Hinc est quod Deuteron. IV, dicitur quod Deus
+<lb ed="#L" n="11"/>corpora caelestia fecit in ministerium cunctis 
+gen<lb ed="#L" break="no" n="12"/>libus.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

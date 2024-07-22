@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 59</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 59</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="163"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2190"><!-- v8naTA-l3c59 -->
+            <head xml:id="v8naTA-d1e2190-Hd1e101">Capitulum 59</head>
+            <head xml:id="v8naTA-d1e2190-Hd1e103" type="question-title">Quomodo videntes divinam substantiam omnia vident.</head>
+            <p xml:id="v8naTA-d1e2190-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="91" type="fixed=163"/>CAPITULUM QUINQUAGESIMUM NONUM
+<lb ed="#L" n="92"/>QUOMODO VIDENTES DIVINAM SUBSTANTIAM OMNIA VIDENT.
+</p>
+            <p xml:id="v8naTA-d1e2190-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="93"/>QUIA vero visio divinae substantiae est
+<lb ed="#L" n="94"/>ultimus finis cuiuslibet intellectualis
+<lb ed="#L" n="95"/>substantiae, ut patet ex dictis ; omnis
+<lb ed="#L" n="96"/>autem res cum pervenerit ad ultimum
+<lb ed="#L" n="97"/>finem, quiescit appetitus eius naturalis: oportet
+<lb ed="#L" n="98"/>quod appetitus naturalis substantiae intellectualis
+<lb ed="#L" n="99"/>divinam substantiam videntis omnino quiescat. Est
+<lb ed="#L" n="100"/>autem appetitus naturalis intellectus ut. cognoscat
+<lb ed="#L" n="101"/>omnium rerum genera et species et virtutes, et
+<lb ed="#L" n="102"/>totum ordinem universi: quod demonstrat 
+huma<lb ed="#L" break="no" n="103"/>num studium circa singula praedictorum. Quilibet
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="104"/>igitur divinam substantiam. videntium cognoscet
+<lb ed="#L" n="105"/>omnia supradicta.
+</p>
+            <p xml:id="v8naTA-d1e2190-d1e150">
+               <lb ed="#L" n="106"/>Amplius. In. hoc intellectus et sensus differt,
+<lb ed="#L" n="107"/>ut patet in <ref xml:id="v8naTA-d1e2190-Rd1e156">III de Anima</ref> , quod sensus ab 
+excel<lb ed="#L" break="no" n="108"/>lentibus sensibilibus corrumpitur vel debilitatur,
+<lb ed="#L" n="109"/>ut postmodum minora sensibilia percipere non
+<lb ed="#L" n="110"/>possit: intellectus autem, quia non corrumpitur
+<lb ed="#L" n="111"/>nec impeditur a suo obiecto, sed solum 
+perfi<lb ed="#L" break="no" n="112"/>citur, postquam intellexit maius intelligibile, non
+<lb ed="#L" n="113"/>minus poterit alia intelligibilia intelligere, sed
+<lb ed="#L" n="114"/>magis. Summum autem in genere intelligibilium
+<pb ed="#L" n="164"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>est divina substantia. Intellectus igitur qui per
+<lb ed="#L" n="2"/>lumen divinum elevatur ad videndam Dei 
+sub<lb ed="#L" break="no" n="3"/>stantiam, multo magis eodem lumine perficitur
+<lb ed="#L" n="4"/>ad omnia alia intelligenda quae sunt in rerum
+<lb ed="#L" n="5"/>natura.
+</p>
+            <p xml:id="v8naTA-d1e2190-d1e190">
+               <lb ed="#L" n="6"/>Adhuc. Esse intelligibile est non bieimunis 
+am<lb ed="#L" break="no" n="7"/>bitus quam esse. naturale, sed forte maioris:
+<lb ed="#L" n="8"/>intellectus enim natus est omnia quae sunt in
+<lb ed="#L" n="9"/>rerum natura intelligere, et quaedam intelligit
+<lb ed="#L" n="10"/>quae non habent esse naturale, sicut negationes
+<lb ed="#L" n="11"/>et privationes. Quaecumque igitur requiruntur
+<lb ed="#L" n="12"/>ad perfectionem esse naturalis, requiruntur ad
+<lb ed="#L" n="13"/>perfectionem esse intelligibilis, vel etiam plura.
+<lb ed="#L" n="14"/>Perfectio autem esse intelligibilis est cum 
+intel<lb ed="#L" break="no" n="15"/>lectus ad suum ultimum finem pervenerit: sicut
+<lb ed="#L" n="16"/>perfectio esse naturalis in ipsa rerum institutione
+<lb ed="#L" n="17"/>consistit. Omnia igitur quae Deus ad perfectionem
+<lb ed="#L" n="18"/>universi produxit, intellectui se videnti manifestat.
+</p>
+            <p xml:id="v8naTA-d1e2190-d1e221">
+               <lb ed="#L" n="19"/>Item. Quamvis videntium Deum unus. alio
+<lb ed="#L" n="20"/>perfectius eum videat, ut ostensum est , quilibet
+<lb ed="#L" n="21"/>tamen ita perfecte eum videt quod impletur tota
+<lb ed="#L" n="22"/>capacitas naturalis: quinimmo ipsa visio omnem
+<lb ed="#L" n="23"/>capacitatem naturalem excedit, ut ostensum est .
+<lb ed="#L" n="24"/>Oportet igitur quod quilibet videns divinam 
+sub<lb ed="#L" break="no" n="25"/>stantiam in ipsa substantia divina cognoscat omnia
+<lb ed="#L" n="26"/>ad quae se extendit sua capacitas naturalis. 
+Ca<lb ed="#L" break="no" n="27"/>pacitas autem naturalis cuiuslibet intellectus se
+<lb ed="#L" n="28"/>extendit ad cognoscenda omnia genera et species
+<lb ed="#L" n="29"/>et ordinem rerum. Haec igitur quilibet Deum
+<lb ed="#L" n="30"/>videntium in divina substantia cognoscet.
+</p>
+            <p xml:id="v8naTA-d1e2190-d1e250">
+               <lb ed="#L" n="31"/>Hinc est quod Dominus Moysi petenti divinae
+<lb ed="#L" n="32"/>substantiae visionem respondet, Exod. xxxi":
+<lb ed="#L" n="33"/>Ego ostendam libi omne bonum. — Et Gregorius
+<lb ed="#L" n="34"/>dicit: Quid est quod nesciant. qui scientem. omnia
+<lb ed="#L" n="35"/>sciunt? |
+</p>
+            <p xml:id="v8naTA-d1e2190-d1e263">
+               <lb ed="#L" n="36"/>Si autem praemissa diligenter considerentur,
+<lb ed="#L" n="37"/>patet quod quodam modo videntes divinam 
+sub<lb ed="#L" break="no" n="38"/>stantiam omnia vident, quodam vero modo non.
+<lb ed="#L" n="39"/>Si enim per omnia ill intelligantur quae ad
+<lb ed="#L" n="40"/>universi perfectionem pertinent, manifestum est
+<lb ed="#L" n="41"/>ex dictis quod videntes divinam substantiam
+<lb ed="#L" n="42"/>omnia vident, ut-rationes modo inductae 
+osten<lb ed="#L" break="no" n="43"/>dunt. Cum enim intellectus sit. quodammodo
+<lb ed="#L" n="44"/>omnia, quaecumque ad perfectionem naturae
+<lb ed="#L" n="45"/>pertinent, omnia etiam pertinent ad perfectionem
+<lb ed="#L" n="46"/>esse intelligibilis: propter quod, secundum 
+Augu<lb ed="#L" break="no" n="47"/>stinum, super Gen. ad litt., quaecumque facta
+<lb ed="#L" n="48"/>sunt per Dei Verbum ut in propria natura 
+sub<lb ed="#L" break="no" n="49"/>sisterent, fiebant etiam in intelligentia angelica
+<lb ed="#L" n="50"/>ut ab angelis intelligerentur. De perfectione autem
+<lb ed="#L" n="51"/>naturalis esse sunt naturae specierum, et earum
+<lb ed="#L" n="52"/>proprietates et virtutes: ad naturas enim spe-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="53"/>cierum intentio naturae fertur; individua enim -
+<lb ed="#L" n="54"/>sunt propter speciem. Pertinet igitur ad 
+perfectio<lb ed="#L" break="no" n="55"/>nem intellectualis substantiae ut omnium 
+spe<lb ed="#L" break="no" n="56"/>cierum naturas et virtutes et propria accidentia
+<lb ed="#L" n="57"/>cognoscat. Hoc igitur in finali beatitudine. 
+con<lb ed="#L" break="no" n="58"/>sequetur per divinae essentiae visionem. — Per
+<lb ed="#L" n="59"/>cognitionem autem naturalium specierum, et
+<lb ed="#L" n="60"/>individua sub speciebus huiusmodi existentia
+<lb ed="#L" n="61"/>cognoscuntur ab intellectu Deum vidente: ut ex
+<lb ed="#L" n="62"/>his quae. dicta sunt supra de cognitione Dei
+<lb ed="#L" n="63"/>et angelorum, potest esse manifestum.
+</p>
+            <p xml:id="v8naTA-d1e2190-d1e328">
+               <lb ed="#L" n="64"/>Si vero per omnia intelligantur omnia quae
+<lb ed="#L" n="65"/>Deus, suam essentiam videndo, cognoscit, nullus
+<lb ed="#L" n="66"/>intellectus creatus. omnia in Dei substantia videt,
+<lb ed="#L" n="67"/>ut superius  est ostensum.
+</p>
+            <p xml:id="v8naTA-d1e2190-d1e339">
+               <lb ed="#L" n="68"/>Hoc autem considerari potest quantum ad plura.
+<lb ed="#L" n="69"/>Primo, quantum ad ea quae Deus facere potest,
+<lb ed="#L" n="70"/>sed nec fecit nec facturus est unquam. Omnia
+<lb ed="#L" n="71"/>enim huiusmodi cognosci non possunt nisi eius
+<lb ed="#L" n="72"/>virtus comprehenderetur: quod non est possibile
+<lb ed="#L" n="73"/>alicui intellectui creato, ut supra ostensum est.
+<lb ed="#L" n="74"/>Hinc est quod Iob xi dicitur: <quote xml:id="v8naTA-d1e2190-Qd1e356">Forsitan vestigia
+<lb ed="#L" n="75"/>Dei comprehendes, et Omnipotentem usque ad 
+per<lb ed="#L" break="no" n="76"/>fectum reperies? Excelsior caelo est, et quid facies?
+<lb ed="#L" n="77"/>Profundior inferno, et unde cognosces? Longior
+<lb ed="#L" n="78"/>lerra mensura eius, el latior mari</quote>. Non enim haec
+<lb ed="#L" n="79"/>dicuntur quasi dimensionibus quantitatis Deus sit
+<lb ed="#L" n="80"/>magnus: sed quia eius virtus non limitatur ad
+<lb ed="#L" n="81"/>omnia quae magna esse videntur, quin possit
+<lb ed="#L" n="82"/>etiam maiora facere.
+</p>
+            <p xml:id="v8naTA-d1e2190-d1e378">
+               <lb ed="#L" n="83"/>Secundo, quantum ad rationes rerum factarum;
+<lb ed="#L" n="84"/>quas omnes cognoscere non potest intellectus
+<lb ed="#L" n="85"/>nisi divinam bonitatem comprehendat. Ratio enim
+<lb ed="#L" n="86"/>cuiuslibet rei factae sumitur ex fine quem faciens
+<lb ed="#L" n="87"/>intendit. Finis autem omnium a Deo factorum
+<lb ed="#L" n="88"/>divina bonitas est. Ratio igitur rerum factarum
+<lb ed="#L" n="89"/>est ut divina bonitas diffundatur in rebus. Sic
+<lb ed="#L" n="90"/>igitur aliquis omnes rationes rerum creatarum
+<lb ed="#L" n="91"/>cognosceret, si cognosceret omnia bona quae in
+<lb ed="#L" n="92"/>rebus creatis, secundum ordinem divinae 
+sapien<lb ed="#L" break="no" n="93"/>tiae, provenire possunt. Quod esset divinam
+<lb ed="#L" n="94"/>bonitatem et sapientiam. comprehendere: quod
+<lb ed="#L" n="95"/>nullus intellectus. creatus potest. Hinc est quod
+<lb ed="#L" n="96"/>dicitur Eccle. viu: ZIntellexi quod omnium 
+ope<lb ed="#L" break="no" n="97"/>rum Dei non possit homo invenire rationem.
+</p>
+            <p xml:id="v8naTA-d1e2190-d1e413">
+               <lb ed="#L" n="98"/>Tertio, quantum ad ea quae ex sola Dei 
+vo<lb ed="#L" break="no" n="99"/>luntate dependent: sicut praedestinatio, electio
+<lb ed="#L" n="100"/>et iustificatio, et alia huiusmodi quae ad 
+sancti<lb ed="#L" break="no" n="101"/>ficationem pertinent creaturae. Hinc est quod
+<lb ed="#L" n="102"/>dicitur I Cor. II: Quae sunt hominis nemo novit
+<lb ed="#L" n="103"/>nisi spiritus hominis, qui in ipso est. lta et quae
+<lb ed="#L" n="104"/>sunt Dei nemo novit nisi Spiritus Dei.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

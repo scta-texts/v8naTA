@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 66</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 66</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="188"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2247"><!-- v8naTA-l3c66 -->
+            <head xml:id="v8naTA-d1e2247-Hd1e101">Capitulum 66</head>
+            <head xml:id="v8naTA-d1e2247-Hd1e103" type="question-title">Quod nihil dat esse nisi inquantum agit in virtute divina.</head>
+            <p xml:id="v8naTA-d1e2247-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="59" type="fixed=188"/>CAPITULUM SEXAGESIMUM SEXTUM
+<lb ed="#L" n="60"/>QUOD NIHIL DAT ESSE NISI INQUANTUM AGIT IN VIRTUTE DIVINA.
+</p>
+            <p xml:id="v8naTA-d1e2247-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="61"/>EX hoc autem manifestum estquod omnia 
+<lb ed="#L" n="62"/>inferiora agentia non dant esse nisi 
+in<lb ed="#L" break="no" n="63"/>quantum agunt in virtute divina. 
+</p>
+            <p xml:id="v8naTA-d1e2247-d1e126">
+               <lb ed="#L" n="64"/>Nihil enim dat esse nisi inquantum — 
+<lb ed="#L" n="65"/>est ens actu. Deus autem conservat res in esse ; 
+<lb ed="#L" n="66"/>per suam providentiam, ut ostensum est. Ex 
+<lb ed="#L" n="67"/>virtute igitur divina est quod aliquid det esse. 
+</p>
+            <p xml:id="v8naTA-d1e2247-d1e138">
+               <lb ed="#L" n="68"/>Amplius. Quando aliqua agentia diversa sub 
+<lb ed="#L" n="69"/>uno agente ordinantur, necesse est quod effectus 
+<lb ed="#L" n="70"/>qui ab eis communiter fit, sit eorum secundum 
+<lb ed="#L" n="71"/>quod uniuntur in participando motum et 
+vir<lb ed="#L" break="no" n="72"/>tutem illius agentis: non enim plura faciunt unum 
+<lb ed="#L" n="73"/>nisi inquantum unum sunt; sicut patet quod 
+<lb ed="#L" n="74"/>omnes qui sunt in exercitu operantur ad 
+victo<lb ed="#L" break="no" n="75"/>riam causandam, quam causant secundum quod :;; 
+<lb ed="#L" n="76"/>sunt sub ordinatione ducis, cuius proprius 
+ef<lb ed="#L" break="no" n="77"/>fectus victoria est. Ostensum est autem in Primo  
+<lb ed="#L" n="78"/>quod primum agens est Deus. Cum igitur esse 
+<lb ed="#L" n="79"/>sit communis effectus omnium agentium, nam 
+<lb ed="#L" n="80"/>omne agens facit esse actu; oportet quod hunc: 
+<lb ed="#L" n="81"/>effectum producunt inquantum ordinantur sub  
+<lb ed="#L" n="82"/>primo agente, et agunt in virtute ipsius. 
+</p>
+            <p xml:id="v8naTA-d1e2247-d1e173">
+               <lb ed="#L" n="83"/>Adhuc. In omnibus causis agentibus ordinatis 
+<lb ed="#L" n="84"/>illud quod est ultimum in generatione et primum — 
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="85"/>in intentione, est proprius effectus primi agentis:
+<lb ed="#L" n="86"/>sicut forma domus, quae est proprius effectus
+<lb ed="#L" n="87"/>aedificatoris, posterius provenit quam praeparatio
+<lb ed="#L" n="88"/>caementi et lapidis et lignorum, quae fiunt per -
+<lb ed="#L" n="89"/>artifices inferiores, qui subsunt aedificatori. In
+<lb ed="#L" n="90"/>omni autem actione esse in actu est principaliter
+<lb ed="#L" n="91"/>intentum, et ultimum in generatione: nam, eo
+<lb ed="#L" n="92"/>habito, quiescit agentis actio et motus patientis.
+<lb ed="#L" n="93"/>Est igitur esse proprius effectus primi agentis,
+<lb ed="#L" n="94"/>scilicet Dei: et omnia quae dant esse, hoc habent
+<lb ed="#L" n="95"/>inquantum agunt in virtute Dei.
+</p>
+            <p xml:id="v8naTA-d1e2247-d1e206">
+               <lb ed="#L" n="96"/>Amplius. Ultimum in bonitate et perfectione
+<lb ed="#L" n="97"/>inter ea in quae potest agens secundum, est
+<lb ed="#L" n="98"/>illud in quod potest ex virtute agentis primi:
+<lb ed="#L" n="99"/>nam complementum virtutis agentis secundi est
+<lb ed="#L" n="100"/>ex agente primo. Quod autem est in omnibus
+<lb ed="#L" n="101"/>effectibus perfectissimum, est esse: quaelibet enim
+<lb ed="#L" n="102"/>natura vel forma perficitur per hoc quod est
+<lb ed="#L" n="103"/>actu; et comparatur ad esse in actu sicut 
+po<lb ed="#L" break="no" n="104"/>tentia ad actum ipsum. Igitur esse est quod
+<lb ed="#L" n="105"/>agentia secunda agunt in virtute agentis primi.
+</p>
+            <p xml:id="v8naTA-d1e2247-d1e230">
+               <lb ed="#L" n="106"/>Item. Secundum ordinem causarum est ordo
+<lb ed="#L" n="107"/>effectuum. Primum autem in omnibus effectibus
+<lb ed="#L" n="108"/>est esse: nam omnia alia sunt quaedam deter-
+<pb ed="#L" n="189"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>minationes ipsius. Igitur esse est proprius 
+ef<lb ed="#L" break="no" n="2"/>fectus primi agentis, et omnia alia agunt ipsum
+<lb ed="#L" n="3"/>inquantum agunt in virtute primi agentis. 
+Se<lb ed="#L" break="no" n="4"/>cunda autem agentia, quae sunt quasi 
+particu<lb ed="#L" break="no" n="5"/>lantes et determinantes actionem primi agentis, ;
+<lb ed="#L" n="6"/>agunt sicut proprios effectus alias perfectiones,
+<lb ed="#L" n="7"/>quae determinant esse.
+</p>
+            <p xml:id="v8naTA-d1e2247-d1e259">
+               <lb ed="#L" n="8"/>Praeterea. Quod est per essentiam tale, est
+<lb ed="#L" n="9"/>propria causa: eius quod est per participationem
+<lb ed="#L" n="10"/>tale: sicut ignis est causa omnium ignitorum.
+<lb ed="#L" n="11"/>Deus autem solus est ens per essentiam suam,
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="12"/>omnia autem alia sunt entia per participationem:
+<lb ed="#L" n="13"/>nam in solo Deo esse est sua essentia . Esse
+<lb ed="#L" n="14"/>igitur cuiuslibet existentis est proprius effectus
+<lb ed="#L" n="15"/>eius, ita quod omne quod producit aliquid in
+<lb ed="#L" n="16"/>esse, hoc facit inquantum agit in virtute Dei.
+<lb ed="#L" n="17"/>Hinc est quod dicitur Sap. 1': Creavit Deus
+<lb ed="#L" n="18"/>ul essent omnia. Et in pluribus Scripturae locis
+<lb ed="#L" n="19"/>dicitur quod Deus omnia facit. - In libro etiam
+<lb ed="#L" n="20"/>de Causis dicitur quod nec intelligentia dat esse
+<lb ed="#L" n="21"/>nisi inquantum est divina, idest, inquantum agit Th
+<lb ed="#L" n="22"/>in virtute divina. .
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

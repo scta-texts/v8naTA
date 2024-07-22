@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 145</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 145</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="432"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2892"><!-- v8naTA-l3c145 -->
+            <head xml:id="v8naTA-d1e2892-Hd1e101">Capitulum 145</head>
+            <head xml:id="v8naTA-d1e2892-Hd1e103" type="question-title">Quod peccata puniuntur
+etiam per experientiam alicuius nocivi.</head>
+            <p xml:id="v8naTA-d1e2892-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="107" type="fixed=432"/>CAPITULUM CENTESIMUM QUADRAGESIMUM QUINTUM
+<lb ed="#L" n="108"/>QUOD PECCATA PUNIUNTUR
+<lb ed="#L" n="109"/>ETIAM PER EXPERIENTIAM ALICUIUS NOCIVI.
+</p>
+            <p xml:id="v8naTA-d1e2892-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="110"/>NON solum autem qui contra Deum 
+pec<lb ed="#L" break="no" n="111"/>cant, puniendi sunt per hoc quod a 
+bea<lb ed="#L" break="no" n="112"/>titudine perpetuo excluduntur, sed per 
+<lb ed="#L" n="113"/>experimentum alicuius nocivi. Poena 
+<lb ed="#L" n="114"/>enim debet proportionaliter culpae respondere,   
+<lb ed="#L" n="115"/>ut supra  ostensum est. In culpa autem non 
+<lb ed="#L" n="116"/>solum avertitur mens ab ultimo fine, sed etiam- 
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="117"/>indebite convertitur in alia quasi in fines. Non
+<lb ed="#L" n="118"/>solum ergo puniendus est qui peccat per hoc
+<lb ed="#L" n="119"/>quod excludatur a fine, sed etiam per hoc quod
+<lb ed="#L" n="120"/>ex aliis rebus sentiat nocumentum.
+</p>
+            <p xml:id="v8naTA-d1e2892-d1e148">
+               <lb ed="#L" n="121"/>Amplius. Poenae inferuntur pro culpis ut 
+ti<lb ed="#L" break="no" n="122"/>more poenarum homines a peccatis retrahantur,
+<lb ed="#L" n="123"/>ut supra  dictum est. Nullus autem timet amit-
+<pb ed="#L" n="433"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>tere id quod non desiderat adipisci. Qui ergo
+<lb ed="#L" n="2"/>habent voluntatem aversam ab ultimo fine, non
+<lb ed="#L" n="3"/>timent excludi ab illo. Non ergo per solam 
+exclu<lb ed="#L" break="no" n="4"/>sionem ab ultimo fine a peccando revocarentur.
+<lb ed="#L" n="5"/>Oportet igitur peccantibus etiam aliam poenam :
+<lb ed="#L" n="6"/>adhiberi, quam timeant peccantes.
+</p>
+            <p xml:id="v8naTA-d1e2892-d1e175">
+               <lb ed="#L" n="7"/>Item. Si quis eo quod est ad. finem 
+inordi<lb ed="#L" break="no" n="8"/>nate utitur, non solum fine privatur, sed etiam
+<lb ed="#L" n="9"/>aliud nocumentum incurrit: ut patet in cibo 
+inor<lb ed="#L" break="no" n="10"/>dinate assumpto, qui non solum firmitatem non
+<lb ed="#L" n="11"/>confert, sed etiam aegritudinem inducit. Qui autem
+<lb ed="#L" n="12"/>in rebus creatis finem constituit, eis non utitur
+<lb ed="#L" n="13"/>secundum. quod debet, referendo scilicet ad 
+ul<lb ed="#L" break="no" n="14"/>timum finem. Non ergo solum debet puniri per
+<lb ed="#L" n="15"/>hoc quod beatitudine careat, sed etiam per hoc
+<lb ed="#L" n="16"/>quod aliquod nocumentum ab ipsis experiatur.
+</p>
+            <p xml:id="v8naTA-d1e2892-d1e199">
+               <lb ed="#L" n="17"/>Praeterea. Sicut recte agentibus debentur bona,
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="18"/>ita perverse agentibus debentur mala. Sed illi
+<lb ed="#L" n="19"/>qui recte agunt, in fine ab eis intento percipiunt
+<lb ed="#L" n="20"/>perfectionem et gaudium. E contrario ergo 
+de<lb ed="#L" break="no" n="21"/>betur haec poena peccantibus, ut ex his in quibus
+<lb ed="#L" n="22"/>sibi finem constituunt, afflictionem accipiant et
+<lb ed="#L" n="23"/>nocumentum.
+</p>
+            <p xml:id="v8naTA-d1e2892-d1e219">
+               <lb ed="#L" n="24"/>Hinc est quod divina Scriptura peccatoribus
+<lb ed="#L" n="25"/>comminatur non solum exclusionem a gloria, sed
+<lb ed="#L" n="26"/>etiam afflictionem ex aliis rebus. Dicitur enim
+</p>
+            <p xml:id="v8naTA-d1e2892-d1e228">
+               <lb ed="#L" n="27"/>Matth. xxv: Discedite a me, maledicti, in ignem
+<lb ed="#L" n="28"/>aeternum, qui paratus est diabolo et angelis eius.
+<lb ed="#L" n="29"/>Et in Psalmo x : Pluet.super. peccatores laqueos :
+<lb ed="#L" n="30"/>ignis, sulphur, et spiritus procellarum pars calicis
+<lb ed="#L" n="31"/>eorum.
+</p>
+            <p xml:id="v8naTA-d1e2892-d1e241">
+               <lb ed="#L" n="32"/>Per hoc autem excluditur opinio Algazelis, qui
+<lb ed="#L" n="33"/>posuit quod peccatoribus haec sola poena 
+red<lb ed="#L" break="no" n="34"/>detur, quod affligentur amissione ultimi finis .
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

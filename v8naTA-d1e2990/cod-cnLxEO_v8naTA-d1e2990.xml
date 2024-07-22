@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 157</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 157</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="462"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2990"><!-- v8naTA-l3c157 -->
+            <head xml:id="v8naTA-d1e2990-Hd1e101">Capitulum 157</head>
+            <head xml:id="v8naTA-d1e2990-Hd1e103" type="question-title">Quod homo a peccato liberari non potest nisi per gratiam.</head>
+            <p xml:id="v8naTA-d1e2990-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="93" type="fixed=461"/>CAPITULUM
+<lb ed="#L" n="94"/>CENTESIMUM QUINQUAGESIMUM SEPTIMUM
+<lb ed="#L" n="95"/>QUOD HOMO A PECCATO LIBERARI NON POTEST NISI PER GRATIAM.
+</p>
+            <p xml:id="v8naTA-d1e2990-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="96"/>Ex eisdem etiam ostendi potest quod
+<lb ed="#L" n="97"/>homo a peccato mortali resurgere non 
+<lb ed="#L" n="98"/>potest nisi per gratiam.
+</p>
+            <p xml:id="v8naTA-d1e2990-d1e128">
+               <lb ed="#L" n="99"/>Per peccatum enim mortale homo
+<lb ed="#L" n="100"/>ab ultimo fine avertitur. In ultimum autem finem ;
+<lb ed="#L" n="101"/>homo non ordinatur nisi per gratiam . Per solam
+<lb ed="#L" n="102"/>igitur gratiam homo potest a peccato resurgere.
+</p>
+            <p xml:id="v8naTA-d1e2990-d1e140">
+               <lb ed="#L" n="103"/>Adhuc. Offensa non nisi per dilectionem 
+tol<lb ed="#L" break="no" n="104"/>litur. Sed per peccatum mortale homo Dei 
+of<lb ed="#L" break="no" n="105"/>fensam incurrit: dicitur enim quod Dews 
+pecca<lb ed="#L" break="no" n="106"/>tores odit, inquantum vult eos privare ultimo
+<lb ed="#L" n="107"/>fine, quem his quos diligit praeparat. Non ergo
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="108"/>homo potest a peccato mortali resurgere nisi per
+<lb ed="#L" n="109"/>gratiam, per quam fit quaedam amicitia inter
+<lb ed="#L" n="110"/>Deum et hominem.
+</p>
+            <p xml:id="v8naTA-d1e2990-d1e162">
+               <lb ed="#L" n="111"/>Ad hoc etiam induci possunt omnes rationes
+<lb ed="#L" n="112"/>superius  positae de gratiae necessitate.
+</p>
+            <p xml:id="v8naTA-d1e2990-d1e169">
+               <lb ed="#L" n="113"/>Hinc est quod dicitur Zsaiae xim: Ego sum
+<lb ed="#L" n="114"/>ipse qui deleo iniquitates tuas. propter me; et in
+<lb ed="#L" n="115"/>Psalmo : ARemisisti iniquilatem plebis tuae: 
+ope<lb ed="#L" break="no" n="116"/>ruisti omnia peccata eorum.
+</p>
+            <p xml:id="v8naTA-d1e2990-d1e180">
+               <lb ed="#L" n="117"/>Per hoc autem excluditur error Pelagianorum,
+<lb ed="#L" n="118"/>qui dixerunt hominem posse a peccato resurgere
+<lb ed="#L" n="119"/>per liberum arbitrium.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

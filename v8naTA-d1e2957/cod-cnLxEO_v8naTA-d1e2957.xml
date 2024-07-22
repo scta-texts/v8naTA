@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 153</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 153</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="447"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2957"><!-- v8naTA-l3c153 -->
+            <head xml:id="v8naTA-d1e2957-Hd1e101">Capitulum 153</head>
+            <head xml:id="v8naTA-d1e2957-Hd1e103" type="question-title">Quod divina gratia cast in nobis spem.</head>
+            <p xml:id="v8naTA-d1e2957-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="50" type="fixed=447"/>CAPITULUM
+<lb ed="#L" n="51"/>CENTESIMUM QUINQUAGESIMUM TERTIUM
+<lb ed="#L" n="52"/>QUOD DIVINA GRATIA CAST IN NOBIS SPEM.
+</p>
+            <p xml:id="v8naTA-d1e2957-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="53"/>EX eisdem etiam ostendi potest quod 
+opor<lb ed="#L" break="no" n="54"/>tet in nobis per gratiam: spem futurae
+<lb ed="#L" n="55"/>beatitudinis causari.
+</p>
+            <p xml:id="v8naTA-d1e2957-d1e128">
+               <lb ed="#L" n="56"/>Dilectio enim quae est ad alios, 
+pro<lb ed="#L" break="no" n="57"/>venit in homine ex dilectione hominis ad. seipsum,
+<lb ed="#L" n="58"/>inquantum ad amicum aliquis se habet sicut ad
+<lb ed="#L" n="59"/>se. Diligit autem aliquis seipsum inquantum
+<lb ed="#L" n="60"/>vult sibi bonum: sicut alium diligit inquantum
+<lb ed="#L" n="61"/>vult ei bonum. Oportet igitur quod homo, per
+<lb ed="#L" n="62"/>hoc quod circa proprium bonum afficitur, 
+per<lb ed="#L" break="no" n="63"/>ducatur ad hoc quod afficiatur circa bonum 
+al<lb ed="#L" break="no" n="64"/>terius. Per hoc igitur quod aliquis ab alio sperat
+<lb ed="#L" n="65"/>bonum, fit homini via ut illum diligat a quo
+<lb ed="#L" n="66"/>bonum. sperat, secundum seipsum : diligitur enim
+<lb ed="#L" n="67"/>aliquis secundum seipsum quando diligens 
+bo<lb ed="#L" break="no" n="68"/>num eius vult,etiam si nihil ei inde proveniat.
+<lb ed="#L" n="69"/>Cum igitur per gratiam gratum facientem 
+cause<lb ed="#L" break="no" n="70"/>tur in homine quod Deum propter se diligat ,
+<lb ed="#L" n="71"/>consequens fuit ut etiam per gratiam homo spem
+<lb ed="#L" n="72"/>de Deo. adipisceretur. -.Amicitia vero, qua quis
+<lb ed="#L" n="73"/>alium. secundum se diligit; etsi non sit propter
+<lb ed="#L" n="74"/>propriam utilitatem, habet tamen multas utilitates
+<lb ed="#L" n="75"/>consequentes, secundum quod unus amicorum
+<lb ed="#L" n="76"/>alteri subvenit ut sibi ipsi. Unde oportet quod,
+<lb ed="#L" n="77"/>cum. aliquis alium. diligit, et cognoscit se ab eo
+<lb ed="#L" n="78"/>diligi, quod de eo spem habeat. Per gratiam 
+au<lb ed="#L" break="no" n="79"/>tem ita constituitur homo Dei dilector, secundum
+<lb ed="#L" n="80"/>caritatis affectum, quod etiam instruitur per fidem
+<lb ed="#L" n="81"/>boni a Deo penediulgepne: secundum illud quod
+<lb ed="#L" n="82"/>habetur I Zoan. 1v ': In hoc est dilectio, non quasi
+<lb ed="#L" n="83"/>nos diexerimus Deum, sed quoniam ipse prior
+<lb ed="#L" n="84"/>dilexit nos. Consequitur igitur ex dono. gratiae
+<lb ed="#L" n="85"/>quod homo de Deo spem habeat. — Ex quo
+<lb ed="#L" n="86"/>etiam patet quod, sicut spes est praeparatio 
+ho<lb ed="#L" break="no" n="87"/>minis ad veram Dei dilectionem, ita et e converso
+<lb ed="#L" n="88"/>ex caritate homo in spe confirmatur,
+</p>
+            <p xml:id="v8naTA-d1e2957-d1e203">
+               <lb ed="#L" n="89"/>Amplius. In omni diligente .causatur 
+deside<lb ed="#L" break="no" n="90"/>rium ut uniatur suo dilecto inquantum possibile
+<lb ed="#L" n="91"/>est: et hinc est quod delectabilissimum est amicis
+<lb ed="#L" n="92"/>convivere. Si ergo per gratiam homo Dei 
+dile<lb ed="#L" break="no" n="93"/>ctor constituitur, oportet quod in eo causetur 
+de<lb ed="#L" break="no" n="94"/>siderium unionis ad Deum, secundum quod 
+pos<lb ed="#L" break="no" n="95"/>sibile est. Fides autem, quae causatur ex. gratia ,
+<lb ed="#L" n="96"/>declarat possibilem esse unionem. hominis ad
+<lb ed="#L" n="97"/>Deum secundum perfectam fruitionem, in qua
+<lb ed="#L" n="98"/>beatitudo consistit. Huius igitur fruitionis 
+desi<lb ed="#L" break="no" n="99"/>derium in homine consequitur ex Dei dilectione.
+<lb ed="#L" n="100"/>x Sed. desiderium rei alicuius molestat animam
+<lb ed="#L" n="101"/>desiderantis nisi adsit spes de consequendo. 
+Con<lb ed="#L" break="no" n="102"/>veniens igitur fuit ut in: hominibus in quibus
+<lb ed="#L" n="103"/>Dei dilectio et fides causatur per gratiam, quod
+<lb ed="#L" n="104"/>etiam .causetur spes futurae beatitudinis 
+adi<lb ed="#L" break="no" n="105"/>piscendae.
+</p>
+            <p xml:id="v8naTA-d1e2957-d1e242">
+               <lb ed="#L" n="106"/>Item. In his quae ordinantur ad aliquem Grlosh
+<lb ed="#L" n="107"/>desideratum, si aliqua difficultas emerserit, 
+sola<lb ed="#L" break="no" n="108"/>tium affert spes de fine consequendo: sicut ama-
+<pb ed="#L" n="448"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>ritudinem medicinae aliquis leviter fert propter
+<lb ed="#L" n="2"/>spem sanitatis. In. processu autem quo in 
+beati<lb ed="#L" break="no" n="3"/>tudinem tendimus, quae est finis omnium 
+desi<lb ed="#L" break="no" n="4"/>deriorum nostrorum, multa diffuciliaa imminent
+<lb ed="#L" n="5"/>sustinenda: nam virtus, per quam ad 
+beatitudi<lb ed="#L" break="no" n="6"/>nem itur, circa difficilia est Ad hoc igitur ut
+<lb ed="#L" n="7"/>levius et promptius homo in beatitudinem 
+ten<lb ed="#L" break="no" n="8"/>deret, necessarium fuit ei spem de obtinenda 
+bea<lb ed="#L" break="no" n="9"/>titudine adhibere.
+</p>
+            <p xml:id="v8naTA-d1e2957-d1e275">
+               <lb ed="#L" n="10"/>Praeterea. Nullus movetur ad finem ad quem 
+<lb ed="#L" n="11"/>aestimat esse impossibile perveniri. Ad hoc igitur
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="12"/>quod aliquis. pergat in finem. aliquem, oportet
+<lb ed="#L" n="13"/>quod afficiatur ad finem illum tanquam  
+possi<lb ed="#L" break="no" n="14"/>bilem haberi: et hic est affectus spei. Cum igitur
+<lb ed="#L" n="15"/>per gratiam dirigatur homo in ultimum finem
+<lb ed="#L" n="16"/>beatitudinis, necessarium fuit ut. per gratiam 
+im<lb ed="#L" break="no" n="17"/>primeretur humano affectui spes de beatitudine
+<lb ed="#L" n="18"/>consequenda.
+</p>
+            <p xml:id="v8naTA-d1e2957-d1e299">
+               <lb ed="#L" n="19"/>Hinc est quod dicitur I Petri 1: Regeneravit
+<lb ed="#L" n="20"/>nos in spem vivam, in hereditatem 
+immarcesci<lb ed="#L" break="no" n="21"/>bilem, conservatam in caelis. Et Rom. vm 
+di<lb ed="#L" break="no" n="22"/>citur: Spe salvi facti sumus.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

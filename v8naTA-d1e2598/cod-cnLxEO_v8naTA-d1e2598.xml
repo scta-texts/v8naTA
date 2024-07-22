@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 109</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 109</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="340"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2598"><!-- v8naTA-l3c109 -->
+            <head xml:id="v8naTA-d1e2598-Hd1e101">Capitulum 109</head>
+            <head xml:id="v8naTA-d1e2598-Hd1e103" type="question-title">Quod in daemonibus possit esse peccatum, et qualiter..</head>
+            <p xml:id="v8naTA-d1e2598-d1e106">
+               <cb ed="#L" n="f"/>
+               <lb ed="#L" n="78" type="fixed=340"/>CAPITULUM CENTESIMUM NONUM
+<lb ed="#L" n="79"/>QUOD IN DAEMONIBUS POSSIT ESSE PECCATUM, ET QUALITER..
+</p>
+            <p xml:id="v8naTA-d1e2598-d1e115">
+               <cb ed="#L" n="g"/>
+               <lb ed="#L" n="80"/>Quod autem in daemonibus sit peccatum
+<lb ed="#L" n="81"/>voluntatis, manifestum est ex 
+aucto<lb ed="#L" break="no" n="82"/>ritate Sacrae Scripturae. Dicitur enim
+<lb ed="#L" n="83"/>I Ioan. III, quod diabolus ab initio
+<lb ed="#L" n="84"/>peccat. Et Joan. vimn, de diabolo dicitur quod
+<lb ed="#L" n="85"/>est mendax, et pater mendacii, et quod homicida
+<cb ed="#L" n="h"/>
+               <lb ed="#L" n="86"/>erat ab initio. Et Sap. n dicitur quod nvidia
+<lb ed="#L" n="87"/>diaboli mors introivit in orbem terrarum.
+</p>
+            <p xml:id="v8naTA-d1e2598-d1e139">
+               <lb ed="#L" n="88"/>Si quis autem sequi vellet Platonicorum 
+po<lb ed="#L" break="no" n="89"/>sitiones, facilis esset via ad solvendum praedicta.
+<lb ed="#L" n="90"/>Dicunt enim daemones esse animalia corpore
+<lb ed="#L" n="91"/>aerea: et sic, cum habeatit sibi corpora unita, 
+<pb ed="#L" n="341"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>potest in eis etiam esse pars sensitiva. Unde et 
+<lb ed="#L" n="2"/>passiones, quae nobis sunt causa peccati, eis 
+attri<lb ed="#L" break="no" n="3"/>buunt, scilicet iram, odium, et alia huiusmodi: 
+<lb ed="#L" n="4"/>propter quod dicit Apuleius quod sunt animo 
+<lb ed="#L" n="5"/>passiva. 
+</p>
+            <p xml:id="v8naTA-d1e2598-d1e166">
+               <lb ed="#L" n="6"/>Praeter. hoc etiam quod uniti corporibus esse  
+<lb ed="#L" n="7"/>perhibentur, secundum. positiones Platonis, forte 
+<lb ed="#L" n="8"/>posset in eis aliud genus cognitionis poni quam 
+<lb ed="#L" n="9"/>intellectus. Nam secundum Platonem, etiam anima 
+<lb ed="#L" n="10"/>sensitiva incorruptibilis est. Unde oportet quod 
+<lb ed="#L" n="11"/>habeat operationem cui non communicet corpus. 
+<lb ed="#L" n="12"/>Et sic nihil prohibet operationem sensitivae 
+ani<lb ed="#L" break="no" n="13"/>mae inveniri in substantia aliqua intellectuali, 
+<lb ed="#L" n="14"/>quamvis corpori non unita: et per consequens 
+<lb ed="#L" n="15"/>passiones. Et sic manet in eis eadem radix 
+pec<lb ed="#L" break="no" n="16"/>candi quae est in nobis. 
+</p>
+            <p xml:id="v8naTA-d1e2598-d1e192">
+               <lb ed="#L" n="17"/>Sed utrumque praemissorum est impossibile. 
+<lb ed="#L" n="18"/>Quod enim non sint aliquae aliae substantiae 
+<lb ed="#L" n="19"/>intellectuales unitae corporibus praeter animas 
+<lb ed="#L" n="20"/>humanas, ostensum est supra. - Quod autem 
+ope<lb ed="#L" break="no" n="21"/>rationes sensitivae animae non possint esse sine 
+<lb ed="#L" n="22"/>corpore, hinc apparet quod, corrupto aliquo 
+or<lb ed="#L" break="no" n="23"/>gano sentiendi, corrumpitur operatio una sensus: 
+<lb ed="#L" n="24"/>sicut, corrupto oculo, visio deficit. Propter quod 
+<lb ed="#L" n="25"/>et, corrupto organo tactus, sine quo non potest  
+<lb ed="#L" n="26"/>esse animal, oportet quod animal moriatur. 
+</p>
+            <p xml:id="v8naTA-d1e2598-d1e216">
+               <lb ed="#L" n="27"/>Ad evidentiam igitur praemissae dubitationis, 
+<lb ed="#L" n="28"/>considerandum est quod, sicut est ado in causis 
+<lb ed="#L" n="29"/>agentibus, ita etiam in causis finalibus: ut 
+sci<lb ed="#L" break="no" n="30"/>licet secundarius finis a principali dependeat, sicut 
+<lb ed="#L" n="31"/>secundarium agens a principali dependet. Accidit 
+<lb ed="#L" n="32"/>autem peccatum in causis agentibus quando 
+se<lb ed="#L" break="no" n="33"/>cundarium agens exit ab ordine principalisagentis: 
+<lb ed="#L" n="34"/>sicut, cum tibia deficit propter suam curvitatem 
+<lb ed="#L" n="35"/>ab executione motus quem virtus appetitiva im- : 
+<lb ed="#L" n="36"/>perabat, sequitur claudicatio. Sic igitur etin causis 
+<lb ed="#L" n="37"/>finalibus, cum finis secundarius non continetur 
+<lb ed="#L" n="38"/>sub ordine principalis finis, est peccatum 
+volun<lb ed="#L" break="no" n="39"/>tatis, cuius obiectum est bonum et finis. 
+</p>
+            <p xml:id="v8naTA-d1e2598-d1e247">
+               <lb ed="#L" n="40"/>Quaelibet autem voluntas naturaliter vult illud » 
+<lb ed="#L" n="41"/>quod est proprium volentis bonum, scilicet ipsum 
+<lb ed="#L" n="42"/>esse perfectum, nec potest contrarium huius velle. 
+<lb ed="#L" n="43"/>In illo igitur volente nullum potest voluntatis. 
+<lb ed="#L" n="44"/>peccatum accidere cuius proprium. bonum est 
+<lb ed="#L" n="45"/>ultimus. finis, quod non continetur sub alterius s 
+<lb ed="#L" n="46"/>finis ordine, sed sub eius ordine omnes alii fines 
+<lb ed="#L" n="47"/>continentur. Huiusmodi autem volens est Deus, 
+<lb ed="#L" n="48"/>cuius esse est summa bonitas, quae est ulimus 
+<lb ed="#L" n="49"/>finis. In Deo igitur peccatum voluntatis esse non 
+<lb ed="#L" n="50"/>potest.
+</p>
+            <p xml:id="v8naTA-d1e2598-d1e273">
+               <lb ed="#L" n="51"/>In quocumque autem alio volente, cuius 
+pro<lb ed="#L" break="no" n="52"/>prium bonum necesse est sub ordine alterius 
+<lb ed="#L" n="53"/>boni contineri, potest peccatum accidere 
+volun<lb ed="#L" break="no" n="54"/>tatis, si in sua natura consideratur. Licet enim 
+<lb ed="#L" n="55"/>naturalis inclinatio voluntatis insit unicuique vo-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="56"/>lenti ad volendum et amandum sui ipsius 
+per<lb ed="#L" break="no" n="57"/>fectionem, ita quod contrarium huius velle non
+<lb ed="#L" n="58"/>possit; non tamen sic est ei inditum naturaliter
+<lb ed="#L" n="59"/>ut ita ordinet suam perfectionem in alium finem
+<lb ed="#L" n="60"/>quod ab eo deficere non possit: cum finis: 
+su<lb ed="#L" break="no" n="61"/>perior non sit suae naturae proprius, sed 
+supe<lb ed="#L" break="no" n="62"/>rioris naturae. Relinquitur igitur suo arbitrio quod
+<lb ed="#L" n="63"/>propriam perfectionem in superiorem ordinet
+<lb ed="#L" n="64"/>finem. In hoc enim differunt voluntatem habentia
+<lb ed="#L" n="65"/>ab his quae voluntate carent, quod habentia 
+vo<lb ed="#L" break="no" n="66"/>luntatem ordinant se et sua in finem, unde et
+<lb ed="#L" n="67"/>liberi arbitrii esse dicuntur: quae autem voluntate
+<lb ed="#L" n="68"/>carent, non ordinant se in finem, sed ordinantur
+<lb ed="#L" n="69"/>a superiori agente, quasi ab alio acta in finem,
+<lb ed="#L" n="70"/>non autem a seipsis.
+</p>
+            <p xml:id="v8naTA-d1e2598-d1e321">
+               <lb ed="#L" n="71"/>Potuit igitur in voluntate substantiae separatae
+<lb ed="#L" n="72"/>esse peccatum ex hoc quod proprium bonum et
+<lb ed="#L" n="73"/>perfectionem in ultimum finem non ordinavit,
+<lb ed="#L" n="74"/>sed inhaesit proprio bono ut fini. Et quia ex
+<lb ed="#L" n="75"/>fine necesse est quod regulae actionis sumantur,
+<lb ed="#L" n="76"/>consequens est ut ex seipsa, in qua finem 
+con<lb ed="#L" break="no" n="77"/>stituit, alia regulari disponeret, et ut eius voluntas
+<lb ed="#L" n="78"/>ab alio superiori non regularetur. Hoc autem
+<lb ed="#L" n="79"/>soli Deo debetur. Et secundum hoc intelligendum
+<lb ed="#L" n="80"/>est quod appetit. Dei aequalitatem: non quidem
+<lb ed="#L" n="81"/>ut bonum suum esset divino bono aequale ; hoc
+<lb ed="#L" n="82"/>enim in intellectu cadere non poterat; et hoc
+<lb ed="#L" n="83"/>appetendo appeteret se non esse, cum distinctio
+<lb ed="#L" n="84"/>specierum secundum diversos gradus rerum 
+pro<lb ed="#L" break="no" n="85"/>veniat, ut ex supra dictis apparet. — Velle autem
+<lb ed="#L" n="86"/>alios regulare, et voluntatem suam a superiori
+<lb ed="#L" n="87"/>non regulari, est velle praeesse, et quodammodo
+<lb ed="#L" n="88"/>non subiici, quod est peccatum superbiae. Unde
+<lb ed="#L" n="89"/>convenienter dicitur quod primum peccatum
+<lb ed="#L" n="90"/>daemonis fuit superbia. — Sed quia ex uno errore
+<lb ed="#L" n="91"/>circa principium varius et multiplex error 
+conse<lb ed="#L" break="no" n="92"/>quitur, ex prima inordinatione voluntatis quae
+<lb ed="#L" n="93"/>fuit in daemone, consecutum est multiplex 
+pec<lb ed="#L" break="no" n="94"/>catum in voluntate ipsius: et odii ad Deum, ut
+<lb ed="#L" n="95"/>resistentem suae superbiae, et punientem 
+iustis<lb ed="#L" break="no" n="96"/>sime suam culpam; et invidiae ad hominem;
+<lb ed="#L" n="97"/>et multa alia huiusmodi.
+</p>
+            <p xml:id="v8naTA-d1e2598-d1e383">
+               <lb ed="#L" n="98"/>Considerandum est etiam quod, cum proprium
+<lb ed="#L" n="99"/>alicuius bonum habet ordinem ad plura superiora,
+<lb ed="#L" n="100"/>liberum est volenti ut ab ordine alicuius 
+supe<lb ed="#L" break="no" n="101"/>riorum recedat et alterius ordinem non 
+derelin<lb ed="#L" break="no" n="102"/>quat, sive sit superior sive inferior: sicut miles,
+<lb ed="#L" n="103"/>qui ordinatur sub rege et sub duce exercitus,
+<lb ed="#L" n="104"/>potest voluntatem suam ordinare in bonum ducis
+<lb ed="#L" n="105"/>et non regis, aut e converso. Sed si dux ab ordine
+<lb ed="#L" n="106"/>regis recedat, bona erit voluntas militis recedentis
+<lb ed="#L" n="107"/>a voluntate ducis et dirigentis voluntatem suam
+<lb ed="#L" n="108"/>in regem, mala autem voluntas militis sequentis
+<lb ed="#L" n="109"/>voluntatem ducis contra voluntatem regis: ordo
+<lb ed="#L" n="110"/>enim inferioris principii dependet ab ordine su-
+<pb ed="#L" n="342"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>perioris. Substantiae autem separatae non solum 
+<lb ed="#L" n="2"/>ordinantur sub Deo, sed una etiam earum ordi- 
+</p>
+            <p xml:id="v8naTA-d1e2598-d1e422">
+               <lb ed="#L" n="3"/>natur sub alia, a prima usque ad ultimam, ut 
+<lb ed="#L" n="4"/>in Secundo ostensum est. Et quia in quolibet 
+<lb ed="#L" n="5"/>volente sub Deo potest esse peccatum voluntatis, 
+<lb ed="#L" n="6"/>si in sua natura consideretur, possibile fuit quod 
+<lb ed="#L" n="7"/>aliqua de superioribus, aut etiam suprema inter 
+<lb ed="#L" n="8"/>omnes, peccaret secundum voluntatem. Et hoc 
+<lb ed="#L" n="9"/>quidem satis probabile est: non enim in suo bono 
+<lb ed="#L" n="10"/>quievisset sicut in fine nisi suum bonum valde  
+<lb ed="#L" n="11"/>perfectum esset. Potuit igitur fieri quod de 
+infe<lb ed="#L" break="no" n="12"/>rioribus aliquae, per propriam voluntatem, bonum . 
+<lb ed="#L" n="13"/>suum ordinarent in ipsam, recedentes a divino 
+<lb ed="#L" n="14"/>ordine, quae similiter peccaverunt: aliae vero, 
+<lb ed="#L" n="15"/>servantes in motu suae voluntatis divinum 
+ordi<lb ed="#L" break="no" n="16"/>nem, ab ordine peccantis, quamvis superioris 
+<lb ed="#L" n="17"/>secundum naturae ordinem, recte recederent. 
+<lb ed="#L" n="18"/>Quomodo vero in bonitate vel malitia 
+immobi<lb ed="#L" break="no" n="19"/>liter utrorumque voluntas perseverat, ostendetur 
+<lb ed="#L" n="20"/>in Quarto: Hoc enim pertinet ad poenas vel: 
+<lb ed="#L" n="21"/>praemia bonorum vel malorum. 
+</p>
+            <p xml:id="v8naTA-d1e2598-d1e466">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="22"/>Hoc autem differt inter hominem et substantiam -
+<lb ed="#L" n="23"/>separatam, quod in uno homine sunt plures 
+appe<lb ed="#L" break="no" n="24"/>titivae virtutes, quarum una sub altera ordinatur.
+<lb ed="#L" n="25"/>Quod quidem in substantiis separatis non: 
+con<lb ed="#L" break="no" n="26"/>tingit: una tamen earum est sub altera. Peccatum
+<lb ed="#L" n="27"/>autem in voluntate contingit qualitercunque 
+appe<lb ed="#L" break="no" n="28"/>titus inferior deflectatur. Sicut igitur peccatum in
+<lb ed="#L" n="29"/>substantiis separatis esset vel per hoc quod 
+de<lb ed="#L" break="no" n="30"/>flecteretur ab ordine divino, vel per hoc quod
+<lb ed="#L" n="31"/>aliqua earum inferior deflecteretur ab ordine 
+ali<lb ed="#L" break="no" n="32"/>cuius superioris sub ordine divino manentis; ita
+<lb ed="#L" n="33"/>in homine uno contingit peccatum dupliciter. Uno
+<lb ed="#L" n="34"/>modo, per hoc quod voluntas humana bonum
+<lb ed="#L" n="35"/>proprium non ordinat in Deum: quod quidem
+<lb ed="#L" n="36"/>peccatum est commune et sibi et substantiae
+<lb ed="#L" n="37"/>separatae. Alio modo, per hoc quod bonum 
+in<lb ed="#L" break="no" n="38"/>ferioris appetitus non regulatur secundum 
+su<lb ed="#L" break="no" n="39"/>periorem: puta quando delectabilia carnis, in
+<lb ed="#L" n="40"/>quae concupiscibilis tendit, volumus non 
+secun<lb ed="#L" break="no" n="41"/>dum ordinem rationis. Huiusmodi autem 
+pec<lb ed="#L" break="no" n="42"/>catum non contingit in substantiis separatis esse.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

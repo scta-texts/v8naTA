@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 147</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 147</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="435"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2908"><!-- v8naTA-l3c147 -->
+            <head xml:id="v8naTA-d1e2908-Hd1e101">Capitulum 147</head>
+            <head xml:id="v8naTA-d1e2908-Hd1e103" type="question-title">Quod homo indiget divino auxilio
+ad beatitudinem consequendam,</head>
+            <p xml:id="v8naTA-d1e2908-d1e106">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="90" type="fixed=435"/>CAPITULUM
+<lb ed="#L" n="91"/>CENTESIMUM QUADRAGESIMUM SEPTIMUM
+<lb ed="#L" n="92"/>QUOD HOMO INDIGET DIVINO AUXILIO
+<lb ed="#L" n="93"/>AD BEATITUDINEM CONSEQUENDAM,
+</p>
+            <p xml:id="v8naTA-d1e2908-d1e119">
+               <cb ed="#L" n="e"/>
+               <lb ed="#L" n="94"/>QUIA Vero ex superioribus  manifestum est
+<lb ed="#L" n="95"/>quod divina providentia aliter disponit
+<lb ed="#L" n="96"/>creaturas rationales quam res alias 
+se<lb ed="#L" break="no" n="97"/>cundum quod in conditione naturae
+<lb ed="#L" n="98"/>propriae ab aliis differunt, restat ostendendum
+<lb ed="#L" n="99"/>quod etiam ex dignitate finis altior gubernationis
+<lb ed="#L" n="100"/>modus a divina providentia eis adhibetur.
+</p>
+            <p xml:id="v8naTA-d1e2908-d1e139">
+               <lb ed="#L" n="101"/>Manifestum est autem quod secundum 
+conve<lb ed="#L" break="no" n="102"/>nientiam suae naturae, ad altiorem 
+participatio<lb ed="#L" break="no" n="103"/>nem finis perveniunt. Quia enim intellectualis
+<lb ed="#L" n="104"/>naturae sunt, per suam operationem intelligibilem
+<lb ed="#L" n="105"/>veritatem attingere possunt; quod aliis rebus non
+<lb ed="#L" n="106"/>competit, quae intellectu carent. Et quidem 
+se<lb ed="#L" break="no" n="107"/>cundum quod ad intelligibilem veritatem naturali
+<lb ed="#L" n="108"/>operatione perveniunt, manifestum est eis aliter
+<lb ed="#L" n="109"/>provideri divinitus quam aliis rebus: inquantum
+<lb ed="#L" n="110"/>homini datus est intellectus et ratio, per quae
+<lb ed="#L" n="111"/>veritatem et discernere et investigare possit; datae
+<pb ed="#L" n="436"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>sunt etiam ei vires sensitivae, et interiores et
+<lb ed="#L" n="2"/>exteriores, quibus ad investigandam veritatem
+<lb ed="#L" n="3"/>adiuvetur; datus est etiam ei loquelae usus, per
+<lb ed="#L" n="4"/>cuius officium veritatem quam aliquis mente 
+cori<lb ed="#L" break="no" n="5"/>cipit, alteri manifestare. possit; ut sic homines 
+<lb ed="#L" n="6"/>seipsos iuvent in cognitione veritatis, sicut et in
+<lb ed="#L" n="7"/>aliis rebus necessariis vitae, cum sit homo wi
+<lb ed="#L" n="8"/>naturaliter sociale .
+</p>
+            <p xml:id="v8naTA-d1e2908-d1e188">
+               <lb ed="#L" n="9"/>Sed ulterius ultimus finis hominis in quadam
+<lb ed="#L" n="10"/>veritatis cognitione constitutus est quae naturalem :
+<lb ed="#L" n="11"/>facultatem ipsius excedit: ut scilicet ipsam primam
+<lb ed="#L" n="12"/>Veritatem videat in seipsa, sicut supra  ostensum
+<lb ed="#L" n="13"/>est. Hoc autem inferioribus creaturis non 
+com<lb ed="#L" break="no" n="14"/>petit, ut scilicet ad finem pervenire possint qui
+<lb ed="#L" n="15"/>eorum facultatem naturalem. excedat. Oportet
+<lb ed="#L" n="16"/>igitur ut etiam ex hoc fine attendatur. diversus
+<lb ed="#L" n="17"/>gubernationis modus circa homines, et alias 
+in<lb ed="#L" break="no" n="18"/>feriores creaturas. Ea enim quae sunt ad finem,
+<lb ed="#L" n="19"/>necesse est fini esse proportionata. Si igitur homo
+<lb ed="#L" n="20"/>ordinatur in finem qui eius facultatem naturalem
+<lb ed="#L" n="21"/>excedat, necesse est ei aliquod auxilium divinitus
+<lb ed="#L" n="22"/>adhiberi supernaturale, per quod tendat in finem.
+</p>
+            <p xml:id="v8naTA-d1e2908-d1e221">
+               <lb ed="#L" n="23"/>Adhuc. Res inferioris naturae in id quod est
+<lb ed="#L" n="24"/>proprium superioris naturae non potest perduci
+<lb ed="#L" n="25"/>nisi virtute illius superioris naturae: sicut luna,
+<lb ed="#L" n="26"/>quae ex se non lucet, fit lucida virtute et actione
+<lb ed="#L" n="27"/>solis; et aqua, quae per se non calet, fit. calida
+<lb ed="#L" n="28"/>virtute et actione ignis. Videre autem ipsam 
+pri<lb ed="#L" break="no" n="29"/>mam Veritatem in seipsa ita transcendit 
+facul<lb ed="#L" break="no" n="30"/>tatem humanae naturae, quod est proprium 
+so<lb ed="#L" break="no" n="31"/>lius Dei, ut supra  ostensum est. Indiget igitur
+<lb ed="#L" n="32"/>homo auxilio divino ad hoc: quod in: dictum
+<lb ed="#L" n="33"/>finem perveniat. '
+</p>
+            <p xml:id="v8naTA-d1e2908-d1e247">
+               <lb ed="#L" n="34"/>Item. Unaquaeque res per GHeliiu tier suani
+<lb ed="#L" n="35"/>ultimum finem consequitur. Operatio autem 
+vir<lb ed="#L" break="no" n="36"/>tutem sortitur. ex principio operante : unde per
+<lb ed="#L" n="37"/>actionem seminis generatur aliquid in 
+determi<lb ed="#L" break="no" n="38"/>nata specie, cuius virtus in semine praeexistit.
+<lb ed="#L" n="39"/>Non potest igitur homo per operationem suam
+<lb ed="#L" n="40"/>pervenire in ultimum finem suum, qui transcendit » 
+<lb ed="#L" n="41"/>facultatem naturalium potentiarum, nisi eius 
+ope<lb ed="#L" break="no" n="42"/>ratio ex divina virtute efficaciam capiat 
+perdu<lb ed="#L" break="no" n="43"/>cendi ad finem praedictum.
+</p>
+            <p xml:id="v8naTA-d1e2908-d1e271">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="44"/>Amplius. Nullum instrumentum secundum 
+vir<lb ed="#L" break="no" n="45"/>tutem propriae formae perducere potest ad 
+ul<lb ed="#L" break="no" n="46"/>timam perfectionem, sed solum secundum 
+vir<lb ed="#L" break="no" n="47"/>tutem principalis agentis: quamvis secundum
+<lb ed="#L" n="48"/>propriam virtutem aliquam dispositionem facere
+<lb ed="#L" n="49"/>possit ad ultimam perfectionem. . A serra enim
+<lb ed="#L" n="50"/>secundum rationem propriae formae est sectio
+<lb ed="#L" n="51"/>ligni, sed forma scamni est ab arte, quae utitur
+<lb ed="#L" n="52"/>instrumento: similiter resolutio et consumptio in
+<lb ed="#L" n="53"/>corpore animalis est a calore i ignis, sed generatio.
+<lb ed="#L" n="54"/>carnis, et determinatio augmenti, et alia 
+huius<lb ed="#L" break="no" n="55"/>modi, sunt ab anima vegetabili, quae utitur calore
+<lb ed="#L" n="56"/>igneo sicut instrumento. Sub Deo autem, qui est
+<lb ed="#L" n="57"/>primus intellectus et volens, ordinantur omnes
+<lb ed="#L" n="58"/>intellectus et voluntates  sicut instrumenta sub
+<lb ed="#L" n="59"/>principali agente. Oportet igitur quod. eorum 
+ope<lb ed="#L" break="no" n="60"/>rationes efficaciam non habeant respectu. ultimae
+<lb ed="#L" n="61"/>perfectionis, quae est adeptio finalis beatitudinis,
+<lb ed="#L" n="62"/>nisi per virtutem divinam. Indiget igitur rationalis
+<lb ed="#L" n="63"/>natura divino auxilio ad. consequendum ultimum
+<lb ed="#L" n="64"/>finem.
+</p>
+            <p xml:id="v8naTA-d1e2908-d1e321">
+               <lb ed="#L" n="65"/>Praeterea. Homini adsunt impedimenta plurima
+<lb ed="#L" n="66"/>perveniendi ad finem. Impeditur enim debilitate.
+<lb ed="#L" n="67"/>rationis, quae de facili trahitur in errorem, per
+<lb ed="#L" n="68"/>quem a recta via perveniendi in finem excluditur.
+<lb ed="#L" n="69"/>Impeditur etiam ex passionibus partis sensitivae,
+<lb ed="#L" n="70"/>et ex affectionibus quibus ad sensibilia et 
+infe<lb ed="#L" break="no" n="71"/>riora trahitur, quibus quanto magis inhaeret,
+<lb ed="#L" n="72"/>longius ab ultimo fine distat: haec enim infra
+<lb ed="#L" n="73"/>hominem sunt, finis autem hominis superior 'eo.
+<lb ed="#L" n="74"/>existit. Impeditur etiam plerumque corporis 
+infir<lb ed="#L" break="no" n="75"/>mitate ab executione virtuosorum actuum, quibus.
+<lb ed="#L" n="76"/>ad beatitudinem tenditur. Indiget igitur auxilio
+<lb ed="#L" n="77"/>divino homo, ne per huiusmodi impedimenta
+<lb ed="#L" n="78"/>totaliter ab ultimo fine deficiat. ;
+</p>
+            <p xml:id="v8naTA-d1e2908-d1e354">
+               <lb ed="#L" n="79"/>Hinc est quod dicitur Zoan. v1: Nemo potest.
+<lb ed="#L" n="80"/>venire ad me nisi Pater, qui misit me, traxerit.
+<lb ed="#L" n="81"/>illum; et xv: Sicut palmes non potest ferre 
+jru<lb ed="#L" break="no" n="82"/>ctum a semetipso nisi manseril in vile, sic nec vos
+<lb ed="#L" n="83"/>nisi in me manseritis.
+</p>
+            <p xml:id="v8naTA-d1e2908-d1e368">
+               <lb ed="#L" n="84"/>Per hoc autem excluditur error Pelagianorum,
+<lb ed="#L" n="85"/>qui dixerunt quod per solum liberum arbitrium
+<lb ed="#L" n="86"/>homo poterat Dei gloriam promereri .
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 120</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 120</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="372"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2688"><!-- v8naTA-l3c120 -->
+            <head xml:id="v8naTA-d1e2688-Hd1e101">Capitulum 120</head>
+            <head xml:id="v8naTA-d1e2688-Hd1e103" type="question-title">Quod latriae cultus soli deo est exhibendus.</head>
+            <p xml:id="v8naTA-d1e2688-d1e106">
+               <pb ed="#L" n="372"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=372"/>CAPITULUM CENTESIMUM VIGESIMUM
+<lb ed="#L" n="2"/>QUOD LATRIAE CULTUS SOLI DEO EST EXHIBENDUS.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e117">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="3"/>FUERUNT autem aliqui qui latriae cultum
+<lb ed="#L" n="4"/>non solum primo rerum principio 
+exhi<lb ed="#L" break="no" n="5"/>bendum existimaverunt, sed omnibus
+<lb ed="#L" n="6"/>etiam creaturis quae supra hominem
+<lb ed="#L" n="7"/>sunt. Unde quidam , licet opinarentur Deum esse ;
+<lb ed="#L" n="8"/>unum primum et universale rerum principium,
+<lb ed="#L" n="9"/>latriam tamen exhibendam aestimaverunt, primo
+<lb ed="#L" n="10"/>quidem post summum Deum, substantiis 
+intel<lb ed="#L" break="no" n="11"/>lectualibus caelestibus, quas deos vocabant: sive
+<lb ed="#L" n="12"/>essent substantiae omnino a corporibus 
+separa<lb ed="#L" break="no" n="13"/>tae; sive essent animae orbium aut stellarum.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e146">
+               <lb ed="#L" n="14"/>Secundo , etiam quibusdam substantiis 
+intel<lb ed="#L" break="no" n="15"/>lectualibus quas unitas credebant corporibus aereis,
+<lb ed="#L" n="16"/>quas daemones esse dicebant: et tamen, quia supra
+<lb ed="#L" n="17"/>homines eas esse credebant, sicut corpus aereum :
+<lb ed="#L" n="18"/>est supra terrestre, huiusmodi etiam substantias
+<lb ed="#L" n="19"/>colendas divino cultu ab hominibus ponebant ; et
+<lb ed="#L" n="20"/>in comparatione ad homines deos illas esse 
+di<lb ed="#L" break="no" n="21"/>cebant, quasi medias inter homines et deos. — Et
+<lb ed="#L" n="22"/>quia animas bonorum, per hoc quod a corpore
+<lb ed="#L" n="23"/>separantur, in statum altiorem quam sit status
+<lb ed="#L" n="24"/>praesentis vitae transire credebant, etiam 
+anima<lb ed="#L" break="no" n="25"/>bus mortuorum, quas Aeroas aut manes vocabant,
+<lb ed="#L" n="26"/>divinum cultum exhibendum esse opinabantur .
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e178">
+               <lb ed="#L" n="27"/>Quidam vero , Deum esse animam mundi 
+aesti<lb ed="#L" break="no" n="28"/>mantes, crediderunt quod toti mundo et singulis
+<lb ed="#L" n="29"/>eius partibus esset cultus divinitatis exhibendus:
+<lb ed="#L" n="30"/>non tamen propter corpus, sed propter animam,
+<lb ed="#L" n="31"/>quam Deum esse dicebant; sicut et homini 
+sa<lb ed="#L" break="no" n="32"/>pienti honor exhibetur non propter corpus, sed
+<lb ed="#L" n="33"/>propter animam.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e196">
+               <lb ed="#L" n="34"/>Quidam vero etiam ea quae infra hominem
+<lb ed="#L" n="35"/>sunt secundum naturam, homini tamen colenda
+<lb ed="#L" n="36"/>esse dicebant divino cultu, inquantum in eis 
+par<lb ed="#L" break="no" n="37"/>ticipatur aliquid virtutis superioris naturae. Unde, :
+<lb ed="#L" n="38"/>cum quasdam imagines per homines factas sortiri
+<lb ed="#L" n="39"/>crederent aliquam virtutem supernaturalem, vel
+<lb ed="#L" n="40"/>ex influentia caelestium corporum, vel ex 
+prae<lb ed="#L" break="no" n="41"/>sentia aliquorum spirituum, dicebant huiusmodi
+<lb ed="#L" n="42"/>imaginibus divinum cultum esse exhibendum. «
+<lb ed="#L" n="43"/>Quas etiam imagines deos vocabant. Propter quod
+<lb ed="#L" n="44"/>et idololatrae sunt dicti: quia latriae cultum idolis,
+<lb ed="#L" n="45"/>idest imaginibus, impendebant.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e225">
+               <lb ed="#L" n="46"/>Est autem irrationabile ponentibus unum tantum
+<lb ed="#L" n="47"/>primum principium separatum, cultum divinum «
+<lb ed="#L" n="48"/>alteri exhibere. Cultum enim Deo exhibemus, ut
+<lb ed="#L" n="49"/>dictum est , non quia ipse hoc indigeat, sed ut in
+<lb ed="#L" n="50"/>nobis firmetur etiam per sensibilia opinio vera de
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="51"/>Deo. Opinio autem de hoc quod Deus sit unus,
+<lb ed="#L" n="52"/>supra omnia exaltatus, per sensibilia firmari non
+<lb ed="#L" n="53"/>potest in nobis nisi per hoc quod ei aliquid 
+sepa<lb ed="#L" break="no" n="54"/>ratim exhibemus, quod dicimus cultum. divinum.
+<lb ed="#L" n="55"/>Patet ergo quod vera opinio de uno principio
+<lb ed="#L" n="56"/>debilitatur si cultus divinus pluribus exhibeatur.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e254">
+               <lb ed="#L" n="57"/>Praeterea. Sicut dictum est supra , huiusmodi
+<lb ed="#L" n="58"/>cultus exterior homini necessarius est ad hoc quod
+<lb ed="#L" n="59"/>anima hominis excitetur in spiritualem 
+reveren<lb ed="#L" break="no" n="60"/>tiam Dei. Ad hoc autem quod animus hominis
+<lb ed="#L" n="61"/>ad aliquid moveatur, multum operatur 
+consue<lb ed="#L" break="no" n="62"/>tudo: nam ad consueta facilius movemur. Habet
+<lb ed="#L" n="63"/>autem hoc humana consuetudo, quod honor qui
+<lb ed="#L" n="64"/>exhibetur ei qui summum locum in republica
+<lb ed="#L" n="65"/>tenet, puta regi vel imperatori, nulli alii 
+exhibe<lb ed="#L" break="no" n="66"/>tur. Est igitur animus hominis excitandus ad hoc
+<lb ed="#L" n="67"/>quod aestimet esse unum summum rerum 
+princi<lb ed="#L" break="no" n="68"/>pium, per hoc quod ei aliquid exhibeat quod nulli
+<lb ed="#L" n="69"/>alteri exhibetur. Et hoc dicimus /atriae cultum.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e285">
+               <lb ed="#L" n="70"/>Item. Si cultus latriae alicui deberetur quia est
+<lb ed="#L" n="71"/>superior, et non quia est summus; cum 
+homi<lb ed="#L" break="no" n="72"/>num unus alio sit superior, et etiam angelorum,
+<lb ed="#L" n="73"/>sequeretur quod unus homo exhibere latriam 
+al<lb ed="#L" break="no" n="74"/>teri deberet, et angelo angelus. Et cum ille inter
+<lb ed="#L" n="75"/>homines qui superior est quantum ad unum, sit
+<lb ed="#L" n="76"/>inferior quantum ad aliud, sequeretur quod mutuo
+<lb ed="#L" n="77"/>sibi homines latriam exhiberent. Quod est 
+incon<lb ed="#L" break="no" n="78"/>veniens. :
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e307">
+               <lb ed="#L" n="79"/>Adhuc. Secundum hominum consuetudinem,
+<lb ed="#L" n="80"/>pro speciali beneficio specialis retributio debetur.
+<lb ed="#L" n="81"/>Est autem quoddam speciale beneficium. quod
+<lb ed="#L" n="82"/>homo a Deo summo percipit, scilicet creationis
+<lb ed="#L" n="83"/>suae: ostensum enim est in secundo libro quod
+<lb ed="#L" n="84"/>solus Deus creator est. Debet ergo homo aliquid
+<lb ed="#L" n="85"/>Deo speciale reddere in recognitionem beneficii
+<lb ed="#L" n="86"/>specialis. Et hoc est latriae cultus.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e328">
+               <lb ed="#L" n="87"/>Amplius. Latria servitium dicitur . Servitium
+<lb ed="#L" n="88"/>autem domino debetur. Dominus autem est 
+pro<lb ed="#L" break="no" n="89"/>prie et vere qui aliis praecepta operandi dispensat,
+<lb ed="#L" n="90"/>et a nullo regulam operandi sumit: qui enim
+<lb ed="#L" n="91"/>exequitur quod a superiori fuerit dispositum, 
+ma<lb ed="#L" break="no" n="92"/>gis est minister quam dominus. Deus autem, qui
+<lb ed="#L" n="93"/>est summum rerum principium, per suam 
+pro<lb ed="#L" break="no" n="94"/>videntiam omnia ad debitas actiones disponit, ut
+<lb ed="#L" n="95"/>supra ostensum est: unde et in Sacra Scriptura
+<lb ed="#L" n="96"/>et angeli et superiora corpora ministrare dicuntur
+<lb ed="#L" n="97"/>et Deo, cuius ordinationem exequuntur, et nobis,
+<lb ed="#L" n="98"/>in quorum utilitatem eorum actiones proveniunt .
+<pb ed="#L" n="373"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>Non est igitur cultus latriae, qui summo debetur
+<lb ed="#L" n="2"/>Domino, exhibendus nisi summo rerum principio.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e365">
+               <lb ed="#L" n="3"/>Item. Inter alia quae ad latriam pertinent, 
+sin<lb ed="#L" break="no" n="4"/>gulare videtur esse sacrificium: nam genuflexiones,
+<lb ed="#L" n="5"/>prostrationes, et alia huiusmodi honoris indicia,
+<lb ed="#L" n="6"/>etiam hominibus exhiberi possunt, licet alia 
+inten<lb ed="#L" break="no" n="7"/>tione quam Deo; sacrificium autem nullus 
+offeren<lb ed="#L" break="no" n="8"/>dum censuit alicui nisi quia eum Deum aestimavit,
+<lb ed="#L" n="9"/>aut aestimare se finxit. Exterius autem 
+sacrifi<lb ed="#L" break="no" n="10"/>cium repraesentativum est interioris veri sacrificii,
+<lb ed="#L" n="11"/>secundum quod mens humana seipsam Deo
+<lb ed="#L" n="12"/>offert. Offert autem se mens nostra Deo quasi
+<lb ed="#L" n="13"/>suae creationis principio, quasi suae. operationis
+<lb ed="#L" n="14"/>auctori, quasi suae beatitudinis fini. Quae quidem
+<lb ed="#L" n="15"/>conveniunt soli summo rerum principio: 
+osten<lb ed="#L" break="no" n="16"/>causa creatrix solus Deus summus est; ipse
+<lb ed="#L" n="17"/>etiam solus voluntatem hominis potest inclinare
+<lb ed="#L" n="18"/>ad quodcumque voluerit, ut supra  ostensum est;
+<lb ed="#L" n="19"/>patet etiam ex superioribus? quod in eius solius
+<lb ed="#L" n="20"/>fruitione ultima hominis consistit felicitas. Soli
+<lb ed="#L" n="21"/>igitur summo Deo homo sacrificium et latriae
+<lb ed="#L" n="22"/>cultum offerre debet, non autem substantiis
+<lb ed="#L" n="23"/>quibuscumque spiritualibus.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e413">
+               <lb ed="#L" n="24"/>Licet autem positio quae ponit Deum summum
+<lb ed="#L" n="25"/>non esse aliud quam animum mundi, a veritate
+<lb ed="#L" n="26"/>recedat, ut supra ostensum est; illa vero quae
+<lb ed="#L" n="27"/>ponit Deum esse separatum, et ab ipso existere
+<lb ed="#L" n="28"/>omnes alias intellectuales substantias, sive 
+sepa<lb ed="#L" break="no" n="29"/>ratas sive corpori coniunctas, sit vera: Thaec tamen
+<lb ed="#L" n="30"/>positio rationabilius movetur ad exhibendum ]
+Ja<lb ed="#L" break="no" n="31"/>triae cultum rebus diversis. Exhibendo enim 
+di<lb ed="#L" break="no" n="32"/>versis rebus latriae cultum, videtur uni summo
+<lb ed="#L" n="33"/>Deo latriam exhibere, ad quem, secundum eorum
+<lb ed="#L" n="34"/>positionem, diversae partes mundi comparantur
+<lb ed="#L" n="35"/>sicut ad animam hominis diversa corporis 
+mem<lb ed="#L" break="no" n="36"/>bra — Sed etiam ei ratio obviat. Dicunt enim
+<lb ed="#L" n="37"/>mundo non esse exhibendum latriae cultum 
+ra<lb ed="#L" break="no" n="38"/>tione corporis, sed ratione animae, quam Deum
+<lb ed="#L" n="39"/>esse dicunt. Licet autem corpus mundi divisibile
+<lb ed="#L" n="40"/>sit in partes diversas, anima tamen indivisibilis
+<lb ed="#L" n="41"/>est. Non est igitur divinitatis cultus exhibendus
+<lb ed="#L" n="42"/>diversis rebus, sed uni tantum.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e457">
+               <lb ed="#L" n="43"/>Adhuc. Si mundus ponitur animam habere
+<lb ed="#L" n="44"/>quae totum animet et omnes partes ipsius, non
+<lb ed="#L" n="45"/>potest hoc intelligi de anima nutritiva vel 
+sen<lb ed="#L" break="no" n="46"/>sitiva: quia harum partium animae operationes
+<lb ed="#L" n="47"/>non competunt omnibus partibus universi. Et
+<lb ed="#L" n="48"/>dato etiam quod haberet mundus animam 
+sen<lb ed="#L" break="no" n="49"/>sitivam vel nutritivam, non propter huiusmodi
+<lb ed="#L" n="50"/>animam deberet ei latriae cultus: sicut nec brutis
+<lb ed="#L" n="51"/>animalibus nec plantis. - Relinquitur ergo quod
+<lb ed="#L" n="52"/>hoc quod dicunt Deum, cui debetur latria, esse
+<lb ed="#L" n="53"/>animam mundi, intelligatur de anima intellectuali.
+<lb ed="#L" n="54"/>Quae quidem anima non est perfectio deter-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="55"/>minatarum partium corporis, sed aliquo modo
+<lb ed="#L" n="56"/>respicit totum. Quod etiam in nostra anima,
+<lb ed="#L" n="57"/>quae est ignobilior, patet: non enim intellectus
+<lb ed="#L" n="58"/>habet aliquod organum corporale, ut probatur
+<lb ed="#L" n="59"/>in III de Anima . Non igitur exhibendus esset ;c
+<lb ed="#L" n="60"/>cultus divinitatis diversis partibus mundi, sed "'
+<lb ed="#L" n="61"/>toti mundo, propter animam eius, secundum
+<lb ed="#L" n="62"/>eorum radicem.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e505">
+               <lb ed="#L" n="63"/>Amplius. Si, secundum eorum positionem, una
+<lb ed="#L" n="64"/>tantum sit anima, quae totum mundum animat
+<lb ed="#L" n="65"/>et partes omnes ipsius; mundus autem non 
+dici<lb ed="#L" break="no" n="66"/>tur Deus nisi propter animam: erit ergo unus
+<lb ed="#L" n="67"/>tantum Deus. Et sic cultus divinitatis non 
+de<lb ed="#L" break="no" n="68"/>betur nisi tantum uni. — Si vero sit una anima
+<lb ed="#L" n="69"/>totius, et diversae partes iterum habeant 
+di<lb ed="#L" break="no" n="70"/>versas animas, oportet eos dicere quod animae
+<lb ed="#L" n="71"/>partium sub anima totius ordinentur: eadem
+<lb ed="#L" n="72"/>enim est proportio perfectionum et perfectibilium.
+<lb ed="#L" n="73"/>Existentibus autem pluribus substantiis 
+intel<lb ed="#L" break="no" n="74"/>lectualibus ordinatis, illi tantum debetur latriae
+<lb ed="#L" n="75"/>cultus quae summum locum in eis tenet, ut
+<lb ed="#L" n="76"/>ostensum est contra aliam positionem . Non erit
+<lb ed="#L" n="77"/>igitur exhibendus latriae cultus partibus mundi,
+<lb ed="#L" n="78"/>sed solum toti.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e542">
+               <lb ed="#L" n="79"/>Praeterea. Manifestum est quasdam partes
+<lb ed="#L" n="80"/>mundi non habere animam propriam. Eis igitur
+<lb ed="#L" n="81"/>non erit exhibendus cultus. Et tamen ipsi colebant
+<lb ed="#L" n="82"/>omnia mundi elementa: scilicet terram, aquam,
+<lb ed="#L" n="83"/>ignem, et alia huiusmodi inanimata corpora.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e556">
+               <lb ed="#L" n="84"/>Item. Manifestum est quod superius non debet
+<lb ed="#L" n="85"/>inferiori latriae cultum. Homo autem superior est
+<lb ed="#L" n="86"/>ordine naturae ad minus omnibus inferioribus
+<lb ed="#L" n="87"/>corporibus, quanto perfectiorem habet formam.
+<lb ed="#L" n="88"/>Non igitur ab homine esset latriae cultus 
+exhiben<lb ed="#L" break="no" n="89"/>dus inferioribus corporibus, si propter proprias
+<lb ed="#L" n="90"/>eorum animas eis cultus deberetur.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e574">
+               <lb ed="#L" n="91"/>Eadem autem inconvenientia sequi necesse est
+<lb ed="#L" n="92"/>si quis dicat quod singulae partes mundi habent
+<lb ed="#L" n="93"/>proprias animas, non autem totum habet aliquam
+<lb ed="#L" n="94"/>unam communem. Oportebit enim quod suprema
+<lb ed="#L" n="95"/>pars mundi habeat animam nobiliorem, cui soli,
+<lb ed="#L" n="96"/>secundum praemissa, debebitir latriae cultus.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e590">
+               <lb ed="#L" n="97"/>His autem positionibus irrationabilior est illa
+<lb ed="#L" n="98"/>quae dicit imaginibus esse latriae cultum 
+exhi<lb ed="#L" break="no" n="99"/>bendum. Si enim huiusmodi imagines habent 
+vir<lb ed="#L" break="no" n="100"/>tutem aut aliquam dignitatem ex corporibus 
+caele<lb ed="#L" break="no" n="101"/>stibus, non propter hoc eis debetur latriae cultus:
+<lb ed="#L" n="102"/>cum nec ipsis corporibus debeatur, nisi forte
+<lb ed="#L" n="103"/>propter eorum animas, ut quidam posuerunt. Hae
+<lb ed="#L" n="104"/>autem imagines ponuntur virtutem aliquam 
+con<lb ed="#L" break="no" n="105"/>sequi ex corporibus caelestibus secundum eorum
+<lb ed="#L" n="106"/>corporalem virtutem.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e614">
+               <lb ed="#L" n="107"/>Praeterea. Manifestum est quod non 
+conse<lb ed="#L" break="no" n="108"/>quuntur ex corporibus caelestibus tam nobilem
+<lb ed="#L" n="109"/>perfectionem sicut est anima rationalis. Sunt
+<pb ed="#L" n="374"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>ergo infra gradum dignitatis cuiuslibet hominis.
+<lb ed="#L" n="2"/>Non igitur ab homine debetur eis aliquis cultus.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e632">
+               <lb ed="#L" n="3"/>Adhuc. Causa potior est effectu. Harum autem
+<lb ed="#L" n="4"/>imaginum factores sunt homines. Non igitur homo
+<lb ed="#L" n="5"/>debet eis aliquem cultum.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e641">
+               <lb ed="#L" n="6"/>Si autem dicatur quod huiusmodi imagines 
+ha<lb ed="#L" break="no" n="7"/>bent aliquam virtutem aut dignitatem ex hoc quod
+<lb ed="#L" n="8"/>eis adhaerent aliquae spirituales substantiae, hoc
+<lb ed="#L" n="9"/>etiam non sufficit: cum nulli spirituali 
+substan<lb ed="#L" break="no" n="10"/>tiae debeatur latriae cultus nisi soli summae.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e655">
+               <lb ed="#L" n="11"/>Praeterea. Nobiliori modo anima rationalis 
+ad<lb ed="#L" break="no" n="12"/>haeret hominis corpori quam aliqua spiritualis 
+sub<lb ed="#L" break="no" n="13"/>stantia adhaereat praedictis imaginibus. Adhuc
+<lb ed="#L" n="14"/>igitur homo remanet in maiori dignitate quam
+<lb ed="#L" n="15"/>praedictae imagines.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e668">
+               <lb ed="#L" n="16"/>Adhuc. Cum huiusmodi imagines interdum
+<lb ed="#L" n="17"/>ad aliquos noxios effectus fiant, manifestum est
+<lb ed="#L" n="18"/>quod, si per aliquas spirituales substantias 
+effe<lb ed="#L" break="no" n="19"/>ctum sortiantur, quod illae spirituales substantiae
+<lb ed="#L" n="20"/>sunt .vitiosae. Quod etiam manifestius. probatur
+<lb ed="#L" n="21"/>per hoc: in responsionibus decipiunt, et aliqua
+<lb ed="#L" n="22"/>contraria virtuti exigunt a suis cultoribus. 1 Et sic
+<lb ed="#L" n="23"/>sunt bonis hominibus inferiores. Non ergo eis
+<lb ed="#L" n="24"/>debetur latriae cultus.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e690">
+               <lb ed="#L" n="25"/>Manifestum est ergo ex dictis quod latriae cultus
+<lb ed="#L" n="26"/>soli uni summo Deo debetur. Hinc est quod 
+di<lb ed="#L" break="no" n="27"/>citur Exod. xxu? : Qui immolat diis occidetur, 
+prae<lb ed="#L" break="no" n="28"/>ler Domino soli. Et Deut. vi?: Dominum Deum
+<lb ed="#L" n="29"/>tuum adorabis, et illi soli servies. Et Rom. 1^,
+<lb ed="#L" n="30"/>dicitur de gentilibus: Jicentes enim se esse 
+sa<lb ed="#L" break="no" n="31"/>pientes, stulti facti sunt, et mutaverunt gloriam in-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="32"/>corruplibilis Dei in similitudinem imaginis 
+corru<lb ed="#L" break="no" n="33"/>plibilis hominis, et. volucrum, et quadrupedum, et
+<lb ed="#L" n="34"/>serpentum. Et infra: Qui commulaverunt 
+veri<lb ed="#L" break="no" n="35"/>latem Dei in mendacium, et coluerunt et. 
+servie<lb ed="#L" break="no" n="36"/>runt creaturae polius quam Creatori, qui est. super
+<lb ed="#L" n="37"/>omnia Deus benedictus in saecula.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e723">
+               <lb ed="#L" n="38"/>Quia ergo indebitum est quod latriae cultus
+<lb ed="#L" n="39"/>alteri exhibeatur quam primo rerum principio;
+<lb ed="#L" n="40"/>ad indebita autem incitare non est nisi rationalis
+<lb ed="#L" n="41"/>creaturae male dispositae: manifestum est quod ad
+<lb ed="#L" n="42"/>praedictas indebitas culturas instinctu daemonum
+<lb ed="#L" n="43"/>homines provocati fuerunt, qui se etiam loco Dei
+<lb ed="#L" n="44"/>hominibus colendos exhibuerunt, divinum 
+appe<lb ed="#L" break="no" n="45"/>tentes honorem. Hinc est quod dicitur in Psalmo :
+<quote xml:id="v8naTA-d1e2688-Qd1e742">Omnes dii gentium daemonia</quote>. Et I Cor. x: <quote xml:id="v8naTA-d1e2688-Qd1e744">Quae
+<lb ed="#L" n="46"/>immolani gentes daemoniis, et non Deo</quote>.
+</p>
+            <p xml:id="v8naTA-d1e2688-d1e750">
+               <lb ed="#L" n="47"/>Quia igitur haec est principalis legis divinae
+<lb ed="#L" n="48"/>intentio ut homo Deo subdatur, et ei singularem
+<lb ed="#L" n="49"/>reverentiam exhibeat non solum corde, sed etiam
+<lb ed="#L" n="50"/>ore et opere corporali; ideo primitus, Exod. xx.
+<lb ed="#L" n="51"/>ubi lex divina proponitur, interdicitur cultus 
+plu<lb ed="#L" break="no" n="52"/>rium deorum, ubi dicitur : Non habebis Deos
+<lb ed="#L" n="53"/>alienos coram me, el non facies tibi sculplile, neque
+<lb ed="#L" n="54"/>omnem similitudinem. Secundo, indicitur homini
+<lb ed="#L" n="55"/>ne irreverenter divinum nomen ore pronuntiet,
+<lb ed="#L" n="56"/>ad confirmationem scilicet alicuius falsi: et hoc
+<lb ed="#L" n="57"/>est quod dicitur : Non assumes nomen Dei in
+<lb ed="#L" n="58"/>vanum. Tertio, indicitur requies secundum aliquod
+<lb ed="#L" n="59"/>tempus ab exterioribus exercitiis, ut mens divinae
+<lb ed="#L" n="60"/>contemplationi vacet: et ideo dicitur: Memento
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

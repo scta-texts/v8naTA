@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 142</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 142</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="426"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2867"><!-- v8naTA-l3c142 -->
+            <head xml:id="v8naTA-d1e2867-Hd1e101">Capitulum 142</head>
+            <head xml:id="v8naTA-d1e2867-Hd1e103" type="question-title">Quod non omnia praemia et poenae sunt aequales.</head>
+            <p xml:id="v8naTA-d1e2867-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="80" type="fixed=426"/>CAPITULUM 
+<lb ed="#L" n="81"/>CENTESIMUM QUADRAGESIMUM SECUNDUM
+<lb ed="#L" n="82"/>QUOD NON OMNIA PRAEMIA ET POENAE SUNT AEQUALES.
+</p>
+            <p xml:id="v8naTA-d1e2867-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="83"/>CUM autem divina iustitia id exigat quod, 
+<lb ed="#L" n="84"/>ad aequalitatem in rebus servandam, 
+<lb ed="#L" n="85"/>pro culpis poenae reddantur, et pro 
+<lb ed="#L" n="86"/>bonis actibus praemia ; oportet,si est 
+<lb ed="#L" n="87"/>gradus in virtuosis actibus et in peccatis, ut : 
+<lb ed="#L" n="88"/>ostensum est, quod sit etiam gradus 
+praemio<lb ed="#L" break="no" n="89"/>rum et poenarum. Aliter enim non servaretur 
+<lb ed="#L" n="90"/>aequalitas, si non plus peccanti maior poena, 
+<lb ed="#L" n="91"/>aut melius agenti maius praemium redderetur: 
+<lb ed="#L" n="92"/>eiusdem enim rationis esse videtur quod diffe- :» 
+<lb ed="#L" n="93"/>renter retribuatur secundum differentiam boni 
+<lb ed="#L" n="94"/>et mali, et secundum differentiam boni et 
+me<lb ed="#L" break="no" n="95"/>lioris, vel mali et peioris. 
+</p>
+            <p xml:id="v8naTA-d1e2867-d1e150">
+               <lb ed="#L" n="96"/>Praeterea. Talis est aequalitas distributivae 
+iu<lb ed="#L" break="no" n="97"/>stitiae, ut inaequalia inaequalibus reddantur. Non 
+<lb ed="#L" n="98"/>ergo esset iusta recompensatio per poenas et 
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="99"/>praemia, si omnia praemia et omnes poenae 
+es<lb ed="#L" break="no" n="100"/>sent aequales.
+</p>
+            <p xml:id="v8naTA-d1e2867-d1e167">
+               <lb ed="#L" n="101"/>Adhuc. Praemia et poenae a legislatore 
+propo<lb ed="#L" break="no" n="102"/>nuntur ut homines a malis ad bona trahantur,
+<lb ed="#L" n="103"/>ut ex supra  dictis patet. Oportet autem homines
+<lb ed="#L" n="104"/>non solum trahi ad bona et retrahi a malis, sed
+<lb ed="#L" n="105"/>etiam bonos allici ad meliora, et malos retrahi
+<lb ed="#L" n="106"/>a peioribus. Quod non fieret si praemia et
+<lb ed="#L" n="107"/>poenae essent aequalia. Oportet igitur et poenas
+<lb ed="#L" n="108"/>et praemia inaequalia esse.
+</p>
+            <p xml:id="v8naTA-d1e2867-d1e187">
+               <lb ed="#L" n="109"/>Amplius. Sicut per dispositiones naturales 
+ali<lb ed="#L" break="no" n="110"/>quid disponitur ad formam, ita per opera bona
+<lb ed="#L" n="111"/>et mala aliquis disponitur ad poenas et praemia.
+<lb ed="#L" n="112"/>Sed hoc habet ordo quem divina providentia
+<lb ed="#L" n="113"/>statuit in rebus, quod magis disposita 
+perfectio<lb ed="#L" break="no" n="114"/>rem formam consequuntur. Ergo, secundum 
+di<lb ed="#L" break="no" n="115"/>praemiorum vel poenarum: alias non fieret re- :» 
+<lb ed="#L" n="116"/>compensatio in divino iudicio pro omnibus quae
+<pb ed="#L" n="427"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>versitatem bonorum operum vel malorum, oportet
+<lb ed="#L" n="2"/>quod sit diversitas poenarum et. praemiorum.
+</p>
+            <p xml:id="v8naTA-d1e2867-d1e216">
+               <lb ed="#L" n="3"/>Item. Contingit excessum esse in operibus bonis
+<lb ed="#L" n="4"/>et malis dupliciter: uno modo, secundum 
+nu<lb ed="#L" break="no" n="5"/>merum, prout unus alio plura habet opera bona
+<lb ed="#L" n="6"/>vel mala; alio modo, secundum qualitatem 
+ope<lb ed="#L" break="no" n="7"/>rum, prout unus alio vel melius vel peius opus
+<lb ed="#L" n="8"/>habet. Oportet autem quod excessui qui est 
+se<lb ed="#L" break="no" n="9"/>cundum numerum operum, respondeat excessus
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="10"/>quis agit, si aliqua mala remanerent impunita et
+<lb ed="#L" n="11"/>aliqua bona irremunerata. Pari ergo ratione, 
+ex<lb ed="#L" break="no" n="12"/>cessui qui est secundum inaequalitatem operum,
+<lb ed="#L" n="13"/>inaequalitas praemiorum et poenarum respondet.
+</p>
+            <p xml:id="v8naTA-d1e2867-d1e245">
+               <lb ed="#L" n="14"/>Hinc est quod dicitur Deut. xxv: Pro mensura
+<lb ed="#L" n="15"/>peccati erit et. plagarum modus. Et Isaiae xxvu:
+<lb ed="#L" n="16"/>In mensura contra mensuram, cum abiecta fuerit,
+<lb ed="#L" n="17"/>vindicabo eam.
+</p>
+            <p xml:id="v8naTA-d1e2867-d1e256">
+               <lb ed="#L" n="18"/>Per hoc autem excluditur error quorundam
+<lb ed="#L" n="19"/>dicentium in futuro omnia praemia et poenas
+<lb ed="#L" n="20"/>esse aequales.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

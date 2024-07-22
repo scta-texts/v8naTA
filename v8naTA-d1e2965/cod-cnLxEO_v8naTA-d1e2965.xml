@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 154</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 154</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="449"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2965"><!-- v8naTA-l3c154 -->
+            <head xml:id="v8naTA-d1e2965-Hd1e101">Capitulum 154</head>
+            <head xml:id="v8naTA-d1e2965-Hd1e103" type="question-title">De donis gratiae gratis datae.
+in quo de divinationibus daemonum.</head>
+            <p xml:id="v8naTA-d1e2965-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="73" type="fixed=449"/>CAPITULUM
+<lb ed="#L" n="74"/>CENTESIMUM QUIN QUAGESIMUM QUARTUM
+<lb ed="#L" n="75"/>DE DONIS GRATIAE GRATIS DATAE.
+<lb ed="#L" n="76"/>IN QUO DE DIVINATIONIBUS DAEMONUM.
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e119">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="77"/>QUIA vero ea quae homo per se non videt,
+<lb ed="#L" n="78"/>cognoscere non potest nisi ea recipiat
+<lb ed="#L" n="79"/>ab eo qui videt; fides autem est de his
+<lb ed="#L" n="80"/>quae non videmus: oportet cognitionem
+<lb ed="#L" n="81"/>eorum de quibus est fides, ab eo derivari qui
+<lb ed="#L" n="82"/>ea ipse videt. Hic autem Deus est, qui seipsum
+<lb ed="#L" n="83"/>perfecte comprehendit, et naturaliter suam 
+es<lb ed="#L" break="no" n="84"/>sentiam videt : de Deo enim fidem habemus.
+<lb ed="#L" n="85"/>Oportet igitur ea quae per fidem tenemus, a Deo
+<lb ed="#L" n="86"/>in nos pervenire. Cum autem quae a Deo sunt,
+<lb ed="#L" n="87"/>ordine quodam agantur, ut supra  ostensum est,
+<lb ed="#L" n="88"/>in manifestatione eorum quae sunt fidei, ordinem
+<lb ed="#L" n="89"/>quendam. observari oportuit: scilicet ut quidam
+<lb ed="#L" n="90"/>immediate a Deo reciperent, alii vero ab his, et
+<lb ed="#L" n="91"/>sic per ordinem usque ad ultimos.
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e156">
+               <lb ed="#L" n="92"/>In quibuscumque autem est aliquis ordo, 
+opor<lb ed="#L" break="no" n="93"/>tet quod, quanto aliquid est propinquius primo
+<lb ed="#L" n="94"/>principio, tanto virtuosius inveniatur. Quod in
+<lb ed="#L" n="95"/>hoc ordine manifestationis divinae apparet . Invi-
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="96"/>sibilia enim, quorum visio beatos facit, de quibus
+<lb ed="#L" n="97"/>fides est, primo a Deo revelantur angelis beatis
+<lb ed="#L" n="98"/>per apertam visionem, ut ex supra dictis patet.
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e177">
+               <lb ed="#L" n="99"/>Deinde, angelorum interveniente officio, 
+mani<lb ed="#L" break="no" n="100"/>festantur quibusdam hominibus, non quidem per
+<lb ed="#L" n="101"/>apertam visionem, sed per quandam certitudinem
+<lb ed="#L" n="102"/>provenientem ex revelatione divina.
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e188">
+               <lb ed="#L" n="103"/>Quae quidem revelatio fit quodam interiori et
+<lb ed="#L" n="104"/>intelligibili lumine mentem elevante ad 
+percipien<lb ed="#L" break="no" n="105"/>dum ea ad quae per lumen naturale intellectus
+<lb ed="#L" n="106"/>pertingere non potest. Sicut enim per lumen 
+na<lb ed="#L" break="no" n="107"/>turale intellectus redditur certus de his quae 
+lu<lb ed="#L" break="no" n="108"/>mine illo cognoscit, ut de primis principiis; ita
+<lb ed="#L" n="109"/>et de his quae supernaturali lumine. apprehendit,
+<lb ed="#L" n="110"/>certitudinem habet. Haec autem certitudo 
+neces<lb ed="#L" break="no" n="111"/>saria est ad hoc quod aliis proponi possint ea
+<lb ed="#L" n="112"/>quae divina revelatione percipiuntur: non enim
+<lb ed="#L" n="113"/>cum securitate aliis proferimus de quibus 
+certi<lb ed="#L" break="no" n="114"/>tudinem non habemus. Cum praedicto autem
+<pb ed="#L" n="450"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>lumine tentem interius illustrante, adsunt. 
+ali<lb ed="#L" break="no" n="2"/>quando in divina revelatione aliqua exteriora vel
+<lb ed="#L" n="3"/>interiora cognitionis auxilia: utpote aliquis sermo,
+<lb ed="#L" n="4"/>vel exterius sensibiliter auditus, qui divina virtute
+<lb ed="#L" n="5"/>formetur; aut etiam interius per imaginationem,
+<lb ed="#L" n="6"/>Deo faciente, perceptus; sive etiam aliqua 
+corpo<lb ed="#L" break="no" n="7"/>raliter visa exterius a Deo formata; vel etiam 
+in<lb ed="#L" break="no" n="8"/>terius in imaginatione descripta; ex quibus homo,
+<lb ed="#L" n="9"/>per lumen interius menti impressum, cognitionem
+<lb ed="#L" n="10"/>accipit divinorum. Unde huiusmodi auxilia sine
+<lb ed="#L" n="11"/>interiori lumine ad cognitionem divinorum non
+<lb ed="#L" n="12"/>sufficiunt: lumen autem interius sufficit sine istis.
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e247">
+               <lb ed="#L" n="13"/>Haec autem invisibilium Dei revelatio ad 
+sa<lb ed="#L" break="no" n="14"/>pientiam pertinet, quae proprie est cognitio 
+divi<lb ed="#L" break="no" n="15"/>norum . Et ideo dicitur Sap. vi?'^ quod sapientia
+<lb ed="#L" n="16"/>Dei per nationes in. animas sanctas se transfert :
+<lb ed="#L" n="17"/>neminem enim diligit. Deus nisi eum qui cum 
+sa<lb ed="#L" break="no" n="18"/>pientia. inhabitat. Et Eccli. xv5 dicitur: Zmplevit
+<lb ed="#L" n="19"/>eum Dominus spiritu sapientiae et intellectus.
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e265">
+               <lb ed="#L" n="20"/>Sed quia invisibilia Dei per ea quae facta sunt
+<lb ed="#L" n="21"/>intellecta cospiciuniur, per divinam. gratiam non
+<lb ed="#L" n="22"/>solum revelantur hominibus divina, sed etiam 
+ali<lb ed="#L" break="no" n="23"/>qua de rebus creatis: quod ad scientiam pertinere
+<lb ed="#L" n="24"/>videtur. Unde dicitur Sap. vu": Ipse dedit mihi
+<lb ed="#L" n="25"/>horum quae sunt scientiam veram: ul sciam 
+dis<lb ed="#L" break="no" n="26"/>positionem. orbis terrarum, el virtutes 
+elemento<lb ed="#L" break="no" n="27"/>rum, Et lI. Paralip. 1", Dominus dixit ad. 
+Salo<lb ed="#L" break="no" n="28"/>monem: Scientia et sapientia data sunt tibi.
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e287">
+               <lb ed="#L" n="29"/>Ea vero quae homo cognoscit, in notitiam 
+al<lb ed="#L" break="no" n="30"/>terius producere convenienter non potest nisi per
+<lb ed="#L" n="31"/>sermonem. Quia igitur illi qui a Deo revelationem
+<lb ed="#L" n="32"/>accipiunt, secundum ordinem divinitus institutum,
+<lb ed="#L" n="33"/>alios instruere debent; necessarium fuit ut etiam
+<lb ed="#L" n="34"/>his gratia locutionis daretur, secundum quod 
+exi<lb ed="#L" break="no" n="35"/>geret utilitas eorum qui erant instruendi. Unde
+<lb ed="#L" n="36"/>dicitur 7saiae L: Dominus dedit mihi linguam
+<lb ed="#L" n="37"/>eruditam, ut sciam sustentare eum qui lapsus est
+<lb ed="#L" n="38"/>verbo. Et Dominus discipulis dicit, Luc. xxi'5:
+<lb ed="#L" n="39"/>Ego dabo vobis os et sapientiam, cui non poterunt
+<lb ed="#L" n="40"/>resistere el contradicere omnes adversarii vestri.
+<lb ed="#L" n="41"/>- Et propter hoc etiam, quando oportuit per
+<lb ed="#L" n="42"/>paucos veritatem fidei in diversis gentibus 
+prae<lb ed="#L" break="no" n="43"/>dicari, instructi sunt quidam divinitus ut /nguis
+<lb ed="#L" n="44"/>variis loquerentur: sicut dicitur Act. n^: .Repleti
+<lb ed="#L" n="45"/>sunt omnes Spiritu Sancto, el coeperunt loqui variis
+<lb ed="#L" n="46"/>linguis, prout. Spiritus. Sanctus. dabat eloqui illis.
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e329">
+               <lb ed="#L" n="47"/>Sed quia sermo propositus confirmatione 
+indi<lb ed="#L" break="no" n="48"/>get ad hoc quod recipiatur, nisi sit per se 
+ma<lb ed="#L" break="no" n="49"/>nifestus; ea autem quae sunt fidei, sunt humanae
+<lb ed="#L" n="50"/>rationi immanifesta: necessarium fuit aliquid 
+adhi<lb ed="#L" break="no" n="51"/>beri quo confirmaretur sermo praedicantium 
+fi<lb ed="#L" break="no" n="52"/>dem. Non autem confirmari poterat per aliqua
+<lb ed="#L" n="53"/>principia rationis, per modum demonstrationis:
+<lb ed="#L" n="54"/>cum ea quae sunt fidei, rationem excedant. 
+Opor<lb ed="#L" break="no" n="55"/>tuit igitur aliquibus indiciis confirmari 
+praedican<lb ed="#L" break="no" n="56"/>tium sermonem quibus manifeste ostenderetur
+<lb ed="#L" n="57"/>huiusmodi sermonem processisee a Deo, dum
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="58"/>praedicantes talia operarentur, sanando infirmos,
+<lb ed="#L" n="59"/>et alias virtutes operando, quae non posset facere
+<lb ed="#L" n="60"/>nisi Deus. Unde Dominus, discipulos ad 
+praedi<lb ed="#L" break="no" n="61"/>candum mittens, dixit, Matth. cap. x: Infirmos
+<lb ed="#L" n="62"/>; curate, mortuos suscilale, leprosos mundate, 
+daemo<lb ed="#L" break="no" n="63"/>nes eucite. Et Marci ult.  dicitur: J/// autem 
+pro<lb ed="#L" break="no" n="64"/>Jecti. praedicaverunt ubique, Domino cooperante,
+<lb ed="#L" n="65"/>et sermonem confirmante sequentibus signis.
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e376">
+               <lb ed="#L" n="66"/>Fuit autem et alius confirmationis modus : ut,
+<lb ed="#L" n="67"/>dum praedicatores veritatis vera invenirentur 
+di<lb ed="#L" break="no" n="68"/>cere de occultis quae postmodum manifestari 
+pos<lb ed="#L" break="no" n="69"/>sunt, eis crederetur vera dicentibus de his quae
+<lb ed="#L" n="70"/>homines experiri non possunt. Unde necessarium
+<lb ed="#L" n="71"/>fuit donum prophetiae, per quod futura, et ea quae
+<lb ed="#L" n="72"/>communiter homines latent, Deo revelante, 
+pos<lb ed="#L" break="no" n="73"/>sent cognoscere et aliis indicare: ut sic, dum in his
+<lb ed="#L" n="74"/>invenirentur vera dicere, in his quae sunt fidei
+<lb ed="#L" n="75"/>eis crederetur. Unde Apostolus dicit I Cor. xiv?5:
+<lb ed="#L" n="76"/>Si omnes propheltent, intret autem. quis infidelis vel
+<lb ed="#L" n="77"/>idiota, convincitur ab omnibus, diudicatur ab 
+omni<lb ed="#L" break="no" n="78"/>bus: occulta enim cordis eius manifesta fiunt, et
+<lb ed="#L" n="79"/>ila cadens in faciem adorabit Deum, pronuntians
+<lb ed="#L" n="80"/>quod Deus vere in vobis sit.
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e411">
+               <lb ed="#L" n="81"/>Non autem per hoc prophetiae donum 
+suffi<lb ed="#L" break="no" n="82"/>ciens testimonium fidei adhiberetur, nisi esset de
+<lb ed="#L" n="83"/>his quae a solo Deo cognosci possunt: sicut et
+<lb ed="#L" n="84"/>miracula talia sunt quod solus Deus ea potest
+<lb ed="#L" n="85"/>operari. Huiusmodi autem praecipue sunt in
+<lb ed="#L" n="86"/>rebus inferioribus occulta cordium, quae solus
+<lb ed="#L" n="87"/>Deus cognoscere potest, ut supra ostensum est;
+<lb ed="#L" n="88"/>et futura contingentia, quae etiam soli divinae
+<lb ed="#L" n="89"/>cognitioni subsunt, quia ea in seipsis videt, cum
+<lb ed="#L" n="90"/>sint ei praesentia ratione suae aeternitatis, ut 
+su<lb ed="#L" break="no" n="91"/>pra ostensum est.
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e437">
+               <lb ed="#L" n="92"/>Possunt tamen aliqua futura contingentia etiam
+<lb ed="#L" n="93"/>ab hominibus praecognosci: non quidem 
+inquan<lb ed="#L" break="no" n="94"/>tum futura sunt, sed inquantum in causis suis
+<lb ed="#L" n="95"/>praeexistunt; quibus cognitis, vel secundum 
+se<lb ed="#L" break="no" n="96"/>ipsas, vel per aliquos effectus earum manifestos,
+<lb ed="#L" n="97"/>quae signa dicuntur, de aliquibus effectibus futuris
+<lb ed="#L" n="98"/>potest ab homine praecognitio haberi; sicut 
+me<lb ed="#L" break="no" n="99"/>dicus. praecognoscit mortem vel sanitatem 
+futu<lb ed="#L" break="no" n="100"/>ram ex statu virtutis naturalis, quam | cognoscit
+<lb ed="#L" n="101"/>pulsu, urina, et huiusmodi signis. Huiusmodi 
+au<lb ed="#L" break="no" n="102"/>tem cognitio futurorum partim quidem certa est:
+<lb ed="#L" n="103"/>partim vero incerta. Sunt enim quaedam causae
+<lb ed="#L" n="104"/>praeexistentes ex quibus futuri effectus ex 
+neces<lb ed="#L" break="no" n="105"/>sitate consequuntur: sicut, praeexistente 
+compo<lb ed="#L" break="no" n="106"/>sitione ex contrariis in animali, ex necessitate
+<lb ed="#L" n="107"/>sequitur mors. Quibusdam vero causis 
+praeexis<lb ed="#L" break="no" n="108"/>tentibus, sequuntur futuri effectus non ex 
+neces<lb ed="#L" break="no" n="109"/>sitate, sed ut frequenter: sicut ex semine hominis
+<lb ed="#L" n="110"/>in matricem proiecto, ut in pluribus, sequitur
+<lb ed="#L" n="111"/>homo perfectus; quandoque tamen monstra 
+ge<lb ed="#L" break="no" n="112"/>nerantur, propter aliquod impedimentum 
+super<lb ed="#L" break="no" n="113"/>veniens operationi naturalis virtutis. Primorum
+<lb ed="#L" n="114"/>igitur effectuum praecognitio certa habetur: ho-
+<pb ed="#L" n="451"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>rum autem qui posterius dicti. sunt, non est
+<lb ed="#L" n="2"/>praecognitio infallibiliter certa. Praecognitio autem
+<lb ed="#L" n="3"/>quae de futuris habetur ex revelatione divina, 
+se<lb ed="#L" break="no" n="4"/>cundum gratiam prophetalem, est omnino certa:
+<lb ed="#L" n="5"/>sicut et divina praecognitio est certa. Non enim
+<lb ed="#L" n="6"/>Deus praecognoscit futura solum prout sunt in
+<lb ed="#L" n="7"/>suis causis, sed infallibiliter, secundum quod sunt
+<lb ed="#L" n="8"/>in seipsis, sicut superius  ostensum est. Unde
+<lb ed="#L" n="9"/>et cognitio prophetica per eundem modum datur
+<lb ed="#L" n="10"/>homini de futuris cum certitudine perfecta. - Nec
+<lb ed="#L" n="11"/>tamen haec certitudo repugnat contingentiae 
+fu<lb ed="#L" break="no" n="12"/>turorum, sicut nec certitudo scientiae divinae, ut
+<lb ed="#L" n="13"/>supra  ostensum est.
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e522">
+               <lb ed="#L" n="14"/>Revelantur tamen aliquando aliqui futuri 
+effe<lb ed="#L" break="no" n="15"/>ctus prophetis, non secundum quod sunt in seipsis,
+<lb ed="#L" n="16"/>sed secundum quod sunt in causis suis. Et tunc
+<lb ed="#L" n="17"/>nihil prohibet, si causae impediantur ne 
+perve<lb ed="#L" break="no" n="18"/>niant ad suos effectus, quin etiam prophetae 
+prae<lb ed="#L" break="no" n="19"/>nuntiatio immutetur: sicut Isaias praenuntiavit
+<lb ed="#L" n="20"/>Ezechiae aegrotanti, Dispone domui tuae, quia 
+mo<lb ed="#L" break="no" n="21"/>iM cer -Fieris el non vives, qui tamen sanatus est; et
+<lb ed="#L" n="22"/>Ionas Propheta praenuntiavit quod post 
+quadra<lb ed="#L" break="no" n="23"/>ginla dies Ninive subverteretur , nec tamen est
+<lb ed="#L" n="24"/>subversa. Praenuntiavit igitur Isaias mortem 
+fu<lb ed="#L" break="no" n="25"/>turam Ezechiae secundum ordinem dispositionis
+<lb ed="#L" n="26"/>^w corporis et aliarum causarum inferiorum ad istum
+<lb ed="#L" n="27"/>effectum; et Ionas subversionem Ninive 
+secun<lb ed="#L" break="no" n="28"/>dum exigentiam meritorum; utrobique tamen
+<lb ed="#L" n="29"/>aliter evenit secundum operationem Dei liberantis
+<lb ed="#L" n="30"/>et sanantis.
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e561">
+               <lb ed="#L" n="31"/>Sic igitur prophetica denuntiatio de futuris 
+suf<lb ed="#L" break="no" n="32"/>ficiens est fidei argumentum: quia, licet homines
+<lb ed="#L" n="33"/>aliqua de futuris praecognoscant, non tamen de
+<lb ed="#L" n="34"/>futuris contingentibus est praecognitio cum 
+cer<lb ed="#L" break="no" n="35"/>titudine, sicut est praecognitio prophetiae. Etsi
+<lb ed="#L" n="36"/>enim aliquando fiat prophetae revelatio 
+secun<lb ed="#L" break="no" n="37"/>dum ordinem causarum ad aliquem effectum,
+<lb ed="#L" n="38"/>simul tamen, vel postea, fit eidem revelatio de
+<lb ed="#L" n="39"/>eventu futuri effectus, qualiter sit immutandus :
+<lb ed="#L" n="40"/>sicut Isaiae revelata fuit sanatio Ezechiae, et
+<lb ed="#L" n="41"/>Ionae liberatio Ninivitarum .
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e587">
+               <lb ed="#L" n="42"/>Maligni autem spiritus, veritatem fidei 
+corrum<lb ed="#L" break="no" n="43"/>pere molientes, sicut abutuntur operatione 
+mira<lb ed="#L" break="no" n="44"/>culorum ut errorem inducant et argumentum
+<lb ed="#L" n="45"/>verae fidei debilitent, tamen non vere miracula
+<lb ed="#L" n="46"/>faciendo, sed ea quae hominibus miraculosa 
+ap<lb ed="#L" break="no" n="47"/>parent, ut supra  ostensum est: ita etiam 
+abu<lb ed="#L" break="no" n="48"/>tuntur prophetica praenuntiatione, non quidem
+<lb ed="#L" n="49"/>vere prophetando, sed praenuntiando aliqua 
+se<lb ed="#L" break="no" n="50"/>cundum ordinem causarum homini occultarum,
+<lb ed="#L" n="51"/>ut videantur futura praecognoscere in seipsis. Et
+<lb ed="#L" n="52"/>licet ex causis naturalibus effectus contingentes
+<lb ed="#L" n="53"/>proveniant, praedicti tamen spiritus, subtilitate 
+in<lb ed="#L" break="no" n="54"/>tellectus sui, magis possunt cognoscere quam 
+ho<lb ed="#L" break="no" n="55"/>mines quando et qualiter effectus naturalium
+<lb ed="#L" n="56"/>causarum impediri possint: et ideo in praenun-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="57"/>tiando futura mirabiliores et veraciores apparent
+<lb ed="#L" n="58"/>quam homines quantumcumque scientes. Inter
+<lb ed="#L" n="59"/>causas autem naturales, supremae, et a cognitione
+<lb ed="#L" n="60"/>nostra magis remotae, sunt vires caelestium 
+cor<lb ed="#L" break="no" n="61"/>porum: quas praedictis spiritibus cognitas esse
+<lb ed="#L" n="62"/>secundum proprietatem suae naturae, ex 
+supe<lb ed="#L" break="no" n="63"/>rioribus patet. Cum ergo omnia inferiora 
+cor<lb ed="#L" break="no" n="64"/>pora secundum vires et motum superiorum 
+cor<lb ed="#L" break="no" n="65"/>porum disponantur?, possunt praedicti spiritus
+<lb ed="#L" n="66"/>multo magis quam aliquis astrologus, 
+praenun<lb ed="#L" break="no" n="67"/>tiare ventos et tempestates futuras, corruptiones
+<lb ed="#L" n="68"/>aeris, et alia huiusmodi quae circa mutationes
+<lb ed="#L" n="69"/>inferiorum corporum accidunt ex motu 
+superio<lb ed="#L" break="no" n="70"/>rum corporum causata. Et licet caelestia corpora
+<lb ed="#L" n="71"/>super partem intellectivam animae directe non
+<lb ed="#L" n="72"/>possint imprimere, ut supra ostensum est, 
+plu<lb ed="#L" break="no" n="73"/>rimi tamen sequuntur impetus passionum et 
+in<lb ed="#L" break="no" n="74"/>clinationes corporales, in quas efficaciam habere
+<lb ed="#L" n="75"/>caelestia corpora manifestum est: solum enim
+<lb ed="#L" n="76"/>sapientum, quorum parvus est numerus, est 
+hu<lb ed="#L" break="no" n="77"/>iusmodi passionibus ratione obviare. Et inde est
+<lb ed="#L" n="78"/>quod etiam de actibus hominum multa praedicere
+<lb ed="#L" n="79"/>possunt: licet quandoque et ipsi in praenuntiando
+<lb ed="#L" n="80"/>deficiant, propter arbitrii libertatem.
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e677">
+               <lb ed="#L" n="81"/>Ea vero quae praecognoscunt, praenuntiant
+<lb ed="#L" n="82"/>quidem non mentem illustrando, sicut fit in 
+reve<lb ed="#L" break="no" n="83"/>latione divina: non enim eorum intentio est ut
+<lb ed="#L" n="84"/>mens humana perficiatur ad veritatem 
+cogno<lb ed="#L" break="no" n="85"/>scendam, sed magis quod a veritate avertatur.
+<lb ed="#L" n="86"/>Praenuntiant autem quandoque quidem 
+secun<lb ed="#L" break="no" n="87"/>dum imaginationis immutationem, vel in 
+dor<lb ed="#L" break="no" n="88"/>miendo, sicut cum per somnia aliquorum 
+futu<lb ed="#L" break="no" n="89"/>rorum indicia monstrant; sive in vigilando, sicut
+<lb ed="#L" n="90"/>in arreptitiis et phreneticis patet, qui aliqua futura
+<lb ed="#L" n="91"/>praenuntiant; aliquando vero per aliqua exteriora
+<lb ed="#L" n="92"/>indicia, sicut per motus et garritus avium, et per
+<lb ed="#L" n="93"/>ea quae apparent in extis animalium, et in 
+puncto<lb ed="#L" break="no" n="94"/>rum quorundam descriptione, et in similibus, quae
+<lb ed="#L" n="95"/>sorte quadam fieri videntur; aliquando autem 
+vi<lb ed="#L" break="no" n="96"/>sibiliter apparendo, et sermone sensibili 
+praenun<lb ed="#L" break="no" n="97"/>tiando futura.
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e716">
+               <lb ed="#L" n="98"/>Et licet horum ultimum manifeste per 
+mali<lb ed="#L" break="no" n="99"/>gnos spiritus fiat, tamen alia quidam reducere
+<lb ed="#L" n="100"/>conantur in aliquas causas naturales. Dicunt enim
+<lb ed="#L" n="101"/>quod, cum corpus caeleste moveat ad aliquos
+<lb ed="#L" n="102"/>effectus in istis inferioribus, ex eiusdem corporis
+<lb ed="#L" n="103"/>impressione in aliquibus rebus illius effectus 
+si<lb ed="#L" break="no" n="104"/>gna quaedam apparent: caelestem enim 
+impres<lb ed="#L" break="no" n="105"/>sionem diversae res diversimode recipiunt. 
+Se<lb ed="#L" break="no" n="106"/>cundum hoc ergo dicunt quod immutatio quae
+<lb ed="#L" n="107"/>fit a corpore caelesti in aliqua re, potest accipi
+<lb ed="#L" n="108"/>ut signum immutationis alterius rei. Et ideo 
+di<lb ed="#L" break="no" n="109"/>cunt quod motus qui sunt praeter deliberationem
+<lb ed="#L" n="110"/>rationis, ut visa somniantium et eorum qui sunt
+<lb ed="#L" n="111"/>mente capti. et motus et garritus avium, et 
+de<lb ed="#L" break="no" n="112"/>scriptiones punctorum cum quis non deliberat
+<pb ed="#L" n="452"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>quot puncta debeat describere, sequuntur 
+impres<lb ed="#L" break="no" n="2"/>sionem corporis caelestis. Et ideo dicunt quod
+<lb ed="#L" n="3"/>huiusmodi possunt esse signa effectuum 
+futuro<lb ed="#L" break="no" n="4"/>rum qui ex motu caeli causantur.
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e764">
+               <lb ed="#L" n="5"/>Sed quia hoc modicam rationem habet, magis
+<lb ed="#L" n="6"/>aestimandum est quod praenuntiationes quae ex
+<lb ed="#L" n="7"/>huiusmodi signis fiunt, ab aliqua intellectuali 
+sub<lb ed="#L" break="no" n="8"/>stantia originem habeant, cuius virtute 
+disponun<lb ed="#L" break="no" n="9"/>tur praedicti motus praeter deliberationem  
+exi<lb ed="#L" break="no" n="10"/>stentes, secundum quod congruit observationi
+<lb ed="#L" n="11"/>futurorum. Et licet quandoque haec disponantur
+<lb ed="#L" n="12"/>voluntate divina, ministerio bonorum spirituum,
+<lb ed="#L" n="13"/>quia et a Deo multa per somnia revelantur, sicut
+<lb ed="#L" n="14"/>Pharaoni et Nabuchodonosor ?; et sortes quae
+<lb ed="#L" n="15"/>mittuntur 4n sinu, quandoque etiam a Domino 
+tem<lb ed="#L" break="no" n="16"/>perantur, ut Salomon dicit : tamen plerumque
+<lb ed="#L" n="17"/>ex operatione spirituum maiignorum accidunt; ut
+<lb ed="#L" n="18"/>et sancti Doctores dicunt, et etiam ipsi gentiles
+<lb ed="#L" n="19"/>censuerunt; dicit enim Maximus Valerius quod
+<lb ed="#L" n="20"/>observatio auguriorum et somniorum et 
+huius<lb ed="#L" break="no" n="21"/>modi ad religionem pertinent, qua idola 
+coleban<lb ed="#L" break="no" n="22"/>tur. Et ideo in veteri lege, simul cum idololatria,
+<lb ed="#L" n="23"/>haec omnia prohibebantur: dicitur enim Deut.
+<lb ed="#L" n="24"/>xvu?": Ne imitari velis abominationes illarum
+<lb ed="#L" n="25"/>gentium, quae scilicet idolis serviebant ; mec 
+in<lb ed="#L" break="no" n="26"/>venialur in le qui lustret. filium suum aul filiam
+<lb ed="#L" n="27"/>ducens per ignem; aut qui ariolos scisciletur, el
+<lb ed="#L" n="28"/>observet somnia atque auguria; nec sil maleficus
+<lb ed="#L" n="29"/>neque incantator ; neque qui pythones consulat nec
+<lb ed="#L" n="30"/>divinos, e. quaerat a mortuis veritatem.
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e823">
+               <lb ed="#L" n="31"/>Attestatur autem praedicationi fidei prophetia
+<lb ed="#L" n="32"/>per alium modum : inquantum scilicet aliqua
+<lb ed="#L" n="33"/>fide tenenda praedicantur quae temporaliter
+<lb ed="#L" n="34"/>aguntur, sicut nativitas Christi, passio et 
+resur<lb ed="#L" break="no" n="35"/>rectio, et huiusmodi; et ne. huiusmodi ficta
+<lb ed="#L" n="36"/>a praedicantibus esse credantur, aut. casualiter
+<lb ed="#L" n="37"/>evenisse, ostenduntur longe ante per prophetas
+<lb ed="#L" n="38"/>praedicta. Unde Apostolus dicit, Rom. 1': Paulus,
+<lb ed="#L" n="39"/>servus lesu Christi, vocatus Apostolus, 
+segre<lb ed="#L" break="no" n="40"/>galus in evangelium Dei, quod ante promiserat
+<lb ed="#L" n="41"/>per prophetas suos in Scripturis Sanctis, de Filio
+<lb ed="#L" n="42"/>suo, qui factus est.ei ex semine David secundum
+<lb ed="#L" n="43"/>carnem.
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e854">
+               <lb ed="#L" n="44"/>Post gradum autem illorum qui immediate 
+re<lb ed="#L" break="no" n="45"/>velationem a Deo recipiunt, est necessarius alius
+<lb ed="#L" n="46"/>gratiae gradus. Quia enim homines revelationem
+<lb ed="#L" n="47"/>a Deo accipiunt non solum pro praesenti tempore,
+<lb ed="#L" n="48"/>sed etiam ad instructionem omnium futurorum,
+<lb ed="#L" n="49"/>necessarium fuit ut non solum ea quae ipsis 
+re<lb ed="#L" break="no" n="50"/>velantur, sermone narrarentur praesentibus; sed
+<lb ed="#L" n="51"/>etiam scriberentur ad instructionem futurorum:
+<lb ed="#L" n="52"/>Unde et oportuit aliquos esse qui huiusmodi scripta
+<lb ed="#L" n="53"/>interpretarentur. Quod divina gratia esse oportet,
+<lb ed="#L" n="54"/>sicut et ipsa revelatio per gratiam Dei fuit. Unde
+<lb ed="#L" n="55"/>et Gen. xL? dicitur: Numquid non Dei est 
+inter<lb ed="#L" break="no" n="56"/>pretatio?
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e885">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="57"/>Sequitur autem ultimus gradus: eorum scilicet
+<lb ed="#L" n="58"/>qui ea quae aliis sunt revelata, et per alios 
+in<lb ed="#L" break="no" n="59"/>terpretata, fideliter credunt . Hoc autem Dei 
+do<lb ed="#L" break="no" n="60"/>num esse superius  ostensum est. Quia vero per
+<lb ed="#L" n="61"/>malignos spiritus aliqua similia fiunt his quibus
+<lb ed="#L" n="62"/>fides confirmatur, tam in signorum operatione
+<lb ed="#L" n="63"/>quam in futurorum revelatione, ut supra dictum
+<lb ed="#L" n="64"/>est ; ne per huiusmodi homines decepti mendacio
+<lb ed="#L" n="65"/>credant, necessarium est ut adiutorio divinae 
+gra<lb ed="#L" break="no" n="66"/>tiae instruantur de huiusmodi spiritibus 
+discernen<lb ed="#L" break="no" n="67"/>dis: secundum quod dicitur I Ioan. iv: <quote xml:id="v8naTA-d1e2965-Qd1e913">Nolite
+<lb ed="#L" n="68"/>omni spiritui credere, sed probale spiritus, si ex
+<lb ed="#L" n="69"/>Deo sunt.</quote>
+            </p>
+            <p xml:id="v8naTA-d1e2965-d1e922">
+               <lb ed="#L" n="70"/>Hos autem gratiae effectus, ad instructionem
+<lb ed="#L" n="71"/>et confirmationem fidei ordinatos, Apostolus 
+enu<lb ed="#L" break="no" n="72"/>merat I ad Cor. XIII, dicens: <quote xml:id="v8naTA-d1e2965-Qd1e930">Alii per Spiritum
+<lb ed="#L" n="73"/>datur sermo sapientiae; alii autem sermo scientiae,
+<lb ed="#L" n="74"/>secundum eundem Spiritum; alleri fides, in eodem
+<lb ed="#L" n="75"/>Spiritu; alii gratia sanitatum, in uno Spiritu; alii
+<lb ed="#L" n="76"/>operatio virlutum; alii prophelia; alii discretio 
+spi<lb ed="#L" break="no" n="77"/>rituum; alii genera linguarum; alii. interpretatio
+<lb ed="#L" n="78"/>sermonum.</quote>
+            </p>
+            <p xml:id="v8naTA-d1e2965-d1e947">
+               <lb ed="#L" n="79"/>Per hoc autem excluditur error quorundam
+<lb ed="#L" n="80"/>Manichaeorum, qui. dicunt corporalia miracula
+<lb ed="#L" n="81"/>non esse a Deo facta. - Simul etiam excluditur
+<lb ed="#L" n="82"/>eorum error quantum ad hoc quod dicunt 
+pro<lb ed="#L" break="no" n="83"/>phetas non esse Spiritu Dei locutos . — Excluditur
+<lb ed="#L" n="84"/>etiam error Priscillae et Montani, qui dicebant
+<lb ed="#L" n="85"/>prophetas, tanquam arreptitios, non intellexisse
+<lb ed="#L" n="86"/>quae loquebantur. Quod divinae revelationi non
+<lb ed="#L" n="87"/>congruit, secundum quam mens rin dipaliuR i
+<lb ed="#L" n="88"/>luminatur.
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e971">
+               <lb ed="#L" n="89"/>In praemissis autem gratiae effectibus  
+consi<lb ed="#L" break="no" n="90"/>deranda est quaedam differentia. Nam etsi 
+omni<lb ed="#L" break="no" n="91"/>bus gratiae nomen competat, quia gratis, absque
+<lb ed="#L" n="92"/>praecedenti. merito, conferuntur; solus tamen 
+di<lb ed="#L" break="no" n="93"/>lectionis effectus ulterius nomen gratiae meretur.
+<lb ed="#L" n="94"/>ex hoc quod gratum Deo facit: dicitur enim
+<lb ed="#L" n="95"/>Proverb. vu: Ego diligentes me diligo. Unde
+<lb ed="#L" n="96"/>fides et spes, et alia quae ad fidem ordinantur,
+<lb ed="#L" n="97"/>possunt esse in peccatoribus, qui non sunt Deo
+<lb ed="#L" n="98"/>grati: sola autem dilectio est proprium donum
+<lb ed="#L" n="99"/>iustorum, quia qui manet in caritate, in Deo 
+ma<lb ed="#L" break="no" n="100"/>net, et Deus in eo, ut dicitur 1 Zoan. 1v '.
+</p>
+            <p xml:id="v8naTA-d1e2965-d1e1000">
+               <lb ed="#L" n="101"/>Est autem et alia differentia in praedictis 
+effe<lb ed="#L" break="no" n="102"/>ctibus gratiae consideranda. Nam quidam eorum
+<lb ed="#L" n="103"/>sunt ad totam vitam hominis necessarii, utpote
+<lb ed="#L" n="104"/>sine quibus salus esse non potest: sicut credere,
+<lb ed="#L" n="105"/>sperare, diligere, et praeceptis Dei obedire. Et
+<lb ed="#L" n="106"/>ad hos effectus necesse est habituales quasdam
+<lb ed="#L" n="107"/>perfectiones hominibus inesse, ut secundum eas
+<lb ed="#L" n="108"/>agere possint cum fuerit tempus. — Alii vero 
+ef<lb ed="#L" break="no" n="109"/>fectus sunt necessarii, non per totam vitam, sed.
+<lb ed="#L" n="110"/>certis temporibus et locis: sicut facere miracula,
+<lb ed="#L" n="111"/>praenuntiare futura, et huiusmodi. Et ad hos non
+<lb ed="#L" n="112"/>dantur habituales perfectiones, sed impressiones
+<pb ed="#L" n="453"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>quaedam fiunt a Deo quae cessant actu cessante,
+<lb ed="#L" n="2"/>et eas oportet iterari cum actus iterari fuerit 
+op<lb ed="#L" break="no" n="3"/>portunum: sicut prophetae mens in qualibet re-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="4"/>velatione novo lumine illustratur; et in qualibet
+<lb ed="#L" n="5"/>miraculorum operatione oportet adesse novam
+<lb ed="#L" n="6"/>efficaciam divinae virtutis.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

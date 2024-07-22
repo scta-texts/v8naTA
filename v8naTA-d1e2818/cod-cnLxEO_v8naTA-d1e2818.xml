@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 136</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 136</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="412"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2818"><!-- v8naTA-l3c136 -->
+            <head xml:id="v8naTA-d1e2818-Hd1e101">Capitulum 136</head>
+            <head xml:id="v8naTA-d1e2818-Hd1e103" type="question-title">De errore eorum qui perpetuam continentiam impugnant.</head>
+            <p xml:id="v8naTA-d1e2818-d1e106">
+               <pb ed="#L" n="412"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=412"/>CAPITULUM CENTESIMUM TRIGESIMUM SEXTUM
+<lb ed="#L" n="2"/>ET CENTESIMUM TRIGESIMUM SEPTIMUM
+<lb ed="#L" n="3"/>DE ERRORE EORUM QUI PERPETUAM CONTINENTIAM IMPUGNANT.
+</p>
+            <p xml:id="v8naTA-d1e2818-d1e119">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="4"/>SIcUT autem contra paupertatis 
+perfectio<lb ed="#L" break="no" n="5"/>nem, ita et contra continentiae bonum
+<lb ed="#L" n="6"/>quidam perversi sensus homines sunt
+<lb ed="#L" n="7"/>locuti. Quorum quidam bonum 
+con<lb ed="#L" break="no" n="8"/>tinentiae his et similibus rationibus excludere
+<lb ed="#L" n="9"/>nituntur.
+</p>
+            <p xml:id="v8naTA-d1e2818-d1e137">
+               <lb ed="#L" n="10"/>Viri enim et mulieris coniunctio ad bonum
+<lb ed="#L" n="11"/>speciei ordinatur. Divinius autem est bonum speciei
+<lb ed="#L" n="12"/>quam bonum individui. Magis ergo peccat qui
+<lb ed="#L" n="13"/>omnino abstinet ab actu quo conservatur species,
+<lb ed="#L" n="14"/>quam peccaret si abstineret ab actu quo 
+con<lb ed="#L" break="no" n="15"/>servatur individuum, sicut sunt comestio et potus,
+<lb ed="#L" n="16"/>et alia huiusmodi.
+</p>
+            <p xml:id="v8naTA-d1e2818-d1e156">
+               <lb ed="#L" n="17"/>Adhuc. Ex divina ordinatione dantur homini
+<lb ed="#L" n="18"/>membra ad generationem apta; et etiam vis 
+con<lb ed="#L" break="no" n="19"/>cupiscibilis incitans; et alia huiusmodi ad hoc
+<lb ed="#L" n="20"/>ordinata. Videtur igitur contra divinam 
+ordina<lb ed="#L" break="no" n="21"/>tionem agere qui omnino ab actu generationis
+<lb ed="#L" n="22"/>abstinet.
+</p>
+            <p xml:id="v8naTA-d1e2818-d1e172">
+               <lb ed="#L" n="23"/>Item. Si bonum est quod unus contineat, melius
+<lb ed="#L" n="24"/>est quod multi, optimum autem quod omnes.
+<lb ed="#L" n="25"/>Sed ex hoc sequitur quod genus humanum 
+de<lb ed="#L" break="no" n="26"/>ficiat. Non igitur bonum est quod aliquis homo
+<lb ed="#L" n="27"/>omnino contineat.
+</p>
+            <p xml:id="v8naTA-d1e2818-d1e185">
+               <lb ed="#L" n="28"/>Amplius. Castitas, sicut et aliae virtutes, in
+<lb ed="#L" n="29"/>medietate consistit. Sicut igitur contra virtutem
+<lb ed="#L" n="30"/>agit qui omnino concupiscentias insequitur, et
+<lb ed="#L" n="31"/>intemperatus est; ita contra virtutem agit qui
+<lb ed="#L" n="32"/>omnino a concupiscentiis abstinet, et 
+insensi<lb ed="#L" break="no" n="33"/>bilis est.
+</p>
+            <p xml:id="v8naTA-d1e2818-d1e201">
+               <lb ed="#L" n="34"/>Praeterea. Non est possibile quin in homine 
+con<lb ed="#L" break="no" n="35"/>cupiscentiae venereorum aliquae oriantur: cum
+<lb ed="#L" n="36"/>naturales sint. Resistere autem omnino 
+concu<lb ed="#L" break="no" n="37"/>piscentiis, et quasi continuam pugnam habere,
+<lb ed="#L" n="38"/>maiorem inquietudinem animo tribuit quam si
+<lb ed="#L" n="39"/>aliquis moderate concupiscentiis uteretur. Cum
+<lb ed="#L" n="40"/>igitur inquietudo animi maxime perfectioni 
+vir<lb ed="#L" break="no" n="41"/>tutis repugnet, videtur perfectioni virtutis 
+adver<lb ed="#L" break="no" n="42"/>sari quod aliquis perpetuam continentiam servet.
+</p>
+            <p xml:id="v8naTA-d1e2818-d1e223">
+               <lb ed="#L" n="43"/>Haec igitur contra perpetuam continentiam
+<lb ed="#L" n="44"/>obiici videntur. Quibus etiam adiungi potest 
+prae<lb ed="#L" break="no" n="45"/>ceptum Domini, quod primis parentibus legitur
+<lb ed="#L" n="46"/>esse datum, Genesis 1? et ix': Crescile et 
+multipli<lb ed="#L" break="no" n="47"/>camini, et replele terram. Quod non est revocatum,
+<lb ed="#L" n="48"/>sed magis videtur esse a Domino in Evangelio
+<lb ed="#L" n="49"/>confirmatum, Matth. xix ?, ubi dicitur: Quod Deus
+<lb ed="#L" n="50"/>coniunxit, homo non separet, de coniunctione ma-
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="51"/>trimonii loquens. Contra hoc autem praeceptum
+<lb ed="#L" n="52"/>expresse faciunt qui perpetuam continentiam 
+ser<lb ed="#L" break="no" n="53"/>vant. Videtur igitur esse illicitum perpetuam 
+con<lb ed="#L" break="no" n="54"/>tinentiam servare.
+</p>
+            <p xml:id="v8naTA-d1e2818-d1e254">
+               <lb ed="#L" n="55"/>Haec autem non difficile est solvere secundum
+<lb ed="#L" n="56"/>ea quae praemissa sunt . Considerandum enim
+<lb ed="#L" n="57"/>est quod alia ratio est habenda in his quae ad
+<lb ed="#L" n="58"/>necessitatem uniuscuiusque hominis pertinent:
+<lb ed="#L" n="59"/>atque alia in his quae pertinent ad multitudinis
+<lb ed="#L" n="60"/>necessitatem. In his enim quae ad uniuscuiusque
+<lb ed="#L" n="61"/>hominis necessitatem pertinent, oportet quod 
+cui<lb ed="#L" break="no" n="62"/>libet provideatur. Huiusmodi autem sunt cibus et
+<lb ed="#L" n="63"/>potus, et alia quae ad sustentationem individui
+<lb ed="#L" n="64"/>pertinent. Unde necessarium est quod quilibet
+<lb ed="#L" n="65"/>cibo et potu utatur. In his autem quae necessaria
+<lb ed="#L" n="66"/>sunt multitudini, non oportet quod cuilibet de
+<lb ed="#L" n="67"/>multitudine attribuatur: neque etiam est possibile.
+<lb ed="#L" n="68"/>Patet enim multa esse necessaria multitudini 
+ho<lb ed="#L" break="no" n="69"/>minum, ut cibus, potus, vestimentum, domus,
+<lb ed="#L" n="70"/>et alia huiusmodi, quae impossibile est quod per
+<lb ed="#L" n="71"/>unum procurentur. Et ideo oportet diversorum
+<lb ed="#L" n="72"/>esse diversa officia: sicut et in corpore diversa
+<lb ed="#L" n="73"/>membra ad diversos actus ordinantur. Quia ergo
+<lb ed="#L" n="74"/>generatio non est de necessitate individui, sed
+<lb ed="#L" n="75"/>de necessitate totius speciel, non est necessarium
+<lb ed="#L" n="76"/>quod omnes homines actibus generationis vacent;
+<lb ed="#L" n="77"/>sed quidam, ab his actibus abstinentes, aliis officiis
+<lb ed="#L" n="78"/>mancipentur, puta militiae vel contemplationi.
+</p>
+            <p xml:id="v8naTA-d1e2818-d1e310">
+               <lb ed="#L" n="79"/>Ex quo patet solutio ad secundum. Ex divina
+<lb ed="#L" n="80"/>enim providentia dantur homini-ea quae sunt
+<lb ed="#L" n="81"/>toti speciei necessaria: nec tamen oportet quod
+<lb ed="#L" n="82"/>quilibet homo quolibet illorum utatur. Data est
+<lb ed="#L" n="83"/>enim homini industria aedificandi, virtus ad. 
+pu<lb ed="#L" break="no" n="84"/>gnandum: nec tamen oportet quod omnes sint
+<lb ed="#L" n="85"/>aedificatores aut milites. Similiter, licet homini
+<lb ed="#L" n="86"/>divinitus sint provisa virtus generativa et ea quae
+<lb ed="#L" n="87"/>ad actum eius ordinantur, non tamen oportet
+<lb ed="#L" n="88"/>quod quilibet actui generationis intendat.
+</p>
+            <p xml:id="v8naTA-d1e2818-d1e334">
+               <lb ed="#L" n="89"/>Unde etiam patet solutio ad tertium. Ab his
+<lb ed="#L" n="90"/>enim quae multitudini sunt necessaria, quamvis
+<lb ed="#L" n="91"/>quantum ad singulos melius sit quod abstineat,
+<lb ed="#L" n="92"/>melioribus deditus; non tamen est bonum quod
+<lb ed="#L" n="93"/>omnes abstineant. Sicut et in ordine universi
+<lb ed="#L" n="94"/>apparet: quamvis enim substantia spiritualis sit
+<lb ed="#L" n="95"/>melior quam corporalis, non tamen esset melius
+<lb ed="#L" n="96"/>universum in quo essent solae substantiae 
+spi<lb ed="#L" break="no" n="97"/>rituales, sed imperfectius. Et quamvis sit melior
+<pb ed="#L" n="413"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>oculus pede in corpore animalis, non tamen
+<lb ed="#L" n="2"/>esset perfectum animal nisi haberet et oculum et
+<lb ed="#L" n="3"/>pedem. Ita etiam nec multitudo humani generis
+<lb ed="#L" n="4"/>haberet statum perfectum nisi essent aliqui 
+inten<lb ed="#L" break="no" n="5"/>dentes generationis actibus, et aliqui ab his 
+absti<lb ed="#L" break="no" n="6"/>nentes et contemplationi vacantes.
+</p>
+            <p xml:id="v8naTA-d1e2818-d1e373">
+               <lb ed="#L" n="7"/>Quod autem quarto obiicitur, quod necesse
+<lb ed="#L" n="8"/>est virtutem in medio esse: solvitur per id quod
+<lb ed="#L" n="9"/>supra  iam de paupertate dictum est. Medium
+<lb ed="#L" n="10"/>enim virtutis non accipitur semper secundum
+<lb ed="#L" n="11"/>quantitatem rei quae ordinatur ratione, sed 
+se<lb ed="#L" break="no" n="12"/>cundum regulam rationis, quae debitum finem
+<lb ed="#L" n="13"/>attingit, et circumstantias convenientes metitur.
+<lb ed="#L" n="14"/>Et sic, ab omnibus venereorum delectationibus
+<lb ed="#L" n="15"/>abstinere praeter rationem, vitium insensibilitatis
+<lb ed="#L" n="16"/>dicitur. Si autem secundum rationem fiat, virtus
+<lb ed="#L" n="17"/>est, quae communem hominis modum excedit:
+<lb ed="#L" n="18"/>facit enim homines esse in quadam divinae 
+si<lb ed="#L" break="no" n="19"/>militudinis participatione; unde virginitas angelis
+<lb ed="#L" n="20"/>dicitur esse. cognata .
+</p>
+            <p xml:id="v8naTA-d1e2818-d1e406">
+               <lb ed="#L" n="21"/>Ad quintum dicendum quod sollicitudo et 
+occu<lb ed="#L" break="no" n="22"/>patio quam habent hi qui coniugio utuntur, de
+<lb ed="#L" n="23"/>uxoribus, filiis, et necessariis vitae acquirendis, est
+<lb ed="#L" n="24"/>continua. Inquietatio autem quam homo patitur ex
+<lb ed="#L" n="25"/>pugna concupiscentiarum, est ad aliquam horam.
+<lb ed="#L" n="26"/>Quae etiam minoratur per hoc quod ei aliquis non
+<lb ed="#L" n="27"/>consentit: nam quanto aliquis magis delectabilibus
+<lb ed="#L" n="28"/>utitur, tanto magis crescit in eo delectabilis 
+appe<lb ed="#L" break="no" n="29"/>titus . Debilitantur etiam concupiscentiae per 
+absti<lb ed="#L" break="no" n="30"/>nentias, etalia exercitia corporalia quae conveniunt
+<lb ed="#L" n="31"/>his qui continentiae propositum habent. — Usus
+<lb ed="#L" n="32"/>etiam corporalium delectabilium  magis- abducit
+<lb ed="#L" n="33"/>mentem a sua altitudine, et impedit a 
+contem<lb ed="#L" break="no" n="34"/>platione spiritualium, quam inquietudo quae 
+pro<lb ed="#L" break="no" n="35"/>venit resistendo concupiscentiis horum 
+delectabi<lb ed="#L" break="no" n="36"/>lium: quia per usum delectabilium, et maxime
+<lb ed="#L" n="37"/>venereorum, mens maxime carnalibus inhaeret;
+<lb ed="#L" n="38"/>cum delectatio faciat quiescere appetitum in re
+<lb ed="#L" n="39"/>delectabili. Et ideo his qui ad contemplationem
+<lb ed="#L" n="40"/>divinorum, et cuiuscumque veritatis, intendunt,
+<lb ed="#L" n="41"/>maxime nocivum est venereis deditos esse, et
+<lb ed="#L" n="42"/>maxime utile ab eis abstinere. — Nihil autem
+<lb ed="#L" n="43"/>prohibet, quamvis universaliter dicatur uni 
+ho<lb ed="#L" break="no" n="44"/>mini melius esse continentiam servare quam
+<lb ed="#L" n="45"/>matrimonio uti, quin alicui illud melius sit. Unde 
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="46"/>et Dominus, facta de continentia mentione, dicit:
+<lb ed="#L" n="47"/>Non omnes capiunt verbum hoc, sed qui potest
+<lb ed="#L" n="48"/>capere, capiat.
+</p>
+            <p xml:id="v8naTA-d1e2818-d1e471">
+               <lb ed="#L" n="49"/>Ad id etiam quod de praecepto primis 
+pa<lb ed="#L" break="no" n="50"/>rentibus dato ultimo positum est, patet responsio
+<lb ed="#L" n="51"/>per ea quae dicta sunt. Praeceptum enim illud
+<lb ed="#L" n="52"/>respicit inclinationem naturalem quae est in 
+ho<lb ed="#L" break="no" n="53"/>minibus ad conservandum speciem per actum
+<lb ed="#L" n="54"/>generationis: quod tamen non est necessarium
+<lb ed="#L" n="55"/>per omnes exequi, sed per aliquos, ut dictum est.
+</p>
+            <p xml:id="v8naTA-d1e2818-d1e489">
+               <lb ed="#L" n="56"/>Sicut autem non expedit cuilibet a matrimonio
+<lb ed="#L" n="57"/>abstinere, ita etiam nec expedit omni tempore,
+<lb ed="#L" n="58"/>quando necessaria est multiplicatio generis: vel
+<lb ed="#L" n="59"/>propter hominum paucitatem, sicut in principio
+<lb ed="#L" n="60"/>quo humanum genus coepit multiplicari; sive
+<lb ed="#L" n="61"/>propter paucitatem fidelis populi, quando 
+opor<lb ed="#L" break="no" n="62"/>tebat ipsum per carnalem generationem 
+multipli<lb ed="#L" break="no" n="63"/>cari, ut fuit in Veteri Testamento. Et ideo consilium
+<lb ed="#L" n="64"/>de continentia perpetua observanda reservatum
+<lb ed="#L" n="65"/>est temporibus Novi Testamenti, quando fidelis 
+po<lb ed="#L" break="no" n="66"/>pulus per spiritualem generationem multiplicatur.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

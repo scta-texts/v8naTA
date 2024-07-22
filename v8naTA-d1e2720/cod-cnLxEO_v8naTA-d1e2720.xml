@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 124</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 124</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="385"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2720"><!-- v8naTA-l3c124 -->
+            <head xml:id="v8naTA-d1e2720-Hd1e101">Capitulum 124</head>
+            <head xml:id="v8naTA-d1e2720-Hd1e103" type="question-title">Quod matrimonium debeat esse unius ad unam.</head>
+            <p xml:id="v8naTA-d1e2720-d1e106">
+               <pb ed="#L" n="385"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=385"/>CAPITULUM CENTESIMUM VIGESIMUM QUARTUM
+<lb ed="#L" n="2"/>QUOD MATRIMONIUM DEBEAT ESSE UNIUS AD UNAM.
+</p>
+            <p xml:id="v8naTA-d1e2720-d1e117">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="3"/>CONSIDERANDUM etiam videtur quod 
+inna<lb ed="#L" break="no" n="4"/>tum est mentibus omnium animalium
+<lb ed="#L" n="5"/>quae coitu utuntur, quod consortium
+<lb ed="#L" n="6"/>in compari non compatiuntur: unde
+<lb ed="#L" n="7"/>propter coitum pugnae in animalibus existunt. Et
+<lb ed="#L" n="8"/>quidem quantum ad omnia animalia est una 
+com<lb ed="#L" break="no" n="9"/>munis ratio, quia quodlibet animal desiderat libere
+<lb ed="#L" n="10"/>frui voluptate coitus, sicut et voluptate cibi: quae
+<lb ed="#L" n="11"/>quidem libertas impeditur per hoc quod ad unam
+<lb ed="#L" n="12"/>plures accedunt, aut e converso; sicut et in 
+liber<lb ed="#L" break="no" n="13"/>tate fruendi cibo impeditur aliquod animal si
+<lb ed="#L" n="14"/>cibum quem ipsum sumere cupit, aliud animal
+<lb ed="#L" n="15"/>usurpet.-Ed ideo similiter propter cibum et 
+pro<lb ed="#L" break="no" n="16"/>pter coitum animalia pugnant. In hominibus 
+au<lb ed="#L" break="no" n="17"/>tem est ratio specialis: quia, ut dictum est, homo 
+<lb ed="#L" n="18"/>naturaliter desiderat certus esse de prole; quae 
+<lb ed="#L" n="19"/>quidem certitudo omnino tolleretur si plures 
+es<lb ed="#L" break="no" n="20"/>sent unius. Ex naturali igitur instinctu procedit
+<lb ed="#L" n="21"/>quod sit una unius.
+</p>
+            <p xml:id="v8naTA-d1e2720-d1e163">
+               <lb ed="#L" n="22"/>Sed in hoc differentia consideranda est. 
+Quan<lb ed="#L" break="no" n="23"/>tum enim ad hoc quod una femina a pluribus
+<lb ed="#L" n="24"/>maribus non cognoscatur, utraque praedictarum
+<lb ed="#L" n="25"/>rationum concurrit. Sed quantum ad hoc quod
+<lb ed="#L" n="26"/>unus mas plures feminas non cognoscat, non facit
+<lb ed="#L" n="27"/>ratio secunda: non enim certitudo prolis 
+impe<lb ed="#L" break="no" n="28"/>ditur si unus mas plures feminas cognoscat. Facit
+<lb ed="#L" n="29"/>autem contra hoc ratio prima: nam sicut libertas
+<lb ed="#L" n="30"/>utendi femina ad libitum a mare tollitur si femina
+<lb ed="#L" n="31"/>habeat alium, ita et eadem libertas a femina 
+tol<lb ed="#L" break="no" n="32"/>litur si mas habeat plures. Et ideo, quia certitudo
+<lb ed="#L" n="33"/>prolis est principale bonum quod ex matrimonio
+<lb ed="#L" n="34"/>quaeritur, nulla lex aut consuetudo humana 
+per<lb ed="#L" break="no" n="35"/>misit quod una esset plurium uxor. Fuit etiam
+<lb ed="#L" n="36"/>hoc inconveniens reputatum apud antiquos 
+Ro<lb ed="#L" break="no" n="37"/>manos, de quibus refert Maximus Valerius quod
+<lb ed="#L" n="38"/>credebant nec propter sterilitatem coniugalem 
+fi<lb ed="#L" break="no" n="39"/>dem debere dissolvi.
+</p>
+            <p xml:id="v8naTA-d1e2720-d1e206">
+               <lb ed="#L" n="40"/>Item. In omni animalis specie in qua patriinest
+<lb ed="#L" n="41"/>aliqua sollicitudo de prole, unus mas non habet
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="42"/>nisi unam feminam, sicut patet in omnibus avibus
+<lb ed="#L" n="43"/>quae simul nutriunt pullos: non enim sufficeret
+<lb ed="#L" n="44"/>unus mas auxilium praestare in educatione prolis
+<lb ed="#L" n="45"/>pluribus feminis. In animalibus autem in quibus
+<lb ed="#L" n="46"/>: maribus nulla est sollicitudo de prole, 
+indifferen<lb ed="#L" break="no" n="47"/>ter mas habet plures feminas, et femina plures
+<lb ed="#L" n="48"/>mares: sicut in canibus, gallinis, et huiusmodi.
+<lb ed="#L" n="49"/>Cum autem masculo inter omnia animalia maior
+<lb ed="#L" n="50"/>sit cura de prole in specie humana, manifestum
+<lb ed="#L" n="51"/>est quod naturale est homini quod unus mas
+<lb ed="#L" n="52"/>unam feminam habeat, et e converso.
+</p>
+            <p xml:id="v8naTA-d1e2720-d1e239">
+               <lb ed="#L" n="53"/>Adhuc. Amicitia in quadam aequalitate 
+con<lb ed="#L" break="no" n="54"/>sistit. Si igitur mulieri non licet habere plures
+<lb ed="#L" n="55"/>viros, quia hoc est contra certitudinem prolis; 
+<lb ed="#L" n="56"/>liceret autem viro habere plures uxores: non
+<lb ed="#L" n="57"/>esset liberalis amicitia uxoris ad virum, sed quasi
+<lb ed="#L" n="58"/>servilis. Et haec etiam ratio experimento 
+com<lb ed="#L" break="no" n="59"/>probatur: quia apud viros habentes plures 
+uxo<lb ed="#L" break="no" n="60"/>res, uxores quasi ancillariter habentur.
+</p>
+            <p xml:id="v8naTA-d1e2720-d1e259">
+               <lb ed="#L" n="61"/>Praeterea. Amicitia intensa non habetur ad
+<lb ed="#L" n="62"/>multos: ut patet per Philosophum in VIII 
+Efhico<lb ed="#L" break="no" n="63"/>rum . Si igitur uxor habet unum virum tantum,
+<lb ed="#L" n="64"/>vir autem habet plures uxores, non erit aequalis
+<lb ed="#L" n="65"/>amicitia ex utraque parte. Non igitur erit 
+ami<lb ed="#L" break="no" n="66"/>citia liberalis, sed quodammodo servilis.
+</p>
+            <p xml:id="v8naTA-d1e2720-d1e275">
+               <lb ed="#L" n="67"/>Amplius. Sicut dictum est, matrimonium in
+<lb ed="#L" n="68"/>hominibus oportet ordinari secundum quod 
+com<lb ed="#L" break="no" n="69"/>petit ad bonos mores. Est autem contra bonos 
+mo<lb ed="#L" break="no" n="70"/>res quod unus habeat plures uxores: quia ex hoc
+<lb ed="#L" n="71"/>sequitur discordia in domestica familia, ut 
+expe<lb ed="#L" break="no" n="72"/>rimento patet. Non est igitur conveniens quod
+<lb ed="#L" n="73"/>unus homo habeat plures uxores.
+</p>
+            <p xml:id="v8naTA-d1e2720-d1e293">
+               <lb ed="#L" n="74"/>Hinc est quod dicitur Gen. II: Erunt duo in
+<lb ed="#L" n="75"/>carne uma.
+</p>
+            <p xml:id="v8naTA-d1e2720-d1e300">
+               <lb ed="#L" n="76"/>Per hoc autem excluditur consuetudo 
+haben<lb ed="#L" break="no" n="77"/>tium plures uxores; et opinio Platonis, qui posuit
+<lb ed="#L" n="78"/>uxores debere esse communes . Quem in nova oras ne"
+<lb ed="#L" n="79"/>lege secutus est Nicolaus, unus ex septem 
+diaco<lb ed="#L" break="no" n="80"/>nibus
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

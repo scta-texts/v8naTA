@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 156</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 156</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="460"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2982"><!-- v8naTA-l3c156 -->
+            <head xml:id="v8naTA-d1e2982-Hd1e101">Capitulum 156</head>
+            <head xml:id="v8naTA-d1e2982-Hd1e103" type="question-title">Quod ille qui decidit- a gratia per peccatum,
+potest iterum per gratiam reparari.</head>
+            <p xml:id="v8naTA-d1e2982-d1e106">
+               <pb ed="#L" n="460"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=460"/>CAPITULUM 
+<lb ed="#L" n="2"/>CENTESIMUM QUINQUAGESIMUM SEXTUM
+<lb ed="#L" n="3"/>QUOD ILLE QUI DECIDIT- A GRATIA PER PECCATUM,
+<lb ed="#L" n="4"/>POTEST ITERUM PER GRATIAM REPARARI.
+</p>
+            <p xml:id="v8naTA-d1e2982-d1e122">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="5"/>Ex his autem apparet quod per auxilium
+<lb ed="#L" n="6"/>gratiae. homo, etiam si non 
+perseve<lb ed="#L" break="no" n="7"/>raverit, sed in peccatum ceciderit, 
+po<lb ed="#L" break="no" n="8"/>test reparari ad bonum.
+</p>
+            <p xml:id="v8naTA-d1e2982-d1e135">
+               <lb ed="#L" n="9"/>Eiusdem enim virtutis est continuare salutem
+<lb ed="#L" n="10"/>alicuius, et interruptam reparare: sicut enim per
+<lb ed="#L" n="11"/>virtutem naturalem continuatur sanitas in corpore,
+<lb ed="#L" n="12"/>ita per eandem virtutem naturalem sanitas 
+inter<lb ed="#L" break="no" n="13"/>rupta reparatur. Homo autem perseverat in bono
+<lb ed="#L" n="14"/>auxilio divinae gratiae, ut ostensum est . Igitur,
+<lb ed="#L" n="15"/>si per peccatum lapsus fuerit, eiusdem gratiae
+<lb ed="#L" n="16"/>auxilio poterit reparari.
+</p>
+            <p xml:id="v8naTA-d1e2982-d1e156">
+               <lb ed="#L" n="17"/>Adhuc. Agens quod non requirit dispositionem
+<lb ed="#L" n="18"/>in subiecto, potest suum effectum imprimere in
+<lb ed="#L" n="19"/>subiectum qualitercumque dispositum : et propter
+<lb ed="#L" n="20"/>hoc Deus, qui in agendo non requirit subiectum
+<lb ed="#L" n="21"/>dispositum, potest absque dispositione subiecti
+<lb ed="#L" n="22"/>formam naturalem inducere; utpote dum caecum
+<lb ed="#L" n="23"/>illuminat, mortuum vivificat, et sic de similibus.
+<lb ed="#L" n="24"/>Sed sicut non requirit dispositionem naturalem
+<lb ed="#L" n="25"/>in subiecto corporeo, ita non requirit meritum
+<lb ed="#L" n="26"/>in voluntate ad gratiam conferendam: quia sine
+<lb ed="#L" n="27"/>meritis datur, ut ostensum est . Ergo gratiam
+<lb ed="#L" n="28"/>gratum facientem, per quam peccata tolluntur,
+<lb ed="#L" n="29"/>Deus alicui conferre potest etiam postquam a
+<lb ed="#L" n="30"/>gratia cecidit per peccatum.
+</p>
+            <p xml:id="v8naTA-d1e2982-d1e189">
+               <lb ed="#L" n="31"/>Amplius. Haec sola homo recuperare amissa
+<lb ed="#L" n="32"/>non. potest quae per generationem ei adveniunt,
+<lb ed="#L" n="33"/>sicut potentias .naturales et membra: eo quod
+<lb ed="#L" n="34"/>homo non potest iterum generari . Auxilium
+<lb ed="#L" n="35"/>autem gratiae datur homini non per 
+generatio<lb ed="#L" break="no" n="36"/>nem, sed postquam iam est. Potest igitur post
+<lb ed="#L" n="37"/>amissionem gratiae per peccatum, iterum reparari
+<lb ed="#L" n="38"/>ad peccata delenda. :
+</p>
+            <p xml:id="v8naTA-d1e2982-d1e209">
+               <lb ed="#L" n="39"/>Item. Gratia est quaedam habitualis dispositio
+<lb ed="#L" n="40"/>in anima, ut ostensum est . Sed habitus acquisiti
+<lb ed="#L" n="41"/>per actus, si amittantur, possunt iterum reacquiri
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="42"/>per actus per quos acquisiti sunt. Multo igitur
+<lb ed="#L" n="43"/>magis gratia Deo coniungens et a peccato liberans,
+<lb ed="#L" n="44"/>si. amittatur, divina operatione reparari potest.
+</p>
+            <p xml:id="v8naTA-d1e2982-d1e227">
+               <lb ed="#L" n="45"/>Praeterea. In operibus Dei non est aliquid
+<lb ed="#L" n="46"/>frustra, sicut nec in operibus naturae : hoc enim
+<lb ed="#L" n="47"/>et natura habet a Deo. Frustra autem aliquid 
+<lb ed="#L" n="48"/>moveretur, nisi posset pervenire ad finem motus.
+<lb ed="#L" n="49"/>Necessarium est ergo quod id quod natum est
+<lb ed="#L" n="50"/>moveri ad aliquem finem, sit possibile venire in
+<lb ed="#L" n="51"/>finem illum. Sed homo postquam in peccatum
+<lb ed="#L" n="52"/>cecidit, quandiu status huius vitae durat, remanet
+<lb ed="#L" n="53"/>in eo aptitudo ut moveatur. ad bonum: cuius
+<lb ed="#L" n="54"/>signa sunt desiderium de bono, et dolor de malo,
+<lb ed="#L" n="55"/>quae adhuc in homine remanent post peccatum.
+<lb ed="#L" n="56"/>Est igitur possibile hominem post peccatum iterum
+<lb ed="#L" n="57"/>redire ad bonum quod gratia in homine operatur.
+</p>
+            <p xml:id="v8naTA-d1e2982-d1e258">
+               <lb ed="#L" n="58"/>Amplius. Nulla potentia passiva invenitur in
+<lb ed="#L" n="59"/>rerum natura quae non possit reduci in actum
+<lb ed="#L" n="60"/>per aliquam potentiam activam naturalem. Multo
+<lb ed="#L" n="61"/>igitur minus est aliqua potentia in anima humana
+<lb ed="#L" n="62"/>quae non sit reducibilis in actum per potentiam
+<lb ed="#L" n="63"/>activam divinam. Manet autem in anima humana,
+<lb ed="#L" n="64"/>etiam post peccatum, potentia ad bonum: quia
+<lb ed="#L" n="65"/>per peccatum non tolluntur. potentiae naturales,
+<lb ed="#L" n="66"/>quibus anima ordinatur ad suum bonum. Potest
+<lb ed="#L" n="67"/>igitur per divinam potentiam reparari in bono;
+<lb ed="#L" n="68"/>Et sic auxilio gratiae homo potest consequi . 
+re<lb ed="#L" break="no" n="69"/>missionem peccatorum. 
+</p>
+            <p xml:id="v8naTA-d1e2982-d1e287">
+               <lb ed="#L" n="70"/>Hinc est quod dicitur Isaiae 15, Si fuerint 
+pec<lb ed="#L" break="no" n="71"/>cata vestra ut coccinum, quasi nix dealbabuntur ;
+<lb ed="#L" n="72"/>et Proverb. x, Universa delicta operit caritas.
+</p>
+            <p xml:id="v8naTA-d1e2982-d1e297">
+               <lb ed="#L" n="73"/>Hoc etiam quotidie a Domino non frustra 
+pe<lb ed="#L" break="no" n="74"/>timus, dicentes: Dimitte nobis debita nostra.
+</p>
+            <p xml:id="v8naTA-d1e2982-d1e304">
+               <lb ed="#L" n="75"/>Per hoc autem excluditur error Novatianorum,
+<lb ed="#L" n="76"/>qui dixerunt quod de peccatis quae homo post
+<lb ed="#L" n="77"/>baptismum peccat, homo veniam consequi non
+<lb ed="#L" n="78"/>potest.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

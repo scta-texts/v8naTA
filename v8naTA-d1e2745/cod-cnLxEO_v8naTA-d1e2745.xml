@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 127</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 127</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="390"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2745"><!-- v8naTA-l3c127 -->
+            <head xml:id="v8naTA-d1e2745-Hd1e101">Capitulum 127</head>
+            <head xml:id="v8naTA-d1e2745-Hd1e103" type="question-title">Quod nullius cibi usus est peccatum secundum se.</head>
+            <p xml:id="v8naTA-d1e2745-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="21" type="fixed=390"/>CAPITULUM CENTESIMUM VIGESIMUM SEPTIMUM
+<lb ed="#L" n="22"/>QUOD NULLIUS CIBI USUS EST PECCATUM SECUNDUM SE.
+</p>
+            <p xml:id="v8naTA-d1e2745-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="23"/>SICUT autem venereorum usus absque 
+pec<lb ed="#L" break="no" n="24"/>cato est, si secundum rationem fiat, ita
+<lb ed="#L" n="25"/>etiam et usus ciborum. Fit autem 
+unum<lb ed="#L" break="no" n="26"/>quodque secundum rationem quando
+<lb ed="#L" n="27"/>ordinatur secundum quod congruit debito fini.
+<lb ed="#L" n="28"/>Finis autem debitus sumptionis ciborum est 
+con<lb ed="#L" break="no" n="29"/>servatio corporis per nutrimentum. Quicumque
+<lb ed="#L" n="30"/>igitur cibus hoc facere potest, absque peccato
+<lb ed="#L" n="31"/>potest sumi. Nullius igitur cibi sumptio secundum
+<lb ed="#L" n="32"/>se est peccatum.
+</p>
+            <p xml:id="v8naTA-d1e2745-d1e141">
+               <lb ed="#L" n="33"/>Adhuc. Nullius rei usus secundum se malus est
+<lb ed="#L" n="34"/>nisi res ipsa secundum se mala sit. Nullus autem
+<lb ed="#L" n="35"/>cibus secundum naturam malus est: quia omnis
+<lb ed="#L" n="36"/>res secundum suam naturam bona est, ut supra 
+<lb ed="#L" n="37"/>ostensum est. Potest autem aliquis cibus esse alicui 
+<lb ed="#L" n="38"/>malus inquantum contrariatur salubritati ipsius
+<lb ed="#L" n="39"/>secundum corpus. Nullius igitur cibi sumptio, 
+se<lb ed="#L" break="no" n="40"/>cundum quod est talis res, est peccatum secundum
+<lb ed="#L" n="41"/>se: sed potest esse peccatum si praeter rationem
+<lb ed="#L" n="42"/>aliquis ipso utatur contra suam salutem.
+</p>
+            <p xml:id="v8naTA-d1e2745-d1e166">
+               <lb ed="#L" n="43"/>Amplius. Uti rebus ad hoc ad quod sunt, non est
+<lb ed="#L" n="44"/>secundum se malum. Sunt autem plantae propter
+<lb ed="#L" n="45"/>animalia; animalium vero quaedam propter alia;
+<lb ed="#L" n="46"/>et omnia propter hominem, sicut ex superioribus
+<lb ed="#L" n="47"/>patet. Uti igitur vel plantis vel animalium 
+car<lb ed="#L" break="no" n="48"/>nibus vel ad esum, vel ad quicquid aliud sunt
+<lb ed="#L" n="49"/>homini utilia, non est secundum se peccatum.
+</p>
+            <p xml:id="v8naTA-d1e2745-d1e184">
+               <lb ed="#L" n="50"/>Item. Defectus peccati ab anima derivatur ad
+<lb ed="#L" n="51"/>corpus, et non e converso: peccatum enim 
+di<lb ed="#L" break="no" n="52"/>cimus secundum quod deordinatur voluntas. Cibi  
+<lb ed="#L" n="53"/>autem immediate ad corpus pertinent, non ad
+<lb ed="#L" n="54"/>animam. Non igitur ciborum sumptio secundum
+<lb ed="#L" n="55"/>se potest esse peccatum, nisi quatenus repugnat
+<lb ed="#L" n="56"/>rectitudini voluntatis. Quod quidem contingit uno
+<lb ed="#L" n="57"/>modo, propter repugnantiam ad proprium finem 
+<lb ed="#L" n="58"/>ciborum: sicut cum aliquis, propter 
+delectatio<lb ed="#L" break="no" n="59"/>nem quae est in cibis, utitur cibis contrariantibus
+<lb ed="#L" n="60"/>corporis saluti, vel secundum speciem ciborum,
+<lb ed="#L" n="61"/>vel secundum quantitatem. — Alio modo, 
+secun<lb ed="#L" break="no" n="62"/>dum quod repugnat conditioni eius qui utitur 
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="63"/>cibis, vel eorum cum quibus conversatur: puta
+<lb ed="#L" n="64"/>cum quis accuratius cibis utitur quam sua 
+fa<lb ed="#L" break="no" n="65"/>cultas sustineat; et aliter quam eorum mores
+<lb ed="#L" n="66"/>habeant cum quibus convivit. — Tertio modo,
+<lb ed="#L" n="67"/>secundum quod cibi sunt aliqua lege. prohibiti
+<lb ed="#L" n="68"/>propter aliquam causam specialem: puta in 
+ve<lb ed="#L" break="no" n="69"/>teri lege quidam cibi prohibebantur propter. 
+si<lb ed="#L" break="no" n="70"/>gnificationem; et in Aegypto prohibebatur 
+anti<lb ed="#L" break="no" n="71"/>quitus comestio carnis bovinae, ne agricultura
+<lb ed="#L" n="72"/>impediretur. Vel etiam secundum quod aliquae
+<lb ed="#L" n="73"/>regulae prohibent aliquibus cibis uti, ad 
+concu<lb ed="#L" break="no" n="74"/>piscentiam refraenandam.
+</p>
+            <p xml:id="v8naTA-d1e2745-d1e243">
+               <lb ed="#L" n="75"/>Hinc est quod Dominus dicit, Matth. xv:
+<quote xml:id="v8naTA-d1e2745-Qd1e247">Quod intrat in os, non coinquinat hominem.</quote> Et
+<lb ed="#L" n="76"/>I Cor. x dicitur: <quote xml:id="v8naTA-d1e2745-Qd1e251">Omne quod in macello venit
+<lb ed="#L" n="77"/>manducate, nihil interrogantes propter 
+conscien<lb ed="#L" break="no" n="78"/>tiam</quote>. Et I Tim. 1V dicitur: <quote xml:id="v8naTA-d1e2745-Qd1e258">Omnis creatura Dei
+<lb ed="#L" n="79"/>bona est, et nihil reiiciendum quod cum gratiarum
+<lb ed="#L" n="80"/>actione percipitur</quote>.
+</p>
+            <p xml:id="v8naTA-d1e2745-d1e266">
+               <lb ed="#L" n="81"/>Per hoc autem excluditur quorundam error qui
+<lb ed="#L" n="82"/>usum quorundam ciborum secundum se dicunt
+<lb ed="#L" n="83"/>esse illicitum. De quibus Apostolus dicit ibidem :
+<lb ed="#L" n="84"/>In novissimis temporibus discedent quidam a fide:
+<lb ed="#L" n="85"/>prohibentium nubere, abstinere a cibis, quos Deus
+<lb ed="#L" n="86"/>creavit ad percipiendum cum gratiarum actione.
+</p>
+            <p xml:id="v8naTA-d1e2745-d1e282">
+               <lb ed="#L" n="87"/>Quia vero usus ciborum et venereorum non
+<lb ed="#L" n="88"/>est secundum se illicitus, sed solum secundum
+<lb ed="#L" n="89"/>quod exit ab ordine rationis illicitus esse potest ;
+<lb ed="#L" n="90"/>ea vero quae exterius possidentur, necessaria sunt
+<lb ed="#L" n="91"/>ad sumptionem ciborum, ad educationem prolis
+<lb ed="#L" n="92"/>et sustentationem familiae, et ad alias corporis
+<lb ed="#L" n="93"/>necessitates: consequens est quod nec secundum
+<lb ed="#L" n="94"/>se etiam divitiarum possessio est illicita, si ordo
+<lb ed="#L" n="95"/>rationis servetur; ita scilicet quod iuste homo .
+<lb ed="#L" n="96"/>possideat quae habet; quod in eis finem 
+volun<lb ed="#L" break="no" n="97"/>tatis suae non constituat; quod eis debito modo
+<lb ed="#L" n="98"/>utatur, ad suam et aliorum utilitatem. Hinc est
+<lb ed="#L" n="99"/>quod Apostolus, I Tim. ult. , divites non 
+con<lb ed="#L" break="no" n="100"/>demnat, sed eis certam regulam divitiis utendi
+<lb ed="#L" n="101"/>tradit, dicens: Divitibus huius saeculi praecipe non
+<pb ed="#L" n="391"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>alta sapere, neque sperare in incerio divitiarum:
+<lb ed="#L" n="2"/>bene agere, diviles fieri in operibus bonis, facile
+<lb ed="#L" n="3"/>tribuere, communicare. Et Eccli. xxxi?: Beatus
+<lb ed="#L" n="4"/>dives qui inventus est sine macula, et qui post
+<lb ed="#L" n="5"/>aurum ion abiit, nec speravit in pecunia et thesauris.
+</p>
+            <p xml:id="v8naTA-d1e2745-d1e332">
+               <lb ed="#L" n="6"/>Per hoc etiam excluditur quorundam error
+<lb ed="#L" n="7"/>qui, ut Augustinus dicit in libro de HZaeresibus ,
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="8"/>Apostolicos se arrogantissime vocaverunt, eo quod
+<lb ed="#L" n="9"/>in sitam communionem non acciperent utentes 
+con<lb ed="#L" break="no" n="10"/>iugibus, el res proprias possidentes (quales habet
+<lb ed="#L" n="11"/>Catholica Ecclesia), et monachos et clericos 
+pluri<lb ed="#L" break="no" n="12"/>mos. Sed ideo isti haeretici sunt, quoniam, se ab
+<lb ed="#L" n="13"/>Ecclesia separantes, nullam spem putant eos habere
+<lb ed="#L" n="14"/>qui utuntur his rebus quibus ipsi carent.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

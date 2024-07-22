@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 78</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 78</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="230"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2345"><!-- v8naTA-l3c78 -->
+            <head xml:id="v8naTA-d1e2345-Hd1e101">Capitulum 78</head>
+            <head xml:id="v8naTA-d1e2345-Hd1e103" type="question-title">Quod mediantibus creaturis intellectualibus
+aliae creaturae reguntur a deo.</head>
+            <p xml:id="v8naTA-d1e2345-d1e106">
+               <pb ed="#L" n="230"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=230"/>CAPITULUM SEPTUAGESIMUM OCTAVUM
+<lb ed="#L" n="2"/>QUOD MEDIANTIBUS CREATURIS INTELLECTUALIBUS
+<lb ed="#L" n="3"/>ALIAE CREATURAE REGUNTUR A DEO.
+</p>
+            <p xml:id="v8naTA-d1e2345-d1e119">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="4"/>QUIA vero ad providentiam divinam 
+per<lb ed="#L" break="no" n="5"/>tinet ut ordo servetur in rebus; congruus
+<lb ed="#L" n="6"/>autem ordo est ut a supremis ad infima
+<lb ed="#L" n="7"/>proportionaliter descendatur: oportet
+<lb ed="#L" n="8"/>quod divina providentia secundum quandam 
+pro<lb ed="#L" break="no" n="9"/>portionem usque ad res ultimas perveniat. Haec
+<lb ed="#L" n="10"/>autem proportio est ut, sicut supremae creaturae
+<lb ed="#L" n="11"/>sunt sub Deo et gubernantur ab ipso, ita 
+infe<lb ed="#L" break="no" n="12"/>riores creaturae sint sub superioribus et regantur
+<lb ed="#L" n="13"/>ab ipsis. Inter omnes autem creaturas sunt 
+su<lb ed="#L" break="no" n="14"/>premae intellectuales, sicut ex superioribus  patet.
+<lb ed="#L" n="15"/>Exigit igitur divinae providentiae ratio ut ceterae
+<lb ed="#L" n="16"/>creaturae per creaturas rationales regantur.
+</p>
+            <p xml:id="v8naTA-d1e2345-d1e152">
+               <lb ed="#L" n="17"/>Amplius. Quaecumque creatura exequitur 
+di<lb ed="#L" break="no" n="18"/>vinae providentiae ordinem, hoc habet 
+inquan<lb ed="#L" break="no" n="19"/>tum participat aliquid de virtute primi 
+provi<lb ed="#L" break="no" n="20"/>dentis: sicut et instrumentum non movet nisi
+<lb ed="#L" n="21"/>inquantum per motum participat aliquid de 
+vir<lb ed="#L" break="no" n="22"/>tute principalis agentis. Quae igitur amplius de
+<lb ed="#L" n="23"/>virtute divinae providentiae participant, sunt 
+exe<lb ed="#L" break="no" n="24"/>cutiva divinae providentiae in illa quae minus
+<lb ed="#L" n="25"/>participant. Creaturae autem intellectuales plus
+<lb ed="#L" n="26"/>alis de ipsa participant: nam, cum ad 
+provi<lb ed="#L" break="no" n="27"/>dentiam requiratur et dispositio ordinis, quae fit
+<lb ed="#L" n="28"/>per cognoscitivam virtutem, et executio, quae
+<lb ed="#L" n="29"/>fit per operativam, creaturae rationales utramque
+<lb ed="#L" n="30"/>virtutem participant, reliquae vero creaturae 
+vir<lb ed="#L" break="no" n="31"/>tutem operativam tantum. Per creaturas igitur
+<lb ed="#L" n="32"/>rationales omnes aliae creaturae sub divina 
+pro<lb ed="#L" break="no" n="33"/>videntia reguntur.
+</p>
+            <p xml:id="v8naTA-d1e2345-d1e192">
+               <lb ed="#L" n="34"/>Adhuc. Cuicumque datur a Deo aliqua virtus,
+<lb ed="#L" n="35"/>datur ei in ordine ad effectum ipsius virtutis:
+<lb ed="#L" n="36"/>sic enim optime omnia disponuntur, dum 
+unum<lb ed="#L" break="no" n="37"/>quodque ordinatur ad omnia bona quae ex ipso
+<lb ed="#L" n="38"/>nata sunt provenire. Virtus autem intellectiva de
+<lb ed="#L" n="39"/>se est ordinativa et rezitiva: unde videmus quod,
+<lb ed="#L" n="40"/>quando coniunguntur in eodem, virtus operativa
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="41"/>sequitur regimen intellectivae virtutis; sicut in
+<lb ed="#L" n="42"/>homine videmus quod ad imperiem voluntatis
+<lb ed="#L" n="43"/>moventur membra. ldem etiam apparet si in
+<lb ed="#L" n="44"/>diversis existant: nam illi homines qui excedunt
+<lb ed="#L" n="45"/>;in virtute operativa, oportet quod dirigantur ab
+<lb ed="#L" n="46"/>illis qui in virtute intellectiva excedunt. Exigit
+<lb ed="#L" n="47"/>igitur divinae providentiae ratio quod creaturae
+<lb ed="#L" n="48"/>aliae per intellectuales creaturas regantur.
+</p>
+            <p xml:id="v8naTA-d1e2345-d1e229">
+               <lb ed="#L" n="49"/>Item. Virtutes particulares natae sunt moveri
+<lb ed="#L" n="50"/>virtutibus universalibus: ut patet tam in arte
+<lb ed="#L" n="51"/>quam in natura. Constat autem quod virtus 
+in<lb ed="#L" break="no" n="52"/>tellectiva est universalior omni alia virtute 
+ope<lb ed="#L" break="no" n="53"/>rativa: nam virtus intellectiva continet formas
+<lb ed="#L" n="54"/>universales, omnis autem virtus operativa tantum
+<lb ed="#L" n="55"/>est ex aliqua forma propria operantis. Oportet
+<lb ed="#L" n="56"/>igitur quod per virtutes intellectuales moveantur
+<lb ed="#L" n="57"/>et regantur omnes aliae creaturae.
+</p>
+            <p xml:id="v8naTA-d1e2345-d1e251">
+               <lb ed="#L" n="58"/>Praeterea. In omnibus potentiis ordinatis una est
+<lb ed="#L" n="59"/>directiva alterius, quae magis rationem cognoscit:
+<lb ed="#L" n="60"/>unde videmus in artibus quod ars illa ad quam
+<lb ed="#L" n="61"/>pertinet finis, ex quo sumitur ratio totius artificii,
+<lb ed="#L" n="62"/>dirigit illam, et imperat ei, quae artificium 
+ope<lb ed="#L" break="no" n="63"/>ratur, sicut ars gubernatoria navifactivae; et illa
+<lb ed="#L" n="64"/>quae formam inducit, imperat ei quae materiam
+<lb ed="#L" n="65"/>disponit. Instrumenta vero, quae non cognoscunt
+<lb ed="#L" n="66"/>aliquam rationem, reguntur tantum. Cum igitur
+<lb ed="#L" n="67"/>solae intellectuales creaturae rationes ordinis 
+crea<lb ed="#L" break="no" n="68"/>turarum cognoscere possint, earum erit regere et
+<lb ed="#L" n="69"/>gubernare omnes alias creaturas. :
+</p>
+            <p xml:id="v8naTA-d1e2345-d1e280">
+               <lb ed="#L" n="70"/>Adhuc. Quod est per se, est causa eius quod
+<lb ed="#L" n="71"/>est per aliud . Solae autem creaturae intellectuales
+<lb ed="#L" n="72"/>operantur per seipsas, utpote suarum 
+operatio<lb ed="#L" break="no" n="73"/>num per liberum voluntatis arbitrium dominae
+<lb ed="#L" n="74"/>existentes: aliae vero creaturae ex necessitate 
+na<lb ed="#L" break="no" n="75"/>turae operantur, tanquam ab alio motae. 
+Crea<lb ed="#L" break="no" n="76"/>turae igitur intellectuales per suam operationem
+<lb ed="#L" n="77"/>sunt motivae et regitivae aliarum creaturarum.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

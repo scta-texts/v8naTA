@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 161</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 161</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="470"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e3023"><!-- v8naTA-l3c161 -->
+            <head xml:id="v8naTA-d1e3023-Hd1e101">Capitulum 161</head>
+            <head xml:id="v8naTA-d1e3023-Hd1e103" type="question-title">Quod deus aliquos a peccato liberat,
+et aliquos in peccato relinquit.</head>
+            <p xml:id="v8naTA-d1e3023-d1e106">
+               <pb ed="#L" n="470"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=470"/>CAPITULUM CENTESIMUM SEXAGESIMUM PRIMUM
+<lb ed="#L" n="2"/>QUOD DEUS ALIQUOS A PECCATO LIBERAT,
+<lb ed="#L" n="3"/>ET ALIQUOS IN PECCATO RELINQUIT.
+</p>
+            <p xml:id="v8naTA-d1e3023-d1e119">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="4"/>LICET autem ille qui peccat impedimentum
+<lb ed="#L" n="5"/>gratiae praestet, et, quantum ordo rerum
+<lb ed="#L" n="6"/>exigit, gratiam non deberet recipere: 
+ta<lb ed="#L" break="no" n="7"/>men, quia Deus praeter ordinem rebus
+<lb ed="#L" n="8"/>inditum operari potest , sicut cum caecum 
+illu<lb ed="#L" break="no" n="9"/>minat vel mortuum resuscitat; interdum, ex 
+abun<lb ed="#L" break="no" n="10"/>dantia bonitatis suae, etiam eos qui impedimentum
+<lb ed="#L" n="11"/>gratiae praestant, auxilio suo praevenit, avertens
+<lb ed="#L" n="12"/>eos a malo et convertens ad bonum. Et sicut non
+<lb ed="#L" n="13"/>omnes caecos illuminat, nec omnes languidos sanat,
+<lb ed="#L" n="14"/>ut et in illis quos curat, opus virtutis eius appareat,
+<lb ed="#L" n="15"/>et in aliis ordo naturae servetur; ita non omnes
+<lb ed="#L" n="16"/>qui gratiam impediunt, auxilio suo praevenit ut
+<lb ed="#L" n="17"/>avertantur a malo et convertantur ad bonum, sed
+<lb ed="#L" n="18"/>aliquos, in quibus vult suam misericordiam 
+appa<lb ed="#L" break="no" n="19"/>rere, ita quod in aliis iustitiae ordo manifestetur.
+<lb ed="#L" n="20"/>Hinc est quod Apostolus dicit, Rom. ix^: Volens
+<lb ed="#L" n="21"/>Deus ostendere iram, et notam facere potentiam
+<lb ed="#L" n="22"/>suam, sustinuit in multa patientia vasa irae apta in
+<lb ed="#L" n="23"/>interitum, ut ostenderet divitias gloriae suae in vasa 
+<lb ed="#L" n="24"/>misericordiae, quae praeparavit in. gloriam.
+</p>
+            <p xml:id="v8naTA-d1e3023-d1e169">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="25"/>Cum autem. Deus hominum qui in eisdem
+<lb ed="#L" n="26"/>peccatis detinentur, hos quidem praeveniens 
+con<lb ed="#L" break="no" n="27"/>vertat, illos autem sustineat, sive permittat 
+se<lb ed="#L" break="no" n="28"/>cundum ordinem rerum procedere, non est ratio
+<lb ed="#L" n="29"/>inquirenda quare hos convertat et non illos. Hoc
+<lb ed="#L" n="30"/>enim ex simplici voluntate eius dependet: sicut
+<lb ed="#L" n="31"/>ex simplici eius voluntate processit quod, cum
+<lb ed="#L" n="32"/>omnia fierent ex nihilo, quaedam facta sunt aliis
+<lb ed="#L" n="33"/>digniora; et sicut ex simplici voluntate procedit
+<lb ed="#L" n="34"/>artificis ut ex eadem materia, similiter disposita,
+<lb ed="#L" n="35"/>quaedam vasa format ad nobiles usus, et 
+quae<lb ed="#L" break="no" n="36"/>dam ad ignobiles. Hinc est quod Apostolus dicit,
+<lb ed="#L" n="37"/>ad Rom. ix": An mon habet potestalem figulus
+<lb ed="#L" n="38"/>luti ex eadem massa facere aliud quidem vas in
+<lb ed="#L" n="39"/>honorem, aliud vero in contumeliam ?
+</p>
+            <p xml:id="v8naTA-d1e3023-d1e207">
+               <lb ed="#L" n="40"/>Per hoc autem excluditur error Origenis,
+<lb ed="#L" n="41"/>qui dicebat hos ad Deum converti et non alios,
+<lb ed="#L" n="42"/>propter aliqua opera quae animae eorum 
+fe<lb ed="#L" break="no" n="43"/>cerant antequam corporibus unirentur. Quae
+<lb ed="#L" n="44"/>quidem positio in secundo libro diligentius
+<lb ed="#L" n="45"/>improbata est.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 77</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 77</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="227"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2337"><!-- v8naTA-l3c77 -->
+            <head xml:id="v8naTA-d1e2337-Hd1e101">Capitulum 77</head>
+            <head xml:id="v8naTA-d1e2337-Hd1e103" type="question-title">Quod executio divinae providentiae fit
+mediantibus causis secundis.</head>
+            <p xml:id="v8naTA-d1e2337-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="109" type="fixed=227"/>CAPITULUM SEPTUAGESIMUM SEPTIMUM
+<lb ed="#L" n="110"/>QUOD EXECUTIO DIVINAE PROVIDENTIAE FIT
+<lb ed="#L" n="111"/>MEDIANTIBUS CAUSIS SECUNDIS.
+</p>
+            <p xml:id="v8naTA-d1e2337-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="112"/>ATTENDENDUM est autem quod ad 
+provi<lb ed="#L" break="no" n="113"/>dentiam duo requiruntur: ordinatio,
+<lb ed="#L" n="114"/>et ordinis executio. Quorum primum
+<lb ed="#L" n="115"/>fit per virtutem cognoscitivam: unde
+<lb ed="#L" n="116"/>qui perfectioris cognitionis sunt, ordinatores alio- 
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="117"/>rum dicuntur, sapientis enim est ordinare. 
+Secun<lb ed="#L" break="no" n="118"/>dum vero fit per virtutem operativam. E 
+con<lb ed="#L" break="no" n="119"/>trario autem se habet in his duobus: nam tanto
+<lb ed="#L" n="120"/>perfectior est ordinatio, quanto magis descendit ad
+<lb ed="#L" n="121"/>minima; minimorum autem executio condecet
+<pb ed="#L" n="228"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>inferiorem virtutem, effectui proportionatam. In
+<lb ed="#L" n="2"/>Deo autem quantum ad utrumque summa 
+per<lb ed="#L" break="no" n="3"/>fectio invenitur: est enim in eo perfectissima 
+sa<lb ed="#L" break="no" n="4"/>pientia ad ordinandum, virtus perfectissima ad
+<lb ed="#L" n="5"/>operandum. Oportet ergo quod ipse omnium 
+or<lb ed="#L" break="no" n="6"/>dines per sapientiam suam disponat, etiam 
+mi<lb ed="#L" break="no" n="7"/>nimorum: exequatur vero minima per alias 
+infe<lb ed="#L" break="no" n="8"/>riores virtutes, per quas ipse operetur, sicut
+<lb ed="#L" n="9"/>virtus universalis et altior per inferiorem et 
+par<lb ed="#L" break="no" n="10"/>ticularem virtutem. Conveniens est igitur quod
+<lb ed="#L" n="11"/>sint inferiores agentes divinae providentiae 
+exe<lb ed="#L" break="no" n="12"/>cutores.
+</p>
+            <p xml:id="v8naTA-d1e2337-d1e176">
+               <lb ed="#L" n="13"/>Item. Ostensum est supra  quod divina operatio
+<lb ed="#L" n="14"/>non excludit operationes causarum secundarum.
+<lb ed="#L" n="15"/>Ea vero quae ex operationibus causarum 
+secun<lb ed="#L" break="no" n="16"/>darum proveniunt, divinae providentiae subiacent:
+<lb ed="#L" n="17"/>cum Deus omnia singularia ordinet per seipsum,
+<lb ed="#L" n="18"/>ut ostensum est. Sunt igitur secundae causae
+<lb ed="#L" n="19"/>divinae providentiae executrices.
+</p>
+            <p xml:id="v8naTA-d1e2337-d1e195">
+               <lb ed="#L" n="20"/>Adhuc. Quanto virtus alicuius agentis est fortior, s
+<lb ed="#L" n="21"/>tanto in magis remota suam operationem extendit:
+<lb ed="#L" n="22"/>sicut ignis, quanto est maior, magis remota 
+ca<lb ed="#L" break="no" n="23"/>lefacit. Hoc autem non contingit in agente quod
+<lb ed="#L" n="24"/>non agit per medium: quia quidlibet in quod agit,
+<lb ed="#L" n="25"/>est sibi proximum. Cum igitur virtus divinae 
+pro<lb ed="#L" break="no" n="26"/>videntiae sit maxima, per aliqua media ad ultima
+<lb ed="#L" n="27"/>suam operationem perducere debet.
+</p>
+            <p xml:id="v8naTA-d1e2337-d1e215">
+               <lb ed="#L" n="28"/>Amplius. Ad dignitatem regentis pertinet ut
+<lb ed="#L" n="29"/>habeat multos ministros, et diversos sui regiminis
+<lb ed="#L" n="30"/>executores: quia tanto altius et maius ostendetur : 
+<lb ed="#L" n="31"/>suum dominium, quanto plures in diversis gra-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="32"/>dibus ei subduntur. Nulla autem dignitas alicuius
+<lb ed="#L" n="33"/>regentis est comparabilis dignitati divini regiminis.
+<lb ed="#L" n="34"/>Conveniens igitur est quod per diversos gradus
+<lb ed="#L" n="35"/>agentium fiat divinae providentiae executio.
+</p>
+            <p xml:id="v8naTA-d1e2337-d1e237">
+               <lb ed="#L" n="36"/>Praeterea. Convenientia ordinis: perfectionem
+<lb ed="#L" n="37"/>providentiae demonstrat: cum ordo sit proprius
+<lb ed="#L" n="38"/>providentiae effectus. Ad convenientiam autem
+<lb ed="#L" n="39"/>ordinis pertinet ut nihil inordinatum relinquatur.
+<lb ed="#L" n="40"/>Perfectio igitur divinae providentiae requirit ut
+<lb ed="#L" n="41"/>excessum aliquarum rerum supra alias ad 
+or<lb ed="#L" break="no" n="42"/>dinem convenientem reducat. Hoc autem fit cum
+<lb ed="#L" n="43"/>ex abundantia aliquorum magis habentium, 
+pro<lb ed="#L" break="no" n="44"/>venit aliquod bonum minus habentibus. Cum
+<lb ed="#L" n="45"/>igitur perfectio universi requirat quod quaedam
+<lb ed="#L" n="46"/>aliis abundantius divinam bonitatem participent,
+<lb ed="#L" n="47"/>ut supra ostensum est, exigit divinae 
+provi<lb ed="#L" break="no" n="48"/>dentiae perfectio ut per ea quae plenius divinam
+<lb ed="#L" n="49"/>bonitatem participant, executio divini regiminis
+<lb ed="#L" n="50"/>compleatur.
+</p>
+            <p xml:id="v8naTA-d1e2337-d1e272">
+               <lb ed="#L" n="51"/>Adhuc. Nobilior est ordo causarum quam 
+ef<lb ed="#L" break="no" n="52"/>fectuum: sicut et causa potior est effectu. Magis
+<lb ed="#L" n="53"/>igitur in eo perfectio providentiae demonstratur.
+<lb ed="#L" n="54"/>Si autem non essent aliquae causae mediae
+<lb ed="#L" n="55"/>exequentes divinam providentiam, non esset in
+<lb ed="#L" n="56"/>rebus ordo causarum, sed effectuum tantum.
+<lb ed="#L" n="57"/>Exigit igitur divinae providentiae perfectio quod
+<lb ed="#L" n="58"/>sint causae mediae executrices ipsius.
+</p>
+            <p xml:id="v8naTA-d1e2337-d1e292">
+               <lb ed="#L" n="59"/>Hinc est quod in Psalmo  dicitur: Benedicite
+<lb ed="#L" n="60"/>Domino omnes virtues eius, ministri eius, qui 
+fa<lb ed="#L" break="no" n="61"/>cifis. voluntatem eius; et alibi: ignis, grando,
+<lb ed="#L" n="62"/>nix, spiritus procellarum, quae faciunt verbum eius.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 81</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 81</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="241"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2369"><!-- v8naTA-l3c81 -->
+            <head xml:id="v8naTA-d1e2369-Hd1e101">Capitulum 81</head>
+            <head xml:id="v8naTA-d1e2369-Hd1e103" type="question-title">De ordinatione hominum ad invicem et ad alia.</head>
+            <p xml:id="v8naTA-d1e2369-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="21" type="fixed=241"/>CAPITULUM OCTOGESIMUM PRIMUM
+<lb ed="#L" n="22"/>DE ORDINATIONE HOMINUM AD INVICEM ET AD ALIA.
+</p>
+            <p xml:id="v8naTA-d1e2369-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="23"/>INTER alias vero intellectuales substantias
+<lb ed="#L" n="24"/>humanae animae infimum gradum 
+ha<lb ed="#L" break="no" n="25"/>bent: quia, sicut supra dictum est,
+<lb ed="#L" n="26"/>S7 in prima sul institutione cognitionem
+<lb ed="#L" n="27"/>ordinis providentiae divinae in sola quadam 
+uni<lb ed="#L" break="no" n="28"/>versali cognitione suscipiunt; ad perfectam vero
+<lb ed="#L" n="29"/>ordinis secundum singula cognitionem, oportet
+<lb ed="#L" n="30"/>quod ex ipsis rebus, in quibus ordo divinae 
+pro<lb ed="#L" break="no" n="31"/>videntiae iam particulariter institutus est, 
+perdu<lb ed="#L" break="no" n="32"/>catur. Unde oportuit quod haberet organa 
+cor<lb ed="#L" break="no" n="33"/>porea, per quae a rebus corporalibus cognitionem
+<lb ed="#L" n="34"/>hauriret. Ex quibus tamen, propter debilitatem
+<lb ed="#L" n="35"/>intellectualis luminis, perfectam notitiam eorum
+<lb ed="#L" n="36"/>quae ad hominem spectant, adipisci non valent
+<lb ed="#L" n="37"/>nisi per superiores spiritus adiuventur, hoc 
+exi<lb ed="#L" break="no" n="38"/>gente divina dispositione, ut inferiores per 
+supe<lb ed="#L" break="no" n="39"/>riores spiritus perfectionem acquirant, ut supra 
+<lb ed="#L" n="40"/>ostensum est. Quia tamen aliquid homo de 
+lu<lb ed="#L" break="no" n="41"/>mine intellectuali participat, ei secundum 
+provi<lb ed="#L" break="no" n="42"/>dentiae divinae ordinem subduntur animalia bruta,
+<lb ed="#L" n="43"/>quae intellectu nullo modo participant. Unde 
+di<lb ed="#L" break="no" n="44"/>citur Gen. 1: Faciamus hominem ad imaginem
+<lb ed="#L" n="45"/>et similitudinem nostram, scilicet secundum quod
+<lb ed="#L" n="46"/>intellectam habet, e praesit piscibus maris, el
+<lb ed="#L" n="47"/>volatilibus caeli, et bestiis terrae.
+</p>
+            <p xml:id="v8naTA-d1e2369-d1e174">
+               <lb ed="#L" n="48"/>Animalia vero bruta, etsi intellecta. careant,
+<lb ed="#L" n="49"/>quia tamen cognitionem aliquam habent, plantis,
+<lb ed="#L" n="50"/>et aliis quae cognitione carent, secundum divinae
+<lb ed="#L" n="51"/>providentiae ordinem praeferuntur. Unde dicitur
+<lb ed="#L" n="52"/>Gen. 1'?9?^: Ecce, dedi vobis omnem herbam 
+affe<lb ed="#L" break="no" n="53"/>rentem semen super terram, et universa ligna
+<lb ed="#L" n="54"/>quae habent in semelipsis sementem generis. sui,
+<lb ed="#L" n="55"/>ul sinl vobis in escam, el cunclis animantibus
+<lb ed="#L" n="56"/>terrae.
+</p>
+            <p xml:id="v8naTA-d1e2369-d1e197">
+               <lb ed="#L" n="57"/>Inter ea vero quae penitus cognitione carent,
+<lb ed="#L" n="58"/>unum subiacet alteri secundum quod est unum
+<lb ed="#L" n="59"/>altero potentius in agendo. Non enim participant
+<lb ed="#L" n="60"/>aliquid de dispositione providentiae, sed solum
+<lb ed="#L" n="61"/>de executione.
+</p>
+            <p xml:id="v8naTA-d1e2369-d1e210">
+               <cb ed="#L" n="e"/>
+               <lb ed="#L" n="62"/>Quia vero homo habet et intellectum et sensum
+<lb ed="#L" n="63"/>et corporalem virtutem, haec in ipso ad invicem
+<lb ed="#L" n="64"/>ordinantur, secundum divinae providentiae 
+dispo<lb ed="#L" break="no" n="65"/>sitionem, ad similitudinem ordinis qui in universo
+<lb ed="#L" n="66"/>invenitur: nam virtus corporea subditur 
+sensi<lb ed="#L" break="no" n="67"/>tivae et intellectivae virtuti, velut exequens earum
+<lb ed="#L" n="68"/>imperium; ipsa sensitiva potentia intellectivae
+<lb ed="#L" n="69"/>subditur, et eius imperio continetur.
+</p>
+            <p xml:id="v8naTA-d1e2369-d1e232">
+               <lb ed="#L" n="70"/>Ex eadem autem ratione, et inter ipsos 
+ho<lb ed="#L" break="no" n="71"/>mines ordo invenitur. Nam illi. qui intellectu
+<lb ed="#L" n="72"/>praeminent, naturaliter dominantur; illi vero qui
+<lb ed="#L" n="73"/>sunt intellectu deficientes, corpore vero robusti,
+<lb ed="#L" n="74"/>a natura videntur instituti ad serviendum; sicut
+<lb ed="#L" n="75"/>Aristoteles dicit in sua Politica . Cui etiam con-
+<quote xml:id="v8naTA-d1e2369-Qd1e247">Qui stultus est, serviet sapienti</quote>. Et. Exod. xvm
+<lb ed="#L" n="76"/>dicitur: <quote xml:id="v8naTA-d1e2369-Qd1e251">Provide de omni plebe viros sapientes et
+<lb ed="#L" n="77"/>timentes Deum, qui iudicent populum omni tempore.</quote>
+            </p>
+            <p xml:id="v8naTA-d1e2369-d1e257">
+               <lb ed="#L" n="78"/>Sicut autem in operibus unius hominis ex hoc
+<lb ed="#L" n="79"/>inordinatio provenit quod intellectus sensualem
+<lb ed="#L" n="80"/>virtutem sequitur; sensualis vero virtus propter
+<lb ed="#L" n="81"/>corporis indispositionem trahitur ad corporis 
+mo<lb ed="#L" break="no" n="82"/>tum, ut in claudicantibus apparet: ita et in 
+re<lb ed="#L" break="no" n="83"/>gimine humano inordinatio provenit ex eo quod
+<lb ed="#L" n="84"/>non propter intellectus praeminentiam aliquis
+<lb ed="#L" n="85"/>praeest, sed vel robore corporali dominium sibi
+<lb ed="#L" n="86"/>usurpat, vel propter sensualem affectionem aliquis
+<lb ed="#L" n="87"/>ad regendum praeficitur. Quam quidem 
+inordi<lb ed="#L" break="no" n="88"/>nationem nec Salomon tacet, qui dicit, Eccle. x5?:
+<lb ed="#L" n="89"/>Est et malum quod vidi sub sole, quasi per errorem
+<lb ed="#L" n="90"/>egrediens a facie principis, positum  stullum | in
+<lb ed="#L" n="91"/>dignitate sublimi. Huiusmodi autem inordinatio
+<lb ed="#L" n="92"/>divinam providentiam non excludit: provenit
+<lb ed="#L" n="93"/>enim, permissione divina, ex defectu inferiorum
+<lb ed="#L" n="94"/>agentium; sicut et de aliis malis dictum est .
+<lb ed="#L" n="95"/>Neque per huiusmodi inordinationem totaliter
+<lb ed="#L" n="96"/>naturalis ordo pervertitur: nam stultorum 
+do<lb ed="#L" break="no" n="97"/>minium infirmum est, nisi sapientum consilio
+<lb ed="#L" n="98"/>roboretur. Unde dicitur Proverb. xx": Cogita-
+<pb ed="#L" n="242"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>liones consilus roborabuntur, et gubernaculis 
+tra<lb ed="#L" break="no" n="2"/>clanda sunt bella; et xxiv5?: Vir sapiens fortis
+<lb ed="#L" n="3"/>est, et. vir doctus validus et robustus: quia cum
+<lb ed="#L" n="4"/>dispositione initur bellum, et erit salus ubi multa
+<lb ed="#L" n="5"/>consilia. Et quia consilians regit eum qui 
+consi<lb ed="#L" break="no" n="6"/>lium accipit, et quodammodo ei dominatur, di-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="7"/>citur Proverb. xvu, quod servus sapiens 
+domi<lb ed="#L" break="no" n="8"/>nabitur filiis stultis.
+</p>
+            <p xml:id="v8naTA-d1e2369-d1e329">
+               <lb ed="#L" n="9"/>Patet ergo quod divina providentia ordinem
+<lb ed="#L" n="10"/>omnibus rebus imponit: ut sic verum sit quod
+<lb ed="#L" n="11"/>dicit Apostolus, Rom. XI: <quote xml:id="v8naTA-d1e2369-Qd1e337">Quae a Deo sunt,
+<lb ed="#L" n="12"/>ordinata sunt.</quote>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

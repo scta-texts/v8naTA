@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 37</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 37</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="92"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2010"><!-- v8naTA-l3c37 -->
+            <head xml:id="v8naTA-d1e2010-Hd1e101">Capitulum 37</head>
+            <head xml:id="v8naTA-d1e2010-Hd1e103" type="question-title">Quod ultima felicitas hominis
+consistit in contemplatione dei</head>
+            <p xml:id="v8naTA-d1e2010-d1e106">
+               <cb ed="#L" n="i"/>
+               <lb ed="#L" n="82" type="fixed=92"/>CAPITULUM TRIGESIMUM SEPTIMUM
+<lb ed="#L" n="83"/>QUOD ULTIMA FELICITAS HOMINIS
+<lb ed="#L" n="84"/>CONSISTIT IN CONTEMPLATIONE DEI
+</p>
+            <p xml:id="v8naTA-d1e2010-d1e117">
+               <cb ed="#L" n=""/>
+               <lb ed="#L" n="85"/>SI igitur ultima felicitas hominis non 
+con<lb ed="#L" break="no" n="86"/>sistit in exterioribus, quae dicuntur bona
+<lb ed="#L" n="87"/>fortunae; neque in bonis corporis; 
+ne<lb ed="#L" break="no" n="88"/>que in bonis animae quantum ad 
+sen<lb ed="#L" break="no" n="89"/>sitivam partem; neque quantum ad intellectivam 
+<cb ed="#L" n=""/>
+               <lb ed="#L" n="90"/>secundum actum moralium virtutum; neque
+<lb ed="#L" n="91"/>secundum intellectuales quae ad actionem 
+per<lb ed="#L" break="no" n="92"/>tinent, scilicet artem et prudentiam: relinquitur
+<lb ed="#L" n="93"/>quod ultima hominis felicitas sit in 
+contempla<lb ed="#L" break="no" n="94"/>tione veritatis.
+</p>
+            <p xml:id="v8naTA-d1e2010-d1e146">
+               <pb ed="#L" n="93"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>Haec enim sola operatio hominis est sibi 
+pro<lb ed="#L" break="no" n="2"/>pria; et in ea nullo modo aliquod aliorum 
+ani<lb ed="#L" break="no" n="3"/>malium communicat.
+</p>
+            <p xml:id="v8naTA-d1e2010-d1e160">
+               <lb ed="#L" n="4"/>Haec etiam ad nihil aliud ordinatur sicut ad
+<lb ed="#L" n="5"/>finem: cum contemplatio veritatis propter seipsam
+<lb ed="#L" n="6"/>quaeratur.
+</p>
+            <p xml:id="v8naTA-d1e2010-d1e169">
+               <lb ed="#L" n="7"/>Per hanc etiam operationem homo suis 
+supe<lb ed="#L" break="no" n="8"/>rioribus coniungitur per similitudinem: quia haec
+<lb ed="#L" n="9"/>tantum de operationibus humanis in Deo et in
+<lb ed="#L" n="10"/>substantiis separatis est.
+</p>
+            <p xml:id="v8naTA-d1e2010-d1e180">
+               <lb ed="#L" n="11"/>Hac etiam operatione ad illa superiora 
+con<lb ed="#L" break="no" n="12"/>tingit, cognoscendo ipsa quocumque modo.
+</p>
+            <p xml:id="v8naTA-d1e2010-d1e187">
+               <lb ed="#L" n="13"/>Ad hanc etiam operationem sibi homo magis
+<lb ed="#L" n="14"/>est sufficiens: utpote ad eam in parum auxilio
+<lb ed="#L" n="15"/>exteriorum rerum egens.
+</p>
+            <p xml:id="v8naTA-d1e2010-d1e196">
+               <lb ed="#L" n="16"/>Ad hanc etiam omnes aliae humanae 
+opera<lb ed="#L" break="no" n="17"/>tiones ordinari videntur sicut ad finem. Ad 
+per<lb ed="#L" break="no" n="18"/>fectionem enim contemplationis requiritur 
+inco<lb ed="#L" break="no" n="19"/>lumitas corporis, ad quam ordinantur artificialia
+<lb ed="#L" n="20"/>omnia quae sunt necessaria ad vitam. Requiritur
+<lb ed="#L" n="21"/>etiam quies a perturbationibus passionum, ad
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="22"/>quam pervenitur per virtutes morales et per 
+pru<lb ed="#L" break="no" n="23"/>dentiam; et quies ab exterioribus perturbationibus,
+<lb ed="#L" n="24"/>ad quam ordinatur totum regimen vitae civilis. Ut
+<lb ed="#L" n="25"/>sic, si recte considerentur, omnia humana officia
+<lb ed="#L" n="26"/>servire videantur contemplantibus veritatem.
+</p>
+            <p xml:id="v8naTA-d1e2010-d1e225">
+               <lb ed="#L" n="27"/>Non est autem possibile quod ultima hominis
+<lb ed="#L" n="28"/>felicitas consistat in contemplatione quae est 
+se<lb ed="#L" break="no" n="29"/>cundum intellectum principiorum, quae est 
+im<lb ed="#L" break="no" n="30"/>perfectissima, sicut maxime universalis, rerum
+<lb ed="#L" n="31"/>cognitionem in potentia continens; et est 
+prin<lb ed="#L" break="no" n="32"/>cipium, non finis humani studii, a natura nobis
+<lb ed="#L" n="33"/>proveniens, non secundum studium veritatis. 
+Ne<lb ed="#L" break="no" n="34"/>que etiam secundum scientias quae sunt de rebus
+<lb ed="#L" n="35"/>infimis: cum oporteat felicitatem esse in 
+opera<lb ed="#L" break="no" n="36"/>tione intellectus per comparationem ad 
+nobilis<lb ed="#L" break="no" n="37"/>sima intelligibilia. Relinquitur igitur quod in 
+con<lb ed="#L" break="no" n="38"/>templatione sapientiae ultima hominis felicitas
+<lb ed="#L" n="39"/>consistat, secundum divinorum considerationem.
+</p>
+            <p xml:id="v8naTA-d1e2010-d1e257">
+               <lb ed="#L" n="40"/>Ex quo etiam patet inductionis via quod supra 
+<lb ed="#L" n="41"/>rationibus est probatum, quod ultima felicitas 
+ho<lb ed="#L" break="no" n="42"/>minis non consistit nisi in contemplatione Dei.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

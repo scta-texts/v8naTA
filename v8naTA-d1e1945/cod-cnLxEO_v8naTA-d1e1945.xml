@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 29</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 29</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="89"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1945"><!-- v8naTA-l3c29 -->
+            <head xml:id="v8naTA-d1e1945-Hd1e101">Capitulum 29</head>
+            <head xml:id="v8naTA-d1e1945-Hd1e103" type="question-title">Quod felicitas hominis non consistit in gloria.</head>
+            <p xml:id="v8naTA-d1e1945-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="31" type="fixed=85"/>CAPITULUM VIGESIMUM NONUM
+<lb ed="#L" n="32"/>QUOD FELICITAS HOMINIS NON CONSISTIT IN GLORIA.
+</p>
+            <p xml:id="v8naTA-d1e1945-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="33"/>EX quo etiam apparet quid nec in sio:
+<lb ed="#L" n="34"/>ria, quae est in celebritate famae, 
+con<lb ed="#L" break="no" n="35"/>sistit: summum hominis bonum.
+</p>
+            <p xml:id="v8naTA-d1e1945-d1e126">
+               <lb ed="#L" n="36"/>Est enim gloria, secundum  
+Tul<lb ed="#L" break="no" n="37"/>lium, frequens de aliquo fama cum laude: et;
+<lb ed="#L" n="38"/>secundum Ambrosium , clara cum laude notitia.
+<lb ed="#L" n="39"/>Ad hoc autem homines volunt innotescere cum
+<lb ed="#L" n="40"/>laude et claritate quadam, ut ab eis quibus 
+in<lb ed="#L" break="no" n="41"/>notescunt honorentur. Est igitur gloria propter
+<lb ed="#L" n="42"/>honorem quaesita. Si igitur honor non est 
+sum<lb ed="#L" break="no" n="43"/>mum bonum, multo minus gloria.
+</p>
+            <p xml:id="v8naTA-d1e1945-d1e147">
+               <lb ed="#L" n="44"/>Adhuc. Laudabilia bona. sunt secundum quae
+<lb ed="#L" n="45"/>aliquis ostenditur ordinatus ad finem. Qui autem
+<lb ed="#L" n="46"/>ordinatur ad finem, nondum est ultimum finem
+<lb ed="#L" n="47"/>assecutus. Laus igitur non attribuitur ei qui iam
+<lb ed="#L" n="48"/>est ultimum finem assecutus:.sed magis honor,
+<lb ed="#L" n="49"/>ut <ref xml:id="v8naTA-d1e1945-Rd1e162">Philosophus dicit, in I Ethicorum</ref>. Non potest
+<lb ed="#L" n="50"/>igitur gloria esse summum bonum: cum 
+prin<lb ed="#L" break="no" n="51"/>cipaliter in laude consistat.
+</p>
+            <p xml:id="v8naTA-d1e1945-d1e169">
+               <lb ed="#L" n="52"/>Amplius. Cognoscere nobilius est quam:.
+co<lb ed="#L" break="no" n="53"/>gnosci: non enim cognoscunt nisi quae sunt 
+no<lb ed="#L" break="no" n="54"/>biliora in rebus; cognoscuntur autem infima. Non
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="55"/>potest igitur summum hominis bonum esse gloria,
+<lb ed="#L" n="56"/>quae consistit in hoc quod aliquis cognoscatur.
+</p>
+            <p xml:id="v8naTA-d1e1945-d1e185">
+               <lb ed="#L" n="57"/>Item. Cognosci aliquis non desiderat nisi in
+<lb ed="#L" n="58"/>bonis: in malis autem quaerit latere. Cognosci
+<lb ed="#L" n="59"/>igitur bonum est et desiderabile propter bona
+<lb ed="#L" n="60"/>quae in aliquo cognoscuntur. Illa igitur sunt 
+me<lb ed="#L" break="no" n="61"/>liora. Non est igitur gloria, quae in hoc 
+consi<lb ed="#L" break="no" n="62"/>stit quod aliquis cognoscatur, summum hominis
+<lb ed="#L" n="63"/>bonum.
+</p>
+            <p xml:id="v8naTA-d1e1945-d1e203">
+               <lb ed="#L" n="64"/>Praeterea. Summum bonum oportet esse 
+per<lb ed="#L" break="no" n="65"/>fectum: cum quietet appetitum. Cognitio autem
+<lb ed="#L" n="66"/>famae, in qua gloria humana consistit, est 
+im<lb ed="#L" break="no" n="67"/>perfecta: est enim plurimum incertitudinis et 
+er<lb ed="#L" break="no" n="68"/>roris habens. Non potest igitur talis gloria esse
+<lb ed="#L" n="69"/>summum bonum.
+</p>
+            <p xml:id="v8naTA-d1e1945-d1e219">
+               <lb ed="#L" n="70"/>Item. Id quod est summum hominis bonum,
+<lb ed="#L" n="71"/>oportet esse stabilissimum in rebus humanis: 
+na<lb ed="#L" break="no" n="72"/>turaliter enim desideratur diuturna boni 
+con<lb ed="#L" break="no" n="73"/>stantia. Gloria autem, quae in fama consistit, est
+<lb ed="#L" n="74"/>instabilissima: nihil enim est mutabilius opinione
+<lb ed="#L" n="75"/>et laude humana. Non est igitur talis gloria 
+sum<lb ed="#L" break="no" n="76"/>mum hominis bonum.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

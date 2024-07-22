@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 88</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 88</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="269"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2426"><!-- v8naTA-l3c88 -->
+            <head xml:id="v8naTA-d1e2426-Hd1e101">Capitulum 88</head>
+            <head xml:id="v8naTA-d1e2426-Hd1e103" type="question-title">Quod substantiae separatae creatae
+non possunt esse causa directe
+electionum et voluntatum nostrarum, sed solus deus.</head>
+            <p xml:id="v8naTA-d1e2426-d1e106">
+               <pb ed="#L" n="269"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=269"/>CAPITULUM OCTOGESIMUM OCTAVUM
+<lb ed="#L" n="2"/>QUOD SUBSTANTIAE SEPARATAE CREATAE
+<lb ed="#L" n="3"/>NON POSSUNT ESSE CAUSA DIRECTE
+<lb ed="#L" n="4"/>ELECTIONUM ET VOLUNTATUM NOSTRARUM, SED SOLUS DEUS.
+</p>
+            <p xml:id="v8naTA-d1e2426-d1e122">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="5"/>NON est autem aestimandum quod animae
+<lb ed="#L" n="6"/>caelorum, si quae sint , vel 
+quaecum<lb ed="#L" break="no" n="7"/>que aliae intellectuales substantiae 
+se<lb ed="#L" break="no" n="8"/>paratae creatae, possint directe 
+volun<lb ed="#L" break="no" n="9"/>tatem nobis immittere, aut electionis nostrae
+<lb ed="#L" n="10"/>causa esse.
+</p>
+            <p xml:id="v8naTA-d1e2426-d1e140">
+               <lb ed="#L" n="11"/>Omnium enim creatorum actiones sub ordine
+<lb ed="#L" n="12"/>divinae providentiae continentur: unde praeter
+<lb ed="#L" n="13"/>leges ipsius agere non possunt. Est autem 
+pro<lb ed="#L" break="no" n="14"/>videntiae lex ut unumquodque immediate a
+<lb ed="#L" n="15"/>proxima sibi causa moveatur. Causa igitur 
+su<lb ed="#L" break="no" n="16"/>perior creata, tali ordine praetermisso, nec 
+mo<lb ed="#L" break="no" n="17"/>vere nec aliquid agere potest. Proximum autem
+<lb ed="#L" n="18"/>motivum voluntatis est bonum intellectum, quod
+<lb ed="#L" n="19"/>est suum obiectum, et movetur ab ipso sicut
+<lb ed="#L" n="20"/>visus a colore. Nulla igitur substantia creata
+<lb ed="#L" n="21"/>potest movere voluntatem nisi mediante bono
+<lb ed="#L" n="22"/>intellecto. Hoc autem est inquantum manifestat:
+<lb ed="#L" n="23"/>ei aliquid esse bonum ad agendum: quod est
+<lb ed="#L" n="24"/>persuadere. Nulla igitur substantia creata potest
+<lb ed="#L" n="25"/>agere in voluntatem, vel esse causa electionis
+<lb ed="#L" n="26"/>nostrae, nisi per modum. persuadentis.
+</p>
+            <p xml:id="v8naTA-d1e2426-d1e178">
+               <lb ed="#L" n="27"/>Item. Ab illo agente aliquid natum est moveri
+<lb ed="#L" n="28"/>et pati per cuius formam reduci potest in actum:
+<lb ed="#L" n="29"/>nam omne agens agit per formam suam. Voluntas
+<lb ed="#L" n="30"/>autem reducitur in actum per appetibile, quod
+<lb ed="#L" n="31"/>motum desiderii eius quietat. In solo autem bono
+<lb ed="#L" n="32"/>divino quietatur desiderium voluntatis sicut in
+<lb ed="#L" n="33"/>ultimo fine, ut ex supra  dictis patet. Solus
+<lb ed="#L" n="34"/>igitur Deus potest movere voluntatem per modum
+<lb ed="#L" n="35"/>agentis.
+</p>
+            <p xml:id="v8naTA-d1e2426-d1e200">
+               <lb ed="#L" n="36"/>Adhuc. Sicut in re inanimata se habet 
+incli<lb ed="#L" break="no" n="37"/>natio naturalis ad proprium finem, quae et 
+ap<lb ed="#L" break="no" n="38"/>petitus naturalis dicitur: ita se habet i in substantia
+<lb ed="#L" n="39"/>intellectuali voluntas, quae dicitur appetitus intel- ,
+<lb ed="#L" n="40"/>lectualis. Inclinationes autem naturales dare non
+<lb ed="#L" n="41"/>est nisi illius qui naturam instituit. Ergo et 
+volun<lb ed="#L" break="no" n="42"/>tatem inclinare in aliquid non est nisi eius qui est
+<lb ed="#L" n="43"/>naturae intellectualis causa. Hoc autem solius Dei
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="44"/>est, sicut ex superioribus  patet. Ipse igitur solus
+<lb ed="#L" n="45"/>voluntatem nostram ad aliquid inclinare potest.
+<lb ed="#L" n="46"/>Amplius. Violentum, ut dicitur in lII Efhic. ,
+<lb ed="#L" n="47"/>est cuius principium est extra, nil conferente vim
+<lb ed="#L" n="48"/>; passo. Si igitur voluntas moveatur ab aliquo 
+exte<lb ed="#L" break="no" n="49"/>riori principio, erit violentus motus: — dico autem
+<lb ed="#L" n="50"/>moveri a principio extrinseco quod moveat per
+<lb ed="#L" n="51"/>modum agentis, et non per modum finis. Violentum
+<lb ed="#L" n="52"/>autem voluntario repugnat. Impossibile est ergo
+<lb ed="#L" n="53"/>» quod voluntas moveatur a principio extrinseco
+<lb ed="#L" n="54"/>quasi ab agente, sed oportet quod omnis motus
+<lb ed="#L" n="55"/>voluntatis ab interiori procedat, Nulla autem
+<lb ed="#L" n="56"/>substantia creata coniungitur animae intellectuali
+<lb ed="#L" n="57"/>quantum ad sua interiora nisi solus Deus, qui
+<lb ed="#L" n="58"/>solus est causa esse ipsius, et sustinens eam in
+<lb ed="#L" n="59"/>esse. A solo igitur Deo potest motus 
+volunta<lb ed="#L" break="no" n="60"/>rius causari.
+</p>
+            <p xml:id="v8naTA-d1e2426-d1e259">
+               <lb ed="#L" n="61"/>Adhuc. Violentum opponitur naturali et 
+vo<lb ed="#L" break="no" n="62"/>luntario motui: quia utrumque oportet quod sit
+<lb ed="#L" n="63"/>a principio intrinseco. Agens autem exterius sic
+<lb ed="#L" n="64"/>solum naturaliter movet, inquantum causat in
+<lb ed="#L" n="65"/>mobili intrinsecum principium motus: sicut 
+ge<lb ed="#L" break="no" n="66"/>nerans, quod dat formam gravitatis corpori gravi
+<lb ed="#L" n="67"/>generato, movet ipsum naturaliter deorsum ,
+<lb ed="#L" n="68"/>Nihil autem aliud extrinsecum movere potest
+<lb ed="#L" n="69"/>absque violentia corpus naturale: nisi forte per
+<lb ed="#L" n="70"/>accidens, sicut removens prohibens; quod magis
+<lb ed="#L" n="71"/>utitur motu naturali vel actione quam causet
+<lb ed="#L" n="72"/>ipsum. lllud igitur solum agens potest causare
+<lb ed="#L" n="73"/>,motum voluntatis absque violentia, quod causat
+<lb ed="#L" n="74"/>principium intrinsecum huius motus, quod est
+<lb ed="#L" n="75"/>potentia ipsa. voluntatis. Hocautem est Deus,
+<lb ed="#L" n="76"/>qui animam solus creat, ut in Secundo ostensum
+<lb ed="#L" n="77"/>est . Solus igitur Deus potest movere 
+volunta<lb ed="#L" break="no" n="78"/>,tem, per modum agentis, absque violentia.
+<lb ed="#L" n="79"/>Hinc est quod dicitur Prov. xxi': Cor regis
+<lb ed="#L" n="80"/>in manu Domini, et quocumque voluerit inclinabit
+<lb ed="#L" n="81"/>illud. Et Philip. n: Deus est qui operatur in nobis
+<lb ed="#L" n="82"/>velle et perficere, pro bona voluntate.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

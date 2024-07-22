@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 43</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 43</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="110"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2059"><!-- v8naTA-l3c43 -->
+            <head xml:id="v8naTA-d1e2059-Hd1e101">Capitulum 43</head>
+            <head xml:id="v8naTA-d1e2059-Hd1e103" type="question-title">Quod non possumus in hac vita
+intelligere substantias separats sicut ponit averroes,</head>
+            <p xml:id="v8naTA-d1e2059-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="30" type="fixed=110"/>CAPITULUM QUADRAGESIMUM TERTIUM
+<lb ed="#L" n="31"/>QUOD NON POSSUMUS IN HAC VITA
+<lb ed="#L" n="32"/>INTELLIGERE SUBSTANTIAS SEPARATS SICUT PONIT AVERROES,
+</p>
+            <p xml:id="v8naTA-d1e2059-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="33"/>QUA vero maxima difficultas est in 
+opi<lb ed="#L" break="no" n="34"/>nione Alexandri ex hoc quod ponit 
+in<lb ed="#L" break="no" n="35"/>tellectum possibilem in habitu totaliter 
+<lb ed="#L" n="36"/>corruptibilem, Averroes faciliorem viam — 
+<lb ed="#L" n="37"/>se existimavit adinvenisse ad ostendendum quod : 
+<lb ed="#L" n="38"/>quandoque intelligamus substantias separatas, ex 
+<lb ed="#L" n="39"/>hoc quod ponit intellectum possibilem 
+incor<lb ed="#L" break="no" n="40"/>ruptibillem, et a nobis secundum esse separatum, 
+<lb ed="#L" n="41"/>sicut et intellectum agentem . 
+</p>
+            <p xml:id="v8naTA-d1e2059-d1e141">
+               <lb ed="#L" n="42"/>Ostendit enim primo, quod necesse est ponere 
+<lb ed="#L" n="43"/>quod intellectus agens se habeat ad principia 
+<lb ed="#L" n="44"/>naturaliter cognita a nobis vel sicut agens ad 
+<lb ed="#L" n="45"/>instrumentum, vel sicut forma ad materiam. 
+In<lb ed="#L" break="no" n="46"/>tellectus enim in habitu, quo intelligimus, non 
+<lb ed="#L" n="47"/>solum habet hanc actionem quae est intelligere,  
+<lb ed="#L" n="48"/>sed etiam hanc quae est facere intellecta in actu: 
+<lb ed="#L" n="49"/>utrumque enim experimur in nostra potestate 
+<lb ed="#L" n="50"/>existere. Hoc autem quod est facere intellecta 
+<lb ed="#L" n="51"/>in actu, magis proprie notificat intellectum in 
+<lb ed="#L" n="52"/>habitu quam intelligere: quia prius est facere 
+<lb ed="#L" n="53"/>intellecta in actu quam intelligere. Sunt autem  
+<lb ed="#L" n="54"/>quaedam in nobis facta intellecta in actu 
+natu<lb ed="#L" break="no" n="55"/>raliter, non ex studio aut ex nostra voluntate, 
+<lb ed="#L" n="56"/>sicut prima intelligibilia. Haec autem facere 
+in<lb ed="#L" break="no" n="57"/>tellecta. actu. non contingit per intellectum in 
+<lb ed="#L" n="58"/>habitu, per quem fiunt intellecta in actu ea quae 
+<lb ed="#L" n="59"/>scimus ex studio: sed magis suntinitium 
+intel<lb ed="#L" break="no" n="60"/>lectus in habitu; unde et habitus horum 
+intelli<lb ed="#L" break="no" n="61"/>gibilium ab <ref xml:id="v8naTA-d1e2059-Rd1e186">Aristotele, in VI Ethicorum</ref> , 
+intel<lb ed="#L" break="no" n="62"/>lectus dicitur. Fiunt autem intellecta. in actu per 
+<lb ed="#L" n="63"/>solum intellectum agentem. Per haec autem fiunt 
+<lb ed="#L" n="64"/>intellecta in actu alia, quae ex studio scimus. 
+<lb ed="#L" n="65"/>Facere igitur haec consequentia intellecta in actu 
+<lb ed="#L" n="66"/>est actio et intellectus in habitu, quantum ad 
+<lb ed="#L" n="67"/>prima principia; et ipsius intellectus agentis.: 
+<lb ed="#L" n="68"/>Una autem actio non. est duorum nisi unum 
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="69"/>eorum comparetur ad alterum sicut agens ad
+<lb ed="#L" n="70"/>instrumentum, vel sicut forma ad materiam.
+<lb ed="#L" n="71"/>Oportet igitur quod intellectus agens comparetur
+<lb ed="#L" n="72"/>ad prima principia intellectus in habitu vel sicut
+<lb ed="#L" n="73"/>agens ad instrumentum, vel sicut forma ad 
+ma<lb ed="#L" break="no" n="74"/>teriam.
+</p>
+            <p xml:id="v8naTA-d1e2059-d1e220">
+               <lb ed="#L" n="75"/>Quod quidem qualiter possit esse, sic ostendit.
+<lb ed="#L" n="76"/>Intellectus possibilis, cum sit, secundum eius
+<lb ed="#L" n="77"/>positionem, quaedam substantia separata, 
+intel<lb ed="#L" break="no" n="78"/>ligit intellectum agentem et alias substantias 
+se<lb ed="#L" break="no" n="79"/>paratas, et etiam prima intellecta speculativa.
+<lb ed="#L" n="80"/>Est igitur subiectum utrorumque. Quaecumque
+<lb ed="#L" n="81"/>autem conveniunt in uno subiecto, alterum
+<lb ed="#L" n="82"/>eorum est sicut forma alterius: sicut, cum color
+<lb ed="#L" n="83"/>et lux sint in diaphano sicut in subiecto, oportet
+<lb ed="#L" n="84"/>quod alterum, scilicet lux, sit quasi forma 
+alte<lb ed="#L" break="no" n="85"/>rius, scilicet coloris; Hoc autem necesse est
+<lb ed="#L" n="86"/>quando habent ordinem ad invicem: non in his
+<lb ed="#L" n="87"/>quae per accidens coniunguntur in eodem 
+sub<lb ed="#L" break="no" n="88"/>iecto, sicut albedo et musica. Sunt autem .
+in<lb ed="#L" break="no" n="89"/>tellecta speculativa et intellectus agens ordinem
+<lb ed="#L" n="90"/>ad invicem habentia: cum intellecta speculativa
+<lb ed="#L" n="91"/>sint facta intellecta in actu per intellectum 
+agen<lb ed="#L" break="no" n="92"/>tem. Habet se igitur intellectus agens ad 
+intel<lb ed="#L" break="no" n="93"/>lecta speculativa quasi forma ad materiam. 
+Opor<lb ed="#L" break="no" n="94"/>tet igitur quod, cum intellecta speculativa sint.
+<lb ed="#L" n="95"/>nobis copulata per phantasmata, quae sunt
+<lb ed="#L" n="96"/>quoddam subiectum ipsorum, quod etiam 
+intel<lb ed="#L" break="no" n="97"/>lectus agens continuetur nobiscum, inquantum
+<lb ed="#L" n="98"/>est forma intellectorum speculativorum. Quando
+<lb ed="#L" n="99"/>igitur intellecta speculativa sunt in nobis solum in
+<lb ed="#L" n="100"/>potentia, intellectus agens continuatur nobiscum
+<lb ed="#L" n="101"/>solum in potentia. Quando autem aliqua 
+intel<lb ed="#L" break="no" n="102"/>lecta speculativa sunt in nobis in actu et aliqua
+<lb ed="#L" n="103"/>in potentia, continuatur nobis partim actu et
+<lb ed="#L" n="104"/>partim in potentia: et tunc dicimur moveri ad
+<pb ed="#L" n="111"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>continuationem praedictam; quia quanto plura 
+<lb ed="#L" n="2"/>intellecta in .actu fuerint in nobis facta, perfectius 
+<lb ed="#L" n="3"/>intellectus agens continuatur nobis. Hic autem 
+<lb ed="#L" n="4"/>profectus et motus ad continuationem fit per 
+<lb ed="#L" n="5"/>studium in scientiis speculativis, per quas vera : 
+<lb ed="#L" n="6"/>intellecta acquirimus, et falsae opiniones 
+exclu<lb ed="#L" break="no" n="7"/>duntur, quae sunt extra ordinem huius motus, 
+</p>
+            <p xml:id="v8naTA-d1e2059-d1e307">
+               <lb ed="#L" n="8"/>sicut monstruosa extra ordinem naturalis 
+ope<lb ed="#L" break="no" n="9"/>rationis. Unde et ad hunc profectum iuvant se
+<lb ed="#L" n="10"/>homines, sicut iuvant se invicem in scientiis 
+<lb ed="#L" n="11"/>speculativis. Quando ergo omnia intellecta in 
+<lb ed="#L" n="12"/>potentia fuerint in nobis facta T in actu, tunc 
+<lb ed="#L" n="13"/>intellectus agens perfecte copulabitur nobis ut 
+<lb ed="#L" n="14"/>forma, et intelligemus per ipsum perfecte, sicut 
+<lb ed="#L" n="15"/>nunc perfecte intelligimus per intellectum in 
+ha<lb ed="#L" break="no" n="16"/>bitu. Unde, cum ad intellectum agentem 
+perti<lb ed="#L" break="no" n="17"/>neat intelligere substantias separatas, inteligemus — 
+<lb ed="#L" n="18"/>tunc substantias separatas, sicut nunc intelligimus — 
+<lb ed="#L" n="19"/>intellecta speculativa. Et haec erit ultima hominis 
+<lb ed="#L" n="20"/>felicitas, in qua homo erit sicut quidam Deus. 
+<lb ed="#L" n="21"/>Huius autem positionis destructio ex 
+praemis<lb ed="#L" break="no" n="22"/>sis sufficienter apparet: procedit enim ex 
+sup<lb ed="#L" break="no" n="23"/>positione multorum quae in superioribus sunt 
+<lb ed="#L" n="24"/>improbata. 
+</p>
+            <p xml:id="v8naTA-d1e2059-d1e346">
+               <lb ed="#L" n="25"/>Primo quidem, supra ostensum est quod»; 
+<lb ed="#L" n="26"/>intellectus possibilis non est aliqua substantia 
+<lb ed="#L" n="27"/>separata a nobis secundum esse. Unde non 
+opor<lb ed="#L" break="no" n="28"/>tebit quod sit subiectum substantiarum 
+separa<lb ed="#L" break="no" n="29"/>tarum: praecipue cum Aristoteles dicat quod 
+<lb ed="#L" n="30"/>intellectus possibilis est zm quo est omnia fieri 
+<lb ed="#L" n="31"/>unde videtur quod sit subiectum solum illorum 
+<lb ed="#L" n="32"/>quae sunt facta intellecta. 
+</p>
+            <p xml:id="v8naTA-d1e2059-d1e366">
+               <lb ed="#L" n="33"/>Item. De intellectu agente etiam supra  
+osten<lb ed="#L" break="no" n="34"/>sum est quod non est aliqua substantia separata; 
+<lb ed="#L" n="35"/>sed pars animae: cui Aristoteles attribuit hanc  
+<lb ed="#L" n="36"/>operationem, scilicet facere intellecta in actu, 
+<lb ed="#L" n="37"/>quae est in nostra potestate. Unde non oportebit 
+<lb ed="#L" n="38"/>quod intelligere per intellectum agentem sit nobis 
+<lb ed="#L" n="39"/>causa quod possimus intelligere substantias 
+se<lb ed="#L" break="no" n="40"/>ratas: alias semper intelligeremus eas 
+<lb ed="#L" n="41"/>Adhuc. Si intellectus agens est substantia 
+se<lb ed="#L" break="no" n="42"/>parata, non copulatur nobiscum nisi per species 
+<lb ed="#L" n="43"/>factas intellectas in actu, secundum eius 
+posi<lb ed="#L" break="no" n="44"/>tionem, sicut nec intellectus possibilis: licet 
+in<lb ed="#L" break="no" n="45"/>tellectus. possibilis se habeat ad illas species sicut« 
+<lb ed="#L" n="46"/>materia ad formam, intellectus autem. agens e 
+<lb ed="#L" n="47"/>converso sicut forma ad materiam. Species autem — 
+<lb ed="#L" n="48"/>factae intellectae in actu copulantur nobiscum, 
+<lb ed="#L" n="49"/>secundum eius positionem, propter phantasmata, 
+<lb ed="#L" n="50"/>quae ita se habent ad intellectum . possibilem :» 
+<lb ed="#L" n="51"/>sicut colores ad visum, ad intellectum vero 
+agen<lb ed="#L" break="no" n="52"/>tem sicut colores ad Jucem, ut ex verbis 
+Aristo<lb ed="#L" break="no" n="53"/>telis in <ref xml:id="v8naTA-d1e2059-Rd1e413">III de Anima</ref> patet. Non autem lapidi, 
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="54"/>in quo est color, potest attribui neque. actio
+<lb ed="#L" n="55"/>visus ut videat, neque actio solis ut illuminet,
+<lb ed="#L" n="56"/>Ergo, secundum positionem praedictam, homini
+<lb ed="#L" n="57"/>non poterit attribui neque actio intellectus 
+pos<lb ed="#L" break="no" n="58"/>sibilis ut intelligat; neque actio intellectus agentis
+<lb ed="#L" n="59"/>ut intelligat substantias separatas, vel ut faciat
+<lb ed="#L" n="60"/>intellecta in actu.
+</p>
+            <p xml:id="v8naTA-d1e2059-d1e434">
+               <lb ed="#L" n="61"/>Amplius. Secundum positionem praemissam,
+<lb ed="#L" n="62"/>intellectus agens non ponitur continuari nobiscum
+<lb ed="#L" n="63"/>ut forma nisi per hoc quod est forma 
+specula<lb ed="#L" break="no" n="64"/>tivorum intellectorum, quorum etiam ponitur
+<lb ed="#L" n="65"/>forma per hoc quod eadem actio est intellectus
+<lb ed="#L" n="66"/>agentis et illorum intellectorum, scilicet facere
+<lb ed="#L" n="67"/>intellecta actu. Non igitur poterit esse forma nobis
+<lb ed="#L" n="68"/>nisi secundum quod communicant in actione eius
+<lb ed="#L" n="69"/>intellecta speculativa. Haec autem non 
+communi<lb ed="#L" break="no" n="70"/>cant in operatione eius quae est intelligere 
+sub<lb ed="#L" break="no" n="71"/>stantias separatas, cum sint species rerum 
+sensi<lb ed="#L" break="no" n="72"/>bilium: nisi redeamus ad opinionem Avempace,
+<lb ed="#L" n="73"/>quod quidditates substantiarum separatarum. 
+pos<lb ed="#L" break="no" n="74"/>sint cognosci per ea quae intelligimus de istis 
+sensi<lb ed="#L" break="no" n="75"/>bilibus . Nullo igitur modo per viam praedictam
+<lb ed="#L" n="76"/>poterimus intelligere substantias separatas.
+</p>
+            <p xml:id="v8naTA-d1e2059-d1e471">
+               <lb ed="#L" n="77"/>Praeterea. Intellectus agens secundum alium
+<lb ed="#L" n="78"/>ordinem comparatur ad. intellecta speculativa,
+<lb ed="#L" n="79"/>quorum. est factivus; et ad substantias separatas,
+<lb ed="#L" n="80"/>quarum non est factivus, sed cognoscitivus 
+tan<lb ed="#L" break="no" n="81"/>tum, secundum eius positionem. Non igitur 
+opor<lb ed="#L" break="no" n="82"/>tet, si copuletur nobis per hoc quod est factivus
+<lb ed="#L" n="83"/>intellectorum speculativorum, quod copuletur
+<lb ed="#L" n="84"/>nobis secundum quod est cognoscitivus 
+substan<lb ed="#L" break="no" n="85"/>tiarum separatarum: sed in tali processu est 
+de<lb ed="#L" break="no" n="86"/>ceptio manifeste secundum accidens.
+</p>
+            <p xml:id="v8naTA-d1e2059-d1e496">
+               <lb ed="#L" n="87"/>Adhuc. Si per intellectum agentem 
+cognosci<lb ed="#L" break="no" n="88"/>mus substantias separatas, hoc non est inquantum
+<lb ed="#L" n="89"/>intellectus agens est forma huius vel illius 
+intel<lb ed="#L" break="no" n="90"/>lecti speculativi, sed inquantum fit forma nobis:
+<lb ed="#L" n="91"/>sic enim per ipsum possumus. intelligere. Fit
+<lb ed="#L" n="92"/>autem forma nobis etiam. per prima intellecta
+<lb ed="#L" n="93"/>speculativa, secundum quod ipse dicit. Ergo
+<lb ed="#L" n="94"/>statim a principio homo potest per intellectum
+<lb ed="#L" n="95"/>agentem intelligere substantias separatas.
+</p>
+            <p xml:id="v8naTA-d1e2059-d1e518">
+               <lb ed="#L" n="96"/>Si autem dicatur quod non fit nobis perfecte
+<lb ed="#L" n="97"/>forma per quaedam intellecta speculativa 
+intel<lb ed="#L" break="no" n="98"/>lectus agens, ut per ipsum possimus intelligere
+<lb ed="#L" n="99"/>substantias separatas: — hoc non est nisi quia
+<lb ed="#L" n="100"/>illa intellecta speculativa non adaequant 
+perfectio<lb ed="#L" break="no" n="101"/>nem intellectus agentis in intelligendo substantias
+<lb ed="#L" n="102"/>separatas. Sed nec omnia intellecta , speculativa
+<lb ed="#L" n="103"/>simul accepta adaequant illam. perfectionem .
+in<lb ed="#L" break="no" n="104"/>tellectus agentis secundum quod intelligit 
+substan<lb ed="#L" break="no" n="105"/>tias separatas: cum omnia haec non sint 
+intel<lb ed="#L" break="no" n="106"/>ligibilia nisi. inquantum sunt facta intellecta; illa
+<pb ed="#L" n="112"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>vero sunt intelligibilia secundum suam naturam.
+<lb ed="#L" n="2"/>Non igitur per hoc quod omnia speculativa 
+in<lb ed="#L" break="no" n="3"/>telligibilia sciemus, oportebit quod ita perfecte
+<lb ed="#L" n="4"/>intellectus agens fiat nobis forma quod per ipsum
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="5"/>intelligamus substantias separatas. Vel, si hoc
+<lb ed="#L" n="6"/>non requiritur, oportebit dicere quod, intelligendo
+<lb ed="#L" n="7"/>quodlibet intelligibile, intelligamus substantias 
+se<lb ed="#L" break="no" n="8"/>paratas.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

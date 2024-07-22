@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 53</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 53</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="146"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2141"><!-- v8naTA-l3c53 -->
+            <head xml:id="v8naTA-d1e2141-Hd1e101">Capitulum 53</head>
+            <head xml:id="v8naTA-d1e2141-Hd1e103" type="question-title">Quod intellectus creatus
+indiget aliqua influentia divini luminis
+ad hoc ut deum per essentiam videat.</head>
+            <p xml:id="v8naTA-d1e2141-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="69" type="fixed=146"/>CAPITULUM QUINQUAGESIMUM TERTIUM
+<lb ed="#L" n="70"/>QUOD INTELLECTUS CREATUS
+<lb ed="#L" n="71"/>INDIGET ALIQUA INFLUENTIA DIVINI LUMINIS
+<lb ed="#L" n="72"/>AD HOC UT DEUM PER ESSENTIAM VIDEAT.
+</p>
+            <p xml:id="v8naTA-d1e2141-d1e119">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="73"/>OPORTET autem quod ad tam nobilem 
+vi<lb ed="#L" break="no" n="74"/>sionem intellectus creatus per aliquam
+<lb ed="#L" n="75"/>divinae bonitatis influentiam elevetur.
+</p>
+            <p xml:id="v8naTA-d1e2141-d1e130">
+               <lb ed="#L" n="76"/>Impossibile est enim quod id quod
+<lb ed="#L" n="77"/>est forma alicuius rei propria, fiat alterius rei
+<lb ed="#L" n="78"/>forma, nisi res illa participet aliquam  
+similitu<lb ed="#L" break="no" n="79"/>dinem illius cuius est propria forma: sicut lux
+<lb ed="#L" n="80"/>non fit actus alicuius corporis nisi aliquid 
+par<lb ed="#L" break="no" n="81"/>ticipet de diaphano. Essentia autem divina est
+<lb ed="#L" n="82"/>propria forma intelligibilis intellectus divini, et
+<lb ed="#L" n="83"/>ei proportionata: nam haec tria in Deo unum
+<lb ed="#L" n="84"/>sunt, intellectus, quo intelligitur, et quod 
+intelli<lb ed="#L" break="no" n="85"/>gitur. Impossibile est igitur quod ipsa essentia
+<lb ed="#L" n="86"/>fiat intelligibilis forma alicuius intellectus creati,
+<lb ed="#L" n="87"/>nisi per hoc quod aliquam divinam 
+similitudi<lb ed="#L" break="no" n="88"/>nem intellectus creatus participat. Haec Agitur
+<lb ed="#L" n="89"/>divinae similitudinis participatio necessaria est
+<lb ed="#L" n="90"/>ad hoc quod Dei substantia videatur.
+</p>
+            <p xml:id="v8naTA-d1e2141-d1e166">
+               <cb ed="#L" n="e"/>
+               <lb ed="#L" n="91"/>Adhuc. Nihil est susceptivum iormae 
+subli<lb ed="#L" break="no" n="92"/>mioris nisi per aliquam dispositionem ad illius
+<lb ed="#L" n="93"/>capacitatem  elevetur: proprius enim actus in
+<lb ed="#L" n="94"/>propria potentia fit. Essentia autem divina est
+<lb ed="#L" n="95"/>forma altior omni intellectu creato. Ad hoc igitur
+<lb ed="#L" n="96"/>quod essentia divina fiat intelligibilis species 
+ali<lb ed="#L" break="no" n="97"/>cuius intellectus creati, quod requiritur ad hoc
+<lb ed="#L" n="98"/>quod divina substantia videatur, necesse est quod
+<lb ed="#L" n="99"/>intellectus creatus aliqua dispositione sublimiori
+<lb ed="#L" n="100"/>ad hoc elevetur.
+</p>
+            <p xml:id="v8naTA-d1e2141-d1e192">
+               <lb ed="#L" n="101"/>Amplius. Si aliqua duo prius fuerint non unita
+<lb ed="#L" n="102"/>et postmodum uniantur, oportet quod hoc fiat
+<lb ed="#L" n="103"/>per mutationem utriusque, vel alterius tantum.
+<lb ed="#L" n="104"/>Si autem ponatur quod intellectus aliquis creatus
+<lb ed="#L" n="105"/>de novo incipiat Dei substantiam videre, oportet,
+<lb ed="#L" n="106"/>secundum praemissa, quod divina essentia 
+co<lb ed="#L" break="no" n="107"/>puletur ei de novo ut intelligibilis species. 
+Impos<lb ed="#L" break="no" n="108"/>sibile est autem quod divina essentia moveatur,
+<pb ed="#L" n="147"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>sicut supra  ostensum est. Oportet igitur quod 
+<lb ed="#L" n="2"/>talis unio incipiat esse per mutationem intellectus — 
+<lb ed="#L" n="3"/>creati. Quae quidem mutatio aliter esse non potest 
+<lb ed="#L" n="4"/>nisi per hoc quod intellectus creatus aliquam — 
+<lb ed="#L" n="5"/>dispositionem de novo acquirat. — Idem autem ; 
+<lb ed="#L" n="6"/>sequitur si detur quod a principio suae creationis 
+<lb ed="#L" n="7"/>tali visione aliquis creatus intellectus potiatur. Nam — 
+<lb ed="#L" n="8"/>si talis visio facultatem naturae creatae excedit, ut 
+<lb ed="#L" n="9"/>probatum est, potest intelligi quivis intellectus 
+<lb ed="#L" n="10"/>creatus in specie suae naturae consistere absque :» 
+<lb ed="#L" n="11"/>hoc quod Dei substantiam videat. Unde, sive a 
+<lb ed="#L" n="12"/>principio sive postmodum Deum videre incipiat, 
+<lb ed="#L" n="13"/>oportet eius naturae aliquid superaddi. 
+</p>
+            <p xml:id="v8naTA-d1e2141-d1e244">
+               <lb ed="#L" n="14"/>Item. Nihil potest ad altiorem operationem — 
+<lb ed="#L" n="15"/>elevari nisi per hoc quod eius virtus fortificatur.:; 
+<lb ed="#L" n="16"/>Contingit autem dupliciter alicuius virtutem 
+for<lb ed="#L" break="no" n="17"/>tificari. Uno modo, per simplicem intensionem — 
+<lb ed="#L" n="18"/>ipsius virtutis: sicut virtus activa calidi augetur 
+<lb ed="#L" n="19"/>per intensionem caloris, ut possit efficere 
+vehe<lb ed="#L" break="no" n="20"/>mentiorem actionem in eadem specie. Alio modo,
+<lb ed="#L" n="21"/>per novae formae appositionem: sicut diaphani 
+<lb ed="#L" n="22"/>virtus augetur ad hoc quod possit illuminare, 
+<lb ed="#L" n="23"/>per hoc quod fit lucidum actu per formam lucis 
+<lb ed="#L" n="24"/>receptam in ipso de novo. Et hoc quidem 
+vir<lb ed="#L" break="no" n="25"/>tutis augmentum requiritur ad alterius speciei » 
+<lb ed="#L" n="26"/>operationem consequendam. Virtus autem 
+intel<lb ed="#L" break="no" n="27"/>lectus creati naturalis non sufficit ad divinam  
+<lb ed="#L" n="28"/>substantiam videndam, ut ex dictis  patet. 
+Opor<lb ed="#L" break="no" n="29"/>tet ergo quod augeatur ei virtus, ad hoc quod 
+<lb ed="#L" n="30"/>ad talem visionem perveniat. Non sufficit autem :» 
+<lb ed="#L" n="31"/>augmentum per intensionem naturalis virtutis: — 
+<lb ed="#L" n="32"/>quia talis visio non est eiusdem rationis cum — 
+<lb ed="#L" n="33"/>visione naturali intellectus creati; quod ex 
+distan<lb ed="#L" break="no" n="34"/>tia visorum patet. Oportet igitur quod fiat augmen- — 
+<lb ed="#L" n="35"/>tum virtutis intellectivae per alicuius novae 
+dispo<lb ed="#L" break="no" n="36"/>sitionis adeptionem. 
+</p>
+            <p xml:id="v8naTA-d1e2141-d1e296">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="37"/>Quia vero in cognitionem intelligibilium ex
+<lb ed="#L" n="38"/>sensibilibus pervenimus, etiam sensibilis 
+cogni<lb ed="#L" break="no" n="39"/>tionis nomina ad intelligibilem cognitionem 
+tran<lb ed="#L" break="no" n="40"/>sumimus: et praecipue quae pertinent ad visum,
+<lb ed="#L" n="41"/>qui inter ceteros sensus nobilior est et spiritualior,
+<lb ed="#L" n="42"/>ac per hoc intellectui affinior; et inde est quod
+<lb ed="#L" n="43"/>ipsa intellectualis cognitio »/s/o nominatur. Et
+<lb ed="#L" n="44"/>quia corporalis visio non completur nisi per
+<lb ed="#L" n="45"/>lucem, ea quibus intellectualis visio perficitur,
+<lb ed="#L" n="46"/>lucis nomen assumunt: unde et <ref xml:id="v8naTA-d1e2141-Rd1e322">Aristoteles, in
+<lb ed="#L" n="47"/>III de Anima</ref> , intellectum agentem luci assimilat,
+<lb ed="#L" n="48"/>ex eo quod intellectus agens facit intelligibilia
+<lb ed="#L" n="49"/>in actu, sicut lux facit quodammodo visibilia
+<lb ed="#L" n="50"/>actu. Illa igitur dispositio qua intellectus creatus
+<lb ed="#L" n="51"/>ad intellectualem divinae substantiae visionem
+<lb ed="#L" n="52"/>extollitur, congrue lux gloriae dicitur: non propter
+<lb ed="#L" n="53"/>hoc quod faciat intelligibile in actu, sicut lux 
+in<lb ed="#L" break="no" n="54"/>tellectus agentis; sed per hoc quod facit 
+intel<lb ed="#L" break="no" n="55"/>lectum potentem actu intelligere.
+</p>
+            <p xml:id="v8naTA-d1e2141-d1e345">
+               <lb ed="#L" n="56"/>Hoc autem est lumen de quo in Psalmo  
+di<lb ed="#L" break="no" n="57"/>citur: In lumine tuo videbimus lumen, scilicet
+<lb ed="#L" n="58"/>divinae substantiae. Et Apoc. xxu dicitur: 
+Ci<lb ed="#L" break="no" n="59"/>vitas, scilicet Beatorum, non eget sole neque luna:
+<lb ed="#L" n="60"/>nam claritas Dei illuminavit illam. Et Isaiae 1x'?
+<lb ed="#L" n="61"/>dicitur: Non erit tibi amplius sol ad lucendum per
+<lb ed="#L" n="62"/>diem, nec splendor lunae illuminabit te: sed erit
+<lb ed="#L" n="63"/>tibi Dominus in lucem sempiternam, et Deus tuus
+<lb ed="#L" n="64"/>in gloriam iuam. — Inde est etiam, quia Deo
+<lb ed="#L" n="65"/>idem est esse quod intelligere, et est omnibus
+<lb ed="#L" n="66"/>causa intelligendi, quod dicitur esse /ux, Joan. 19:
+<lb ed="#L" n="67"/>Erat lux vera, quae illuminat omnem hominem
+<lb ed="#L" n="68"/>venientem in hunc mundum; et 1 Joan. 15: Deus lux
+<lb ed="#L" n="69"/>est; et in Psalmo : Amuctus lumine sicut vestimento.
+<lb ed="#L" n="70"/>— Et propter hoc etiam tam Deus quam angeli in
+<lb ed="#L" n="71"/>Sacra Scriptura in figuris igneis describuntur ,
+<lb ed="#L" n="72"/>propter ignis claritatem.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

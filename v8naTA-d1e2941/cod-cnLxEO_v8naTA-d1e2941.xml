@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 151</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 151</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="444"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2941"><!-- v8naTA-l3c151 -->
+            <head xml:id="v8naTA-d1e2941-Hd1e101">Capitulum 151</head>
+            <head xml:id="v8naTA-d1e2941-Hd1e103" type="question-title">Quod gratia gratum faciens causat in nobis dilectionem dei.</head>
+            <p xml:id="v8naTA-d1e2941-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="92" type="fixed=444"/>CAPITULUM CENTESIMUM QUINQUAGESIMUM PRIMUM
+<lb ed="#L" n="93"/>QUOD GRATIA GRATUM FACIENS CAUSAT IN NOBIS DILECTIONEM DEI.
+</p>
+            <p xml:id="v8naTA-d1e2941-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="94"/>EX praemissis autem manifestum fit quod
+<lb ed="#L" n="95"/>per auxilium gratiae divinae gratum
+<lb ed="#L" n="96"/>facientis hoc homo consequitur, quod
+<lb ed="#L" n="97"/>Deum diligat .
+</p>
+            <p xml:id="v8naTA-d1e2941-d1e128">
+               <lb ed="#L" n="98"/>Gratia enim gratum faciens est in homine 
+di<lb ed="#L" break="no" n="99"/>vinae dilectionis effectus . Proprius autem 
+di<lb ed="#L" break="no" n="100"/>vinae dilectionis effectus in homine esse videtur
+<lb ed="#L" n="101"/>quod Deum diligat. Hoc enim est praecipuum
+<lb ed="#L" n="102"/>in intentione diligentis, ut a dilecto reametur:
+<lb ed="#L" n="103"/>ad hoc enim praecipue studium diligentis tendit, 
+<lb ed="#L" n="104"/>ut ad sui amorem dilectum attrahat; et nisi hoc
+<lb ed="#L" n="105"/>accidat, oportet dilectionem dissolvi. Igitur ex
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="106"/>gratia gratum faciente hoc in homine sequitur,
+<lb ed="#L" n="107"/>quod Deum diligat. :
+</p>
+            <p xml:id="v8naTA-d1e2941-d1e155">
+               <lb ed="#L" n="108"/>Adhuc. Eorum quorum est unus finis, oportet
+<lb ed="#L" n="109"/>aliquam unionem esse inquantum ordinantur ad
+<lb ed="#L" n="110"/>finem: unde et in civitate homines per quandam
+<lb ed="#L" n="111"/>concordiam adunantur ut possint consequi 
+rei<lb ed="#L" break="no" n="112"/>publicae bonum; et milites in acie oportet uniri
+<lb ed="#L" n="113"/>et concorditer agere ad hoc quod victoriam, quae
+<lb ed="#L" n="114"/>est communis finis, consequantur. Finis autem
+<lb ed="#L" n="115"/>ultimus, ad quem homo per auxilium divinae
+<lb ed="#L" n="116"/>gratiae perducitur, est visio Dei per essentiam,
+<lb ed="#L" n="117"/>quae propria est ipsius Dei: et sic hoc finale
+<pb ed="#L" n="445"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>bonum communicatur homini a Deo. Non potest
+<lb ed="#L" n="2"/>igitur homo ad hunc finem perduci nisi uniatur
+<lb ed="#L" n="3"/>Deo per conformitatem voluntatis. Quae est 
+pro<lb ed="#L" break="no" n="4"/>prius effectus dilectionis: nam amicorum 
+pro<lb ed="#L" break="no" n="5"/>prium est idem velle et nolle, et de eisdem gaudere
+<lb ed="#L" n="6"/>homo constituitur Dei dilector: cum per eam
+<lb ed="#L" n="7"/>homo dirigatur in finem ei communicatum a Deo.
+</p>
+            <p xml:id="v8naTA-d1e2941-d1e199">
+               <lb ed="#L" n="8"/>Amplius. Cum finis et bonum sit proprium
+<lb ed="#L" n="9"/>obiectum appetitus sive affectus, oportet quod
+<lb ed="#L" n="10"/>per gratiam gratum facientem, quae hominem
+<lb ed="#L" n="11"/>dirigit in ultimum finem, affectus hominis 
+prin<lb ed="#L" break="no" n="12"/>cipaliter perticiatur. Principalis autem perfectio
+<lb ed="#L" n="13"/>affectus est dilectio. Cuius signum est, quod omnis
+<lb ed="#L" n="14"/>motus affectus ab amore derivatur: nullus enim
+<lb ed="#L" n="15"/>desiderat, aut sperat, aut gaudet, nisi propter
+<lb ed="#L" n="16"/>bonum amatum; similiter autem neque aliquis
+<lb ed="#L" n="17"/>refugit, aut timet, aut tristatur, aut irascitur, nisi
+<lb ed="#L" n="18"/>propter id quod contrariatur bono amato. 
+Prin<lb ed="#L" break="no" n="19"/>cipalis ergo effectus gratiae gratum facientis est
+<lb ed="#L" n="20"/>ut homo Deum diligat.
+</p>
+            <p xml:id="v8naTA-d1e2941-d1e230">
+               <lb ed="#L" n="21"/>Item. Forma per quam res. ordinatur in. ali- .
+<lb ed="#L" n="22"/>quem finem, assimilat quodammodo rem illam
+<lb ed="#L" n="23"/>fini: sicut corpus per. formam gravitatis acquirit
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="24"/>similitudinem et conformitatem ad locum ad
+<lb ed="#L" n="25"/>quem naturaliter movetur. Ostensum est autem 
+<lb ed="#L" n="26"/>quod gratia gratum faciens est forma quaedam
+<lb ed="#L" n="27"/>in homine per quam ordinatur ad ultimum finem,
+<lb ed="#L" n="28"/>qui Deus est. Per gratiam ergo homo Dei 
+simi<lb ed="#L" break="no" n="29"/>litudinem consequitur. Similitudo autem est 
+dile<lb ed="#L" break="no" n="30"/>ctionis causa: omne enim simile diligit sibi simile .
+<lb ed="#L" n="31"/>Per gratiam ergo homo efficitur Dei dilector.
+<lb ed="#L" n="32"/>Praeterea. Ad. perfectionem operationis 
+requi<lb ed="#L" break="no" n="33"/>ritur quod aliquis constanter et prompte operetur.
+</p>
+            <p xml:id="v8naTA-d1e2941-d1e263">
+               <lb ed="#L" n="34"/>Hoc autem praecipue facit amor: propter quem
+<lb ed="#L" n="35"/>etiam difficilia levia videntur. Cum igitur ex
+<lb ed="#L" n="36"/>gratia gratum faciente oporteat hominis 
+opera<lb ed="#L" break="no" n="37"/>tiones perfectas fieri, ut ex dictis  patet, 
+neces<lb ed="#L" break="no" n="38"/>sarium est quod per eandem gratiam Dei 
+dile<lb ed="#L" break="no" n="39"/>ctio constituatur in nobis.
+</p>
+            <p xml:id="v8naTA-d1e2941-d1e279">
+               <lb ed="#L" n="40"/>Hinc est quod Apostolus dicit, Rom. v5: Caritas
+<lb ed="#L" n="41"/>Dei diffusa est in cordibus nostris per Spiritum 
+San<lb ed="#L" break="no" n="42"/>ctum, qui datus est nobis. Dominus etiam 
+dilecto<lb ed="#L" break="no" n="43"/>ribus suis visionem suam repromittit, dicens,
+<lb ed="#L" n="44"/>Ioan. xiv? <quote xml:id="v8naTA-d1e2941-Qd1e292">Qui diligit me, diligelur a Patre meo:
+<lb ed="#L" n="45"/>el ego diligam «eum, el manifestabo: ei meipsum.</quote>
+            </p>
+            <p xml:id="v8naTA-d1e2941-d1e298">
+               <lb ed="#L" n="46"/>Unde patet quod gratia, quae ad finem divinae
+<lb ed="#L" n="47"/>visionis dirigit, dilectionem .Dei causat in nobis.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

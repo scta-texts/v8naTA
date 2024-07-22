@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 61</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 61</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="168"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2206"><!-- v8naTA-l3c61 -->
+            <head xml:id="v8naTA-d1e2206-Hd1e101">Capitulum 61</head>
+            <head xml:id="v8naTA-d1e2206-Hd1e103" type="question-title">Quod per visionem dei aliquis fit particeps vitae aeternae.</head>
+            <p xml:id="v8naTA-d1e2206-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="89" type="fixed=168"/>CAPITULUM SEXAGESIMUM PRIMUM
+<lb ed="#L" n="90"/>QUOD PER VISIONEM DEI ALIQUIS FIT PARTICEPS VITAE AETERNAE.
+</p>
+            <p xml:id="v8naTA-d1e2206-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="91"/>Ex hoc autem apparet quod per 
+visio<lb ed="#L" break="no" n="92"/>nem praedictam intellectus creatus 
+vi<lb ed="#L" break="no" n="93"/>tae aeternae fit particeps.
+</p>
+            <p xml:id="v8naTA-d1e2206-d1e126">
+               <lb ed="#L" n="94"/>In hoc enim aeternitas a tempore
+<lb ed="#L" n="95"/>differt, quod tempus in quadam successione habet ;
+<lb ed="#L" n="96"/>esse, aeternitatis vero esse est totum simul. Iam
+<lb ed="#L" n="97"/>autem ostensum est quod in praedicta visione
+<lb ed="#L" n="98"/>non est aliqua successio, sed omnia quae per
+<lb ed="#L" n="99"/>illam videntur, simul et uno intuitu videntur.
+<lb ed="#L" n="100"/>Illa ergo visio in quadam aeternitatis 
+participa<lb ed="#L" break="no" n="101"/>tione perficitur. Est autem illa visio quaedam
+<lb ed="#L" n="102"/>vita: actio enim intellectus est vita quaedam .
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="103"/>Fit ergo per illam visionem intellectus creatus
+<lb ed="#L" n="104"/>vitae aeternae particeps.
+</p>
+            <p xml:id="v8naTA-d1e2206-d1e156">
+               <lb ed="#L" n="105"/>Item. Per obiecta actus specificantur. Obiectum
+<lb ed="#L" n="106"/>autem visionis praedictae est divina substantia
+<lb ed="#L" n="107"/>secundum seipsam, non secundum aliquam eius
+<lb ed="#L" n="108"/>similitudinem creatam, ut supra  ostensum est.
+<lb ed="#L" n="109"/>Esse. autem divinae substantiae in aeternitate
+<lb ed="#L" n="110"/>est, vel magis est ipsa aeternitas. Ergo et visio
+<lb ed="#L" n="111"/>praedicta in participatione aeternitatis est.
+</p>
+            <p xml:id="v8naTA-d1e2206-d1e174">
+               <lb ed="#L" n="112"/>Adhuc. Si aliqua actio sit in tempore, hoc
+<lb ed="#L" n="113"/>erit vel propter principium actionis, quod est in
+<lb ed="#L" n="114"/>tempore, sicut actiones rerum aaiurelias sunt
+<pb ed="#L" n="169"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>temporales: vel propter operationis terminum, 
+<lb ed="#L" n="2"/>sicut substantiarum spiritualium, quae sunt supra 
+<lb ed="#L" n="3"/>tempus, quas exercent in res tempori subditas. 
+<lb ed="#L" n="4"/>Visio autem praedicta non est in tempore ex  
+<lb ed="#L" n="5"/>parte eius quod videtur: cum hoc sit substantia  
+<lb ed="#L" n="6"/>aeterna. Neque ex parte eius quo videtur: quod 
+<lb ed="#L" n="7"/>etiam est substantia aeterna. Neque etiam ex 
+<lb ed="#L" n="8"/>parte videntis, quod est intellectus, cuius esse 
+<lb ed="#L" n="9"/>non subiacet tempori: cum sit incorruptibile, ut 
+<lb ed="#L" n="10"/>supra probatum est. Est igitur visio illa secun- » 
+<lb ed="#L" n="11"/>dum aeternitatis participationem, utpote omnino  
+<lb ed="#L" n="12"/>transcendens tempus. 
+</p>
+            <p xml:id="v8naTA-d1e2206-d1e213">
+               <lb ed="#L" n="13"/>Amplius. Anima intellectiva est creata in 
+con<lb ed="#L" break="no" n="14"/>finio aeternitatis et temporis, ut in libro de Causis 
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="15"/>dicitur, et ex praemissis  potest esse manifestum:
+<lb ed="#L" n="16"/>quia est ultima in ordine intellectuum, et tamen
+<lb ed="#L" n="17"/>eius substantia est elevata supra materiam 
+cor<lb ed="#L" break="no" n="18"/>poralem, non dependens ab ipsa. Sed actio eius
+<lb ed="#L" n="19"/>secundum quam coniungitur inferioribus, quae
+<lb ed="#L" n="20"/>sunt in tempore, est temporalis. Ergo actio eius
+<lb ed="#L" n="21"/>secundum quam coniungitur superioribus, quae
+<lb ed="#L" n="22"/>sunt supra tempus, aeternitatem participat. Talis
+<lb ed="#L" n="23"/>autem est maxime visio qua substantiam divinam
+<lb ed="#L" n="24"/>videt. Ergo per huiusmodi visionem fit in 
+par<lb ed="#L" break="no" n="25"/>ticipatione aeternitatis: et, eadem ratione, 
+qui<lb ed="#L" break="no" n="26"/>cumque alius intellectus creatus Deum videt.
+</p>
+            <p xml:id="v8naTA-d1e2206-d1e248">
+               <lb ed="#L" n="27"/>Hinc est quod Dominus dicit, Zo. xvi?: Haec est
+<lb ed="#L" n="28"/>vita aeterna, ut cognoscant te, verum Deum unum.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

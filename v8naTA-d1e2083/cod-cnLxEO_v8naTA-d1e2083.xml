@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 46</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 46</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="122"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2083"><!-- v8naTA-l3c46 -->
+            <head xml:id="v8naTA-d1e2083-Hd1e101">Capitulum 46</head>
+            <head xml:id="v8naTA-d1e2083-Hd1e103" type="question-title">Quod anima in hac vita non intelligit seipsam per seipsam.</head>
+            <p xml:id="v8naTA-d1e2083-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="65" type="fixed=122"/>CAPITULUM QUADRAGESIMUM SEXTUM
+<lb ed="#L" n="66"/>QUOD ANIMA IN HAC VITA NON INTELLIGIT SEIPSAM PER SEIPSAM.
+</p>
+            <p xml:id="v8naTA-d1e2083-d1e115">
+               <lb ed="#L" n="67"/>VIDETUR autem difficultas quaedam contra
+<lb ed="#L" n="68"/>praedicta afferri ex quibusdam Augustini
+<lb ed="#L" n="69"/>verbis,quae diligenter pertractanda sunt.
+<lb ed="#L" n="70"/>Dicit enim in <ref xml:id="v8naTA-d1e2083-Rd1e125">nono de Trirnitate libro</ref> :
+<lb ed="#L" n="71"/>
+               <quote xml:id="v8naTA-d1e2083-Qd1e130" source="http://scta.info/resource/adt-l9-d1e1043@147-172">Mens, sicut corporearum rerum notitias per sensus
+<lb ed="#L" n="72"/>corporis colligit, sic incorporearum rerum per 
+se<lb ed="#L" break="no" n="73"/>metipsam. Ergo et seipsam per seipsam novil:
+<lb ed="#L" n="74"/>quoniam est incorporea</quote>. Ex his enim verbis 
+vi<lb ed="#L" break="no" n="75"/>detur quod mens nostra se per seipsam intelligat,
+<lb ed="#L" n="76"/>et intelligendo se, intelligat substantias separatas:
+<lb ed="#L" n="77"/>quod est contra prae-ostensa. Inquirere ergo
+<lb ed="#L" n="78"/>oportet quomodo anima nostra per seipsam 
+in<lb ed="#L" break="no" n="79"/>telligat se.
+</p>
+            <p xml:id="v8naTA-d1e2083-d1e151">
+               <lb ed="#L" n="80"/>Impossibile est autem dici quod per seipsam
+<lb ed="#L" n="81"/>intelligat de se quid est. Per hoc enim fit 
+po<lb ed="#L" break="no" n="82"/>tentia cognoscitiva actu cognoscens, quod est in
+<lb ed="#L" n="83"/>ea id quo cognoscitur. Et si quidem sit in ea
+<lb ed="#L" n="84"/>in potentia, cognoscit in potentia; si autem in
+<lb ed="#L" n="85"/>actu, cognoscit actu; si autem medio modo, 
+co<lb ed="#L" break="no" n="86"/>gnoscit habitu. Ipsa autem anima semper sibi
+<lb ed="#L" n="87"/>adest actu, et nunquam in potentia vel in habitu
+<cb ed="#L" n="d"/>
+               <lb ed="#L" n="88"/>tantum. Si igitur per seipsam anima .seipsam
+<lb ed="#L" n="89"/>cognoscit quid est, semper actu intelliget de se
+<lb ed="#L" n="90"/>quid est. Quod patet esse falsum.
+</p>
+            <p xml:id="v8naTA-d1e2083-d1e181">
+               <lb ed="#L" n="91"/>Adhuc. Si anima per seipsam cognoscit de se
+<lb ed="#L" n="92"/>quid est; omnis autem homo arfimam habet:
+<lb ed="#L" n="93"/>omnis igitur homo cognoscit de anima quid est.
+<lb ed="#L" n="94"/>Quod patet esse falsum.
+</p>
+            <p xml:id="v8naTA-d1e2083-d1e192">
+               <lb ed="#L" n="95"/>Amplius. Cognitio quae fit per aliquid 
+natu<lb ed="#L" break="no" n="96"/>raliter nobis inditum, est naturalis: sicut principia
+<lb ed="#L" n="97"/>indemonstrabilia, quae cognoscuntur per lumen
+<lb ed="#L" n="98"/>intellectus agentis. Si igitur nos de anima scimus
+<lb ed="#L" n="99"/>quid est per ipsam animam, hoc erit naturaliter
+<lb ed="#L" n="100"/>notum. In his autem quae sunt naturaliter nota,
+<lb ed="#L" n="101"/>nullus potest errare: in cognitione enim 
+princi<lb ed="#L" break="no" n="102"/>plorum indemonstrabilium nullus errat. Nullus
+<lb ed="#L" n="103"/>igitur erraret circa animam quid est, si hoc anima
+<lb ed="#L" n="104"/>per seipsam cognosceret. Quod patet esse falsum :
+<lb ed="#L" n="105"/>cum multi opinati sint animam esse hoc vel illud
+<lb ed="#L" n="106"/>corpus, et aliqui numerum, vel harmoniam ;
+<lb ed="#L" n="107"/>Non igitur anima per seipsam cognoscit de se
+<lb ed="#L" n="108"/>quid est.
+</p>
+            <p xml:id="v8naTA-d1e2083-d1e225">
+               <pb ed="#L" n="123"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>Amplius. In quolibet ordine, quod est per se 
+<lb ed="#L" n="2"/>est prius eo quod est per aliud, et principium 
+<lb ed="#L" n="3"/>eius. Quod ergo est per se notum, est prius 
+<lb ed="#L" n="4"/>notum omnibus quae per aliud cognoscuntur, 
+<lb ed="#L" n="5"/>et principium cognoscendi ea: sicut primae pro-; 
+<lb ed="#L" n="6"/>positiones conclusionibus. Si igitur anima per 
+<lb ed="#L" n="7"/>seipsam de se cognoscit quid est, hoc erit per se 
+<lb ed="#L" n="8"/>notum, et per consequens primo notum et 
+prin<lb ed="#L" break="no" n="9"/>cipium cognoscendi alia. Hoc autem patet esse 
+<lb ed="#L" n="10"/>falsum: nam quid est anima non supponitur in ;» 
+</p>
+            <p xml:id="v8naTA-d1e2083-d1e254">
+               <lb ed="#L" n="11"/>scientia quasi notum, sed proponitur ex aliis 
+<lb ed="#L" n="12"/>quaerendum. Non igitur anima de seipsa 
+co<lb ed="#L" break="no" n="13"/>gnoscit quid est per seipsam. 
+</p>
+            <p xml:id="v8naTA-d1e2083-d1e263">
+               <lb ed="#L" n="14"/>Patet autem quod nec ipse Augustinus hoc 
+<lb ed="#L" n="15"/>voluit. Dicit enim in <ref xml:id="v8naTA-d1e2083-Rd1e269">X libro de Trin.</ref>, quod : 
+<quote xml:id="v8naTA-d1e2083-Qd1e271">anima, cum sui nolitiam quaerit, non velut 
+absen<lb ed="#L" break="no" n="16"/>lem se quaerit cernere, sed praesentem se curat 
+<lb ed="#L" n="17"/>discernere: non ut cognoscat se, quasi non norit; 
+<lb ed="#L" n="18"/>sed ut dignoscat ab eo quod alterum novit</quote>. Ex 
+<lb ed="#L" n="19"/>quo dat intelligere quod anima per se cognoscit 
+<lb ed="#L" n="20"/>seipsam quasi praesentem, non quasi ab aliis 
+<lb ed="#L" n="21"/>distinctam. Unde et in hoc dicit aliquos errasse,
+<lb ed="#L" n="22"/>quod animam non distinxerunt ab illis quae sunt 
+<lb ed="#L" n="23"/>ab ipsa diversa. Per hoc autem quod scitur de 
+</p>
+            <p xml:id="v8naTA-d1e2083-d1e292">
+               <lb ed="#L" n="24"/>re quid est, scitur res prout est ab aliis distincta: :; 
+<lb ed="#L" n="25"/>unde et definitio, quae significat quid est res, 
+<lb ed="#L" n="26"/>distinguit definitum ab omnibus aliis. Non igitur 
+<lb ed="#L" n="27"/>voluit Augustinus quod anima de se cognoscat 
+<lb ed="#L" n="28"/>quid est per seipsam. 
+</p>
+            <p xml:id="v8naTA-d1e2083-d1e306">
+               <lb ed="#L" n="29"/>Sed nec Aristoteles hoc voluit. Dicit enim in 
+<lb ed="#L" n="30"/>III de Anima , quod intellectus possibilis intelligit 
+<lb ed="#L" n="31"/>se sicut alia. Intelligit enim se per speciem 
+in<lb ed="#L" break="no" n="32"/>telligibilem, qua fit actu in genere intelligibilium. 
+<lb ed="#L" n="33"/>In se enim consideratus, est solum in potentia 
+<lb ed="#L" n="34"/>ad.esse intelligibile: nihil autem cognoscitur se- ; 
+<lb ed="#L" n="35"/>cundum quod est in potentia, sed secundum 
+<lb ed="#L" n="36"/>quod est actu. Unde substantiae separatae, 
+qua<lb ed="#L" break="no" n="37"/>rum substantiae sunt ut aliquid actu ens in 
+ge<lb ed="#L" break="no" n="38"/>nere intelligibilium, de se intelligunt quid sunt 
+<lb ed="#L" n="39"/>per suas substantias: intellectus vero possibilis » 
+<lb ed="#L" n="40"/>noster per speciem intelligibilem, per quam fit 
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="41"/>actu intelligens. Unde et <ref xml:id="v8naTA-d1e2083-Rd1e338">Aristoteles, in III de
+<lb ed="#L" n="42"/>Anima</ref>, ex ipso intelligere demonstrat naturam
+<lb ed="#L" n="43"/>intellectus possibilis, scilicet quod sit immixtus
+<lb ed="#L" n="44"/>et incorruptibilis, ut ex praemissis  patet.
+</p>
+            <p xml:id="v8naTA-d1e2083-d1e348">
+               <lb ed="#L" n="45"/>Sic igitur, secundum intentionem Augustini,
+<lb ed="#L" n="46"/>mens nostra per seipsam novit seipsam 
+inquan<lb ed="#L" break="no" n="47"/>tum de se cognoscit quod est. Ex hoc enim ipso
+<lb ed="#L" n="48"/>quod percipit se agere, percipit se esse; agit
+<lb ed="#L" n="49"/>autem per seipsam; unde per seipsam de se
+<lb ed="#L" n="50"/>cognoscit quod est.
+</p>
+            <p xml:id="v8naTA-d1e2083-d1e364">
+               <lb ed="#L" n="51"/>Sic ergo et de substantiis separatis anima, 
+co<lb ed="#L" break="no" n="52"/>gnoscendo seipsam, cognoscit quia sunt: non
+<lb ed="#L" n="53"/>autem quid sunt, quod est earum substantias
+<lb ed="#L" n="54"/>intelligere. Cum enim de substantiis separatis
+<lb ed="#L" n="55"/>hoc quod sint intellectuales quaedam substantiae
+<lb ed="#L" n="56"/>cognoscamus, vel per demonstrationem vel per
+<lb ed="#L" n="57"/>fidem, neutro modo hanc cognitionem accipere
+<lb ed="#L" n="58"/>possemus nisi hoc ipsum quod est esse 
+intel<lb ed="#L" break="no" n="59"/>lectuale, anima nostra ex seipsa cognosceret.
+<lb ed="#L" n="60"/>Unde et scientia de intellectu animae oportet
+<lb ed="#L" n="61"/>uti ut principio ad omnia quae de substantiis
+<lb ed="#L" n="62"/>separatis cognoscimus.
+</p>
+            <p xml:id="v8naTA-d1e2083-d1e393">
+               <lb ed="#L" n="63"/>Non autem oportet quod, si per scientias 
+specu<lb ed="#L" break="no" n="64"/>lativas possumus pervenire ad sciendum de anima
+<lb ed="#L" n="65"/>quid est, quod possimus ad sciendum quod quid est
+<lb ed="#L" n="66"/>de substantiis separatis per huiusmodi scientias
+<lb ed="#L" n="67"/>pervenire: nam intelligere nostrum, per quod 
+per<lb ed="#L" break="no" n="68"/>venimus ad sciendum de anima nostra quid est,
+<lb ed="#L" n="69"/>multum est remotum ab intelligentia substantiae
+<lb ed="#L" n="70"/>separatae. Potest tamen per hoc quod scitur de
+<lb ed="#L" n="71"/>anima nostra quid est, perveniri ad sciendum 
+ali<lb ed="#L" break="no" n="72"/>quod genus remotum substantiarum separatarum:
+<lb ed="#L" n="73"/>quod non est earum substantias intelligere.
+</p>
+            <p xml:id="v8naTA-d1e2083-d1e419">
+               <lb ed="#L" n="74"/>Sicut autem de anima scimus quia est per
+<lb ed="#L" n="75"/>seipsam, inquantum eius actus percipimus ; quid
+<lb ed="#L" n="76"/>autem sit, inquirimus ex actibus et obiectis per
+<lb ed="#L" n="77"/>principia scientiarum speculativarum: ita etiam
+<lb ed="#L" n="78"/>de his quae sunt in anima nostra, scilicet 
+po<lb ed="#L" break="no" n="79"/>tentiis et habitibus, scimus quidem quia sunt,
+<lb ed="#L" n="80"/>inquantum actus percipimus; quid vero sint, ex
+<lb ed="#L" n="81"/>ipsorum actuum qualitate invenimus.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

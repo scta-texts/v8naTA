@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 117</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 117</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="369"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2663"><!-- v8naTA-l3c117 -->
+            <head xml:id="v8naTA-d1e2663-Hd1e101">Capitulum 117</head>
+            <head xml:id="v8naTA-d1e2663-Hd1e103" type="question-title">Quod divina lege ordinamur ad dilectionem proximi.</head>
+            <p xml:id="v8naTA-d1e2663-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="18" type="fixed=367"/>CAPITULUM CENTESIMUM DECIMUM SEPTIMUM.
+<lb ed="#L" n="19"/>QUOD DIVINA LEGE ORDINAMUR AD DILECTIONEM PROXIMI.
+</p>
+            <p xml:id="v8naTA-d1e2663-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="20"/>EX hoc autem sequitur quod : divina 
+<lb ed="#L" n="21"/>dilectionem proximi intendat. 
+</p>
+            <p xml:id="v8naTA-d1e2663-d1e124">
+               <lb ed="#L" n="22"/>Oportet enim esse unionem affectus
+<lb ed="#L" n="23"/>inter eos quibus est unus finis commu-- 
+<lb ed="#L" n="24"/>nis. Communicant autem homines in uno ultimo : 
+<lb ed="#L" n="25"/>fine beatitudinis, ad quem divinitus ; ordinantur. 
+<lb ed="#L" n="26"/>Oportet igitur quod uniantur bomines ad invicem 
+<lb ed="#L" n="27"/>mutua dilectione. 
+</p>
+            <p xml:id="v8naTA-d1e2663-d1e141">
+               <lb ed="#L" n="28"/>Adhuc. Quicumque. diligit aliquem, consequens 
+<lb ed="#L" n="29"/>est ut etiam diligat dilectos ab.:eo, et eos qui 
+<lb ed="#L" n="30"/>coniuncti sunt.ei. Homines autem dilecti sunt a homini,
+<lb ed="#L" n="31"/>Deo, quibus.sui ipsius fruitionem quasi ultimum — 
+<lb ed="#L" n="32"/>finem praedisposuit. Oportet igitur ut, sicut aliquis 
+<lb ed="#L" n="33"/>fit dilector Dei, ita etiam fiat dilector proximi. 
+</p>
+            <p xml:id="v8naTA-d1e2663-d1e157">
+               <lb ed="#L" n="34"/>Amplius. Cum homo sit naturaliter animal 
+<lb ed="#L" n="35"/>Lii v5: sociale, indiget ab aliis hominibus adiuvari ad 
+<lb ed="#L" n="36"/>consequendum proprium |finem. Quod 
+conve<lb ed="#L" break="no" n="37"/>nientissime fit dilectione mutua inter homines 
+<lb ed="#L" n="38"/>existente. Ex lege igitur Dei, quae homines in 
+<lb ed="#L" n="39"/>ultimum finem dirigit, pm ppcme in nobis mutua  
+<lb ed="#L" n="40"/>dilectio. 
+</p>
+            <p xml:id="v8naTA-d1e2663-d1e175">
+               <cb ed="#L" n="e"/>
+               <lb ed="#L" n="41"/>Item. Ad hoc quod homo divinis vacet; indiget
+<lb ed="#L" n="42"/>tranquillitate et pace. Ea vero quae pacem 
+pertur<lb ed="#L" break="no" n="43"/>bare possunt, praecipue per dilectionem mutuam
+<lb ed="#L" n="44"/>tolluntur. Cum igitur lex divina ad hoc ordinet
+<lb ed="#L" n="45"/>homines ut divinis vacent, necessarium est quod ex
+<lb ed="#L" n="46"/>lege divina in hominibus mutua dilectio procedat.
+</p>
+            <p xml:id="v8naTA-d1e2663-d1e193">
+               <lb ed="#L" n="47"/>Praeterea. Lex divina profertur homini in.
+auxi<lb ed="#L" break="no" n="48"/>lium legis naturalis. Est autem omnibus. 
+homini<lb ed="#L" break="no" n="49"/>bus naturale ut se invicem diligant. Cuius sigrium
+<lb ed="#L" n="50"/>est quod quodam naturali instinctu homo cuilibet
+<lb ed="#L" n="51"/>etiam ignoto, subvenit. in necessitate, puta
+<lb ed="#L" n="52"/>revocando ab errore viae, erigendo a casu, et aliis
+<lb ed="#L" n="53"/>huiusmodi: ac si omnis homo omni homini esset
+<lb ed="#L" n="54"/>naturaliter familiaris et amicus . Igitur ex divina
+<lb ed="#L" n="55"/>lege mutua dilectio hominibus praecipitur.
+</p>
+            <p xml:id="v8naTA-d1e2663-d1e215">
+               <lb ed="#L" n="56"/>Hinc est quod dicitur Zoan. xv : Hoc est 
+prae<lb ed="#L" break="no" n="57"/>ceptum meum, ut diligatis invicem; et Y Ioan. 1v':
+<lb ed="#L" n="58"/>Hoc mandatum habemus a Deo, ut qui diligit
+<lb ed="#L" n="59"/>Deum, diligat et fratrem suum. Et Matth. xxi
+<lb ed="#L" n="60"/>dicitur quod secundum mandatum est, Diliges
+<lb ed="#L" n="61"/>proximum tuum.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

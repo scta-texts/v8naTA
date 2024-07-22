@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 3</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 3</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="9"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1732"><!-- v8naTA-l3c3 -->
+            <head xml:id="v8naTA-d1e1732-Hd1e101">Capitulum 3</head>
+            <head xml:id="v8naTA-d1e1732-Hd1e103" type="question-title">Quod omne agens agit propter bonum.</head>
+            <p xml:id="v8naTA-d1e1732-d1e106">
+               <pb ed="#L" n="9"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=9"/>CAPITULUM TERTIUM
+<lb ed="#L" n="2"/>QUOD OMNE AGENS AGIT PROPTER BONUM.
+</p>
+            <p xml:id="v8naTA-d1e1732-d1e117">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="3"/>EX hoc autem ulterius ostendendum est
+<lb ed="#L" n="4"/>quod omne agens agit propter bonum.
+</p>
+            <p xml:id="v8naTA-d1e1732-d1e126">
+               <lb ed="#L" n="5"/>Inde enim manifestum est omne agens
+<lb ed="#L" n="6"/>agere propter finem, quia quodlibet
+<lb ed="#L" n="7"/>agens tendit ad aliquod determinatum. ld autem
+<lb ed="#L" n="8"/>ad quod agens determinate tendit, oportet esse
+<lb ed="#L" n="9"/>conveniens ei: non enim tenderet in ipsum nisi
+<lb ed="#L" n="10"/>propter aliquam convenientiam ad ipsum. Quod
+<lb ed="#L" n="11"/>autem est conveniens alicui, est ei bonum. Ergo
+<lb ed="#L" n="12"/>omne agens agit propter bonum.
+</p>
+            <p xml:id="v8naTA-d1e1732-d1e147">
+               <lb ed="#L" n="13"/>Praeterea. Finis est in quo quiescit appetitus
+<lb ed="#L" n="14"/>agentis vel moventis, et eius quod movetur. Hoc
+<lb ed="#L" n="15"/>autem est de ratione boni, ut terminet appetitum:
+<lb ed="#L" n="16"/>nam bonum est quod omnia appetunt . Omnis
+<lb ed="#L" n="17"/>ergo actio et motus est propter bonum.
+</p>
+            <p xml:id="v8naTA-d1e1732-d1e160">
+               <lb ed="#L" n="18"/>Adhuc. Omnis actio et motus ad esse aliquo
+<lb ed="#L" n="19"/>modo ordinari videtur: vel ut conservetur 
+se<lb ed="#L" break="no" n="20"/>cundum speciem vel individuum; vel ut de novo
+<lb ed="#L" n="21"/>acquiratur. Hoc autem ipsum quod est esse, 
+bo<lb ed="#L" break="no" n="22"/>num est. Et ideo omnia appetunt esse. Omnis
+<lb ed="#L" n="23"/>igitur actio et motus est propter bonum.
+</p>
+            <p xml:id="v8naTA-d1e1732-d1e176">
+               <lb ed="#L" n="24"/>Amplius. Omnis actio et motus est propter 
+ali<lb ed="#L" break="no" n="25"/>quam perfectionem. Si enim ipsa actio sit finis, 
+ma<lb ed="#L" break="no" n="26"/>nifestum est quod est perfectio secunda agentis. Si
+<lb ed="#L" n="27"/>autem actio sit transmutatio exterioris materiae,
+<lb ed="#L" n="28"/>manifestum est quod movens intendit aliquam
+<lb ed="#L" n="29"/>perfectionem inducere in re mota; in quam etiam
+<lb ed="#L" n="30"/>tendit mobile, si sit motus naturalis. Hoc autem
+<lb ed="#L" n="31"/>dicimus esse bonum quod est esse perfectum.
+<lb ed="#L" n="32"/>Omnis igitur actio et motus est propter bonum.
+</p>
+            <p xml:id="v8naTA-d1e1732-d1e198">
+               <lb ed="#L" n="33"/>Item. Omne agens agit secundum quod est
+<lb ed="#L" n="34"/>actu. Agendo autem tendit in sibi simile . Igitur
+<lb ed="#L" n="35"/>tendit in actum aliquem. Actus autem omnis habet
+<lb ed="#L" n="36"/>rationem boni: nam malum non invenitur nisi
+<lb ed="#L" n="37"/>in potentia deficiente ab actu. Omnis igitur actio
+<lb ed="#L" n="38"/>est propter bonum.
+</p>
+            <p xml:id="v8naTA-d1e1732-d1e214">
+               <lb ed="#L" n="39"/>Adhuc. Agens per intellectum agit propter 
+fi<lb ed="#L" break="no" n="40"/>nem sicut determinans sibi finem: agens autem
+<lb ed="#L" n="41"/>per naturam, licet agat propter finem, ut 
+pro<lb ed="#L" break="no" n="42"/>batum est , non tamen determinat sibi finem,
+<lb ed="#L" n="43"/>cum non cognoscat rationem finis, sed movetur
+<lb ed="#L" n="44"/>in finem determinatum sibi ab alio. Agens autem
+<lb ed="#L" n="45"/>per intellectum non determinat sibi finem nisi
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="46"/>sub ratione boni: intelligibile enim non movet
+<lb ed="#L" n="47"/>nisi sub ratione boni, quod est obiectum 
+volun<lb ed="#L" break="no" n="48"/>tatis. Ergo et agens per naturam non movetur
+<lb ed="#L" n="49"/>neque agit propter aliquem finem nisi secundum
+<lb ed="#L" n="50"/>quod est bonum: cum agenti per naturam 
+de<lb ed="#L" break="no" n="51"/>terminetur finis ab aliquo appetitu. Omne igitur
+<lb ed="#L" n="52"/>agens propter bonum agit.
+</p>
+            <p xml:id="v8naTA-d1e1732-d1e249">
+               <lb ed="#L" n="53"/>Item. Eiusdem rationis est fugere malum et
+<lb ed="#L" n="54"/>appetere bonum: sicut eiusdem rationis est 
+mo<lb ed="#L" break="no" n="55"/>veri a deorsum et moveri sursum. Omnia autem
+<lb ed="#L" n="56"/>inveniuntur malum fugere: nam agentia per 
+in<lb ed="#L" break="no" n="57"/>tellectum hac ratione aliquid fugiunt, quia 
+appre<lb ed="#L" break="no" n="58"/>hendunt illud ut malum; omnia autem agentia
+<lb ed="#L" n="59"/>naturalia, quantum habent de virtute, tantum 
+re<lb ed="#L" break="no" n="60"/>sistunt corruptioni, quae est malum 
+uniuscuius<lb ed="#L" break="no" n="61"/>que. Omnia igitur agunt propter bonum.
+</p>
+            <p xml:id="v8naTA-d1e1732-d1e272">
+               <lb ed="#L" n="62"/>Adhuc. Quod provenit ex alicuius agentis
+<lb ed="#L" n="63"/>actione praeter intentionem ipsius, dicitur a casu
+<lb ed="#L" n="64"/>vel fortuna accidere. Videmus autem in operibus
+<lb ed="#L" n="65"/>naturae accidere vel semper vel frequentius quod
+<lb ed="#L" n="66"/>melius est: sicut in plantis folia sic esse 
+dispo<lb ed="#L" break="no" n="67"/>sita ut protegant fructus; et partes animalium sic
+<lb ed="#L" n="68"/>disponi ut animal salvari possit. Si igitur hoc
+<lb ed="#L" n="69"/>evenit praeter intentionem naturalis agentis, hoc
+<lb ed="#L" n="70"/>erit a casu vel fortuna. Sed hoc est impossibile:
+<lb ed="#L" n="71"/>nam ea quae accidunt semper vel frequenter, non
+<lb ed="#L" n="72"/>sunt casualia neque fortuita, sed quae accidunt
+<lb ed="#L" n="73"/>in paucioribus. Naturale igitur agens intendit ad
+<lb ed="#L" n="74"/>id quod melius est. Et multo manifestius quod
+<lb ed="#L" n="75"/>agit per intellectum. Omne igitur agens intendit
+<lb ed="#L" n="76"/>bonum in agendo.
+</p>
+            <p xml:id="v8naTA-d1e1732-d1e307">
+               <lb ed="#L" n="77"/>Item. Omne quod movetur ducitur ad 
+termi<lb ed="#L" break="no" n="78"/>num motus a movente et agente. Oportet igitur
+<lb ed="#L" n="79"/>movens et motum ad idem tendere. Quod autem
+<lb ed="#L" n="80"/>movetur, cum sit in potentia, tendit ad actum,
+<lb ed="#L" n="81"/>et ita ad perfectum et bonum: per motum enim
+<lb ed="#L" n="82"/>exit de potentia in actum. Ergo et movens et
+<lb ed="#L" n="83"/>agens semper in movendo et agendo intendit
+<lb ed="#L" n="84"/>bonum.
+</p>
+            <p xml:id="v8naTA-d1e1732-d1e327">
+               <lb ed="#L" n="85"/>Hinc est quod philosophi definientes bonum
+<lb ed="#L" n="86"/>dixerunt: Bonum est quod omnia appetunt. Et
+<lb ed="#L" n="87"/>Dionysius, iv cap. de Divinis Nominibus , dicit
+<lb ed="#L" n="88"/>quod omnia bonum et optimum concupiscunt.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 12</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 12</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="33"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1806"><!-- v8naTA-l3c12 -->
+            <head xml:id="v8naTA-d1e1806-Hd1e101">Capitulum 12</head>
+            <head xml:id="v8naTA-d1e1806-Hd1e103" type="question-title">Quod malum non totaliter consumit bonum.</head>
+            <p xml:id="v8naTA-d1e1806-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="35" type="fixed=33"/>CAPITULUM DUODECIMUM
+<lb ed="#L" n="36"/>QUOD MALUM NON TOTALITER CONSUMIT BONUM.
+</p>
+            <p xml:id="v8naTA-d1e1806-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="37"/>PATET autem ex praedictis quod, 
+quan<lb ed="#L" break="no" n="38"/>tumcumque multiplicetur malum, 
+nun<lb ed="#L" break="no" n="39"/>quam potest totum bonum consumere.
+</p>
+            <p xml:id="v8naTA-d1e1806-d1e126">
+               <lb ed="#L" n="40"/>Semper enim oportet quod 
+rema<lb ed="#L" break="no" n="41"/>neat mali subiectum, si malum remanet. Subie- ;
+<lb ed="#L" n="42"/>ctum autem mali est bonum. Manet igitur 
+sem<lb ed="#L" break="no" n="43"/>per bonum.
+</p>
+            <p xml:id="v8naTA-d1e1806-d1e138">
+               <lb ed="#L" n="44"/>Sed cum contingat malum in infinitum intendi;
+<lb ed="#L" n="45"/>semper autem per intensionem mali minuatur
+<lb ed="#L" n="46"/>bonum: videtur in infinitum per malum diminui
+<lb ed="#L" n="47"/>bonum. Bonum autem quod per malum diminui
+<lb ed="#L" n="48"/>potest, oportet esse finitum: nam infinitum bonum
+<lb ed="#L" n="49"/>non est capax mali, ut in primo libro  ostensum
+<lb ed="#L" n="50"/>est. Videtur igitur quod quandoque totum 
+tol<lb ed="#L" break="no" n="51"/>latur bonum per malum: nam si ex finito 
+ali<lb ed="#L" break="no" n="52"/>quid infinities tollatur, oportet illud quandoque
+<lb ed="#L" n="53"/>per ablationem consumi.
+</p>
+            <p xml:id="v8naTA-d1e1806-d1e162">
+               <lb ed="#L" n="54"/>Non autem potest dici, ut dicunt quidam, quod
+<lb ed="#L" n="55"/>sequens ablatio, secundum eandem proportionem
+<lb ed="#L" n="56"/>facta qua et prior, in infinitum procedens, bonum 
+<lb ed="#L" n="57"/>non possit consumere, sicut in continui divisione
+<lb ed="#L" n="58"/>contingit: nam si ex bicubitali linea dimidium 
+sub<lb ed="#L" break="no" n="59"/>traxeris, itemque ex residuo dimidium, et sic in
+<lb ed="#L" n="60"/>infinitum procedas, semper aliquid adhuc 
+divi<lb ed="#L" break="no" n="61"/>dendum remanebit. Sed tamen in hoc 
+divisio<lb ed="#L" break="no" n="62"/>nis processu semper posterius subtractum oportet
+<lb ed="#L" n="63"/>esse minus secundum quantitatem: diraidium
+<lb ed="#L" n="64"/>enim totius, quod prius subtrdhebatur, maius est
+<lb ed="#L" n="65"/>secundum . quantitatem absolutam quam 
+dimi<lb ed="#L" break="no" n="66"/>dium dimidii, licet eadem proportio maneat. Hoc 
+<lb ed="#L" n="67"/>autem in diminutione qua bonum per malum
+<lb ed="#L" n="68"/>diminuitur, nequaquam potest accidere. Nam
+<lb ed="#L" n="69"/>quanto bonum magis per malum fuerit 
+diminu<lb ed="#L" break="no" n="70"/>tum, erit infirmius: et sic per secundum malum
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="71"/>magis diminui poterit. Rursusque malum sequens
+<lb ed="#L" n="72"/>contingit esse aequale, vel maius priore: unde non
+<lb ed="#L" n="73"/>semper secundo subtrahetur a bono per malum
+<lb ed="#L" n="74"/>minor boni quantitas, proportione servata eadem.
+</p>
+            <p xml:id="v8naTA-d1e1806-d1e212">
+               <lb ed="#L" n="75"/>Est igitur aliter dicendum. Ex praemissis enim 
+<lb ed="#L" n="76"/>manifestum est quod malum totaliter bonum cui
+<lb ed="#L" n="77"/>oppositum est tollit, sicut caecitas visum: oportet
+<lb ed="#L" n="78"/>autem quod remaneat bonum quod est mali
+<lb ed="#L" n="79"/>subiectum. Quod quidem, inquantum subiectum
+<lb ed="#L" n="80"/>est, habet rationem boni, secundum quod est
+<lb ed="#L" n="81"/>potentia ad actum boni quod privatur per 
+ma<lb ed="#L" break="no" n="82"/>lum. Quanto igitur minus fuerit in potentia ad
+<lb ed="#L" n="83"/>illud bonum, tanto minus erit bonum. Subiectum
+<lb ed="#L" n="84"/>autem fit.minus potentia ad formam, non 
+qui<lb ed="#L" break="no" n="85"/>dem. per solam subtractionem alicuius partis 
+sub<lb ed="#L" break="no" n="86"/>iecti; neque per hoc quod aliqua pars potentiae
+<lb ed="#L" n="87"/>subtrahatur; sed per hoc quod potentia impeditur
+<lb ed="#L" n="88"/>per contrarium actum ne in actum formae exire
+<lb ed="#L" n="89"/>possit, sicut subiectum tanto est minus potentia
+<lb ed="#L" n="90"/>frigidum, quanto in eo magis calor augetur. 
+Di<lb ed="#L" break="no" n="91"/>minuitur igitur bonum per malum magis 
+appo<lb ed="#L" break="no" n="92"/>nendo contrarium quam de bono aliquid 
+sub<lb ed="#L" break="no" n="93"/>trahendo. Quod etiam coBYetitt his quae sunt
+<lb ed="#L" n="94"/>dicta de malo. Diximus enim  quod malum 
+in<lb ed="#L" break="no" n="95"/>cidit praeter intentionem agentis, quod semper
+<lb ed="#L" n="96"/>intendit aliquod bonum, ad quod sequitur 
+exclu<lb ed="#L" break="no" n="97"/>sio alterius boni, quod est ei oppositum. Quanto
+<lb ed="#L" n="98"/>igitur illud bonum intentumi ad quod praeter 
+in<lb ed="#L" break="no" n="99"/>tentionem agentis sequitur malum, magis 
+multi<lb ed="#L" break="no" n="100"/>plicatur, tanto potentia ad bonum contrarium 
+di<lb ed="#L" break="no" n="101"/>minuitur magis: et sic magis per malum dicitur
+<lb ed="#L" n="102"/>diminui: bonum.
+</p>
+            <p xml:id="v8naTA-d1e1806-d1e275">
+               <lb ed="#L" n="103"/>Haec autem diminutio boni per malum non
+<lb ed="#L" n="104"/>potest in naturalibus in infinitum procedere. Nam
+<pb ed="#L" n="34"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>formae naturales et virtutes omnes terminatae
+<lb ed="#L" n="2"/>sunt, et perveniunt ad aliquem terminum ultra
+<lb ed="#L" n="3"/>quem porrigi non possunt. Non potest igitur 
+ne<lb ed="#L" break="no" n="4"/>que forma aliqua contraria, neque virtus 
+con<lb ed="#L" break="no" n="5"/>trarii agentis in infinitum augeri, ut ex hoc 
+se<lb ed="#L" break="no" n="6"/>quatur in infinitum diminutio boni per malum.
+</p>
+            <p xml:id="v8naTA-d1e1806-d1e299">
+               <lb ed="#L" n="7"/>In moralibus autem potest ista diminutio in
+<lb ed="#L" n="8"/>infinitum procedere. Nam intellectus et voluntas
+<lb ed="#L" n="9"/>in suis actibus terminos non habent. Potest enim
+<lb ed="#L" n="10"/>intellectus intelligendo in infinitum procedere:
+<lb ed="#L" n="11"/>unde mathematicae numerorum species et figura-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="12"/>rum infinitae dicuntur. Et similiter voluntas in 
+vo<lb ed="#L" break="no" n="13"/>lendo in infinitum procedit: qui enim vult furtum
+<lb ed="#L" n="14"/>committere, potest iterum velle illud committere,
+<lb ed="#L" n="15"/>ei sic in infinitum. Quanto autem voluntas magis
+<lb ed="#L" n="16"/>in fines indebitos tendit, tanto difficilius redit ad
+<lb ed="#L" n="17"/>proprium et debitum finem: quod patet in his
+<lb ed="#L" n="18"/>in quibus per peccandi consuetudinem iam est
+<lb ed="#L" n="19"/>habitus vitiorum inductus. In infinitum igitur per
+<lb ed="#L" n="20"/>malum moris bonum naturalis aptitudinis 
+dimi<lb ed="#L" break="no" n="21"/>nui potest. Nunquam tamen totaliter tolletur, sed
+<lb ed="#L" n="22"/>semper naturam remanentem comitatur.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

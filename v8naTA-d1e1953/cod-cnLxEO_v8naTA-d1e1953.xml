@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 30</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 30</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="89"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1953"><!-- v8naTA-l3c30 -->
+            <head xml:id="v8naTA-d1e1953-Hd1e101">Capitulum 30</head>
+            <head xml:id="v8naTA-d1e1953-Hd1e103" type="question-title">Quod felicitas hominis non consistit in divitiis.</head>
+            <p xml:id="v8naTA-d1e1953-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="15" type="fixed=86"/>CAPITULUM TRIGESIMUM
+<lb ed="#L" n="16"/>QUOD FELICITAS HOMINIS NON CONSISTIT IN DIVITIIS.
+</p>
+            <p xml:id="v8naTA-d1e1953-d1e115">
+               <lb ed="#L" n="17"/>EX hoc autem apparet quod nec 
+divi<lb ed="#L" break="no" n="18"/>tiae sunt summum hominis bonum. 
+</p>
+            <p xml:id="v8naTA-d1e1953-d1e122">
+               <lb ed="#L" n="19"/>Non enim appetuntur divitiae nisi 
+<lb ed="#L" n="20"/>propter aliud: per se-enim nihil boni - 
+<lb ed="#L" n="21"/>aciem sed solum cum utimur eis, vel ad cor- : 
+<lb ed="#L" n="22"/>poris sustentationem, vel ad aliquid. huiusmodi. . 
+<lb ed="#L" n="23"/>Quod autem est summum bonum, est propter 
+<lb ed="#L" n="24"/>se desideratum, et non propter aliud. Non sunt 
+<lb ed="#L" n="25"/>igitur divitiae summum. hominis bonum. 
+</p>
+            <p xml:id="v8naTA-d1e1953-d1e141">
+               <lb ed="#L" n="26"/>Adhuc. Eorum possessio vel conservatio non » 
+<lb ed="#L" n="27"/>potest esse summum hominis bonum quae 
+ma<lb ed="#L" break="no" n="28"/>xime conferunt homini in hoc quod emittuntur. 
+<lb ed="#L" n="29"/>Divitiae autem in hoc maxime conferunt quod 
+<lb ed="#L" n="30"/>expenduntur: hoc enim earum usus est. Non 
+<lb ed="#L" n="31"/>potest igitur divitiarum possessio esse summum :: 
+<lb ed="#L" n="32"/>hominis bonum. 
+
+<lb ed="#L" n="33"/>Amplius. Actus virtutis laudabilis est secundum .
+<lb ed="#L" n="34"/>quod ad felicitatem accedit. Magis autem est 
+lau<lb ed="#L" break="no" n="35"/>dabilis.actus liberalitatis et magnificentiae, quae 
+<lb ed="#L" n="36"/>sunt circa pecunias, ex hoc quod pecuniae emit- » 
+<lb ed="#L" n="37"/>tuntur, quam ex hoc quod conservantur: unde 
+<cb ed="#L" n="d"/>
+               <lb ed="#L" n="38"/>et ab hoc nomina harum virtutum sumuntur.
+<lb ed="#L" n="39"/>Non consistit igitur hominis felicitas in 
+posses<lb ed="#L" break="no" n="40"/>sione divitiarum.
+</p>
+            <p xml:id="v8naTA-d1e1953-d1e178">
+               <lb ed="#L" n="41"/>Item. Illud in cuius consecutione summum 
+ho<lb ed="#L" break="no" n="42"/>minis bonum est, oportet esse homine melius.
+<lb ed="#L" n="43"/>Divitiis autem homo est melior: cum sint res
+<lb ed="#L" n="44"/>quaedam ad usum hominis ordinatae. Non est
+<lb ed="#L" n="45"/>igitur in divitiis summum hominis bonum.
+</p>
+            <p xml:id="v8naTA-d1e1953-d1e191">
+               <lb ed="#L" n="46"/>Praeterea. Summum hominis bonum fortunae
+<lb ed="#L" n="47"/>non subiacet : nam fortuita absque studio rationis
+<lb ed="#L" n="48"/>eveniunt; oportet autem quod per rationem homo And
+<lb ed="#L" n="49"/>proprium finem consequatur. In consecutione - M
+<lb ed="#L" n="50"/>autem divitiarum maximum locum habet 
+for<lb ed="#L" break="no" n="51"/>tuna. Non est igitur in divitiis humana felicitas ^
+<lb ed="#L" n="52"/>constituta.
+</p>
+            <p xml:id="v8naTA-d1e1953-d1e209">
+               <lb ed="#L" n="53"/>Amplius. Hoc evidens fit per hoc quod 
+di<lb ed="#L" break="no" n="54"/>vitiae involuntarie amittuntur; et quod. malis
+<lb ed="#L" n="55"/>advenire possunt, quos necesse est summo bono
+<lb ed="#L" n="56"/>carere; et quod instabiles sunt; et alia 
+huius<lb ed="#L" break="no" n="57"/>modi, quae ex superioribus rationibus  coMi "Cip. sim a.
+<lb ed="#L" n="58"/>possunt.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

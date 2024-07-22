@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 26</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 26</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="70"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e1920"><!-- v8naTA-l3c26 -->
+            <head xml:id="v8naTA-d1e1920-Hd1e101">Capitulum 26</head>
+            <head xml:id="v8naTA-d1e1920-Hd1e103" type="question-title">Utrum felicitas consistat in actu voluntatis.</head>
+            <p xml:id="v8naTA-d1e1920-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="92" type="fixed=70"/>CAPITULUM VIGESIMUM SEXTUM
+<lb ed="#L" n="93"/>UTRUM FELICITAS CONSISTAT IN ACTU VOLUNTATIS.
+</p>
+            <p xml:id="v8naTA-d1e1920-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="94"/>QUIA vero intellectualis substantia sua 
+ope<lb ed="#L" break="no" n="95"/>ratione pertingit ad Deum non solum
+<lb ed="#L" n="96"/>intelligendo, sed etiam per actum 
+vo<lb ed="#L" break="no" n="97"/>luntatis, desiderando et amando ipsum
+<lb ed="#L" n="98"/>et in ipso delectationem habendo, potest alicui
+<lb ed="#L" n="99"/>videri quod ultimus finis, et ultima hominis 
+fe<lb ed="#L" break="no" n="100"/>licitas, non sit in cognoscendo Deum, sed magis
+<lb ed="#L" n="101"/>in amando, vel aliquo alio actu voluntatis se 
+ha<lb ed="#L" break="no" n="102"/>bendo ad ipsum: praecipue cum obiectum 
+vo<lb ed="#L" break="no" n="103"/>luntatis sit bonum, quod habet rationem finis;
+<lb ed="#L" n="104"/>verum autem, quod est obiectum intellectus, non
+<lb ed="#L" n="105"/>habet rationem finis nisi inquantum et ipsum est
+<lb ed="#L" n="106"/>bonum. Unde non. videtur homo consequi ulti-
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="107"/>mum finem per actum intellectus, sed magis per
+<lb ed="#L" n="108"/>actumi voluntatis.
+</p>
+            <p xml:id="v8naTA-d1e1920-d1e154">
+               <lb ed="#L" n="109"/>Praeterea. Ultima perfectio operationis est 
+de<lb ed="#L" break="no" n="110"/>lectatio, quae. perficit operationem sicut. pulcritudo
+<lb ed="#L" n="111"/>iuventulem, ut in X. Ethicorum  Philosophus 
+di<lb ed="#L" break="no" n="112"/>cit. Si igitur perfecta operatio est ultimus finis,
+<lb ed="#L" n="113"/>videtur quod ultimus finis magis sit secundum
+<lb ed="#L" n="114"/>operationem voluntatis quam intellectus.
+</p>
+            <p xml:id="v8naTA-d1e1920-d1e171">
+               <lb ed="#L" n="115"/>Adhuc. Delectatio videtur ita propter se. 
+desi<lb ed="#L" break="no" n="116"/>derari quod. nunquam propter aliud: stultum
+<lb ed="#L" n="117"/>enim est quaerere ab aliquo quare velit delectari.
+<lb ed="#L" n="118"/>Haec autem est conditio ultimi finis: ut scilicet
+<lb ed="#L" n="119"/>propter se quaeratur. Est igitur ultimus finis
+<pb ed="#L" n="71"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>magis in operatione voluntatis quam intellectus,
+<lb ed="#L" n="2"/>ut videtur. 
+</p>
+            <p xml:id="v8naTA-d1e1920-d1e193">
+               <lb ed="#L" n="3"/>Item. In appetitu ultimi finis maxime omnes
+<lb ed="#L" n="4"/>concordant: cum sit naturalis. Plures autem 
+quae<lb ed="#L" break="no" n="5"/>runt delectationem quam cognitionem. Magis
+<lb ed="#L" n="6"/>igitur videtur esse finis delectatio quam cognitio.
+</p>
+            <p xml:id="v8naTA-d1e1920-d1e204">
+               <lb ed="#L" n="7"/>Amplius. Voluntas videtur esse altior potantia
+<lb ed="#L" n="8"/>quam intellectus: nam voluntas movet intellectum
+<lb ed="#L" n="9"/>ad suum actum ; intellectus enim actu considerat
+<lb ed="#L" n="10"/>quae habitu tenet, cum aliquis voluerit. Actio
+<lb ed="#L" n="11"/>igitur voluntatis videtur nobilior quam actio 
+in<lb ed="#L" break="no" n="12"/>tellectus. Magis igitur videtur ultimus finis, quae
+<lb ed="#L" n="13"/>est beatitudo, consistere in actu voluntatis quam
+<lb ed="#L" n="14"/>in actu intellectus.
+</p>
+            <p xml:id="v8naTA-d1e1920-d1e224">
+               <lb ed="#L" n="15"/>Hoc autem esse impossibile manifeste 
+osten<lb ed="#L" break="no" n="16"/>ditur.
+</p>
+            <p xml:id="v8naTA-d1e1920-d1e231">
+               <lb ed="#L" n="17"/>Cum enim beatitudo sit proprium bonum 
+in<lb ed="#L" break="no" n="18"/>tellectualis naturae, oportet quod secundum id
+<lb ed="#L" n="19"/>intellectuali naturae conveniat quod est sibi 
+pro<lb ed="#L" break="no" n="20"/>prium. Appetitus autem non est proprium 
+intel<lb ed="#L" break="no" n="21"/>lectualis naturae, sed omnibus rebus inest: licet
+<lb ed="#L" n="22"/>sit diversimode in diversis. Quae tamen 
+diver<lb ed="#L" break="no" n="23"/>sitas procedit ex hoc quod res diversimode se
+<lb ed="#L" n="24"/>habent ad cognitionem. Quae enim omnino 
+co<lb ed="#L" break="no" n="25"/>gnitione carent, habent appetitum naturalem 
+tan<lb ed="#L" break="no" n="26"/>tum. Quae vero habent cognitionem sensitivam,
+<lb ed="#L" n="27"/>et appetitum sensibilem habent, sub quo irascibilis
+<lb ed="#L" n="28"/>et concupiscibilis continetur. Quae vero habent
+<lb ed="#L" n="29"/>cognitionem intellectivam, et appetitum cognitioni
+<lb ed="#L" n="30"/>proportionalem habent, scilicet voluntatem. 
+Vo<lb ed="#L" break="no" n="31"/>luntas igitur, secundum quod est appetitus, non
+<lb ed="#L" n="32"/>est proprium intellectualis naturae: sed solum
+<lb ed="#L" n="33"/>secundum quod ab intellectu dependet. Intellectus
+<lb ed="#L" n="34"/>autem secundum se proprius est intellectuali 
+na<lb ed="#L" break="no" n="35"/>turae. Beatitudo igitur vel felicitas in actu 
+intel<lb ed="#L" break="no" n="36"/>lectus consistit substantialiter et principaliter, 
+ma<lb ed="#L" break="no" n="37"/>gis quam in actu voluntatis.
+</p>
+            <p xml:id="v8naTA-d1e1920-d1e279">
+               <lb ed="#L" n="38"/>Adhuc. In omnibus potentiis quae moventur a
+<lb ed="#L" n="39"/>suis obiectis, obiecta sunt naturaliter priora 
+acti<lb ed="#L" break="no" n="40"/>bus illarum potentiarum: sicut motor naturaliter
+<lb ed="#L" n="41"/>prior est quam moveri ipsius mobilis. Talis autem
+<lb ed="#L" n="42"/>potentia est voluntas: appetibile enim movet 
+ap<lb ed="#L" break="no" n="43"/>petitum. Obiectum igitur voluntatis est prius 
+na<lb ed="#L" break="no" n="44"/>turaliter quam actus eius. Primum igitur. eius
+<lb ed="#L" n="45"/>obiectum praecedit omnem actum ipsius. Non
+<lb ed="#L" n="46"/>potest ergo actus voluntatis primum volitum esse.
+<lb ed="#L" n="47"/>Hoc autem est ultimus finis, qui est beatitudo.
+<lb ed="#L" n="48"/>Impossibile est igitur quod beatitudo sive 
+feli<lb ed="#L" break="no" n="49"/>citas sit ipse actus voluntatis.
+</p>
+            <p xml:id="v8naTA-d1e1920-d1e309">
+               <lb ed="#L" n="50"/>Praeterea. In omnibus potentiis quae possunt
+<lb ed="#L" n="51"/>converti in suos actus, prius oportet quod actus
+<lb ed="#L" n="52"/>illius potentiae feratur in obiectum aliud, et 
+post<lb ed="#L" break="no" n="53"/>modum feratur in suum actum. Si enim 
+intel<lb ed="#L" break="no" n="54"/>lectus intelligit se intelligere, prius oportet poni
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="55"/>quod intelligat rem aliquam, et. consequenter
+<lb ed="#L" n="56"/>quod intelligat se intelligere: nam: ipsum. 
+intel<lb ed="#L" break="no" n="57"/>ligere quod intellectus ihtelligit, alicuius obiecti
+<lb ed="#L" n="58"/>est; unde oportet quod vel procedatur in 
+infi<lb ed="#L" break="no" n="59"/>nitum, vel, si est devenire ad primum 
+intelle<lb ed="#L" break="no" n="60"/>ctum, hoc non: erit ipsum intelligere, sed aliqua
+<lb ed="#L" n="61"/>res intelligibilis. Similiter oportet quod. primum
+<lb ed="#L" n="62"/>volitum non sit ipsum: velle, sed aliquid aliud
+<lb ed="#L" n="63"/>bonum. Primum autem volitum intellectualis 
+na<lb ed="#L" break="no" n="64"/>turae est ipsa beatitudo sive felicitas: nam 
+pro<lb ed="#L" break="no" n="65"/>pter hanc volumus quaecumque volumus. 
+Im<lb ed="#L" break="no" n="66"/>possibile est igitur felicitatem essentialiter in actu
+<lb ed="#L" n="67"/>voluntatis consistere.
+</p>
+            <p xml:id="v8naTA-d1e1920-d1e353">
+               <lb ed="#L" n="68"/>Amplius. Unumquodque secundum ea quae
+<lb ed="#L" n="69"/>constituunt substantiam eius, habet naturae suae
+<lb ed="#L" n="70"/>veritatem: differt enim verus homo a picto. per
+<lb ed="#L" n="71"/>ea quae substantiam hominis constituunt. Vera
+<lb ed="#L" n="72"/>autem beatitudo non differt a falsa. secundum
+<lb ed="#L" n="73"/>actum voluntatis: nam eodem modo: se habet
+<lb ed="#L" n="74"/>» voluntas in desiderando vel amando vel 
+dele<lb ed="#L" break="no" n="75"/>ctaando, quicquid sit illad quod sibi proponitur
+<lb ed="#L" n="76"/>ut summum bonum, sive vere sive falso; utrum
+<lb ed="#L" n="77"/>autem vere sit summum bonum quod ut tale
+<lb ed="#L" n="78"/>proponitur vel falso, hoc differt ex parte 
+intel<lb ed="#L" break="no" n="79"/>lectus. Beatitudo igitur, sive felicitas, in intellectu
+<lb ed="#L" n="80"/>essentialiter magis quam in actu voluntatis con
+<lb ed="#L" n="81"/>sistit.
+</p>
+            <p xml:id="v8naTA-d1e1920-d1e386">
+               <lb ed="#L" n="82"/>Item. Si aliquis actus voluntatis esset ipsa 
+fe<lb ed="#L" break="no" n="83"/>licitas, hic actus esset aut desiderare, aut amare,
+<lb ed="#L" n="84"/>aut delectari. Impossibile est autem quod 
+desi<lb ed="#L" break="no" n="85"/>derare sit ultimus finis. Est enim desiderium: 
+se<lb ed="#L" break="no" n="86"/>cundum quod voluntas tendit in id quod 
+non<lb ed="#L" break="no" n="87"/>dum habet: hoc autem contrariatur rationi ultimi
+<lb ed="#L" n="88"/>finis. - Amare etiam non potest esse ultimus finis.
+<lb ed="#L" n="89"/>s Amatur enim bonum non solum: quando 
+habe<lb ed="#L" break="no" n="90"/>tur, sed etiam quando non habetur, ex amore
+<lb ed="#L" n="91"/>enim est quod non habitum desiderio quaeratur:
+<lb ed="#L" n="92"/>et si amor iam habiti perfectior sit, hoc causatur
+<lb ed="#L" n="93"/>ex hoc quod bonum amatum habetur. Aliud 
+igi<lb ed="#L" break="no" n="94"/>1» tur est habere bonum quod est finis, quam amare,
+<lb ed="#L" n="95"/>quod ante habere est imperfectum, post habere
+<lb ed="#L" n="96"/>vero perfectum. — Similiter autem nec 
+delecta<lb ed="#L" break="no" n="97"/>tio est ultimus finis. Ipsum enim habere bonum
+<lb ed="#L" n="98"/>causa est delectationis: vel dum bonum nunc
+<lb ed="#L" n="99"/>5 habitum sentimus; vel dum prius habitum 
+me<lb ed="#L" break="no" n="100"/>moramur; vel dum in futuro habendum 
+spera<lb ed="#L" break="no" n="101"/>mus. Non est igitur delectatio ultimus finis. -
+<lb ed="#L" n="102"/>Nullus ergo actus voluntatis potest-esse 
+substan<lb ed="#L" break="no" n="103"/>tialiter ipsa felicitas.
+</p>
+            <p xml:id="v8naTA-d1e1920-d1e436">
+               <lb ed="#L" n="104"/>Adhuc. Si delectatio esset ultimus finis, ipsa
+<lb ed="#L" n="105"/>secundum seipsam esset appetenda. Hoc autem
+<lb ed="#L" n="106"/>est falsum. Refert enim quae delectatio appetatur
+<lb ed="#L" n="107"/>ex eo ad quod consequitur delectatio: nam 
+de<lb ed="#L" break="no" n="108"/>lectatio quae consequitur bonas et appetendas
+<pb ed="#L" n="72"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>operationes, bona est et appetenda; quae autem
+<lb ed="#L" n="2"/>malas, mala et fugienda. Habet igitur quod sit
+<lb ed="#L" n="3"/>bona et appetenda ex alio. Non est igitur ipsa
+<lb ed="#L" n="4"/>ultimus finis, qui est felicitas.
+</p>
+            <p xml:id="v8naTA-d1e1920-d1e462">
+               <lb ed="#L" n="5"/>Adhuc. Rectus ordo rerum convenit cum 
+or<lb ed="#L" break="no" n="6"/>dine naturae: nam res naturales ordinantur in
+<lb ed="#L" n="7"/>suum finem absque errore. In naturalibus autem
+<lb ed="#L" n="8"/>est delectatio propter operationem, et non e 
+con<lb ed="#L" break="no" n="9"/>verso. Videmus enim quod natura illis 
+operatio<lb ed="#L" break="no" n="10"/>nibus animalium | delectationem apposuit quae
+<lb ed="#L" n="11"/>sunt manifeste ad fines necessarios ordinatae,
+<lb ed="#L" n="12"/>sicut in usu ciborum, qui ordinatur ad 
+conser<lb ed="#L" break="no" n="13"/>vationem individui, et in usu venereorum, qui
+<lb ed="#L" n="14"/>ordinatur ad conservationem speciei: nisi enim
+<lb ed="#L" n="15"/>adesset delectatio, animalia a praedictis usibus
+<lb ed="#L" n="16"/>necessariis abstinerent. Impossibile ergo est quod
+<lb ed="#L" n="17"/>delectatio sit ultimus finis.
+</p>
+            <p xml:id="v8naTA-d1e1920-d1e493">
+               <lb ed="#L" n="18"/>Item. Delectatio nihil aliud esse videtur quam
+<lb ed="#L" n="19"/>quietatio voluntatis in aliquo bono convenienti,
+<lb ed="#L" n="20"/>sicut desiderium est inclinatio voluntatis in 
+ali<lb ed="#L" break="no" n="21"/>quod bonum consequendum. Sicut autem homo
+<lb ed="#L" n="22"/>per voluntatem inclinatur in finem et quietatur
+<lb ed="#L" n="23"/>in illo, ita corpora naturalia habent inclinationes
+<lb ed="#L" n="24"/>naturales in fines proprios, quae quidem 
+quie<lb ed="#L" break="no" n="25"/>tantur fine iam adepto. Ridiculum autem est 
+di<lb ed="#L" break="no" n="26"/>cere quod finis motus corporis gravis non sit esse
+<lb ed="#L" n="27"/>in loco proprio, sed quietatio inclinationis qua
+<lb ed="#L" n="28"/>in hoc tendebat. Si enim hoc principaliter natura
+<lb ed="#L" n="29"/>intenderet ut inclinatio quietaretur, non daret
+<lb ed="#L" n="30"/>eam; dat autem eam ut per hoc tendat in 
+lo<lb ed="#L" break="no" n="31"/>cum proprium; quo consecuto, quasi fine, 
+se<lb ed="#L" break="no" n="32"/>quitur inclinationis quietatio. Et sic quietatio talis
+<lb ed="#L" n="33"/>non est finis, sed concomitans finem. Nec igitur
+<lb ed="#L" n="34"/>delectatio est finis ultimus, sed concomitans ipsum.
+<lb ed="#L" n="35"/>Multo igitur magis nec aliquis voluntatis actus
+<lb ed="#L" n="36"/>est felicitas. i
+</p>
+            <p xml:id="v8naTA-d1e1920-d1e538">
+               <lb ed="#L" n="37"/>Adhuc. Si alicuius rei sit aliqua res exterior
+<lb ed="#L" n="38"/>finis, illa eius operatio dicetur etiam finis 
+ulti<lb ed="#L" break="no" n="39"/>mus per quam primo consequitur rem illam:
+<lb ed="#L" n="40"/>sicut his quibus pecunia est finis, dicitur etiam
+<lb ed="#L" n="41"/>possidere pecuniam finis, non autem amare, 
+ne<lb ed="#L" break="no" n="42"/>que concupiscere. Finis autem ultimus 
+substan<lb ed="#L" break="no" n="43"/>tiae intellectualis est Deus. llla igitur operatio
+<lb ed="#L" n="44"/>hominis est substantialiter eius beatitudo vel 
+fe<lb ed="#L" break="no" n="45"/>licitas, per quam primo attingit ad Deum. Hoc
+<lb ed="#L" n="46"/>autem est intelligere: nam velle non possumus
+<lb ed="#L" n="47"/>quod non intelligimus. Est igitur ultima felicitas
+<lb ed="#L" n="48"/>hominis in cognoscendo Deum per intellectum
+<lb ed="#L" n="49"/>substantialiter, non in actu voluntatis.
+</p>
+            <p xml:id="v8naTA-d1e1920-d1e569">
+               <lb ed="#L" n="50"/>Iam igitur per ea quae dicta sunt, patet 
+so<lb ed="#L" break="no" n="51"/>lutio in contrarium obiectorum. Non enim, si 
+fe<lb ed="#L" break="no" n="52"/>licitas per hoc quod habet rationem summi boni,
+<lb ed="#L" n="53"/>est obiectum voluntatis, propter hoc necesse est
+<lb ed="#L" n="54"/>quod sit substantialiter ipse actus voluntatis: ut
+<lb ed="#L" n="55"/>prima ratio procedebat. Immo ex hoc ipso quod 
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="56"/>est primum obiectum, sequitur quod non sit
+<lb ed="#L" n="57"/>actus eius, ut ex dictis apparet.
+</p>
+            <p xml:id="v8naTA-d1e1920-d1e591">
+               <lb ed="#L" n="58"/>Neque etiam oportet quod omne id quo res
+<lb ed="#L" n="59"/>quocumque modo perficitur, sit finis illius rei:
+<lb ed="#L" n="60"/>sicut secunda ratio procedebat. Est enim aliquid
+<lb ed="#L" n="61"/>perfectio alicuius dupliciter: uno modo, ut 
+ha<lb ed="#L" break="no" n="62"/>bentis iam speciem; alio modo, ut ad speciem
+<lb ed="#L" n="63"/>habendam. Sicut perfectio domus secundum quod
+<lb ed="#L" n="64"/>iam habet speciem, est id ad quod species domus
+<lb ed="#L" n="65"/>ordinatur, scilicet habitatio: non enim. domus
+<lb ed="#L" n="66"/>fieret nisi propter hoc; unde et in definitione
+<lb ed="#L" n="67"/>domus oportet hoc poni, si debeat definitio esse
+<lb ed="#L" n="68"/>perfecta. Perfectio vero ad speciem domus, est
+<lb ed="#L" n="69"/>tam id quod ordinatur ad speciem 
+constituen<lb ed="#L" break="no" n="70"/>dam, sicut principia substantialia ipsius; quam
+<lb ed="#L" n="71"/>id quod ordinatur ad speciei conservationem,
+<lb ed="#L" n="72"/>sicut apodiacula, quae fiunt ad sustentationem
+<lb ed="#L" n="73"/>domus; quam etiam illa quae faciunt ad hoc
+<lb ed="#L" n="74"/>quod usus domus sit convenientior, sicut 
+pulcri<lb ed="#L" break="no" n="75"/>tudo domus. lllud igitur quod est perfectio rei
+<lb ed="#L" n="76"/>secundum quod iam habet speciem, est finis
+<lb ed="#L" n="77"/>ipsius: ut habitatio est finis domus. Et similiter
+<lb ed="#L" n="78"/>propria operatio cuiuslibet rei, quae est quasi
+<lb ed="#L" n="79"/>usus eius, est finis ipsius. Quae autem sunt 
+per<lb ed="#L" break="no" n="80"/>fectiones rei ad speciem, non sunt finis rei: immo
+<lb ed="#L" n="81"/>res est finis ipsarum; materia enim et forma
+<lb ed="#L" n="82"/>sunt propter speciem. Licet enim forma sit finis
+<lb ed="#L" n="83"/>generationis, non tamen est finis iam generati
+<lb ed="#L" n="84"/>et speciem habentis: immo ad hoc quaeritur
+<lb ed="#L" n="85"/>forma ut species sit completa. Similiter 
+conser<lb ed="#L" break="no" n="86"/>vantia rem in sua specie, ut sanitas et vis 
+nu<lb ed="#L" break="no" n="87"/>tritiva, licet perficiant animal, non tamen sunt
+<lb ed="#L" n="88"/>finis animalis, sed magis e converso. Ea etiam
+<lb ed="#L" n="89"/>quibus aptatur res ad proprias operationes 
+spe<lb ed="#L" break="no" n="90"/>cieli perficiendas, et ad debitum finem 
+congruen<lb ed="#L" break="no" n="91"/>tius consequendum, non sunt finis rei, sed magis
+<lb ed="#L" n="92"/>e converso: sicut pulcritudo hominis, et robur
+<lb ed="#L" n="93"/>corporis, et alia huiusmodi, de quibus dicit <ref xml:id="v8naTA-d1e1920-Rd1e671">
+Phi<lb ed="#L" break="no" n="94"/>losophus, in I Ethicorum</ref>, quod organice 
+deser<lb ed="#L" break="no" n="95"/>viunt felicilati. —. Delectatio autem est perfectio
+<lb ed="#L" n="96"/>operationis, non ita quod ad ipsam ordinetur 
+ope<lb ed="#L" break="no" n="97"/>ratio secundum suam speciem, sed ordinatur ad
+<lb ed="#L" n="98"/>alios fines, sicut comestio ordinatur secundum
+<lb ed="#L" n="99"/>suam speciem ad conservationem individui: sed
+<lb ed="#L" n="100"/>est similis perfectioni quae ordinatur ad speciem
+<lb ed="#L" n="101"/>rei; nam propter delectationem attentius et 
+decen<lb ed="#L" break="no" n="102"/>tius operationi insistimus in qua delectamur. Unde
+<lb ed="#L" n="103"/>in <ref xml:id="v8naTA-d1e1920-Rd1e695">X Ethicorum Philosophus</ref> dicit quod 
+dele<lb ed="#L" break="no" n="104"/>clatio perficit operationem sicul decor iuventutem,
+<lb ed="#L" n="105"/>qui quidem est propter eum cui inest iuventus,
+<lb ed="#L" n="106"/>et non e converso.
+</p>
+            <p xml:id="v8naTA-d1e1920-d1e705">
+               <lb ed="#L" n="107"/>Neque autem quod delectationem non propter
+<lb ed="#L" n="108"/>aliud volunt homines sed propter seipsam, est
+<lb ed="#L" n="109"/>sufficiens signum quod delectatio sit ultimus finis:
+<lb ed="#L" n="110"/>sicut tertia ratio concludebat. Nam delectatio, etsi
+<pb ed="#L" n="73"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>non sit ultimus finis, est tamen ultimum finem
+<lb ed="#L" n="2"/>concomitans: cum ex adeptione finis delectatio
+<lb ed="#L" n="3"/>consurgat.
+</p>
+            <p xml:id="v8naTA-d1e1920-d1e727">
+               <lb ed="#L" n="4"/>Non autem plures quaerunt delectationem quae
+<lb ed="#L" n="5"/>est in cognoscendo, quam cognitionem. Sed 
+plu<lb ed="#L" break="no" n="6"/>res sunt qui quaerunt delectationes sensibiles
+<lb ed="#L" n="7"/>quam: cognitionem intellectus et delectationem
+<lb ed="#L" n="8"/>ipsam consequentem: quia ea quae exterius sunt,
+<lb ed="#L" n="9"/>magis nota pluribus existunt, eo quod a 
+sensi<lb ed="#L" break="no" n="10"/>bilibus incipit humana cognitio.
+</p>
+            <p xml:id="v8naTA-d1e1920-d1e745">
+               <lb ed="#L" n="11"/>Quod autem quinta ratio proponit, 
+iniidta<lb ed="#L" break="no" n="12"/>tem esse altiorem intellectu, quasi eius motivam,
+<lb ed="#L" n="13"/>falsum esse manifestum est. Nam primo et per
+<lb ed="#L" n="14"/>se intellectus movet voluntatem: voluntas. enim,
+<lb ed="#L" n="15"/>inquantum huiusmodi, movetur a suo obiecto,
+<lb ed="#L" n="16"/>quod est bonum apprehensum. Voluntas autem
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="17"/>movet intellectum quasi per accidens, inquantum
+<lb ed="#L" n="18"/>scilicet intelligere ipsum apprehenditur ut bonum,
+<lb ed="#L" n="19"/>et sic desideratur a voluntate, ex quo sequitur
+<lb ed="#L" n="20"/>quod intellectus actu intelligit. Et in hoc ipso
+<lb ed="#L" n="21"/>intellectus voluntatem praecedit: nunquam enim
+<lb ed="#L" n="22"/>voluntas desideraret intelligere nisi prius 
+intelle<lb ed="#L" break="no" n="23"/>ctus ipsum intelligere apprehenderet ut bonum.
+<lb ed="#L" n="24"/>- Et iterum, voluntas movet intellectum ad 
+ope<lb ed="#L" break="no" n="25"/>randum in actu per modum quo agens movere
+<lb ed="#L" n="26"/>dicitur; intellectus autem voluntatem per.modum
+<lb ed="#L" n="27"/>quo finis movet, nam bonum intellectum est finis
+<lb ed="#L" n="28"/>voluntatis; agens autem est posterior in movendo
+<lb ed="#L" n="29"/>quam finis, nam agens non movet nisi propter
+<lb ed="#L" n="30"/>finem. Unde apparet intellectum. simpliciter esse
+<lb ed="#L" n="31"/>altiorem voluntate: voluntatem vero intellectu
+<lb ed="#L" n="32"/>per. accidens et secundum quid.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 155</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 155</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="457"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2974"><!-- v8naTA-l3c155 -->
+            <head xml:id="v8naTA-d1e2974-Hd1e101">Capitulum 155</head>
+            <head xml:id="v8naTA-d1e2974-Hd1e103" type="question-title">Quod homo indiget divino auxilio ad perseverandum in bono.</head>
+            <p xml:id="v8naTA-d1e2974-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="105" type="fixed=457"/>CAPITULUM
+<lb ed="#L" n="106"/>CENTESIMUM QUINQUAGESIMUM QUINTUM.
+<lb ed="#L" n="107"/>QUOD HOMO INDIGET DIVINO AUXILIO AD PERSEVERANDUM IN BONO.
+</p>
+            <p xml:id="v8naTA-d1e2974-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="108"/>INDIGET etiam homo divinae gratiae 
+au<lb ed="#L" break="no" n="109"/>xilio ad hoc quod perseveret in bono.
+</p>
+            <p xml:id="v8naTA-d1e2974-d1e126">
+               <lb ed="#L" n="110"/>Omne enim quod de se est 
+varia<lb ed="#L" break="no" n="111"/>bile, ad hoc quod figatur in uno, 
+in<lb ed="#L" break="no" n="112"/>diget auxilio alicuius moventis immobilis. Homo
+<lb ed="#L" n="113"/>autem variabilis est et de malo in bonum, et de
+<lb ed="#L" n="114"/>bono in malum. Ad hoc igitur quod immobiliter
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="115"/>perseveret in bono, quod est perseverare, indiget
+<lb ed="#L" n="116"/>auxilio divino.
+</p>
+            <p xml:id="v8naTA-d1e2974-d1e147">
+               <lb ed="#L" n="117"/>Adhuc. Ad illud quod excedit vires liberi 
+ar<lb ed="#L" break="no" n="118"/>bitrii, indiget homo auxilio divinae gratiae. Sed
+<lb ed="#L" n="119"/>; virtus liberi arbitrii non se extendit ad hunc 
+ef<lb ed="#L" break="no" n="120"/>fectum qui est perseverare finaliter in bono. Quod
+<lb ed="#L" n="121"/>sic patet. Potestas enim liberi arbitrii est respectu
+<pb ed="#L" n="458"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>eorum quae sub electione cadunt. Quod autem
+<lb ed="#L" n="2"/>eligitur, est aliquod particulare operabile. 
+Parti<lb ed="#L" break="no" n="3"/>culare autem operabile est quod est hic et nunc.
+<lb ed="#L" n="4"/>Quod igitur cadit sub potestate liberi arbitrii, est
+<lb ed="#L" n="5"/>aliquid ut nunc operandum. Perseverare autem ;
+<lb ed="#L" n="6"/>non dicit aliquid ut nunc operabile, sed 
+continua<lb ed="#L" break="no" n="7"/>tionem operationis per totum tempus. Iste igitur
+<lb ed="#L" n="8"/>effectus qui est perseverare in bono, est supra
+<lb ed="#L" n="9"/>potestatem liberi arbitrii. Indiget igitur homo ad
+<lb ed="#L" n="10"/>perseverandum in bono auxilio divinae gratiae.
+</p>
+            <p xml:id="v8naTA-d1e2974-d1e186">
+               <lb ed="#L" n="11"/>Amplius. Licet homo per voluntatem et 
+libe<lb ed="#L" break="no" n="12"/>rum arbitrium. sit dominus sui actus, non tamen
+<lb ed="#L" n="13"/>est dominus suarum naturalium potentiarum. Et
+<lb ed="#L" n="14"/>ideo, licet liber sit ad volendum vel ad non 
+vo<lb ed="#L" break="no" n="15"/>lendum aliquid, non tamen volendo facere potest
+<lb ed="#L" n="16"/>quod voluntas in eo quod vult, ad id quod vult
+<lb ed="#L" n="17"/>vel eligit immobiliter se habeat. Hoc autem 
+re<lb ed="#L" break="no" n="18"/>quiritur ad perseverantiam: ut scilicet voluntas
+<lb ed="#L" n="19"/>in bono immobiliter permaneat. Perseverantia
+<lb ed="#L" n="20"/>igitur non est in potestate liberi arbitrii. Oportet
+<lb ed="#L" n="21"/>igitur. adesse homini auxilium divinae gratiae ad
+<lb ed="#L" n="22"/>hoc ut perseveret.
+</p>
+            <p xml:id="v8naTA-d1e2974-d1e215">
+               <lb ed="#L" n="23"/>Praeterea. Si sunt plura agentia successive,
+<lb ed="#L" n="24"/>quorum scilicet unum agat post actionem 
+alte<lb ed="#L" break="no" n="25"/>rius; continuitas actionis istorum non potest 
+cau<lb ed="#L" break="no" n="26"/>sari ex aliquo uno ipsorum, quia nullum eorum
+<lb ed="#L" n="27"/>semper agit; nec ex omnibus, quia non simul
+<lb ed="#L" n="28"/>agunt; unde oportet quod causetur ab aliquo
+<lb ed="#L" n="29"/>superiori quod semper agat: sicut Philosophus
+<lb ed="#L" n="30"/>probat, in VIII PAys., quod continuitas 
+genera<lb ed="#L" break="no" n="31"/>tionis in animalibus causatur ab aliquo superiori
+<lb ed="#L" n="32"/>sempiterno. Ponamus autem aliquem 
+perseveran<lb ed="#L" break="no" n="33"/>tem in bono. In eo igitur sunt multi motus liberi
+<lb ed="#L" n="34"/>arbitrii tendentes in bonum, sibi invicem 
+succe<lb ed="#L" break="no" n="35"/>dentes usque ad finem. Huius igitur 
+continua<lb ed="#L" break="no" n="36"/>tionis boni, quod est perseverantia, non potest esse
+<lb ed="#L" n="37"/>causa aliquis istorum motuum: quia nullus eorum
+<lb ed="#L" n="38"/>semper durat. Nec omnes simul: quia non simul
+<lb ed="#L" n="39"/>sunt, non possunt igitur simul aliquid causare.
+<lb ed="#L" n="40"/>Relinquitur ergo quod ista continuatio causetur 
+<lb ed="#L" n="41"/>ab aliquo superiori. Indiget igitur homo auxilio
+<lb ed="#L" n="42"/>superioris gratiae ad perseverandum in bono.
+</p>
+            <p xml:id="v8naTA-d1e2974-d1e261">
+               <lb ed="#L" n="43"/>Item. Si sint multa ordinata ad unum finem,
+<lb ed="#L" n="44"/>totus ordo eorum quousque pervenerint ad finem,
+<lb ed="#L" n="45"/>est a primo agente dirigente in finem. In eo autem,
+<lb ed="#L" n="46"/>qui perseverat in bono, sunt multi motus et
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="47"/>multae actiones pertingentes ad unum finem.
+<lb ed="#L" n="48"/>Oportet igitur quod totus ordo istorum motuum
+<lb ed="#L" n="49"/>et actionum causetur a primo dirigente in finem.
+<lb ed="#L" n="50"/>Ostensum est autem  quod per auxilium divinae
+<lb ed="#L" n="51"/>gratiae diriguntur in ultimum finem. Igitur per
+<lb ed="#L" n="52"/>auxilium divinae gratiae est totus ordo et 
+con<lb ed="#L" break="no" n="53"/>tinuatio bonorum operum in eo qui perseverat
+<lb ed="#L" n="54"/>in bono. ij |
+</p>
+            <p xml:id="v8naTA-d1e2974-d1e292">
+               <lb ed="#L" n="55"/>Hinc est quod dicitur ad Philipp. 1: Qui coepit
+<lb ed="#L" n="56"/>in vobis opus bonum, perficiel usque in diem Iesu
+<lb ed="#L" n="57"/>Christi; et 1 Petri ult. : Deus omnis gratiae, qui
+<lb ed="#L" n="58"/>vocavit nos in aeternam gloriam suam, modicum
+<lb ed="#L" n="59"/>passos ipse perficiet, confirimabit, solidabitque. —
+</p>
+            <p xml:id="v8naTA-d1e2974-d1e305">
+               <lb ed="#L" n="60"/>Inveniuntur etiam in Sacra Scriptura multae
+<lb ed="#L" n="61"/>orationes quibus a Deo petitur perseverantia :
+<lb ed="#L" n="62"/>sicut in Psalmo , Perfice gressus meos in semitis
+<lb ed="#L" n="63"/>luis, ut non moveantur vestigia mea; et ll ad
+<lb ed="#L" n="64"/>Thess., u'^", Deus, Pater noster, exhortetur corda
+<lb ed="#L" n="65"/>vestra, el confirmel in omni opere et sermone bono.
+<lb ed="#L" n="66"/>Hoc etiam ipsum in Oratione Dominica petitur,
+<lb ed="#L" n="67"/>maxime cum dicitur, Adveniat regnum iuum:
+<lb ed="#L" n="68"/>non enim nobis adveniet regnum Dei nisi in bono
+<lb ed="#L" n="69"/>fuerimus perseverantes. Derisorium autem esset
+<lb ed="#L" n="70"/>aliquid a Deo petere cuius ipse dator non esset.
+<lb ed="#L" n="71"/>Est igitur. perseverantia hominis a Deo. 
+</p>
+            <p xml:id="v8naTA-d1e2974-d1e335">
+               <lb ed="#L" n="72"/>Per hoc autem excluditur error Pelagianorum,
+<lb ed="#L" n="73"/>qui dixerunt quod ad perseverandum in bono
+<lb ed="#L" n="74"/>sufficit homini liberum arbitrium, nec ad hoc
+<lb ed="#L" n="75"/>indiget auxilio, gratiae.
+</p>
+            <p xml:id="v8naTA-d1e2974-d1e346">
+               <lb ed="#L" n="76"/>Sciendum tamen est quod, cum etiam ille qui
+<lb ed="#L" n="77"/>gratiam habet, petat a Deo ut perseveret in bono;
+<lb ed="#L" n="78"/>sicut liberum arbitrium non sufficit ad istum 
+ef<lb ed="#L" break="no" n="79"/>fectum qui est perseverare in bono, sine 
+exte<lb ed="#L" break="no" n="80"/>riori Dei auxilio, ita nec ad hoc sufficit aliquis
+<lb ed="#L" n="81"/>habitus nobis infusus. Habitus enim qui nobis
+<lb ed="#L" n="82"/>infunduntur divinitus, secundum statum 
+prae<lb ed="#L" break="no" n="83"/>sentis vitae, non auferunt a libero arbitrio 
+tota<lb ed="#L" break="no" n="84"/>liter mobilitatem ad malum: licet per eos liberum
+<lb ed="#L" n="85"/>arbitrium aliqualiter stabiliatur in bono. Et ideo,
+<lb ed="#L" n="86"/>cum dicimus hominem indigere ad 
+perseveran<lb ed="#L" break="no" n="87"/>dum finaliter auxilio gratiae, non intelligimus
+<lb ed="#L" n="88"/>quod, super gratiam habitualem prius infusam
+<lb ed="#L" n="89"/>ad bene operandum, alia desuper infundatur ad
+<lb ed="#L" n="90"/>perseverandum: sed intelligimus quod, habitis
+<lb ed="#L" n="91"/>omnibus habitibus gratuitis, adhuc indiget homo
+<lb ed="#L" n="92"/>divinae providentiae auxilio exterius gubernantis.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

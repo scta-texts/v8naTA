@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 152</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 152</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="447"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2949"><!-- v8naTA-l3c152 -->
+            <head xml:id="v8naTA-d1e2949-Hd1e101">Capitulum 152</head>
+            <head xml:id="v8naTA-d1e2949-Hd1e103" type="question-title">Quod divina. gratia causat in nobis fidem.</head>
+            <p xml:id="v8naTA-d1e2949-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="39" type="fixed=446"/>CAPITULUM
+<lb ed="#L" n="40"/>CENTESIMUM QUINQUAGESIMUM SECUNDUM
+<lb ed="#L" n="41"/>QUOD DIVINA. GRATIA CAUSAT IN NOBIS FIDEM.
+</p>
+            <p xml:id="v8naTA-d1e2949-d1e117">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="42"/>Ex hoc autem quod divina. gratia 
+cari<lb ed="#L" break="no" n="43"/>tatem in nobis causat, necessarium est 
+<lb ed="#L" n="44"/>quod etiam in nobis fides per gratiam  
+<lb ed="#L" n="45"/>causetur 
+</p>
+            <p xml:id="v8naTA-d1e2949-d1e130">
+               <lb ed="#L" n="46"/>Motus enim quo per gratiam in.ultimum: fi- s 
+<lb ed="#L" n="47"/>nem dirigimur, est voluntarius, non violentus, ut 
+<lb ed="#L" n="48"/>supra  ostensum est. Voluntarius autem motus in 
+<lb ed="#L" n="49"/>aliquid esse non potest nisi sit cognitum. Oportet 
+<lb ed="#L" n="50"/>igitur quod per gratiam in nobis cognitio ultimi 
+<lb ed="#L" n="51"/>finis praestituatur, ad. hoc quod. voluntarie 
+diri<lb ed="#L" break="no" n="52"/>gamur in ipsum. Haec autem cognitio non potest 
+<lb ed="#L" n="53"/>esse secundum apertam visionem in statu isto, ut  
+<lb ed="#L" n="54"/>supra? probatum est. Oportet igitur quod sit 
+co<lb ed="#L" break="no" n="55"/>gnitio per fidem. 
+</p>
+            <p xml:id="v8naTA-d1e2949-d1e155">
+               <lb ed="#L" n="56"/>Amplius. In quolibet cognoscente modus 
+co<lb ed="#L" break="no" n="57"/>gnitionis consequitur modum propriae naturae: 
+<lb ed="#L" n="58"/>unde alius modus cognitionis est angeli, hominis, 
+<lb ed="#L" n="59"/>et bruti animaalis, secundum quod eorum naturae 
+<lb ed="#L" n="60"/>diversae sunt, ut ex praemissis  patet, Sed 
+ho<lb ed="#L" break="no" n="61"/>mini, ad consequendum ultimum finem, additur 
+<lb ed="#L" n="62"/>aliqua perfectio super propriam naturam, scilicet  
+<lb ed="#L" n="63"/>gratia, ut ostensum est. Oportet igitur quod etiam — 
+<lb ed="#L" n="64"/>super cognitionem naturalem hominis, addatur 
+<lb ed="#L" n="65"/>in eo aliqua cognitio quae rationem naturalem 
+<lb ed="#L" n="66"/>excedat. Et haec est cognitio fidei, quae est de 
+<lb ed="#L" n="67"/>his quae non videntur per rationem naturalem. — 
+</p>
+            <p xml:id="v8naTA-d1e2949-d1e184">
+               <lb ed="#L" n="68"/>Item. Quandocumque ab. aliquo. agente 
+mo<lb ed="#L" break="no" n="69"/>vetur aliquid ad id quod est proprium illi agenti, 
+<lb ed="#L" n="70"/>oportet quod a principio ipsum mobile subdatur 
+<lb ed="#L" n="71"/>impressionibus agentis imperfecte, quasi alienis  
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="72"/>et non propriis sibi, quousque fiant ei propriae
+<lb ed="#L" n="73"/>in termino motus: sicut lignum ab igne primo
+<lb ed="#L" n="74"/>calefit, et ille calor non est proprius ligno, se
+<lb ed="#L" n="75"/>praeter naturam ipsius ; in fine autem, quando |
+<lb ed="#L" n="76"/>iam lignum ignitum est, fit ei calor proprius et
+<lb ed="#L" n="77"/>connaturalis. Et similiter, cum. aliquis a magistro
+<lb ed="#L" n="78"/>docetur, oportet quod a principio conceptiones
+<lb ed="#L" n="79"/>magistri recipiat non quasi eas per se intelligens,
+<lb ed="#L" n="80"/>sed per modum credulitatis, quasi supra suam ^.
+<lb ed="#L" n="81"/>capacitatem. existentes; in fine autem, quando
+<lb ed="#L" n="82"/>iam edoctus fuerit, eas poterit intelligere. Sicut
+<lb ed="#L" n="83"/>autem ex dictis  patet, auxilio divinae gratiae
+<lb ed="#L" n="84"/>dirigimur in ultimum finem. Ultimus autem finis
+<lb ed="#L" n="85"/>est manifesta visio Primae Veritatis in seipsa: ut
+<lb ed="#L" n="86"/>supra ostensum est. Oportet igitur quod, 
+ante<lb ed="#L" break="no" n="87"/>quam ad istum finem veniatur, intellectus hominis
+<lb ed="#L" n="88"/>Deo subdatur per modum credulitatis, divina 
+gra<lb ed="#L" break="no" n="89"/>tia hoc faciente.
+</p>
+            <p xml:id="v8naTA-d1e2949-d1e236">
+               <lb ed="#L" n="90"/>Praeterea. In principio huius Operis positae dix
+<lb ed="#L" n="91"/>sunt utilitates propter quas necessarium fuit. 
+di<lb ed="#L" break="no" n="92"/>vinam veritatem hominibus per modum 
+credu<lb ed="#L" break="no" n="93"/>litatis proponi . Ex quibus etiam concludi potest
+<lb ed="#L" n="94"/>quod necessarium fuit fidem esse divinae gratiae
+<lb ed="#L" n="95"/>effectum in nobis.
+</p>
+            <p xml:id="v8naTA-d1e2949-d1e252">
+               <lb ed="#L" n="96"/>Hinc est quod Apostolus dicit, ad Ephes. m
+<lb ed="#L" n="97"/>Gratia salvati estis per fidem. Et hoc non ex vobis:
+<lb ed="#L" n="98"/>Dei enim donum est.
+</p>
+            <p xml:id="v8naTA-d1e2949-d1e261">
+               <lb ed="#L" n="99"/>Per hoc autem excluditur error Pelagiariorum, :
+<lb ed="#L" n="100"/>qui dicebant quod initium fidei in nobis non
+<lb ed="#L" n="101"/>erat a Deo Sed a nobis.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 110</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 110</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="349"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2606"><!-- v8naTA-l3c110 -->
+            <head xml:id="v8naTA-d1e2606-Hd1e101">Capitulum 110</head>
+            <head xml:id="v8naTA-d1e2606-Hd1e103" type="question-title">Solutio praemissarum rationum.</head>
+            <p xml:id="v8naTA-d1e2606-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="109" type="fixed=349"/>CAPITULUM CENTESIMUM DECIMUM
+<lb ed="#L" n="110"/>SOLUTIO PRAEMISSARUM RATIONUM.
+</p>
+            <p xml:id="v8naTA-d1e2606-d1e115">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="111"/>HIC ergo quae obiecta sunt, non difficile 
+<lb ed="#L" n="112"/>est solvere. 
+</p>
+            <p xml:id="v8naTA-d1e2606-d1e124">
+               <lb ed="#L" n="113"/>Non enim cogimur dicere quod error 
+<lb ed="#L" n="114"/>fuerit in intellectu substantiae separatae 
+<lb ed="#L" n="115"/>iudicando bonum quod bonum non sit: sed non ; 
+</p>
+            <p xml:id="v8naTA-d1e2606-d1e134">
+               <cb ed="#L" n="e"/>
+               <lb ed="#L" n="116"/>considerando bonum superius, ad quod proprium
+<lb ed="#L" n="117"/>bonum referendum erat. Cuius quidem 
+inconsi<lb ed="#L" break="no" n="118"/>derationis ratio esse potuit voluntas in proprium
+<lb ed="#L" n="119"/>luntati in hoc vel illud converti.
+</p>
+            <p xml:id="v8naTA-d1e2606-d1e147">
+               <pb ed="#L" n="350"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>Patet etiam quod non appetiit aliquod bonum
+<lb ed="#L" n="2"/>nisi unum, quod est sibi proprium: sed in hoc
+<lb ed="#L" n="3"/>fuit peccatum, quod praetermisit superius bonum,
+<lb ed="#L" n="4"/>in quod debuit ordinari. Sicut enim in nobis 
+pec<lb ed="#L" break="no" n="5"/>catum est ex. hoc quod bona inferiora, scilicet
+<lb ed="#L" n="6"/>corporis, appetimus absque ordine rationis, ita in
+<lb ed="#L" n="7"/>diabolo peccatum fuit ex hoc quod proprium
+<lb ed="#L" n="8"/>bonum non retulit ad divinum bonum.
+</p>
+            <p xml:id="v8naTA-d1e2606-d1e171">
+               <lb ed="#L" n="9"/>Patet etiam quod medium virtutis praetermisit,
+<lb ed="#L" n="10"/>inquantum se superioris ordini non subdidit, et
+<lb ed="#L" n="11"/>sic sibi plus dedit quam debuit, Deo autem minus
+<lb ed="#L" n="12"/>quam ei deberetur, cui omnia debent esse subiecta
+<lb ed="#L" n="13"/>ut primae regulae ordinanti. Manifestum igitur
+<lb ed="#L" n="14"/>est quod. in peccato illo non. est praetermissum
+<lb ed="#L" n="15"/>medium per superabundantiam passionis, sed
+<lb ed="#L" n="16"/>solum per inaequalitatem iustitiae, quae est circa
+<lb ed="#L" n="17"/>operationes. In substantiis enim separatis 
+opera<lb ed="#L" break="no" n="18"/>tiones esse possunt, passiones vero nequaquam.
+</p>
+            <p xml:id="v8naTA-d1e2606-d1e195">
+               <lb ed="#L" n="19"/>Non etiam oportet, si in superioribus 
+corpo<lb ed="#L" break="no" n="20"/>ribus nullus potest esse defectus, quod propter 
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="21"/>hoc in substantiis separatis peccatum esse non
+<lb ed="#L" n="22"/>possit. Corpora enim, et omnia quae. ratione
+<lb ed="#L" n="23"/>carent, aguntur tantum, non autem agunt seipsa:
+<lb ed="#L" n="24"/>non enim sui actus dominium habent. Unde non
+<lb ed="#L" n="25"/>; possunt exire a regula prima ipsa agentis et 
+mo<lb ed="#L" break="no" n="26"/>ventis, nisi per hoc quod rectitudinem primae
+<lb ed="#L" n="27"/>regulae sufficienter suscipere non possunt. Quod
+<lb ed="#L" n="28"/>quidem contingit ex indispositione materiae. Et
+<lb ed="#L" n="29"/>propter hoc superiora. corpora, in quibus 
+indis<lb ed="#L" break="no" n="30"/>positio materiae locum non habet, nunquam a
+<lb ed="#L" n="31"/>rectitudine primae regulae deficere possunt. 
+Sub<lb ed="#L" break="no" n="32"/>stantiae vero rationales, sive intellectuales, non
+<lb ed="#L" n="33"/>tantum aguntur, sed etiam agunt se ad proprios
+<lb ed="#L" n="34"/>actus. Quod quidem tanto magis invenitur in eis
+<lb ed="#L" n="35"/>quanto perfectior est ipsarum natura: quorum
+<lb ed="#L" n="36"/>enim natura perfectior est, est et perfectior virtus
+<lb ed="#L" n="37"/>in agendo. Unde naturae perfectio non impedit
+<lb ed="#L" n="38"/>quin peccatum in eis accidere possit modo 
+prae<lb ed="#L" break="no" n="39"/>dicto: ex hoc scilicet quod seipsis inhaerent, 
+or<lb ed="#L" break="no" n="40"/>dinem superioris agentis non. attendentes.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

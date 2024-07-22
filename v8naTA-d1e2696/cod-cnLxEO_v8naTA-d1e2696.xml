@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 121</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 121</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="377"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2696"><!-- v8naTA-l3c121 -->
+            <head xml:id="v8naTA-d1e2696-Hd1e101">Capitulum 121</head>
+            <head xml:id="v8naTA-d1e2696-Hd1e103" type="question-title">Quod divina lex ordinat hominem secundum rationem
+circa corporalia et sensibilia.</head>
+            <p xml:id="v8naTA-d1e2696-d1e106">
+               <pb ed="#L" n="377"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=377"/>CAPITULUM CENTESIMUM VIGESIMUM PRIMUM
+<lb ed="#L" n="2"/>QUOD DIVINA LEX ORDINAT HOMINEM SECUNDUM RATIONEM
+<lb ed="#L" n="3"/>CIRCA CORPORALIA ET SENSIBILIA.
+</p>
+            <p xml:id="v8naTA-d1e2696-d1e119">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="4"/>SICUT autem per corporalia et sensibilia
+<lb ed="#L" n="5"/>mens hominis elevari potest in Deum,
+<lb ed="#L" n="6"/>si quis eis in reverentiam Dei debito
+<lb ed="#L" n="7"/>modo utatur, ita etiam eorum 
+inde<lb ed="#L" break="no" n="8"/>bitus usus mentem a Deo vel totaliter abstrahit,
+<lb ed="#L" n="9"/>dum in inferioribus rebus constituitur 
+volun<lb ed="#L" break="no" n="10"/>tatis finis; vel mentis intentionem a Deo 
+re<lb ed="#L" break="no" n="11"/>tardat, dum ultra quam necesse sit, ad 
+huius<lb ed="#L" break="no" n="12"/>modi res afficimur. Est autem divina lex ad hoc
+<lb ed="#L" n="13"/>principaliter data ut homo adhaereat Deo . 
+Per<lb ed="#L" break="no" n="14"/>tinet igitur ad legem divinam ordinare hominem
+<lb ed="#L" n="15"/>circa corporalium et sensibilium affectionem et
+<lb ed="#L" n="16"/>usum.
+</p>
+            <p xml:id="v8naTA-d1e2696-d1e152">
+               <lb ed="#L" n="17"/>Adhuc. Sicut mens hominis ordinatur sub Deo,
+<lb ed="#L" n="18"/>ita corpus sub anima ordinatur, et inferiores vires
+<lb ed="#L" n="19"/>sub ratione. Pertinet autem ad divinam 
+provi<lb ed="#L" break="no" n="20"/>dentiam, cuius quaedam ratio homini a Deo 
+pro<lb ed="#L" break="no" n="21"/>posita divina lex est , ut singula suum ordinem
+<lb ed="#L" n="22"/>teneant. Est igitur sic homo ordinandus lege divina
+<lb ed="#L" n="23"/>ut inferiores vires rationi subdantur; et corpus
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="24"/>animae; et exteriores res ad necessitatem homini
+<lb ed="#L" n="25"/>deserviant.
+</p>
+            <p xml:id="v8naTA-d1e2696-d1e177">
+               <lb ed="#L" n="26"/>Amplius. Quaelibet lex recte proposita inducit
+<lb ed="#L" n="27"/>ad virtutem . Virtus autem in hoc consistit, quod
+<lb ed="#L" n="28"/>tam interiores affectiones, quam corporalium 
+re<lb ed="#L" break="no" n="29"/>rum usus, ratione regulentur. Est igitur hoc lege
+<lb ed="#L" n="30"/>divina statuendum.
+</p>
+            <p xml:id="v8naTA-d1e2696-d1e190">
+               <lb ed="#L" n="31"/>Praeterea. Ad unumquemque legislatorem 
+per<lb ed="#L" break="no" n="32"/>tinet ea lege statuere sine quibus lex observari
+<lb ed="#L" n="33"/>» non potest. Cum autem lex rationi proponatur,
+<lb ed="#L" n="34"/>homo legem non sequeretur nisi alia omnia quae
+<lb ed="#L" n="35"/>pertinent ad hominem, rationi subderentur. 
+Per<lb ed="#L" break="no" n="36"/>tinet igitur ad legem divinam praecipere ut omnia
+<lb ed="#L" n="37"/>quae sunt hominis, rationi subdantur.
+</p>
+            <p xml:id="v8naTA-d1e2696-d1e208">
+               <lb ed="#L" n="38"/>Hinc est quod dicitur Rom. xm': Rationabile
+<lb ed="#L" n="39"/>obsequium vestrum; et 1 Thess. 1v?: Haec est 
+vo<lb ed="#L" break="no" n="40"/>luntas Dei, sanctificatio vestra.
+</p>
+            <p xml:id="v8naTA-d1e2696-d1e217">
+               <lb ed="#L" n="41"/>Per haec autem excluditur quorundam error
+<lb ed="#L" n="42"/>dicentium illa solum esse peccata, quibus 
+proxi<lb ed="#L" break="no" n="43"/>mus aut offenditur aut scandalizatur.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

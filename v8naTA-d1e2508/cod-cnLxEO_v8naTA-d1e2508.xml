@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 98</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 98</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="304"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2508"><!-- v8naTA-l3c98 -->
+            <head xml:id="v8naTA-d1e2508-Hd1e101">Capitulum 98</head>
+            <head xml:id="v8naTA-d1e2508-Hd1e103" type="question-title">Quomodo deus possit facere
+praeter ordinem suae providentiae, et quomodo non.</head>
+            <p xml:id="v8naTA-d1e2508-d1e106">
+               <pb ed="#L" n="304"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=304"/>CAPITULUM NONAGESIMUM OCTAVUM
+<lb ed="#L" n="2"/>QUOMODO DEUS POSSIT FACERE
+<lb ed="#L" n="3"/>PRAETER ORDINEM SUAE PROVIDENTIAE, ET QUOMODO NON.
+</p>
+            <p xml:id="v8naTA-d1e2508-d1e119">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="4"/>Ex praemissis autem accipi potest 
+dupli<lb ed="#L" break="no" n="5"/>cis ordinis consideratio: quorum unus
+<lb ed="#L" n="6"/>quidem dependet ex prima omnium
+<lb ed="#L" n="7"/>causa, unde et omnia complectitur ;
+<lb ed="#L" n="8"/>alius autem particularis, qui ex aliqua causa creata
+<lb ed="#L" n="9"/>dependet, et continet illa quae causae illi 
+sub<lb ed="#L" break="no" n="10"/>duntur. Et hic quidem multiplex est, secundum
+<lb ed="#L" n="11"/>diversitatem causarum quae inter creaturas 
+in<lb ed="#L" break="no" n="12"/>veniuntur. Unus tamen eorum sub altero 
+con<lb ed="#L" break="no" n="13"/>tinetur: sicut et causarum una sub altera existit.
+<lb ed="#L" n="14"/>Unde oportet quod omnes particulares ordines
+<lb ed="#L" n="15"/>sub illo universali ordine contineantur, et ab illo
+<lb ed="#L" n="16"/>descendant qui invenitur in rebus secundum
+<lb ed="#L" n="17"/>quod a prima causa dependent. Huius exemplum
+<lb ed="#L" n="18"/>in politicis considerari potest. Nam omnes 
+do<lb ed="#L" break="no" n="19"/>mestici unius patrisfamilias ordinem quendam
+<lb ed="#L" n="20"/>ad invicem habent secundum quod ei 
+subdun<lb ed="#L" break="no" n="21"/>tur; rursus, tam ipse paterfamilias, quam omnes
+<lb ed="#L" n="22"/>alii qui sunt suae civitatis, ordinem quendam ad
+<lb ed="#L" n="23"/>invicem habent, et ad principem civitatis; qui
+<lb ed="#L" n="24"/>iterum, cum omnibus qui sunt in regno aliquo,
+<lb ed="#L" n="25"/>ordinem habent ad regem.
+</p>
+            <p xml:id="v8naTA-d1e2508-d1e171">
+               <lb ed="#L" n="26"/>Ordinem autem universalem, secundum quem
+<lb ed="#L" n="27"/>omnia ex divina providentia ordinantur, 
+possu<lb ed="#L" break="no" n="28"/>mus considerare. dupliciter: scilicet quantum ad
+<lb ed="#L" n="29"/>res quae subduntur ordini; et quantum ad 
+or<lb ed="#L" break="no" n="30"/>dinis rationem, quae ex principio ordinis 
+de<lb ed="#L" break="no" n="31"/>pendet. Ostensum est autem in Secundo  quod
+<lb ed="#L" n="32"/>res ipsae quae a Deo sub ordine ponuntur, 
+pro<lb ed="#L" break="no" n="33"/>veniunt ab ipso non sicut ab agente per 
+neces<lb ed="#L" break="no" n="34"/>sitatem naturae, vel cuiuscunque alterius, sed ex
+<lb ed="#L" n="35"/>simplici voluntate, maxime quantum ad primam
+<lb ed="#L" n="36"/>rerum institutionem. Relinquitur ergo quod praeter
+<lb ed="#L" n="37"/>ea quae sub ordine divinae providentiae cadunt,
+<lb ed="#L" n="38"/>Deus aliqua facere potest: non enim est eius
+<lb ed="#L" n="39"/>virtus ad has res obligata.
+</p>
+            <p xml:id="v8naTA-d1e2508-d1e205">
+               <lb ed="#L" n="40"/>Si autem consideremus praedictum ordinem
+<lb ed="#L" n="41"/>quantum ad rationem a principio dependentem,
+<lb ed="#L" n="42"/>sic praeter ordinem illum Deus facere non 
+po<lb ed="#L" break="no" n="43"/>test. Ordo enim ille procedit, ut ostensum est ,
+<lb ed="#L" n="44"/>ex scientia et voluntate Dei omnia ordinante in
+<lb ed="#L" n="45"/>suam bonitatem sicut in finem. Non est autem
+<lb ed="#L" n="46"/>possibile quod Deus aliquid faciat quod non sit
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="47"/>ab eo volitum: cum creaturae ab ipso non 
+pro<lb ed="#L" break="no" n="48"/>deant naturaliter, sed per voluntatem, ut 
+osten<lb ed="#L" break="no" n="49"/>sum est. Neque etiam est possibile ab eo aliquid
+<lb ed="#L" n="50"/>fieri quod eius scientia non comprehendatur:
+<lb ed="#L" n="51"/>cum voluntas esse non possit nisi de aliquo noto.
+<lb ed="#L" n="52"/>Neque iterum est possibile quod in creaturis 
+ali<lb ed="#L" break="no" n="53"/>quid faciat quod in suam bonitatem non sit 
+or<lb ed="#L" break="no" n="54"/>dinatum sicut in finem: cum sua bonitas sit
+<lb ed="#L" n="55"/>proprium obiectum voluntatis ipsius . Similiter
+<lb ed="#L" n="56"/>autem, cum Deus sit omnino immutabilis, 
+im<lb ed="#L" break="no" n="57"/>possibile est quod aliquid velit cum prius 
+no<lb ed="#L" break="no" n="58"/>luerit; aut aliquid de novo incipiat scire, vel in
+<lb ed="#L" n="59"/>suam ordinet bonitatem. Nihil igitur Deus facere
+<lb ed="#L" n="60"/>potest quin sub ordine suae providentiae cadat:
+<lb ed="#L" n="61"/>sicut non potest aliquid facere quod eius 
+ope<lb ed="#L" break="no" n="62"/>rationi non subdatur. Potest tamen alia facere
+<lb ed="#L" n="63"/>quam ea quae subduntur eius providentiae vel
+<lb ed="#L" n="64"/>operationi, si absolute consideretur eius potestas:
+<lb ed="#L" n="65"/>sed nec potest facere aliqua quae sub ordine 
+pro<lb ed="#L" break="no" n="66"/>videntiae ipsius ab aeterno non fuerint, eo quod
+<lb ed="#L" n="67"/>mutabilis esse non potest.
+</p>
+            <p xml:id="v8naTA-d1e2508-d1e270">
+               <lb ed="#L" n="68"/>Hanc autem distinctionem quidam non 
+con<lb ed="#L" break="no" n="69"/>siderantes, in diversos errores inciderunt. 
+Qui<lb ed="#L" break="no" n="70"/>dam enim immobilitatem divini ordinis ad res
+<lb ed="#L" n="71"/>ipsas quae ordini subduntur, extendere conati
+<lb ed="#L" n="72"/>sunt, dicentes quod omnia necesse est esse sicut
+<lb ed="#L" n="73"/>sunt: in tantum quod quidam. dixerunt quod
+<lb ed="#L" n="74"/>Deus non potest alia facere quam quae facit .
+<lb ed="#L" n="75"/>Contra quod est quod habetur Matth. xxvi: An
+<lb ed="#L" n="76"/>non possum rogare Patrem meum, el exhibebit
+<lb ed="#L" n="77"/>mihi plus quam duodecim legiones angelorum?
+</p>
+            <p xml:id="v8naTA-d1e2508-d1e294">
+               <lb ed="#L" n="78"/>Quidam autem, e converso, mutabilitatem 
+re<lb ed="#L" break="no" n="79"/>rum quae divinae providentiae subiiciuntur, in
+<lb ed="#L" n="80"/>mutabilitatem divinae providentiae transtulerunt,
+<lb ed="#L" n="81"/>de eo carnaliter sapientes quod Deus, ad modum
+<lb ed="#L" n="82"/>carnalis hominis, sit in sua voluntate mutabilis.
+<lb ed="#L" n="83"/>Contra quod dicitur Num. xxui'?: (Non est. Deus
+<lb ed="#L" n="84"/>ut homo, ut mentiatur: nec quasi filius hominis,
+<lb ed="#L" n="85"/>ut mutetur.
+</p>
+            <p xml:id="v8naTA-d1e2508-d1e314">
+               <lb ed="#L" n="86"/>Alii vero contingentia divinae providentiae 
+sub<lb ed="#L" break="no" n="87"/>traxerunt . Contra quos dicitur Z/ren. u: Quis
+<lb ed="#L" n="88"/>esl iste qui dixit ut. fieret aliquid, Domino non 
+iu<lb ed="#L" break="no" n="89"/>bente?
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

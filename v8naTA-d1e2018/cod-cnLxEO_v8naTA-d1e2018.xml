@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 38</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 38</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="95"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2018"><!-- v8naTA-l3c38 -->
+            <head xml:id="v8naTA-d1e2018-Hd1e101">Capitulum 38</head>
+            <head xml:id="v8naTA-d1e2018-Hd1e103" type="question-title">Quod felicitas humana non
+consistit in cognitione dei
+quae communiter habetur a pluribus.</head>
+            <p xml:id="v8naTA-d1e2018-d1e106">
+               <cb ed="#L" n="c"/>
+               <lb ed="#L" n="23" type="fixed=94"/>CAPITULUM TRIGESIMUM OCTAVUM
+<lb ed="#L" n="24"/>QUOD FELICITAS HUMANA NON
+<lb ed="#L" n="25"/>CONSISTIT IN COGNITIONE DEI
+<lb ed="#L" n="26"/>QUAE COMMUNITER HABETUR A PLURIBUS.
+</p>
+            <p xml:id="v8naTA-d1e2018-d1e119">
+               <cb ed="#L" n="d"/>
+               <lb ed="#L" n="27"/>INQUIRENDUM autem relinquitur in quali
+<lb ed="#L" n="28"/>Dei cognitione ultima felicitas 
+substan<lb ed="#L" break="no" n="29"/>tiae intellectualis consistit. Est enim
+<lb ed="#L" n="30"/>E quaedam communis et confusa Dei 
+co<lb ed="#L" break="no" n="31"/>gnitio, quae quasi omnibus hominibus adest: sive ;
+<lb ed="#L" n="32"/>hoc sit per hoc quod Deum esse sit per se notum,
+<lb ed="#L" n="33"/>sicut alia demonstrationis principia, sicut qui-:
+<lb ed="#L" n="34"/>busdam videtur, ut in primo libro  dictum est;
+<lb ed="#L" n="35"/>sive, quod magis verum videtur, quia naturali
+<lb ed="#L" n="36"/>ratione statim homo in aliqualem Dei cognitionem
+<lb ed="#L" n="37"/>pervenire potest. Videntes enim homines res 
+na<lb ed="#L" break="no" n="38"/>turales secundum ordinem certum currere; cum
+<lb ed="#L" n="39"/>ordinatio absque ordinatore non sit, percipiunt, .
+<lb ed="#L" n="40"/>ut in pluribus, aliquem esse ordinatorem rerum
+<lb ed="#L" n="41"/>quas videmus. Quis autern, vel qualis, vel si unus
+<lb ed="#L" n="42"/>tantum est ordinator naturae, nondum statim ex
+<lb ed="#L" n="43"/>hac communi consideratione habetur : sicut, cum
+<lb ed="#L" n="44"/>videmus hominem moveri et alia opera agere,
+<lb ed="#L" n="45"/>percipimus ei inesse quandam causam harum
+<lb ed="#L" n="46"/>operationum quae aliis rebus non inest, et hanc
+<lb ed="#L" n="47"/>causam animam nominamus; nondum tamen
+<lb ed="#L" n="48"/>scientes quid sit anima, si est corpus, vel qualiter
+<lb ed="#L" n="49"/>operationes praedictas efficiat.
+</p>
+            <p xml:id="v8naTA-d1e2018-d1e174">
+               <lb ed="#L" n="50"/>Non est autem possibile hanc cognitionem Dei
+<lb ed="#L" n="51"/>ad felicitatem sufficere. 
+</p>
+            <p xml:id="v8naTA-d1e2018-d1e182">
+               <lb ed="#L" n="52"/>Felicis enim operationem oportet esse absque
+<lb ed="#L" n="53"/>defectu. Haec autem cognitio est multorum 
+er<lb ed="#L" break="no" n="54"/>rorum admixtionem suscipiens. Quidam enim
+<lb ed="#L" n="55"/>rerum mundanarum non alium ordinatorem esse
+<lb ed="#L" n="56"/>crediderunt quam corpora caelestia: unde cor- ;
+<lb ed="#L" n="57"/>pora caelestia deos esse dixerunt. - Quidam
+<lb ed="#L" n="58"/>vero ulterius ipsa elementa et quae ex eis 
+ge<lb ed="#L" break="no" n="59"/>nerantur: quasi aestimantes motus et operationes
+<lb ed="#L" n="60"/>naturales quas habent, non ab alio ordinatore
+<cb ed="#L" n="e"/>
+               <lb ed="#L" n="61"/>eis inesse, sed ab eis alia ordinari. - Quidam
+<lb ed="#L" n="62"/>vero, humanos actus non alicuius ordinationi
+<lb ed="#L" n="63"/>subesse credentes nisi humanae, homines qui
+<lb ed="#L" n="64"/>alios ordinant, deos esse dixerunt. — Ista igitur Dei
+<lb ed="#L" n="65"/>cognitio non sufficit ad felicitatem.
+</p>
+            <p xml:id="v8naTA-d1e2018-d1e217">
+               <lb ed="#L" n="66"/>Amplius. Felicitas est finis humanorum actuum.
+<lb ed="#L" n="67"/>Ad praedictam autem cognitionem non 
+ordinan<lb ed="#L" break="no" n="68"/>tur humani actus sicut ad finem: immo quasi
+<lb ed="#L" n="69"/>statim a principio omnibus adest. Non igitur in
+<lb ed="#L" n="70"/>hac Dei cognitione felicitas consistit.
+</p>
+            <p xml:id="v8naTA-d1e2018-d1e230">
+               <lb ed="#L" n="71"/>Item. Nullus propter hoc vituperabilis apparet
+<lb ed="#L" n="72"/>quia felicitate careat: quinimmo carentes ea et
+<lb ed="#L" n="73"/>in ipsam tendentes laudantur. Ex hoc autem quod
+<lb ed="#L" n="74"/>praedicta Dei cognitione aliquis caret, maxime
+<lb ed="#L" n="75"/>vituperabilis apparet: designatur enim per hoc
+<lb ed="#L" n="76"/>maxime hominis stoliditas, quod tam manifesta
+<lb ed="#L" n="77"/>Dei signa non percipit; sicut stolidus reputaretur
+<lb ed="#L" n="78"/>qui, hominem videns, eum habere animam non
+<lb ed="#L" n="79"/>comprehenderet. Unde et in Psalmo dicitur: Dixit
+<lb ed="#L" n="80"/>insipiens in corde suo, Non est Deus. Non est igitur
+<lb ed="#L" n="81"/>haec Dei cognitio quae ad felicitatem sufficiat.
+</p>
+            <p xml:id="v8naTA-d1e2018-d1e256">
+               <lb ed="#L" n="82"/>Amplius. Cognitio quae habetur de re tantum
+<lb ed="#L" n="83"/>in communi, non secundum aliquid sibi 
+pro<lb ed="#L" break="no" n="84"/>prium, est imperfectissima, sicut cognitio quae
+<lb ed="#L" n="85"/>haberetur de homine ex hoc quod movetur: est
+<lb ed="#L" n="86"/>enim huiusmodi cognitio per quam res 
+cogno<lb ed="#L" break="no" n="87"/>scitur in potentia tantum; propria enim in 
+com<lb ed="#L" break="no" n="88"/>munibus potentia continentur. Felicitas autem
+<lb ed="#L" n="89"/>est operatio perfecta: et summum hominis bonum
+<lb ed="#L" n="90"/>oportet esse secundum id quod est actu, et non
+<lb ed="#L" n="91"/>secundum quod est potentia tantum; nam 
+po<lb ed="#L" break="no" n="92"/>tentia per actum perfecta habet boni rationem.
+<lb ed="#L" n="93"/>Non est igitur praemissa Dei cognitio ad 
+felici<lb ed="#L" break="no" n="94"/>tatem nostram sufficiens.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

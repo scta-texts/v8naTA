@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 72</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 72</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="214"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2296"><!-- v8naTA-l3c72 -->
+            <head xml:id="v8naTA-d1e2296-Hd1e101">Capitulum 72</head>
+            <head xml:id="v8naTA-d1e2296-Hd1e103" type="question-title">Quod divina providentia non excludit
+contingentiam a rebus.</head>
+            <p xml:id="v8naTA-d1e2296-d1e106">
+               <pb ed="#L" n="214"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=214"/>CAPITULUM SEPTUAGESIMUM SECUNDUM
+<lb ed="#L" n="2"/>QUOD DIVINA PROVIDENTIA NON EXCLUDIT
+<lb ed="#L" n="3"/>CONTINGENTIAM A REBUS.
+</p>
+            <p xml:id="v8naTA-d1e2296-d1e119">
+               <lb ed="#L" n="4"/>SICUT autem. divina providentia non 
+ex<lb ed="#L" break="no" n="5"/>cludit universaliter malum a rebus, ita
+<lb ed="#L" n="6"/>necessitatem rebus imponit.
+</p>
+            <p xml:id="v8naTA-d1e2296-d1e128">
+               <lb ed="#L" n="7"/>Iam enim ostensum est  quod operatio 
+provi<lb ed="#L" break="no" n="8"/>dentiae qua Deus operatur in rebus, non excludit
+<lb ed="#L" n="9"/>causas secundas, sed per eas impletur, inquantum
+<lb ed="#L" n="10"/>agunt virtute Dei. Ex causis autem proximis
+<lb ed="#L" n="11"/>aliqui effectus dicuntur necessarii vel 
+contingen<lb ed="#L" break="no" n="12"/>tes, non autem ex causis remotis: nam 
+fructifi<lb ed="#L" break="no" n="13"/>catio plantae est effectus contingens propter 
+cau<lb ed="#L" break="no" n="14"/>sam proximam, quae est vis germinativa, quae
+<lb ed="#L" n="15"/>potest impediri et deficere; quamvis causa 
+re<lb ed="#L" break="no" n="16"/>mota, scilicet sol, sit causa ex necessitate agens.
+<lb ed="#L" n="17"/>Cum igitur inter causas proximas multae sint
+<lb ed="#L" n="18"/>quae deficere possunt, non omnes effectus qui
+<lb ed="#L" n="19"/>providentiae subduntur, erunt necessarii, sed 
+plu<lb ed="#L" break="no" n="20"/>rimi sunt contingentes.
+</p>
+            <p xml:id="v8naTA-d1e2296-d1e162">
+               <lb ed="#L" n="21"/>Adhuc. Ad divinam providentiam pertinet ut
+<lb ed="#L" n="22"/>gradus entium qui possibiles sunt, adimpleantur,
+<lb ed="#L" n="23"/>ut ex supra dictis  patet. Ens autem dividitur
+<lb ed="#L" n="24"/>per contingens et necessarium: et est per se 
+di<lb ed="#L" break="no" n="25"/>visio entis. Si igitur divina providentia excluderet
+<lb ed="#L" n="26"/>omnem contingentiam, non omnes gradus entium
+<lb ed="#L" n="27"/>conservarentur. J
+</p>
+            <p xml:id="v8naTA-d1e2296-d1e180">
+               <lb ed="#L" n="28"/>Amplius. Quanto aliqua sunt propinquiora Deo,
+<lb ed="#L" n="29"/>tanto magis de similitudine ipsius participant: et
+<lb ed="#L" n="30"/>quanto magis distant, tanto magis a similitudine
+<lb ed="#L" n="31"/>ipsius deficiunt. Illa autem quae sunt Deo 
+pro<lb ed="#L" break="no" n="32"/>pinquissima, sunt omnino immobilia: scilicet 
+sub<lb ed="#L" break="no" n="33"/>stantiae separatae, quae maxime ad Dei 
+simili<lb ed="#L" break="no" n="34"/>tudinem accedunt, qui est omnino immobilis.
+<lb ed="#L" n="35"/>Quae autem sunt his proxima, et moventur 
+im<lb ed="#L" break="no" n="36"/>mediate ab his quae semper eodem modo se
+<lb ed="#L" n="37"/>habent, quandam immobilitatis speciem retinent,
+<lb ed="#L" n="38"/>in hoc quod semper eodem modo moventur,
+<lb ed="#L" n="39"/>sicut corpora caelestia. Consequitur ergo quod
+<lb ed="#L" n="40"/>ea quae consequuntur ad ista, et ab eis sunt mota,
+<lb ed="#L" n="41"/>longius ab immobilitate Dei distant, ut scilicet
+<lb ed="#L" n="42"/>non semper eodem modo moveantur. Et in hoc 
+<lb ed="#L" n="43"/>ordinis pulcritudo apparet. Omne autem neces-
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="44"/>sarium, inquantum huiusmodi, semper eodem
+<lb ed="#L" n="45"/>modo se habet. Repugnaret igitur divinae 
+provi<lb ed="#L" break="no" n="46"/>dentiae, ad quam pertinet ordinem in rebus 
+sta<lb ed="#L" break="no" n="47"/>tuere et conservare, si omnia ex necessitate 
+eve<lb ed="#L" break="no" n="48"/>nirent.
+</p>
+            <p xml:id="v8naTA-d1e2296-d1e230">
+               <lb ed="#L" n="49"/>Praeterea. Quod necessarium est esse, semper
+<lb ed="#L" n="50"/>est. Nullum autem corruptibile semper est. Si
+<lb ed="#L" n="51"/>igitur divina providentia hoc requirit quod omnia
+<lb ed="#L" n="52"/>sint necessaria, sequitur quod nihil sit in rebus
+<lb ed="#L" n="53"/>corruptibile: et per consequens nec generabile.
+<lb ed="#L" n="54"/>Subtraheretur ergo a rebus tota pars 
+generabi<lb ed="#L" break="no" n="55"/>lium et corruptibilium. Quod perfectioni derogat
+<lb ed="#L" n="56"/>universi.
+</p>
+            <p xml:id="v8naTA-d1e2296-d1e250">
+               <lb ed="#L" n="57"/>Adhuc. In omni motu est quaedam generatio et
+<lb ed="#L" n="58"/>corruptio: nam in eo quod movetur, aliquid incipit
+<lb ed="#L" n="59"/>et aliquid desinit esse. Si igitur omnis generatio
+<lb ed="#L" n="60"/>et corruptio subtraheretur, subtracta contingentia
+<lb ed="#L" n="61"/>rerum, ut ostensum est, consequens est quod etiam
+<lb ed="#L" n="62"/>motus subtraheretur a rebus, et omnia mobilia.
+</p>
+            <p xml:id="v8naTA-d1e2296-d1e266">
+               <lb ed="#L" n="63"/>Item. Debilitatio virtutis. alicuius substantiae,
+<lb ed="#L" n="64"/>et eius impedimentum ex aliquo contrario agente,
+<lb ed="#L" n="65"/>est ex aliqua eius immutatione. Si ergo divina
+<lb ed="#L" n="66"/>providentia non impedit motum a rebus, neque
+<lb ed="#L" n="67"/>etiam impedietur debilitatio virtutis ipsarum, aut
+<lb ed="#L" n="68"/>impedimentum ex resistentia alterius. Ex virtutis
+<lb ed="#L" n="69"/>autem debilitate, et eius impedimento, contingit
+<lb ed="#L" n="70"/>quod res naturalis non semper eodem modo
+<lb ed="#L" n="71"/>operatur, sed quandoque deficit ab eo quod
+<lb ed="#L" n="72"/>competit sibi secundum suam naturam, ut sic
+<lb ed="#L" n="73"/>naturales effectus non ex necessitate proveniant.
+<lb ed="#L" n="74"/>Non igitur pertinet ad providentiam divinam
+<lb ed="#L" n="75"/>quod rebus provisis necessitatem imponat.
+</p>
+            <p xml:id="v8naTA-d1e2296-d1e297">
+               <lb ed="#L" n="76"/>Amplius. In his quae providentia debite 
+re<lb ed="#L" break="no" n="77"/>guntur, non debet esse aliquid frustra. Cum igitur
+<lb ed="#L" n="78"/>manifestum sit causas aliquas esse contingentes,
+<lb ed="#L" n="79"/>ex eo quod impediri possunt ut non producant
+<lb ed="#L" n="80"/>suos effectus, patet quod contra rationem 
+pro<lb ed="#L" break="no" n="81"/>videntiae esset quod omnia ex necessitate 
+con<lb ed="#L" break="no" n="82"/>tingerent. Non igitur divina providentia 
+neces<lb ed="#L" break="no" n="83"/>sitatem rebus imponit, contingentiam a rebus
+<lb ed="#L" n="84"/>universaliter excludens.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>

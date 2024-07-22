@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Capitulum 86</title>
+            <author ref="#Aquinas">Aquinas</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Capitulum 86</title>
+               <date when="2024-07-22">July 07, 2024</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2024-07-22" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#L" n="261"/>
+            <cb ed="#L" n="a"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="v8naTA-d1e2410"><!-- v8naTA-l3c86 -->
+            <head xml:id="v8naTA-d1e2410-Hd1e101">Capitulum 86</head>
+            <head xml:id="v8naTA-d1e2410-Hd1e103" type="question-title">Quod corporales effectus in istis inferioribus . :
+non sequuntur ex necessitate a corporibus caelestibus.</head>
+            <p xml:id="v8naTA-d1e2410-d1e106">
+               <pb ed="#L" n="261"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1" type="fixed=261"/>CAPITULUM OCTOGESIMUM SEXTUM
+<lb ed="#L" n="2"/>QUOD CORPORALES EFFECTUS IN ISTIS INFERIORIBUS . :
+<lb ed="#L" n="3"/>NON SEQUUNTUR EX NECESSITATE A CORPORIBUS CAELESTIBUS.
+</p>
+            <p xml:id="v8naTA-d1e2410-d1e119">
+               <cb ed="#L" n="b"/>
+               <lb ed="#L" n="4"/>NON solum autem corpora caelestia 
+hu<lb ed="#L" break="no" n="5"/>manae electioni necessitatem inferre
+<lb ed="#L" n="6"/>non possnt, sed nec eitam corporales
+<lb ed="#L" n="7"/>effectus in istis inferioribus ex 
+neces<lb ed="#L" break="no" n="8"/>sitate ab eis procedunt.
+</p>
+            <p xml:id="v8naTA-d1e2410-d1e135">
+               <lb ed="#L" n="9"/>Impressiones enim causarum universalium 
+re<lb ed="#L" break="no" n="10"/>cipiuntur in effectibus secundum  recipientium
+<lb ed="#L" n="11"/>modum. Haec autem inferiora sunt fluxibilia et
+<lb ed="#L" n="12"/>non semper eodem modo se habentia: propter
+<lb ed="#L" n="13"/>materiam, quae est in potentia ad plures formas;
+<lb ed="#L" n="14"/>et propter contrarietatem formarum et virtutum.
+</p>
+            <p xml:id="v8naTA-d1e2410-d1e152">
+               <lb ed="#L" n="15"/>Non igitur impressiones corporum caelestium
+<lb ed="#L" n="16"/>recipiuntur in istis inferioribus per modum 
+ne<lb ed="#L" break="no" n="17"/>cessitatis.
+</p>
+            <p xml:id="v8naTA-d1e2410-d1e161">
+               <lb ed="#L" n="18"/>Item. A causa remota non sequitur effectus
+<lb ed="#L" n="19"/>de necessitate nisi etiam sit causa media 
+neces<lb ed="#L" break="no" n="20"/>saria: sicut et in syllogismis ex maiori de 
+ne<lb ed="#L" break="no" n="21"/>cesse et minori de contingenti non sequitur
+<lb ed="#L" n="22"/>conclusio de necesse. Corpora autem caelestia
+<lb ed="#L" n="23"/>sunt causae remotae: proximae autem causae 
+in<lb ed="#L" break="no" n="24"/>feriorum effectuum sunt virtutes activae et 
+pas<lb ed="#L" break="no" n="25"/>sivae in istis inferioribus, quae non sunt causae
+<lb ed="#L" n="26"/>necessariae, sed contingentes; possunt enim 
+de<lb ed="#L" break="no" n="27"/>ficere ut in paucioribus. Non ergo ex corporibus
+<lb ed="#L" n="28"/>caelestibus sequuntur in istis inferioribus 
+corpo<lb ed="#L" break="no" n="29"/>ribus effectus de necessitate.
+</p>
+            <p xml:id="v8naTA-d1e2410-d1e190">
+               <lb ed="#L" n="30"/>Praeterea. Motus caelestium corporum semper
+<lb ed="#L" n="31"/>est eodem modo. Si igitur effectus caelestium
+<lb ed="#L" n="32"/>corporum in istis inferioribus ex necessitate 
+pro<lb ed="#L" break="no" n="33"/>veniret, semper eodem modo se haberent quae
+<lb ed="#L" n="34"/>in inferioribus sunt. Non autem semper eodem
+<lb ed="#L" n="35"/>modo se habent, sed ut in pluribus. Non ergo
+<lb ed="#L" n="36"/>ex necessitate proveniunt.
+</p>
+            <p xml:id="v8naTA-d1e2410-d1e208">
+               <lb ed="#L" n="37"/>Adhuc. Ex multis contingentibus non potest
+<lb ed="#L" n="38"/>fieri unum necessarium: quia, sicut quodlibet
+<lb ed="#L" n="39"/>contingentium per se deficere potest ab effectu,
+<lb ed="#L" n="40"/>ita et omnia simul. Constat autem quod singula
+<lb ed="#L" n="41"/>quae in istis inferioribus fiunt ex impressione
+<lb ed="#L" n="42"/>caelestium corporum, sunt contingentia. Non
+<lb ed="#L" n="43"/>igitur connexio eorum quae in inferioribus 
+con<lb ed="#L" break="no" n="44"/>tingunt ex impressione caelestium corporum, est
+<lb ed="#L" n="45"/>necessaria: manifestum est enim quod quodlibet
+<lb ed="#L" n="46"/>eorum potest impediri.
+</p>
+            <p xml:id="v8naTA-d1e2410-d1e232">
+               <lb ed="#L" n="47"/>Amplius. Corpora caelestia sunt agentia 
+natu<lb ed="#L" break="no" n="48"/>raliter, quae requirunt materiam in quam agant.
+<lb ed="#L" n="49"/>Non igitur ex actione corporum caelestium tol-
+<cb ed="#L" n="c"/>
+               <lb ed="#L" n="50"/>litur id quod materia requirit. Materia autem in
+<lb ed="#L" n="51"/>quam agunt corpora caelestia, sunt corpora 
+infe<lb ed="#L" break="no" n="52"/>riora: quae, cum sint corruptibilia secundum suam
+<lb ed="#L" n="53"/>naturam, sicut deficere possunt ab esse, ita ab
+<lb ed="#L" n="54"/>; operari; et sic eorum natura hoc habet ut non
+<lb ed="#L" n="55"/>ex necessitate producant effectus. Non igitur ex
+<lb ed="#L" n="56"/>necessitate proveniunt effectus caelestium 
+corpo<lb ed="#L" break="no" n="57"/>rum etiam in corporibus inferioribus.
+</p>
+            <p xml:id="v8naTA-d1e2410-d1e261">
+               <lb ed="#L" n="58"/>Aliquis autem forte dicat quod necessarium
+<lb ed="#L" n="59"/>est ut effectus caelestium corporum 
+complean<lb ed="#L" break="no" n="60"/>tur, nec tamen per hoc tollitur possibilitas a rebus
+<lb ed="#L" n="61"/>inferioribus, eo quod quilibet effectus est in 
+po<lb ed="#L" break="no" n="62"/>tentia antequam fiat, et tunc dicitur possibilis,
+<lb ed="#L" n="63"/>quando autem iam est in actu, transit a. 
+possi<lb ed="#L" break="no" n="64"/>bilitate in necessitatem ; et totum hoc subiacet
+<lb ed="#L" n="65"/>caelestibus motibus; et sic non tollitur quin 
+ali<lb ed="#L" break="no" n="66"/>quando effectus sit possibilis, licet necessarium
+<lb ed="#L" n="67"/>sit effectum illum quandoque produci: - sic enim
+<lb ed="#L" n="68"/>Albumasar, in primo libro sui Zniroductorii, 
+de<lb ed="#L" break="no" n="69"/>fendere nititur possibile.
+</p>
+            <p xml:id="v8naTA-d1e2410-d1e291">
+               <lb ed="#L" n="70"/>Non est autem possibile quod per hunc modum
+<lb ed="#L" n="71"/>possibile defendatur. Possibile enim quoddam est
+<lb ed="#L" n="72"/>quod ad necessarium sequitur. Nam quod 
+ne<lb ed="#L" break="no" n="73"/>cesse est esse, possibile est esse: quod enim non
+<lb ed="#L" n="74"/>possibile est esse, impossibile est esse; et quod
+<lb ed="#L" n="75"/>impossibile est esse, necesse est non esse; igitur
+<lb ed="#L" n="76"/>quod necesse est esse, necesse est non esse. Hoc
+<lb ed="#L" n="77"/>autem est impossibile. Ergo impossibile est quod
+<lb ed="#L" n="78"/>aliquid necesse sit esse, et tamen non sit 
+pos<lb ed="#L" break="no" n="79"/>sibile illud esse. Ergo possibile esse sequitur ad
+<lb ed="#L" n="80"/>necesse esse.
+</p>
+            <p xml:id="v8naTA-d1e2410-d1e317">
+               <lb ed="#L" n="81"/>Hoc autem possibile non est necessarium 
+de<lb ed="#L" break="no" n="82"/>fendere contra hoc quod effectus ex necessitate
+<lb ed="#L" n="83"/>causari dicuntur, sed possibile quod opponitur
+<lb ed="#L" n="84"/>necessario, prout dicitur possibile quod potest
+<lb ed="#L" n="85"/>esse et non esse. Non dicitur autem aliquid per
+<lb ed="#L" n="86"/>hunc modum possibile vel contingens ex hoc
+<lb ed="#L" n="87"/>solum quod quandoque sit in potentia et 
+quan<lb ed="#L" break="no" n="88"/>doque in actu, ut praedicta responsio supponit:
+<lb ed="#L" n="89"/>nam sic etiam in motibus caelestibus est 
+pos<lb ed="#L" break="no" n="90"/>sibile et contingens; non enim semper est 
+con<lb ed="#L" break="no" n="91"/>iunctio vel oppositio solis aut lunae in actu, sed
+<lb ed="#L" n="92"/>quandoque quidem in actu, quandoque autem
+<lb ed="#L" n="93"/>in potentia; quae tamen necessaria sunt, cum
+<lb ed="#L" n="94"/>de his dentur demonstrationes. Sed possibile vel
+<lb ed="#L" n="95"/>contingens quod opponitur necessario, hoc in
+<pb ed="#L" n="262"/>
+               <cb ed="#L" n="a"/>
+               <lb ed="#L" n="1"/>sua ratione habet, quod non sit necesse illud
+<lb ed="#L" n="2"/>fieri quando non est. Quod quidem est quia non
+<lb ed="#L" n="3"/>de necessitate sequitur ex causa sua. Sic enim
+<lb ed="#L" n="4"/>dicimus quod Sortem sessurum esse est 
+con<lb ed="#L" break="no" n="5"/>tingens, ipsum autem esse moriturum est 
+ne<lb ed="#L" break="no" n="6"/>cessarium, quia secundum horum ex causa sua
+<lb ed="#L" n="7"/>de necessitate sequitur, non autem primum. Si
+<lb ed="#L" n="8"/>ergo ex motibus caelestibus de necessitate sequitur
+<lb ed="#L" n="9"/>quod eorum effectus sint quandoque futuri, 
+tol<lb ed="#L" break="no" n="10"/>litur possibile et contingens quod necessario 
+op<lb ed="#L" break="no" n="11"/>ponitur,
+</p>
+            <p xml:id="v8naTA-d1e2410-d1e380">
+               <lb ed="#L" n="12"/>Sciendum est autem quod ad probandum 
+ef<lb ed="#L" break="no" n="13"/>fectus caelestium corporum ex necessitate 
+pro<lb ed="#L" break="no" n="14"/>venire, Avicenna, in sua Metaphysica , utitur
+<lb ed="#L" n="15"/>tali ratione. Si aliquis effectus caelestium 
+corpo<lb ed="#L" break="no" n="16"/>rum impeditur, oportet quod hoc sit per aliquam
+<lb ed="#L" n="17"/>causam voluntariam vel naturalem. Omnis autem
+<lb ed="#L" n="18"/>causa voluntaria vel naturalis reducitur ad 
+ali<lb ed="#L" break="no" n="19"/>quod caeleste principium. Ergo impedimentum
+<lb ed="#L" n="20"/>etiam effectuum caelestium corporum procedit
+<lb ed="#L" n="21"/>ex aliquibus caelestibus principiis. Impossibile
+<lb ed="#L" n="22"/>est ergo quod, si totus ordo caelestium simul
+<lb ed="#L" n="23"/>accipiatur, quod effectus eius unquam cassetur.
+<lb ed="#L" n="24"/>Unde concludit quod corpora caelestia faciunt
+<lb ed="#L" n="25"/>necessario esse debere effectus in his inferioribus,
+<lb ed="#L" n="26"/>tam voluntarios quam naturales. :
+</p>
+            <p xml:id="v8naTA-d1e2410-d1e415">
+               <lb ed="#L" n="27"/>Haec autem ratio, ut Aristoteles in II Phys. 
+<lb ed="#L" n="28"/>dicit, fuit quorundam antiquorum, qui negabant
+<lb ed="#L" n="29"/>casum et fortunam, per hoc quod cuiuslibet 
+ef<lb ed="#L" break="no" n="30"/>fectus est aliqua causa determinata; posita autem
+<lb ed="#L" n="31"/>causa, ponitur effectus de necessitate; et sic, cum
+<lb ed="#L" n="32"/>omnia ex necessitate proveniant, non est aliquid
+<lb ed="#L" n="33"/>fortuitum neque casuale.
+</p>
+            <p xml:id="v8naTA-d1e2410-d1e433">
+               <lb ed="#L" n="34"/>Hanc autem rationem ipse solvit in VI 
+Me<lb ed="#L" break="no" n="35"/>taphys. , negando duas propositiones quibus haec
+<lb ed="#L" n="36"/>ratio utitur. Quarum una est quod, posita causa
+<lb ed="#L" n="37"/>quacumque, necesse sil eius effeclum poni. Hoc
+<lb ed="#L" n="38"/>enim non oportet in omnibus causis: quia aliqua
+<lb ed="#L" n="39"/>causa, licet sit per se et propria causa et suffi
+<lb ed="#L" n="40"/>ciens alicuius effectus, potest tamen impediri ex
+<lb ed="#L" n="41"/>concursu alterius causae, ut non sequatur effectus.
+<lb ed="#L" n="42"/>- Alia propositio est, quam negat, quod ron
+<lb ed="#L" n="43"/>omne quod est quocumque modo, habet causam
+<lb ed="#L" n="44"/>per se, sed solum ea quae sunt per se; quae
+<cb ed="#L" n="b"/>
+               <lb ed="#L" n="45"/>autem sunt per accidens, non habent aliquam
+<lb ed="#L" n="46"/>causam; sicut quod sit musicum, habet aliquam
+<lb ed="#L" n="47"/>causam in homine, quod autem homo sit simul
+<lb ed="#L" n="48"/>albus et musicus, non habet aliquam causam.
+<lb ed="#L" n="49"/>Quaecumque enim sunt simul propter aliquam
+<lb ed="#L" n="50"/>causam, ordinem habent ad invicem ex illa causa:
+<lb ed="#L" n="51"/>quae autem sunt per accidens, non habent 
+or<lb ed="#L" break="no" n="52"/>dinem ad invicem. Non igitur sunt ex aliqua causa
+<lb ed="#L" n="53"/>per se agente, sed solum per accidens hoc evenit:
+<lb ed="#L" n="54"/>accidit enim. docenti musicam quod doceat. 
+ho<lb ed="#L" break="no" n="55"/>minem album, est enim praeter eius intentionem,
+<lb ed="#L" n="56"/>sed intendit docere disciplinae susceptibilem.
+</p>
+            <p xml:id="v8naTA-d1e2410-d1e488">
+               <lb ed="#L" n="57"/>Sic igitur, proposito aliquo effectu, dicemus
+<lb ed="#L" n="58"/>quod habuit aliquam causam ex qua non de 
+neces<lb ed="#L" break="no" n="59"/>sitate sequebatur: quia poterat impediri ex aliqua
+<lb ed="#L" n="60"/>alia causa concurrente per accidens. Et licet illam
+<lb ed="#L" n="61"/>causam concurrentem sit reducere in aliquam
+<lb ed="#L" n="62"/>causam altiorem, tamen ipsum concursum, qui
+<lb ed="#L" n="63"/>impedit. non est reducere in aliquam causam.
+<lb ed="#L" n="64"/>Et sic non potest dici quod impedimentum huius
+<lb ed="#L" n="65"/>effectus vel illius procedat ex aliquo caelesti 
+prin<lb ed="#L" break="no" n="66"/>cipio. Unde non oportet dicere quod effectus
+<lb ed="#L" n="67"/>corporum caelestium ex necessitate proveniant
+<lb ed="#L" n="68"/>in istis inferioribus.
+</p>
+            <p xml:id="v8naTA-d1e2410-d1e518">
+               <lb ed="#L" n="69"/>Hinc est quod Damascenus dicit, in secundo
+<lb ed="#L" n="70"/>libro , quod corpora caelestia non sunt causa
+<lb ed="#L" n="71"/>generalionis alicuius eorum quae fiunt, neque 
+cor<lb ed="#L" break="no" n="72"/>ruptionis eorum quae corrumpuntur: quia scilicet
+<lb ed="#L" n="73"/>non ex necessitate ex eis effectus proveniunt.
+</p>
+            <p xml:id="v8naTA-d1e2410-d1e531">
+               <lb ed="#L" n="74"/>Aristoteles etiam dicit, in II de Somno et Vigilia ,
+<lb ed="#L" n="75"/>quod eorum quae in corporibus sunt signorum
+<lb ed="#L" n="76"/>eliam caelestium, velut aquarum et ventorum, multa
+<lb ed="#L" n="77"/>non eveniunt. Si enim alius vehementior isto accidat
+<lb ed="#L" n="78"/>motus a quo futurum est signum, non fit: sicul et
+<lb ed="#L" n="79"/>multa consulta bene, quae fieri expediebat, dissoluta
+<lb ed="#L" n="80"/>sunt propter alias digniores inchoationes.
+</p>
+            <p xml:id="v8naTA-d1e2410-d1e549">
+               <lb ed="#L" n="81"/>Ptolomaeus etiam, in Quadripartito , dicit:
+<lb ed="#L" n="82"/>Rursus, nec aestimare debemus quod superiora
+<lb ed="#L" n="83"/>procedant inevitabiliter, ut ea quae divina 
+dispo<lb ed="#L" break="no" n="84"/>sitione contingunt et quae nullatenus sunt vitanda,
+<lb ed="#L" n="85"/>necnon quae veraciler el ex mecessitate 
+prove<lb ed="#L" break="no" n="86"/>niunt. - In Centilogio etiam dicit : Haec iudicia
+<lb ed="#L" n="87"/>quae libi trado, sunt media inter necessarium et
+<lb ed="#L" n="88"/>possibile.
+</p>
+         </div>
+      </body>
+   </text>
+</TEI>
