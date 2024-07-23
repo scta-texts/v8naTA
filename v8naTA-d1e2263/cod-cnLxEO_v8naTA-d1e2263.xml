@@ -1,214 +1,214 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Capitulum 68</title>
-            <author ref="#Aquinas">Aquinas</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Capitulum 68</title>
-               <date when="2024-07-22">July 07, 2024</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2024-07-22" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#L" n="191"/>
-            <cb ed="#L" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="v8naTA-d1e2263"><!-- v8naTA-l3c68 -->
-            <head xml:id="v8naTA-d1e2263-Hd1e101">Capitulum 68</head>
-            <head xml:id="v8naTA-d1e2263-Hd1e103" type="question-title">Quod deus est ubique.</head>
-            <p xml:id="v8naTA-d1e2263-d1e106">
-               <cb ed="#L" n="c"/>
-               <lb ed="#L" n="109" type="fixed=191"/>CAPITULUM SEXAGESIMUM OCTAVUM
-<lb ed="#L" n="110"/>QUOD DEUS EST UBIQUE.
-</p>
-            <p xml:id="v8naTA-d1e2263-d1e115">
-               <cb ed="#L" n="d"/>
-               <lb ed="#L" n="111"/>EX hoc autem apparet quod necesse est
-<lb ed="#L" n="112"/>px Deum esse ubique et in omnibus rebus.
-</p>
-            <p xml:id="v8naTA-d1e2263-d1e124">
-               <lb ed="#L" n="113"/>Movens enim et motum oportet esse
-<lb ed="#L" n="114"/>simul, ut probat Philosophus in 
-Phy<lb ed="#L" break="no" n="115"/>sicorum. Deus autem omnia movet ad suas 
-ope<lb ed="#L" break="no" n="116"/>rationes, ut ostensum est. Est igitur in omnibus
-</p>
-            <p xml:id="v8naTA-d1e2263-d1e136">
-               <cb ed="#L" n="e"/>
-               <lb ed="#L" n="117"/>Item. Omne quod est in loco, vel in re 
-qua<lb ed="#L" break="no" n="118"/>cumque, aliquo modo contingit ipsam: res enim
-<lb ed="#L" n="119"/>corporea est in aliquo sicut in loco secundum
-<lb ed="#L" n="120"/>contactum quantitatis dimensivae; res autem 
-in<lb ed="#L" break="no" n="121"/>corporea in aliquo esse dicitur secundum 
-con<lb ed="#L" break="no" n="122"/>tactum virtutis, cum careat dimensiva quantitate.
-<lb ed="#L" n="123"/>Sic igitur se habet res incorporea ad hoc quod
-<pb ed="#L" n="192"/>
-               <cb ed="#L" n="a"/>
-               <lb ed="#L" n="1"/>sit in aliquo per virtutem suam, sicut se habet
-<lb ed="#L" n="2"/>res corporea ad hoc quod sit in aliquo per 
-quan<lb ed="#L" break="no" n="3"/>titatem dimensivam. Si autem esset aliquod 
-cor<lb ed="#L" break="no" n="4"/>pus habens quantitatem  dimensivam infinitam,
-<lb ed="#L" n="5"/>oporteret illud esse ubique. Ergo, si sit aliqua
-<lb ed="#L" n="6"/>res incorporea habens virtutem infinitam, oportet
-<lb ed="#L" n="7"/>quod sit ubique. Ostensum est autem in Primo 
-<lb ed="#L" n="8"/>Deum esse infinitae virtutis. Est igitur ubique.
-</p>
-            <p xml:id="v8naTA-d1e2263-d1e178">
-               <lb ed="#L" n="9"/>Adhuc. Sicut se habet causa particularis ad
-<lb ed="#L" n="10"/>particularem effectum, ita se habet causa 
-uni<lb ed="#L" break="no" n="11"/>versalis ad universalem effectum. Oportet autem
-<lb ed="#L" n="12"/>causam particularem proprio effectui particulari
-<lb ed="#L" n="13"/>adesse simul: sicut ignis per suam essentiam
-<lb ed="#L" n="14"/>calefacit, et anima per suam essentiam vitam
-<lb ed="#L" n="15"/>corpori confert. Cum. igitur Deus sit causa 
-uni<lb ed="#L" break="no" n="16"/>versalis totius esse, ut in Secundo  ostensum
-<lb ed="#L" n="17"/>est, oportet quod in quocumque est invenire
-<lb ed="#L" n="18"/>esse, ei adsit divina praesentia.
-</p>
-            <p xml:id="v8naTA-d1e2263-d1e202">
-               <lb ed="#L" n="19"/>Amplius. Quodcumque agens est praesens
-<lb ed="#L" n="20"/>tantum uni suorum effectuum, eius actio non
-<lb ed="#L" n="21"/>potest derivari ad alia nisi illo mediante, eo
-<lb ed="#L" n="22"/>quod agens et patiens oportet esse simul: sicut
-<lb ed="#L" n="23"/>vis motiva non movet alia membra nisi 
-me<lb ed="#L" break="no" n="24"/>diante corde. Si igitur Deus esset praesens uni
-<lb ed="#L" n="25"/>tantum suorum effectuum, utpote primo mobili,
-<lb ed="#L" n="26"/>quod ab eo immediate movetur, sequeretur quod
-<lb ed="#L" n="27"/>eius actio non posset ad alia derivari nisi illo
-<lb ed="#L" n="28"/>mediante. Hoc autem est inconveniens. Si enim
-<lb ed="#L" n="29"/>alicuius agentis actio non potest derivari ad alia
-<lb ed="#L" n="30"/>nisi mediante aliquo primo, oportet quod illud 
-pro<lb ed="#L" break="no" n="31"/>portionaliter respondeat agenti secundum totam
-<lb ed="#L" n="32"/>eius virtutem, aliter enim non posset agens tota
-<lb ed="#L" n="33"/>sua virtute uti: sicut videmus quod omnes motus
-<lb ed="#L" n="34"/>quos potest causare virtus motiva, expleri 
-pos<lb ed="#L" break="no" n="35"/>sunt per cor. Non est autem aliqua creatura per
-<lb ed="#L" n="36"/>quam posset expleri quicquid divina virtus facere
-<lb ed="#L" n="37"/>potest: cum divina virtus excedat in infinitum
-<lb ed="#L" n="38"/>quamlibet rem creatam, ut apparet ex his quae
-<lb ed="#L" n="39"/>in Primo  ostensa sunt. Inconveniens est igitur
-<lb ed="#L" n="40"/>dicere quod divina actio non se extendat ad alia
-<lb ed="#L" n="41"/>nisi mediante uno primo. Non est igitur praesens
-<lb ed="#L" n="42"/>in uno tantum suorum effectuum, sed in 
-om<lb ed="#L" break="no" n="43"/>nibus. - Eadem enim ratione opinabitur si quis
-<lb ed="#L" n="44"/>dicat eum esse in aliquibus, et non in omnibus:
-<lb ed="#L" n="45"/>quia quotcumque effectus divini accipiantur, non
-<lb ed="#L" n="46"/>sufficienter explere poterunt divinae virtutis 
-exe<lb ed="#L" break="no" n="47"/>cutionem.
-</p>
-            <p xml:id="v8naTA-d1e2263-d1e267">
-               <lb ed="#L" n="48"/>Praeterea. Necesse est ut causa agens sit simul
-<lb ed="#L" n="49"/>cum suo effectu proximo et immediato. In 
-qua<lb ed="#L" break="no" n="50"/>libet autem re est aliquis effectus proximus et
-<lb ed="#L" n="51"/>immediatus ipsius Dei. Ostensum est enim in
-<lb ed="#L" n="52"/>Secundo . quod solus Deus creare potest. In
-<lb ed="#L" n="53"/>qualibet autem re est aliquid quod per 
-creatio<lb ed="#L" break="no" n="54"/>nem causatur: in rebus quidem corporalibus
-<cb ed="#L" n="b"/>
-               <lb ed="#L" n="55"/>prima materia; in rebus autem incorporeis 
-sim<lb ed="#L" break="no" n="56"/>plices earum essentiae; ut apparet ex his quae
-<lb ed="#L" n="57"/>in Secundo sunt determinata. Oportet igitur
-<lb ed="#L" n="58"/>simul Deum adesse in omnibus rebus: praesertim
-<lb ed="#L" n="59"/>cum ea quae de non esse ad esse produxit,
-<lb ed="#L" n="60"/>continuo et semper in esse conservet, ut 
-osten<lb ed="#L" break="no" n="61"/>sum est .
-</p>
-            <p xml:id="v8naTA-d1e2263-d1e302">
-               <lb ed="#L" n="62"/>Hinc est quod dicitur Jer. xxu, Caelum et
-<lb ed="#L" n="63"/>terram ego impleo; et in Psalmo, <quote xml:id="v8naTA-d1e2263-Qd1e308">Si ascendero
-<lb ed="#L" n="64"/>in caelum, tu illc es; et si. descendero ad 
-in<lb ed="#L" break="no" n="65"/>fernum, ades</quote>.
-</p>
-            <p xml:id="v8naTA-d1e2263-d1e316">
-               <lb ed="#L" n="66"/>Per hoc autem excluditur error quorundam
-<lb ed="#L" n="67"/>dicentium Deum in aliqua parte mundi 
-deter<lb ed="#L" break="no" n="68"/>minata esse, puta in primo caelo et in parte
-<lb ed="#L" n="69"/>orientis, unde est principium motus caeli. - 
-Quo<lb ed="#L" break="no" n="70"/>rum tamen dictum sustineri posset si sane 
-ac<lb ed="#L" break="no" n="71"/>cipiatur: ut scilicet non intelligamus Deum aliqua
-<lb ed="#L" n="72"/>determinata mundi parte esse conclusum; sed
-<lb ed="#L" n="73"/>quia omnium corporearum motionum 
-princi<lb ed="#L" break="no" n="74"/>pium, secundum naturae ordinem, ab aliqua
-<lb ed="#L" n="75"/>determinata incipit parte, Deo movente. Propter
-<lb ed="#L" n="76"/>quod et in Sacra Scriptura Deus dicitur 
-specia<lb ed="#L" break="no" n="77"/>liter esse in caelo: secundum illud Isaiae ult. ,
-<lb ed="#L" n="78"/>Caelum mihi sedes est; et in Psalmo , Caelum
-<lb ed="#L" n="79"/>caeli Domino, etc. — Sed ex hoc quod, praeter
-<lb ed="#L" n="80"/>naturae ordinem, etiam in infimis «corporibus
-<lb ed="#L" n="81"/>Deus aliquid operatur quod virtute caelestis 
-cor<lb ed="#L" break="no" n="82"/>poris causari non potest, manifeste ostenditur
-<lb ed="#L" n="83"/>Deum non solum caelesti corpori, sed etiam
-<lb ed="#L" n="84"/>infimis rebus immediate adesse.
-</p>
-            <p xml:id="v8naTA-d1e2263-d1e361">
-               <lb ed="#L" n="85"/>Non est autem aestimandum Deum sic esse
-<lb ed="#L" n="86"/>ubique quod per locorum spatia dividatur, quasi
-<lb ed="#L" n="87"/>una pars eius sit hic et alia alibi, sed totus
-<lb ed="#L" n="88"/>ubique est. Deus enim, cum sit omnino simplex,
-<lb ed="#L" n="89"/>partibus caret.
-</p>
-            <p xml:id="v8naTA-d1e2263-d1e374">
-               <lb ed="#L" n="90"/>Neque sic simplex est quemadmodum punctus,
-<lb ed="#L" n="91"/>qui est terminus continui, et propter hoc 
-deter<lb ed="#L" break="no" n="92"/>minatum situm in continuo habet: unde non
-<lb ed="#L" n="93"/>potest unus punctus nisi in uno loco indivisibili
-<lb ed="#L" n="94"/>esse. Deus autem indivisibilis est quasi omnino
-<lb ed="#L" n="95"/>extra genus continui existens. Unde non 
-deter<lb ed="#L" break="no" n="96"/>minatur ad locum, vel magnum vel parvum,
-<lb ed="#L" n="97"/>ex necessitate suae essentiae, quasi oporteat eum
-<lb ed="#L" n="98"/>esse in aliquo loco: cum ipse fuerit ab aeterno
-<lb ed="#L" n="99"/>ante omnem locum. Sed immensitate suae 
-vir<lb ed="#L" break="no" n="100"/>tutis attingit omnia quae sunt in loco: cum sit
-<lb ed="#L" n="101"/>universalis causa essendi, ut dictum est . Sic
-<lb ed="#L" n="102"/>igitur ipse totus est ubicumque est: quia per
-<lb ed="#L" n="103"/>simplicem suam virtutem universa attingit.
-</p>
-            <p xml:id="v8naTA-d1e2263-d1e407">
-               <lb ed="#L" n="104"/>Non est tamen aestimandum quod sic sit in
-<lb ed="#L" n="105"/>rebus quasi in rebus mixtus: ostensum est enim
-<lb ed="#L" n="106"/>in Primo  quod neque materia neque forma est
-<lb ed="#L" n="107"/>alicuius. Sed est in omnibus per modum causae
-<lb ed="#L" n="108"/>agentis.
-</p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum 68</title>
+        <author ref="#Aquinas">Aquinas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulum 68</title>
+          <date when="2024-07-22">July 07, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="191"/>
+        <cb ed="#L" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="v8naTA-d1e2263"><!-- v8naTA-l3c68 -->
+        <head xml:id="v8naTA-d1e2263-Hd1e101">Capitulum 68</head>
+        <head xml:id="v8naTA-d1e2263-Hd1e103" type="question-title">Quod deus est ubique.</head>
+        <p xml:id="v8naTA-d1e2263-d1e106">
+          <cb ed="#L" n="c"/>
+          <lb ed="#L" n="109" type="fixed=191"/>CAPITULUM SEXAGESIMUM OCTAVUM
+          <lb ed="#L" n="110"/>QUOD DEUS EST UBIQUE.
+        </p>
+        <p xml:id="v8naTA-d1e2263-d1e115">
+          <cb ed="#L" n="d"/>
+          <lb ed="#L" n="111"/>EX hoc autem apparet quod necesse est
+          <lb ed="#L" n="112"/>px Deum esse ubique et in omnibus rebus.
+        </p>
+        <p xml:id="v8naTA-d1e2263-d1e124">
+          <lb ed="#L" n="113"/><quote xml:id="v8naTA-d1e2263-Qd1e138" source="http://scta.info/resource/aristdp-d1e97-d1e520@72-78" synch="72-78"><!--synch manifestation: cod-qwzw4v-->Movens enim et motum oportet esse
+            <lb ed="#L" n="114"/>simul</quote>, ut probat <ref xml:id="v8naTA-d1e2263-Rd1e141" corresp="#v8naTA-d1e2263-Qd1e138">Philosophus in 
+          Phy<lb ed="#L" break="no" n="115"/>sicorum</ref>. Deus autem omnia movet ad suas 
+          ope<lb ed="#L" break="no" n="116"/>rationes, ut ostensum est. Est igitur in omnibus
+        </p>
+        <p xml:id="v8naTA-d1e2263-d1e136">
+          <cb ed="#L" n="e"/>
+          <lb ed="#L" n="117"/>Item. Omne quod est in loco, vel in re 
+          qua<lb ed="#L" break="no" n="118"/>cumque, aliquo modo contingit ipsam: res enim
+          <lb ed="#L" n="119"/>corporea est in aliquo sicut in loco secundum
+          <lb ed="#L" n="120"/>contactum quantitatis dimensivae; res autem 
+          in<lb ed="#L" break="no" n="121"/>corporea in aliquo esse dicitur secundum 
+          con<lb ed="#L" break="no" n="122"/>tactum virtutis, cum careat dimensiva quantitate.
+          <lb ed="#L" n="123"/>Sic igitur se habet res incorporea ad hoc quod
+          <pb ed="#L" n="192"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1"/>sit in aliquo per virtutem suam, sicut se habet
+          <lb ed="#L" n="2"/>res corporea ad hoc quod sit in aliquo per 
+          quan<lb ed="#L" break="no" n="3"/>titatem dimensivam. Si autem esset aliquod 
+          cor<lb ed="#L" break="no" n="4"/>pus habens quantitatem  dimensivam infinitam,
+          <lb ed="#L" n="5"/>oporteret illud esse ubique. Ergo, si sit aliqua
+          <lb ed="#L" n="6"/>res incorporea habens virtutem infinitam, oportet
+          <lb ed="#L" n="7"/>quod sit ubique. Ostensum est autem in Primo 
+          <lb ed="#L" n="8"/>Deum esse infinitae virtutis. Est igitur ubique.
+        </p>
+        <p xml:id="v8naTA-d1e2263-d1e178">
+          <lb ed="#L" n="9"/>Adhuc. Sicut se habet causa particularis ad
+          <lb ed="#L" n="10"/>particularem effectum, ita se habet causa 
+          uni<lb ed="#L" break="no" n="11"/>versalis ad universalem effectum. Oportet autem
+          <lb ed="#L" n="12"/>causam particularem proprio effectui particulari
+          <lb ed="#L" n="13"/>adesse simul: sicut ignis per suam essentiam
+          <lb ed="#L" n="14"/>calefacit, et anima per suam essentiam vitam
+          <lb ed="#L" n="15"/>corpori confert. Cum. igitur Deus sit causa 
+          uni<lb ed="#L" break="no" n="16"/>versalis totius esse, ut in Secundo  ostensum
+          <lb ed="#L" n="17"/>est, oportet quod in quocumque est invenire
+          <lb ed="#L" n="18"/>esse, ei adsit divina praesentia.
+        </p>
+        <p xml:id="v8naTA-d1e2263-d1e202">
+          <lb ed="#L" n="19"/>Amplius. Quodcumque agens est praesens
+          <lb ed="#L" n="20"/>tantum uni suorum effectuum, eius actio non
+          <lb ed="#L" n="21"/>potest derivari ad alia nisi illo mediante, eo
+          <lb ed="#L" n="22"/>quod agens et patiens oportet esse simul: sicut
+          <lb ed="#L" n="23"/>vis motiva non movet alia membra nisi 
+          me<lb ed="#L" break="no" n="24"/>diante corde. Si igitur Deus esset praesens uni
+          <lb ed="#L" n="25"/>tantum suorum effectuum, utpote primo mobili,
+          <lb ed="#L" n="26"/>quod ab eo immediate movetur, sequeretur quod
+          <lb ed="#L" n="27"/>eius actio non posset ad alia derivari nisi illo
+          <lb ed="#L" n="28"/>mediante. Hoc autem est inconveniens. Si enim
+          <lb ed="#L" n="29"/>alicuius agentis actio non potest derivari ad alia
+          <lb ed="#L" n="30"/>nisi mediante aliquo primo, oportet quod illud 
+          pro<lb ed="#L" break="no" n="31"/>portionaliter respondeat agenti secundum totam
+          <lb ed="#L" n="32"/>eius virtutem, aliter enim non posset agens tota
+          <lb ed="#L" n="33"/>sua virtute uti: sicut videmus quod omnes motus
+          <lb ed="#L" n="34"/>quos potest causare virtus motiva, expleri 
+          pos<lb ed="#L" break="no" n="35"/>sunt per cor. Non est autem aliqua creatura per
+          <lb ed="#L" n="36"/>quam posset expleri quicquid divina virtus facere
+          <lb ed="#L" n="37"/>potest: cum divina virtus excedat in infinitum
+          <lb ed="#L" n="38"/>quamlibet rem creatam, ut apparet ex his quae
+          <lb ed="#L" n="39"/>in Primo  ostensa sunt. Inconveniens est igitur
+          <lb ed="#L" n="40"/>dicere quod divina actio non se extendat ad alia
+          <lb ed="#L" n="41"/>nisi mediante uno primo. Non est igitur praesens
+          <lb ed="#L" n="42"/>in uno tantum suorum effectuum, sed in 
+          om<lb ed="#L" break="no" n="43"/>nibus. - Eadem enim ratione opinabitur si quis
+          <lb ed="#L" n="44"/>dicat eum esse in aliquibus, et non in omnibus:
+          <lb ed="#L" n="45"/>quia quotcumque effectus divini accipiantur, non
+          <lb ed="#L" n="46"/>sufficienter explere poterunt divinae virtutis 
+          exe<lb ed="#L" break="no" n="47"/>cutionem.
+        </p>
+        <p xml:id="v8naTA-d1e2263-d1e267">
+          <lb ed="#L" n="48"/>Praeterea. Necesse est ut causa agens sit simul
+          <lb ed="#L" n="49"/>cum suo effectu proximo et immediato. In 
+          qua<lb ed="#L" break="no" n="50"/>libet autem re est aliquis effectus proximus et
+          <lb ed="#L" n="51"/>immediatus ipsius Dei. Ostensum est enim in
+          <lb ed="#L" n="52"/>Secundo . quod solus Deus creare potest. In
+          <lb ed="#L" n="53"/>qualibet autem re est aliquid quod per 
+          creatio<lb ed="#L" break="no" n="54"/>nem causatur: in rebus quidem corporalibus
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="55"/>prima materia; in rebus autem incorporeis 
+          sim<lb ed="#L" break="no" n="56"/>plices earum essentiae; ut apparet ex his quae
+          <lb ed="#L" n="57"/>in Secundo sunt determinata. Oportet igitur
+          <lb ed="#L" n="58"/>simul Deum adesse in omnibus rebus: praesertim
+          <lb ed="#L" n="59"/>cum ea quae de non esse ad esse produxit,
+          <lb ed="#L" n="60"/>continuo et semper in esse conservet, ut 
+          osten<lb ed="#L" break="no" n="61"/>sum est .
+        </p>
+        <p xml:id="v8naTA-d1e2263-d1e302">
+          <lb ed="#L" n="62"/>Hinc est quod dicitur Jer. xxu, <quote xml:id="v8naTA-d1e2263-Qd1e313" source="http://scta.info/resource/ier23_24@15-19">Caelum et
+            <lb ed="#L" n="63"/>terram ego impleo</quote>; et in Psalmo, <quote xml:id="v8naTA-d1e2263-Qd1e308" source="http://scta.info/resource/ps138_8">Si ascendero
+            <lb ed="#L" n="64"/>in caelum, tu illc es; et si. descendero ad 
+            in<lb ed="#L" break="no" n="65"/>fernum, ades</quote>.
+        </p>
+        <p xml:id="v8naTA-d1e2263-d1e316">
+          <lb ed="#L" n="66"/>Per hoc autem excluditur error quorundam
+          <lb ed="#L" n="67"/>dicentium Deum in aliqua parte mundi 
+          deter<lb ed="#L" break="no" n="68"/>minata esse, puta in primo caelo et in parte
+          <lb ed="#L" n="69"/>orientis, unde est principium motus caeli. - 
+          Quo<lb ed="#L" break="no" n="70"/>rum tamen dictum sustineri posset si sane 
+          ac<lb ed="#L" break="no" n="71"/>cipiatur: ut scilicet non intelligamus Deum aliqua
+          <lb ed="#L" n="72"/>determinata mundi parte esse conclusum; sed
+          <lb ed="#L" n="73"/>quia omnium corporearum motionum 
+          princi<lb ed="#L" break="no" n="74"/>pium, secundum naturae ordinem, ab aliqua
+          <lb ed="#L" n="75"/>determinata incipit parte, Deo movente. Propter
+          <lb ed="#L" n="76"/>quod et in Sacra Scriptura Deus dicitur 
+          specia<lb ed="#L" break="no" n="77"/>liter esse in caelo: secundum illud <ref xml:id="v8naTA-d1e2263-Rd1e354">Isaiae ult.</ref> ,
+          <lb ed="#L" n="78"/><quote xml:id="v8naTA-d1e2263-Qd1e357" source="http://scta.info/resource/ps138_8@4-6">Caelum mihi sedes est</quote>; et in Psalmo, <quote xml:id="v8naTA-d1e2263-Qd1e360" source="http://scta.info/resource/ps113_24@1-3">Caelum
+          <lb ed="#L" n="79"/>caeli Domino</quote>, etc. — Sed ex hoc quod, praeter
+          <lb ed="#L" n="80"/>naturae ordinem, etiam in infimis «corporibus
+          <lb ed="#L" n="81"/>Deus aliquid operatur quod virtute caelestis 
+          cor<lb ed="#L" break="no" n="82"/>poris causari non potest, manifeste ostenditur
+          <lb ed="#L" n="83"/>Deum non solum caelesti corpori, sed etiam
+          <lb ed="#L" n="84"/>infimis rebus immediate adesse.
+        </p>
+        <p xml:id="v8naTA-d1e2263-d1e361">
+          <lb ed="#L" n="85"/>Non est autem aestimandum Deum sic esse
+          <lb ed="#L" n="86"/>ubique quod per locorum spatia dividatur, quasi
+          <lb ed="#L" n="87"/>una pars eius sit hic et alia alibi, sed totus
+          <lb ed="#L" n="88"/>ubique est. Deus enim, cum sit omnino simplex,
+          <lb ed="#L" n="89"/>partibus caret.
+        </p>
+        <p xml:id="v8naTA-d1e2263-d1e374">
+          <lb ed="#L" n="90"/>Neque sic simplex est quemadmodum punctus,
+          <lb ed="#L" n="91"/>qui est terminus continui, et propter hoc 
+          deter<lb ed="#L" break="no" n="92"/>minatum situm in continuo habet: unde non
+          <lb ed="#L" n="93"/>potest unus punctus nisi in uno loco indivisibili
+          <lb ed="#L" n="94"/>esse. Deus autem indivisibilis est quasi omnino
+          <lb ed="#L" n="95"/>extra genus continui existens. Unde non 
+          deter<lb ed="#L" break="no" n="96"/>minatur ad locum, vel magnum vel parvum,
+          <lb ed="#L" n="97"/>ex necessitate suae essentiae, quasi oporteat eum
+          <lb ed="#L" n="98"/>esse in aliquo loco: cum ipse fuerit ab aeterno
+          <lb ed="#L" n="99"/>ante omnem locum. Sed immensitate suae 
+          vir<lb ed="#L" break="no" n="100"/>tutis attingit omnia quae sunt in loco: cum sit
+          <lb ed="#L" n="101"/>universalis causa essendi, ut dictum est . Sic
+          <lb ed="#L" n="102"/>igitur ipse totus est ubicumque est: quia per
+          <lb ed="#L" n="103"/>simplicem suam virtutem universa attingit.
+        </p>
+        <p xml:id="v8naTA-d1e2263-d1e407">
+          <lb ed="#L" n="104"/>Non est tamen aestimandum quod sic sit in
+          <lb ed="#L" n="105"/>rebus quasi in rebus mixtus: ostensum est enim
+          <lb ed="#L" n="106"/>in Primo  quod neque materia neque forma est
+          <lb ed="#L" n="107"/>alicuius. Sed est in omnibus per modum causae
+          <lb ed="#L" n="108"/>agentis.
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>
