@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum 6</title>
+        <author ref="#Aquinas">Aquinas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulum 6</title>
+          <date when="2024-08-06">August 06, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="N" n="cod-pzxxyz">New York, NYU, mss 535, frag 067</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#N" n="1-r"/>
+        <cb ed="#N" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="v8naTA-d1e1757"><!-- v8naTA-l3c6 -->
+        <head xml:id="v8naTA-d1e1757-Hd1e101">Capitulum 6</head>
+        <head xml:id="v8naTA-d1e1757-Hd1e103" type="question-title">Rationes quibus videtur probari
+          quod malum non sit praeter intentionem.</head>
+        <p xml:id="v8naTA-d1e1757-d1e106">
+          ut 
+          <lb ed="#N" n="40"/>autem positarum rationum solutio manifestior fiat considerandum est quod malum 
+          <lb ed="#N" n="41"/>considerari potest vel in substantia aliqua vel in actione ipsius malum quidem 
+          <lb ed="#N" n="42"/>in substantia aliqua est ex eo quod deficit ei aliquid quod natum est et debet habere 
+          <lb ed="#N" n="43"/>si enim homo non habet <unclear>mal</unclear> non est ei malum quia non est natus eas 
+          <lb ed="#N" n="44"/>habere si etiam homo capillos flavos non <del rend="strikethrough">esse</del> habet: non est malum 
+          <lb ed="#N" n="45"/>quia etsi natus est habere <pc type="punctus"/> non est tamen debitum ut habeatur <pc type="punctus"/> est tamen 
+          <lb ed="#N" n="46"/>malum si non habeat manus quas natus est et debet habere <pc type="punctus"/> si sit perfectus 
+          <lb ed="#N" n="47"/>quod tamen non est malum avi. Omnis autem privatio si proprie et <unclear>stricte<!--possibly corrected --></unclear> accipi<lb ed="#N" n="48"/>atur 
+          est eius quod quis natus est habere et debet habere in privatione igitur sic accepta 
+          <lb ed="#N" n="49"/>est ratio mali.
+        </p>
+        <p xml:id="v8naTA-d1e1757-d1e145">
+          <seg type="correction">materia<del rend="underline">ala</del></seg> autem cum sit potentia ad omnes formas omnes quidem na<lb ed="#N" n="50"/>ta 
+          est habere <pc type="punctus"/> Nulla tamen est ei debita cum si non quamvis una 
+          <lb ed="#N" n="51"/>earum possit esse perfecta in actu quilibet tamen earum est debita alicui 
+          <lb ed="#N" n="52"/>eorum quae ex materia constituuntur nam non potest esse aqua nisi habeat formam
+          <lb ed="#N" n="53"/>aquae nec potest esse ignis nisi habeat formam ignis privatio igitur huius formae comparata 
+          <lb ed="#N" n="54"/>ad materiam non est malum naturae sed comparata ad id cuius est forma est malum eius
+          <cb ed="#N" n="b"/>
+          <lb ed="#N" n="55"/>sicut privatio formae ignis est malum ignis <pc type="punctus"/> Et quia tam privatio<lb ed="#N" n="56"/>nes 
+          quam habitus et formae non dicuntur esse nisi secundum quod sunt in subiecto si quidem 
+          <lb ed="#N" n="57"/>privatio sit malum per comparationem ad subiectum in quo erit malum simpliciter 
+          <lb ed="#N" n="58"/>sin autem erit malum alicuius et non simpliciter hominem igitur privari ma<lb ed="#N" n="59"/>nu 
+          est malum simpliciter materiam autem privari forma aeris non est ma<lb ed="#N" n="60"/>lum 
+          simpliciter sed est malum aeris
+        </p>
+        <p xml:id="v8naTA-d1e1757-d1e191">
+          privatio autem ordinis aut commensurationis 
+          <lb ed="#N" n="61"/>debitae in actione est malum actionis et quia cuilibet actioni est de<lb ed="#N" n="62"/>bitus 
+          aliquis ordo et aliqua commensuratio <pc type="punctus"/> necesse est ut talis privatio 
+          <lb ed="#N" n="63"/>in actione simpliciter malum existat <pc type="punctus"/>
+        </p>
+        <p xml:id="v8naTA-d1e1757-d1e205">
+          <pc type="virgula">//</pc> his igitur visis sciendum est 
+          <lb ed="#N" n="64"/>quod non omne quod est praeter intentionem oportet esse fortuitum vel casuale 
+          <lb ed="#N" n="65"/>ut prima ratio proponebat si enim quod est praeter intentionem <del rend="underline">esse</del> sit consequens ad 
+          <lb ed="#N" n="66"/>id quod est intentum vel semper et sicut frequenter non eveniet 
+          <lb ed="#N" n="67"/>fortuito vel casualiter sicut in eo qui intendit dulcedine vini 
+          <lb ed="#N" n="68"/>frui si ex potatione vini sequatur ebrietas non erit fortuitum 
+          nec casuale esset autem casuale <pc type="punctus"/> si sequeretur ut in paucioribus
+        </p>
+        <p xml:id="v8naTA-d1e1757-d1e234">
+          malum 
+          <lb ed="#N" n="69"/>ergo corruptionis naturalis etsi sequatur praeter intentionem <del rend="expunctuation">agentis</del> generantis 
+          <lb ed="#N" n="70"/>consequitur tamen semper Nam semper forma unius est adiuncta privatio alterius unde corruptio 
+          <lb ed="#N" n="71"/>non evenit casualiter neque ín paucioribus licet privatio quandoque non sit 
+          <lb ed="#N" n="72"/>malum simpliciter sed alicuius ut dictum est si autem sit talis privatio quae privet 
+          <lb ed="#N" n="73"/>id quod est debitum generato erit casuale et simpliciter malum sicut cum 
+          <lb ed="#N" n="74"/>nascuntur partus monstruosi hoc enim non consequitur de necessitate ad id 
+          <lb ed="#N" n="75"/>quod est intentum <pc type="punctus"/> sed est ei repugnans <unclear>est magis</unclear> intendat ad perfectio<lb ed="#N" n="76"/>nem 
+          generati
+        </p>
+        <p xml:id="v8naTA-d1e1757-d1e265">
+          malum autem actionis accidit in naturalibus agentibus 
+          <lb ed="#N" n="77"/>ex defectu virtutis activae unde si agens habet virtutem defecti<lb ed="#N" n="78"/>vam 
+          <pc type="punctus"/> hoc malum consequitur praeter intentionem <pc type="punctus"/> sed non erit causale quia de 
+          <lb ed="#N" n="79"/>necessitate est consequens ad talem agentem <pc type="punctus"/> si tale agens vel semper 
+          <lb ed="#N" n="80"/>vel frequenter patitur hunc virtutis defectum erit autem casuale si hic 
+          <lb ed="#N" n="81"/>defectus raro talem comitatur agentem
+        </p>
+        <p xml:id="v8naTA-d1e1757-d1e287">
+          in agentibus autem vo<lb ed="#N" n="82"/>luntariis 
+          intentio est ad bonum aliquod particulare <pc type="punctus"/> si debet sequi actio
+          <lb ed="#N" n="83"/>nam universalia non movent sed particularia in quibus est actus si igitur 
+          <lb ed="#N" n="84"/>illud bonum quod intenditur <pc type="punctus"/> habeat coniunctam privationem boni secundum rationem vel 
+          <lb ed="#N" n="85"/>semper vel frequenter sequitur malum morale non casualiter <pc type="punctus"/> sed vel semper vel fre<lb ed="#N" n="86"/>quenter 
+          <pc type="punctus"/> sicut patet in eo qui vult uti femina propter delectationem 
+          <lb ed="#N" n="87"/>cui delectationi adiuncta est inordinatio adulterii non sequitur 
+          <lb ed="#N" n="88"/>casualiter <pc type="punctus"/> Esset autem casuale malum si ad id quod intendit sequeretur aliquod 
+          <lb ed="#N" n="89"/>peccatum ut in paucioribus sicut cum quis prohiciens ad avem interficit hominem
+        </p>
+        <p xml:id="v8naTA-d1e1757-d1e320">
+          <lb ed="#N" n="90"/>quod autem huiusmodi bona aliquis intendat ut pluribus quibus privationes boni secundum rationem 
+          <lb ed="#N" n="91"/>consequuntur ex hoc provenit quod plures vivunt secundum sensum eo 
+          <lb ed="#N" n="92"/>quod sensibilia sunt nobis manifesta <pc type="punctus"/> et magis efficaciter moventia in parti<lb ed="#N" n="93"/>cularibus 
+          in quibus est operatio <pc type="punctus"/> ad plura autem talium bonorum sequitur privatio 
+          <lb ed="#N" n="94"/>boni secundum rationem
+        </p>
+        <p xml:id="v8naTA-d1e1757-d1e342">
+          <pc type="virgula">//</pc> Ex quo patet quod licet malum praeter intentionem sit est tamen 
+          <lb ed="#N" n="95"/>voluntarium ut secunda ratio proponit <pc type="punctus"/> licet non per se sed per accidens <pc type="punctus"/> intentio 
+          enim est ultimi finis quem quis propter se vult voluntas autem est eius in quod
+          <lb ed="#N" n="96"/>quis vult propter aliud etiam si simpliciter non vellet sicut qui prohicit merces 
+          <lb ed="#N" n="97"/>in mari causa salutis non intendit proiectionem mercium <pc type="punctus"/> sed salutem 
+          <lb ed="#N" n="98"/>proiectionem autem vult non simpliciter sed causa salutis similiter propter aliquod bonum sensibile 
+          <lb ed="#N" n="99"/>consequendum aliquis vult facere inordinatam actionem non intendens 
+          <lb ed="#N" n="100"/>inordinationem neque volens eam <pc type="punctus"/> simpliciter sed propter hoc et ideo hoc modo ma<lb ed="#N" n="101"/>litia 
+          et peccatum dicuntur esse voluntaria sicut proiectio mercium in mari.
+        </p>
+        <p xml:id="v8naTA-d1e1757-d1e378">
+          <lb ed="#N" n="102"/>Eodem autem modo patet solutio ad tertiam obiectionem <pc type="punctus"/> Nunquam enim 
+          <lb ed="#N" n="103"/>invenitur mutatio corruptionis sine mutatione generationis et per consequens nec 
+          <lb ed="#N" n="104"/>finis corruptionis sine fine generationis <pc type="punctus"/> Natura ergo non intendit 
+          <lb ed="#N" n="105"/>finem corruptionis seorsum a fine generationis sed simul utrumque Non 
+          <pb ed="#N" n="1-v"/>
+          <lb ed="#N" n="1"/>enim est de intentione naturae absoluta quod non sit aqua sed quod sit aer quo 
+          <lb ed="#N" n="2"/>existente non est aqua hoc ergo quod est esse aerem intendit natura secundum 
+          <lb ed="#N" n="3"/>se quod vero est non esse aquam non intendit nisi inquantum est coniunctum quod 
+          <lb ed="#N" n="4"/>est esse aerem sic igitur privationes a natura <del rend="expunctuation strikehthrough">non</del> sunt secundum se intentae 
+          <lb ed="#N" n="5"/>sed secundum accidens formae vero secundum se
+        </p>
+        <p xml:id="v8naTA-d1e1757-d1e413">
+          <pc type="virgula">//</pc> patet ergo ex praemissis quod illud quod est simpliciter 
+          <lb ed="#N" n="6"/>malum omnino est praeter intentionem in operibus naturae sicut partus monstruo<lb ed="#N" n="7"/>si
+          Quod vero non est simpliciter sed alicui malum non est intentum 
+          <lb ed="#N" n="8"/>a natura secundum se <pc type="punctus"/> sed secundum accidens <pc type="punctus"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

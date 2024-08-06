@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum 4</title>
+        <author ref="#Aquinas">Aquinas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulum 4</title>
+          <date when="2024-08-06">August 06, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="N" n="cod-pzxxyz">New York, NYU, mss 535, frag 067</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#N" n="1-r"/>
+        <cb ed="#N" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="v8naTA-d1e1740"><!-- v8naTA-l3c4 -->
+        <head xml:id="v8naTA-d1e1740-Hd1e101">Capitulum 4</head>
+        <head xml:id="v8naTA-d1e1740-Hd1e103" type="question-title">Quod malum est. praeter intentionem in rebus.</head>
+        <p xml:id="v8naTA-d1e1740-d1e106">
+        </p>
+        <p xml:id="v8naTA-d1e1740-d1e117">
+        </p>
+        <p xml:id="v8naTA-d1e1740-d1e128">
+        </p>
+        <p xml:id="v8naTA-d1e1740-d1e145">
+        </p>
+        <p xml:id="v8naTA-d1e1740-d1e174">
+          <pb ed="#N" n="1-r"/>
+          <cb ed="#N" n="a"/>
+          <lb ed="#N" n="1"/>inquantum pervenit ad formam quam intendit quam privatio alterius formae de 
+          <lb ed="#N"/>necessitate consequitur transmutatio igitur materiae in generatione et corruptione per se ordinatur 
+          <lb ed="#N"/>ad formam privatio vero consequitur praeter intentionem Et similiter oportet esse in omnibus motibus 
+          <lb ed="#N"/>et ideo in quolibet motu est generatio et corruptio secundum quid sicut cum aliquid alteratur de 
+          <lb ed="#N"/>albo in nigrum corrumpitur album et fit nigrum bonum autem est secundum quod materia est per<lb ed="#N"/>fecta 
+          per formam et potentia per actum proprium malum autem secundum quod est privata actu 
+          <lb ed="#N"/>debito omne igitur quod movetur intendit in suo motu pervenire ad 
+          <lb ed="#N"/>bonum pervenit autem ad malum praeter intentionem igitur cum omne agens et mo<lb ed="#N"/>vens 
+          intendat ad bonum malum provenit praeter intentionem agentis
+        </p>
+        <p xml:id="v8naTA-d1e1740-d1e257">
+          <lb ed="#N"/>amplius in agentibus per intellectum et aestimationem quamcumque intentio sequitur 
+          <lb ed="#N"/>apprehensionem In illud enim tendit intentio quod apprehenditur ut finis 
+          <lb ed="#N"/>Si igitur perveniatur ad aliquod quod non habet speciem apprehensam erit praeter intentionem 
+          <lb ed="#N"/>sicut si aliquis intendat comedere mel et comedat fel credens 
+          <lb ed="#N"/>illud esse mel hoc erit praeter intentionem sed omne agens per in<lb ed="#N"/>tellectum in<lb ed="#N"/>tendit 
+          ad aliquid secundum quod accipit illud sub ratione boni sicut ex superioribus 
+          <lb ed="#N"/>patet si igitur illud non sit bonum sed malum hoc erit praeter intentionem 
+          <lb ed="#N"/>agens igitur per intellectum non operatur malum nisi praeter intentionem cum igitur 
+          <lb ed="#N"/>tendere ad bonum sit commune agenti per intellectum et per naturam malum 
+          <lb ed="#N"/>non consequitur ex intentione alicuius agentis nisi praeter intentionem
+        </p>
+        <p xml:id="v8naTA-d1e1740-d1e296">
+          hinc est quod 
+          <lb ed="#N"/>dyonysius dicit iv cap. de div. nom. quod malum est praeter intentionem et voluntatem
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

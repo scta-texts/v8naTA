@@ -1,158 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Capitulum 4</title>
-            <author ref="#Aquinas">Aquinas</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Capitulum 4</title>
-               <date when="2024-07-22">July 07, 2024</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2024-07-22" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#L" n="11"/>
-            <cb ed="#L" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="v8naTA-d1e1740"><!-- v8naTA-l3c4 -->
-            <head xml:id="v8naTA-d1e1740-Hd1e101">Capitulum 4</head>
-            <head xml:id="v8naTA-d1e1740-Hd1e103" type="question-title">Quod malum est. praeter intentionem in rebus.</head>
-            <p xml:id="v8naTA-d1e1740-d1e106">
-               <pb ed="#L" n="11"/>
-               <cb ed="#L" n="a"/>
-               <lb ed="#L" n="1" type="fixed=11"/>CAPITULUM QUARTUM
-<lb ed="#L" n="2"/>QUOD MALUM EST. PRAETER INTENTIONEM IN REBUS.
-</p>
-            <p xml:id="v8naTA-d1e1740-d1e117">
-               <cb ed="#L" n="b"/>
-               <lb ed="#L" n="3"/>EX hoc autem apparet quod malum in 
-<lb ed="#L" n="4"/>rebus incidit praeter intentionem 
-agen<lb ed="#L" break="no" n="5"/>tium. 
-</p>
-            <p xml:id="v8naTA-d1e1740-d1e128">
-               <lb ed="#L" n="6"/>Quod enim ex actione consequitur 
-<lb ed="#L" n="7"/>diversum ab eo quod erat intentum ab agente, 
-ma<lb ed="#L" break="no" n="8"/>nifestum est praeter intentionem accidere. Malum — 
-<lb ed="#L" n="9"/>autem diversum est a bono, quod intendit omne 
-<lb ed="#L" n="10"/>agens. Est igitur malum praeter intentionem 
-eve<lb ed="#L" break="no" n="11"/>niens. 
-</p>
-            <p xml:id="v8naTA-d1e1740-d1e145">
-               <lb ed="#L" n="12"/>Item. Defectus in effectu et actione consequitur »» 
-<lb ed="#L" n="13"/>aliquem-defectum in principiis actionis: sicut ex 
-<lb ed="#L" n="14"/>aliqua corruptione seminis sequitur partus 
-mon<lb ed="#L" break="no" n="15"/>struosus, et ex curvitate cruris sequitur 
-claudi<lb ed="#L" break="no" n="16"/>catio. Agens autem agit secundum quod habet 
-<lb ed="#L" n="17"/>de virtute activa, non secundum id quod defe-:: 
-<lb ed="#L" n="18"/>ctum virtutis patitur. Secundum autem quod agit, 
-<lb ed="#L" n="19"/>sic intendit finem. Intendit igitur finem '
-corre<lb ed="#L" break="no" n="20"/>spondentem virtuti. Quod igitur sequitur 
-respon<lb ed="#L" break="no" n="21"/>dens defectui virtutis, erit praeter intentionem 
-<lb ed="#L" n="22"/>agentis. Hoc autem est malum. Accidit igitur ma- » 
-<lb ed="#L" n="23"/>lum praeter intentionem. 
-</p>
-            <p xml:id="v8naTA-d1e1740-d1e174">
-               <lb ed="#L" n="24"/>Adhuc. Ad idem tendit motus mobilis et motio  
-<lb ed="#L" n="25"/>moventis . Mobile autem tendit per se ad bonum: 
-<lb ed="#L" n="26"/>ad malum autem per accidens et praeter 
-inten<lb ed="#L" break="no" n="27"/>tionem. Quod quidem maxime in generatione et ; 
-<lb ed="#L" n="28"/>corruptione apparet. Materia enim, cum est sub 
-<lb ed="#L" n="29"/>una forma, est in potentia ad formam aliam et 
-<lb ed="#L" n="30"/>privationem formae iam habitae: sicut, cum est 
-<lb ed="#L" n="31"/>sub forma aeris, est in potentia ad formam ignis 
-<lb ed="#L" n="32"/>et privationem formae aeris. Et ad utrumque 
-trans<lb ed="#L" break="no" n="33"/>mutatio materiae terminatur simul: ad formam 
-<lb ed="#L" n="34"/>quidem ignis secundum quod generatur ignis, ad 
-<lb ed="#L" n="35"/>privationem autem formae aeris secundum quod 
-<lb ed="#L" n="36"/>corrumpitur aer. Non autem intentio et appetitus 
-<lb ed="#L" n="37"/>materiae est ad privationem, sed ad formam: non ;,; 
-<lb ed="#L" n="38"/>enim tendit ad impossibile; est autem 
-impossi<lb ed="#L" break="no" n="39"/>bile materiam tantum sub privatione esse, esse  
-<lb ed="#L" n="40"/>vero eam sub forma est possibile. Igitur quod 
-<lb ed="#L" n="41"/>terminetur ad privationem est praeter intentio-
-<cb ed="#L" n="c"/>
-               <lb ed="#L" n="42"/>nem; terminatur autem ad eam inquantum 
-per<lb ed="#L" break="no" n="43"/>venit ad formam quam intendit, quam privatio
-<lb ed="#L" n="44"/>alterius formae de necessitate consequitur. 
-Trans<lb ed="#L" break="no" n="45"/>mutatio igitur materiae in generatione et 
-corru<lb ed="#L" break="no" n="46"/>ptione per se ordinatur ad formam, privatio vero
-<lb ed="#L" n="47"/>consequitur praeter intentionem. Et similiter 
-opor<lb ed="#L" break="no" n="48"/>tet esse in omnibus motibus. Et ideo in quolibet
-<lb ed="#L" n="49"/>motu est generatio et corruptio secundum quid:
-<lb ed="#L" n="50"/>sicut, cum aliquid alteratur de albo in nigrum,
-<lb ed="#L" n="51"/>corrumpitur album et fit nigrum. Bonum autem
-<lb ed="#L" n="52"/>est secundum quod materia est perfecta per 
-for<lb ed="#L" break="no" n="53"/>mam, et potentia per actum proprium: malum
-<lb ed="#L" n="54"/>autem secundum quod est privata actu debito.
-<lb ed="#L" n="55"/>Omne igitur quod movetur intendit in suo motu
-<lb ed="#L" n="56"/>pervenire ad bonum, pervenit autem ad. malum
-<lb ed="#L" n="57"/>praeter intentionem. Igitur, cum omne agens et
-<lb ed="#L" n="58"/>movens intendat ad bonum, malum provenit
-<lb ed="#L" n="59"/>praeter intentionem agentis.
-</p>
-            <p xml:id="v8naTA-d1e1740-d1e257">
-               <lb ed="#L" n="60"/>Amplius. In agentibus per intellectum et 
-aesti<lb ed="#L" break="no" n="61"/>mationem quamcumque, intentio sequitur 
-appre<lb ed="#L" break="no" n="62"/>hensionem: in illud enim tendit intentio quod
-<lb ed="#L" n="63"/>apprehenditur ut finis. Si igitur perveniatur ad
-<lb ed="#L" n="64"/>aliquid quod non habet speciem apprehensam,
-<lb ed="#L" n="65"/>erit praeter intentionem: sicut, si aliquis intendat
-<lb ed="#L" n="66"/>comedere mel, et comedat fel credens illud esse
-<lb ed="#L" n="67"/>mel, hoc erit praeter intentionem. Sed omne agens
-<lb ed="#L" n="68"/>per intellectum tendit ad aliquid secundum quod
-<lb ed="#L" n="69"/>accipit illud sub ratione boni, sicut ex 
-superio<lb ed="#L" break="no" n="70"/>ribus patet. Si ergo illud non sit bonum, sed
-<lb ed="#L" n="71"/>malum, hoc erit praeter intentionem. Agens igitur
-<lb ed="#L" n="72"/>per intellectum non operatur malum nisi praeter
-<lb ed="#L" n="73"/>intentionem. Cum igitur tendere ad bonum sit
-<lb ed="#L" n="74"/>commune agenti per intellectum et per naturam,
-<lb ed="#L" n="75"/>malum non consequitur ex intentione alicuius
-<lb ed="#L" n="76"/>agentis nisi praeter intentionem.
-</p>
-            <p xml:id="v8naTA-d1e1740-d1e296">
-               <lb ed="#L" n="77"/>Hinc est quod Dionysius dicit, iv cap. De Div.
-<lb ed="#L" n="78"/>Nom., quod malum est praeter intentionem et
-<lb ed="#L" n="79"/>voluntatem.
-</p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum 4</title>
+        <author ref="#Aquinas">Aquinas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulum 4</title>
+          <date when="2024-07-22">July 07, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="11"/>
+        <cb ed="#L" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="v8naTA-d1e1740"><!-- v8naTA-l3c4 -->
+        <head xml:id="v8naTA-d1e1740-Hd1e101">Capitulum 4</head>
+        <head xml:id="v8naTA-d1e1740-Hd1e103" type="question-title">Quod malum est. praeter intentionem in rebus.</head>
+        <p xml:id="v8naTA-d1e1740-d1e106">
+          <pb ed="#L" n="11"/>
+          <cb ed="#L" n="a"/>
+          <lb ed="#L" n="1" type="fixed=11"/>CAPITULUM QUARTUM
+          <lb ed="#L" n="2"/>QUOD MALUM EST. PRAETER INTENTIONEM IN REBUS.
+        </p>
+        <p xml:id="v8naTA-d1e1740-d1e117">
+          <cb ed="#L" n="b"/>
+          <lb ed="#L" n="3"/>EX hoc autem apparet quod malum in 
+          <lb ed="#L" n="4"/>rebus incidit praeter intentionem 
+          agen<lb ed="#L" break="no" n="5"/>tium. 
+        </p>
+        <p xml:id="v8naTA-d1e1740-d1e128">
+          <lb ed="#L" n="6"/>Quod enim ex actione consequitur 
+          <lb ed="#L" n="7"/>diversum ab eo quod erat intentum ab agente, 
+          ma<lb ed="#L" break="no" n="8"/>nifestum est praeter intentionem accidere. Malum — 
+          <lb ed="#L" n="9"/>autem diversum est a bono, quod intendit omne 
+          <lb ed="#L" n="10"/>agens. Est igitur malum praeter intentionem 
+          eve<lb ed="#L" break="no" n="11"/>niens. 
+        </p>
+        <p xml:id="v8naTA-d1e1740-d1e145">
+          <lb ed="#L" n="12"/>Item. Defectus in effectu et actione consequitur »» 
+          <lb ed="#L" n="13"/>aliquem-defectum in principiis actionis: sicut ex 
+          <lb ed="#L" n="14"/>aliqua corruptione seminis sequitur partus 
+          mon<lb ed="#L" break="no" n="15"/>struosus, et ex curvitate cruris sequitur 
+          claudi<lb ed="#L" break="no" n="16"/>catio. Agens autem agit secundum quod habet 
+          <lb ed="#L" n="17"/>de virtute activa, non secundum id quod defe-:: 
+          <lb ed="#L" n="18"/>ctum virtutis patitur. Secundum autem quod agit, 
+          <lb ed="#L" n="19"/>sic intendit finem. Intendit igitur finem '
+          corre<lb ed="#L" break="no" n="20"/>spondentem virtuti. Quod igitur sequitur 
+          respon<lb ed="#L" break="no" n="21"/>dens defectui virtutis, erit praeter intentionem 
+          <lb ed="#L" n="22"/>agentis. Hoc autem est malum. Accidit igitur ma- » 
+          <lb ed="#L" n="23"/>lum praeter intentionem. 
+        </p>
+        <p xml:id="v8naTA-d1e1740-d1e174">
+          <lb ed="#L" n="24"/>Adhuc. Ad idem tendit motus mobilis et motio  
+          <lb ed="#L" n="25"/>moventis . Mobile autem tendit per se ad bonum: 
+          <lb ed="#L" n="26"/>ad malum autem per accidens et praeter 
+          inten<lb ed="#L" break="no" n="27"/>tionem. Quod quidem maxime in generatione et ; 
+          <lb ed="#L" n="28"/>corruptione apparet. Materia enim, cum est sub 
+          <lb ed="#L" n="29"/>una forma, est in potentia ad formam aliam et 
+          <lb ed="#L" n="30"/>privationem formae iam habitae: sicut, cum est 
+          <lb ed="#L" n="31"/>sub forma aeris, est in potentia ad formam ignis 
+          <lb ed="#L" n="32"/>et privationem formae aeris. Et ad utrumque 
+          trans<lb ed="#L" break="no" n="33"/>mutatio materiae terminatur simul: ad formam 
+          <lb ed="#L" n="34"/>quidem ignis secundum quod generatur ignis, ad 
+          <lb ed="#L" n="35"/>privationem autem formae aeris secundum quod 
+          <lb ed="#L" n="36"/>corrumpitur aer. Non autem intentio et appetitus 
+          <lb ed="#L" n="37"/>materiae est ad privationem, sed ad formam: non ;,; 
+          <lb ed="#L" n="38"/>enim tendit ad impossibile; est autem 
+          impossi<lb ed="#L" break="no" n="39"/>bile materiam tantum sub privatione esse, esse  
+          <lb ed="#L" n="40"/>vero eam sub forma est possibile. Igitur quod 
+          <lb ed="#L" n="41"/>terminetur ad privationem est praeter intentio-
+          <cb ed="#L" n="c"/>
+          <lb ed="#L" n="42"/>nem; terminatur autem ad eam inquantum 
+          per<lb ed="#L" break="no" n="43"/>venit ad formam quam intendit, quam privatio
+          <lb ed="#L" n="44"/>alterius formae de necessitate consequitur. 
+          Trans<lb ed="#L" break="no" n="45"/>mutatio igitur materiae in generatione et 
+          corru<lb ed="#L" break="no" n="46"/>ptione per se ordinatur ad formam, privatio vero
+          <lb ed="#L" n="47"/>consequitur praeter intentionem. Et similiter 
+          opor<lb ed="#L" break="no" n="48"/>tet esse in omnibus motibus. Et ideo in quolibet
+          <lb ed="#L" n="49"/>motu est generatio et corruptio secundum quid:
+          <lb ed="#L" n="50"/>sicut, cum aliquid alteratur de albo in nigrum,
+          <lb ed="#L" n="51"/>corrumpitur album et fit nigrum. Bonum autem
+          <lb ed="#L" n="52"/>est secundum quod materia est perfecta per 
+          for<lb ed="#L" break="no" n="53"/>mam, et potentia per actum proprium: malum
+          <lb ed="#L" n="54"/>autem secundum quod est privata actu debito.
+          <lb ed="#L" n="55"/>Omne igitur quod movetur intendit in suo motu
+          <lb ed="#L" n="56"/>pervenire ad bonum, pervenit autem ad. malum
+          <lb ed="#L" n="57"/>praeter intentionem. Igitur, cum omne agens et
+          <lb ed="#L" n="58"/>movens intendat ad bonum, malum provenit
+          <lb ed="#L" n="59"/>praeter intentionem agentis.
+        </p>
+        <p xml:id="v8naTA-d1e1740-d1e257">
+          <lb ed="#L" n="60"/>Amplius. In agentibus per intellectum et 
+          aesti<lb ed="#L" break="no" n="61"/>mationem quamcumque, intentio sequitur 
+          appre<lb ed="#L" break="no" n="62"/>hensionem: in illud enim tendit intentio quod
+          <lb ed="#L" n="63"/>apprehenditur ut finis. Si igitur perveniatur ad
+          <lb ed="#L" n="64"/>aliquid quod non habet speciem apprehensam,
+          <lb ed="#L" n="65"/>erit praeter intentionem: sicut, si aliquis intendat
+          <lb ed="#L" n="66"/>comedere mel, et comedat fel credens illud esse
+          <lb ed="#L" n="67"/>mel, hoc erit praeter intentionem. Sed omne agens
+          <lb ed="#L" n="68"/>per intellectum tendit ad aliquid secundum quod
+          <lb ed="#L" n="69"/>accipit illud sub ratione boni, sicut ex 
+          superio<lb ed="#L" break="no" n="70"/>ribus patet. Si ergo illud non sit bonum, sed
+          <lb ed="#L" n="71"/>malum, hoc erit praeter intentionem. Agens igitur
+          <lb ed="#L" n="72"/>per intellectum non operatur malum nisi praeter
+          <lb ed="#L" n="73"/>intentionem. Cum igitur tendere ad bonum sit
+          <lb ed="#L" n="74"/>commune agenti per intellectum et per naturam,
+          <lb ed="#L" n="75"/>malum non consequitur ex intentione alicuius
+          <lb ed="#L" n="76"/>agentis nisi praeter intentionem.
+        </p>
+        <p xml:id="v8naTA-d1e1740-d1e296">
+          <lb ed="#L" n="77"/>Hinc est quod Dionysius dicit, iv cap. De Div.
+          <lb ed="#L" n="78"/>Nom., quod malum est praeter intentionem et
+          <lb ed="#L" n="79"/>voluntatem.
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum 8</title>
+        <author ref="#Aquinas">Aquinas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulum 8</title>
+          <date when="2024-08-06">August 06, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="N" n="cod-pzxxyz">New York, NYU, mss 535, frag 067</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#N" n="1-v"/>
+        <cb ed="#N" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="v8naTA-d1e1773"><!-- v8naTA-l3c8 -->
+        <head xml:id="v8naTA-d1e1773-Hd1e101">Capitulum 8</head>
+        <head xml:id="v8naTA-d1e1773-Hd1e103" type="question-title">Rationes quibus videtur probari quod malum sit natura
+          vel res aliqua.</head>
+        <p xml:id="v8naTA-d1e1773-d1e106">
+          <sic>Cap. VII</sic> quod malum sic qua natura aliquae res 
+          <lb ed="#N" n="54"/>aliqua ut probant aliquorum rationes et solutio rationum pra<!-- bump down -->emissarum
+        </p>
+        <p xml:id="v8naTA-d1e1773-d1e117">
+          <lb ed="#N" n="55"/>VIdetur autem quibusdam rationibus praedictae 
+          <lb ed="#N" n="56"/>sententiae posse obviari
+        </p>
+        <p xml:id="v8naTA-d1e1773-d1e126">
+          Ex propria enim differentia spe<lb ed="#N" break="no" n="57"/>cifica 
+          unumquodque speciem sortitur malum autem 
+          <lb ed="#N" n="58"/>differentia specifica in aliquibus generibus scilicet in habitibus et actibus 
+          <lb ed="#N" n="59"/>moralibus sicut enim virtus secundum suam speciem est bonus habitus ita 
+          <lb ed="#N" n="60"/>contrarium vitium est malus habitus secundum suam speciem et similiter de
+          <lb ed="#N" n="61"/>actibus virtutum et vitiorum <pc type="punctus"/> malum igitur est dans speciem ali<lb ed="#N" break="no" n="62"/>quibus 
+          rebus est igitur aliqua essentia et aliquibus rebus naturalis
+        </p>
+        <p xml:id="v8naTA-d1e1773-d1e153">
+          <pc type="virgula">//</pc> Praeterea 
+          <lb ed="#N" n="63"/>utrumque contrariorum est natura quaedam si enim nihil poneret alterum contrario<lb ed="#N" break="no" n="64"/>rum 
+          esset privatio vel negatio pura sed bonum et malum dicuntur 
+          <lb ed="#N" n="65"/>esse contraria malum igitur est natura aliqua
+        </p>
+        <p xml:id="v8naTA-d1e1773-d1e166">
+          Item bonum et malum 
+          <lb ed="#N" n="66"/>dicuntur esse genera contrariorum ab aristotele in praedicamentis cuiuslibet autem generis est 
+          <lb ed="#N" n="67"/>essentia et natura aliqua <pc type="punctus"/> nam non entis non sunt species neque differentiae et 
+          <lb ed="#N" n="68"/>ita quod non est <del rend="expunctuation">q</del> non potest esse genus malum igitur est aliqua 
+          <lb ed="#N" n="69"/>essentia et natura
+        </p>
+        <p xml:id="v8naTA-d1e1773-d1e186">
+          adhuc omne quod agit est res aliqua malum autem agit in<lb ed="#N" break="no" n="70"/>quantum 
+          malum repugnat enim bono et corrumpit ipsum malum igitur inquantum 
+          <lb ed="#N" n="71"/>malum est res aliqua
+        </p>
+        <p xml:id="v8naTA-d1e1773-d1e197">
+          <pc type="virgula">//</pc> amplius in quibuscumque invenitur magis et
+          <lb ed="#N" n="72"/>minus oportet quod sint res aliquae habentes ordinem negationes enim et 
+          <lb ed="#N" n="73"/>privationes non suscipiunt magis et minus Invenitur autem inter
+          <lb ed="#N" n="74"/>mala unum altero peius oportet igitur <add place="above-line">vt</add> videtur quod malum sit res aliqua
+        </p>
+        <p xml:id="v8naTA-d1e1773-d1e213">
+          <lb ed="#N" n="75"/><pc type="virgula">//</pc> Praeterea <del rend="strikethrough">sit</del> res et ens convertuntur est autem malum in mundo ergo est res aliqua 
+          <lb ed="#N" n="76"/>et natura
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

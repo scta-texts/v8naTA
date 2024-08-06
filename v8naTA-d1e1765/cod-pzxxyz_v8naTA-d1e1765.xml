@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum 7</title>
+        <author ref="#Aquinas">Aquinas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulum 7</title>
+          <date when="2024-08-06">August 06, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="N" n="cod-pzxxyz">New York, NYU, mss 535, frag 067</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#N" n="1-v"/>
+        <cb ed="#N" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="v8naTA-d1e1765"><!-- v8naTA-l3c7 -->
+        <head xml:id="v8naTA-d1e1765-Hd1e101">Capitulum 7</head>
+        <head xml:id="v8naTA-d1e1765-Hd1e103" type="question-title">Quod malum non est aliqua essentia.</head>
+        <p xml:id="v8naTA-d1e1765-d1e106">
+          Capitulum VI quod malum non est aliqua essentia
+        </p>
+        <p xml:id="v8naTA-d1e1765-d1e115">
+          <lb ed="#N" n="9"/>Ex his autem apparet quod nulla essentia est secundum se mala
+        </p>
+        <p xml:id="v8naTA-d1e1765-d1e124">
+          ma<lb ed="#N" break="no" n="10"/>lum 
+          enim ut dictum est nihil est aliud quam privatio eius quod quis natus 
+          <lb ed="#N" n="11"/>est et debet habere sic enim apud omnes est usus huius nominis ma<lb ed="#N" break="no" n="12"/>lum 
+          privatio autem non est aliqua essentia <pc type="punctus"/> sed est negatio in substantia ma<lb ed="#N" break="no" n="13"/>lum 
+          igitur non est aliqua essentia in rebus 
+        </p>
+        <p xml:id="v8naTA-d1e1765-d1e143">
+          <pc type="virgula">//</pc> Adhuc unumquodque secundum 
+          suam essentiam habet esse. Inquantum enim habet esse habet aliquid bonum. Nam si 
+          <lb ed="#N" n="14"/>bonum est quod omnia appetunt oportet ipsum esse bonum dicere cum omnia esse ap<lb ed="#N" break="no" n="15"/>petant 
+          secundum hoc igitur unumquodque bonum est quod essentiam habet bonum et 
+          <lb ed="#N" n="16"/>malum opponuntur nihil igitur est malum secundum quod essentiam habet <pc type="punctus"/> 
+          <lb ed="#N" n="17"/>Nulla igitur <unclear><!-- possibly correced -->essentia</unclear> mala est.
+        </p>
+        <p xml:id="v8naTA-d1e1765-d1e167">
+          <pc type="virgula">//</pc> amplius omnis res vel est agens vel est facta 
+          <lb ed="#N" n="18"/>malum autem non potest esse agens quia quicquid agit inquantum est actu 
+          <lb ed="#N" n="19"/>existens et perfectum et similiter non potest esse factum <pc type="punctus"/> nam cuiuslibet generationis est 
+          <lb ed="#N" n="20"/>terminus forma et bonum. Nulla igitur res secundum suam essentiam est ma<lb ed="#N" break="no" n="21"/>la
+        </p>
+        <p xml:id="v8naTA-d1e1765-d1e189">
+          <pc type="virgula">//</pc> Item nihil tendit ad suum contrarium <pc type="punctus"/> unumquodque enim appetit 
+          <lb ed="#N" n="22"/>quod est sibi simile et conveniens omne autem ens agendo intendit bonum 
+          <lb ed="#N" n="23"/>ut ostensum est nullum igitur ens inquantum huiusmodi est malum
+        </p>
+        <p xml:id="v8naTA-d1e1765-d1e202">
+          <pc type="virgula">//</pc> ad<lb ed="#N" break="no" n="24"/>huc 
+          omnis essentia est alicui rei naturalis si enim est in genere substantiae est ipsa natura rei si vero 
+          <lb ed="#N" n="25"/>sit in genere accidentis <pc type="punctus"/> oportet quod ex principiis alicuius substantiae causetur et 
+          <lb ed="#N" n="26"/>sic illi substantiae erit naturalis licet forte alteri substantiae non sit naturalis sicut cali<lb ed="#N" break="no" n="27"/>ditas 
+          est naturalis igni licet sit innaturalis aquae <pc type="punctus"/> quod autem est secundum se malum 
+          <lb ed="#N" n="28"/>non potest esse alicui naturale: De ratione enim mali est privatio eius quod est 
+          <lb ed="#N" n="29"/>alicui natum inesse et debitum <del rend="expunctuation">ei</del> esse ei malum igitur quod sit eius quod 
+          <lb ed="#N" n="30"/>est naturale privatio non potest esse alicui naturale <pc type="punctus"/> unde quicquid naturaliter inest 
+          <lb ed="#N" n="31"/>alicui est ei bonum et malum si ei desit. Nulla igitur essentia est secundum se ma<lb ed="#N" break="no" n="32"/>la.
+        </p>
+        <p xml:id="v8naTA-d1e1765-d1e237">
+          <pc type="virgula">//</pc> amplius quicquid habet essentiam aliquam aut ipsummet est forma aut 
+          <lb ed="#N" n="33"/>habet formam aliquam per formam enim collocatur unumquodque in genere vel 
+          <lb ed="#N" n="34"/>specie forma autem inquantum huiusmodi habet rationem bonitatis cum sit principium 
+          <lb ed="#N" n="35"/>actionis et finis quem intendit omne faciens et actus quo u<lb ed="#N" break="no" n="36"/>numquodque 
+          habens formam perfectum est. Quicquid igitur habet essentiam aliquam inquantum 
+          <lb ed="#N" n="37"/>huiusmodi est bonum malum igitur non habet essentiam aliquam
+        </p>
+        <p xml:id="v8naTA-d1e1765-d1e266">
+          <pc type="virgula">//</pc> Item ens per actum et potentiam 
+          <lb ed="#N" n="38"/>dividitur actus autem inquantum huiusmodi bonum est quia secundum quod aliquid est actu secundum hoc est per<lb ed="#N" break="no" n="39"/>fectum 
+          potentia etiam bonum aliquid est <pc type="punctus"/> Tendit enim potentia ad actum ut in quolibet 
+          <lb ed="#N" n="40"/>motu apparet etiam et actui proportionata <pc type="punctus"/> non ei contraria et 
+          <lb ed="#N" n="41"/>est in eodem genere cum actu et privatio non competit ei nisi per accidens 
+          <lb ed="#N" n="42"/>omne igitur quod est quocumque modo sit inquantum est ens bonum est <pc type="punctus"/> malum igitur non 
+          <lb ed="#N" n="43"/>habet aliquam essentiam
+        </p>
+        <p xml:id="v8naTA-d1e1765-d1e293">
+          <pc type="virgula">//</pc> amplius probatum est in secundo huius quod omne esse quocumque 
+          <lb ed="#N" n="44"/>modo sit est a deo <pc type="punctus"/> deum autem esse perfectam bonitatem in primo
+          <lb ed="#N" n="45"/>huius ostendimus cum igitur boni effectus malum esse non possit impossibile 
+          <lb ed="#N" n="46"/>est aliquod ens inquantum est ens esse malum
+        </p>
+        <p xml:id="v8naTA-d1e1765-d1e309">
+          <pc type="virgula">//</pc> hinc est quod 
+          <lb ed="#N" n="47"/>gen. 1 dicitur <quote xml:id="v8naTA-d1e1765-Qd1e313">vidit deus cuncta quae fecerat et erant valde 
+            <lb ed="#N" n="48"/>bona</quote> Et eccle. iii <quote xml:id="v8naTA-d1e1765-Qd1e318">cuncta fecit bona</quote> in tempore suo et I
+          <lb ed="#N" n="49"/>thim. iiii <quote xml:id="v8naTA-d1e1765-Qd1e320">Omnis creatura dei bona.</quote>
+        </p>
+        <p xml:id="v8naTA-d1e1765-d1e323">
+          et dionysius cap. iiii de div. 
+          <lb ed="#N" n="50"/>nom. dicit quod malum non existens scilicet per se nec aliquid in existentibus 
+          <lb ed="#N" n="51"/>quasi accidens sicut albedo vel nigredo
+        </p>
+        <p xml:id="v8naTA-d1e1765-d1e334">
+          <pc type="pilcrow"/> per hoc autem ex<lb ed="#N" break="no" n="52"/>cluditur 
+          error manichaeorum ponentium aliquas res secundum suas
+          <cb ed="#N" n="b"/>
+          <lb ed="#N" n="53"/>naturas malas esse <pc type="punctus"/>
+        </p>
+      </div>
+      
+    </body>
+  </text>
+</TEI>

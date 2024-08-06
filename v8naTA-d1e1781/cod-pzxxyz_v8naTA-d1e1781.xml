@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum 9</title>
+        <author ref="#Aquinas">Aquinas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulum 9</title>
+          <date when="2024-08-06">August 06, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="N" n="cod-pzxxyz">New York, NYU, mss 535, frag 067</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#N" n="1-v"/>
+        <cb ed="#N" n="b"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="v8naTA-d1e1781"><!-- v8naTA-l3c9 -->
+        <head xml:id="v8naTA-d1e1781-Hd1e101">Capitulum 9</head>
+        <head xml:id="v8naTA-d1e1781-Hd1e103" type="question-title">Rationes quibus videtur probari quod malum sit natura
+          vel res aliqua.</head>
+        <p xml:id="v8naTA-d1e1781-d1e106">
+          <pc type="virgula">//</pc> has autem et rationes non difficile est solvere malum 
+          <lb ed="#N" n="77"/>enim et bonum in moralibus specificae differentiae ponuntur ut prima 
+          <lb ed="#N" n="78"/>repproponebat <pc type="punctus"/> quia moralia a voluntate dependent secundum hoc 
+          <lb ed="#N" n="79"/>enim aliquid ad genus moris pertinet quod est voluntarium voluntatis 
+          <lb ed="#N" n="80"/>autem obiectum est finis et bonum unde a fine speciem moralia 
+          <lb ed="#N" n="81"/>sortiuntur sicut et naturales actiones a forma proprii activi <pc type="punctus"/> ut 
+          <lb ed="#N" n="82"/>calefactio a calore quia igitur bonum et malum dicuntur secundum ordinem
+          <lb ed="#N" n="83"/>ad finem vel privationem ordinis oportet quod in moralibus primae differentiae 
+          <lb ed="#N" n="84"/>sint bonum et malum unius autem generis oportet esse unam mensuram 
+          <lb ed="#N" n="85"/>primam <pc type="punctus"/> moralium autem mensura est ratio oportet igitur quod a fine 
+          <lb ed="#N" n="86"/>rationis dicantur aliqua in moralibus bona vel mala 
+          <lb ed="#N" n="87"/>quod igitur in moralibus sortitur speciem a fine quod est secundum rationem dicitur 
+          <lb ed="#N" n="88"/>secundum speciem suam bonum <pc type="punctus"/> Quod vero sortitur speciem a fine contrario 
+          <lb ed="#N" n="89"/>finis rationis dicitur secundum speciem suam malum finis autem ille 
+          <lb ed="#N" n="90"/>etsi tollat finem rationis est tamen aliquod bonum <pc type="punctus"/> sicut de<lb ed="#N" break="no" n="91"/>lectabile 
+          secundum sensum vel aliquid huiusmodi <pc type="punctus"/> unde et in aliquibus animalibus sunt 
+          <lb ed="#N" n="92"/>bona et homini etiam cum sunt secundum rationem moderata et contingit quod est ma<lb ed="#N" break="no" n="93"/>lum 
+          uni esse bonum alteri <pc type="punctus"/> et ideo nec malum secundum quod est differentia 
+          <lb ed="#N" n="94"/>specifica in genere moralium importat aliquid quod sit secundum essentiam 
+          <lb ed="#N" n="95"/>suam malum <pc type="punctus"/> sed aliquid quod secundum se est bonum malum autem homini inquantum 
+          <lb ed="#N" n="96"/>privat ordinem rationis quod est hominis bonum ex quo etiam patet 
+          <lb ed="#N" n="97"/>quod malum et bonum sunt contraria secundum quod in genere moralium 
+          <lb ed="#N" n="98"/>accipiuntur Non autem simpliciter accepta sicut secunda ratio proponebat 
+          <lb ed="#N" n="99"/>sed malum privatio est boni inquantum est malum.
+        </p>
+        <p xml:id="v8naTA-d1e1781-d1e184">
+          <lb ed="#N" n="100"/>Eodem etiam modo 
+          <lb ed="#N" n="101"/>potest accipi dictum quod malum et <del rend="strikethrough">dicit</del> bonum prout sunt in moralibus 
+          <lb ed="#N" n="102"/>sunt genera contrariorum ex quo tertia ratio procedebat <pc type="punctus"/> Omnium enim contra<lb ed="#N" break="no" n="103"/>riorum 
+          moralium vel utrumque est malum sicut prodigalitas 
+          <lb ed="#N" n="104"/>et illiberalitas vel unum bonum et alterum malum sicut liberali<lb ed="#N" break="no" n="105"/>tas 
+          et illiberalitas est igitur malum morale et genus et differentia 
+          <lb ed="#N" n="106"/>non secundum quod est privatio boni rationis ex quo dicitur malum <pc type="punctus"/> sed ex natura actionis
+        </p>
+        <p xml:id="v8naTA-d1e1781-d1e223">
+          
+        </p>
+        <p xml:id="v8naTA-d1e1781-d1e263">
+          
+        </p>
+        <p xml:id="v8naTA-d1e1781-d1e298">
+          
+        </p>
+        <p xml:id="v8naTA-d1e1781-d1e346">
+          
+        </p>
+        <p xml:id="v8naTA-d1e1781-d1e381">
+          
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum 5</title>
+        <author ref="#Aquinas">Aquinas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulum 5</title>
+          <date when="2024-08-06">August 06, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="N" n="cod-pzxxyz">New York, NYU, mss 535, frag 067</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-08-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#N" n="1-r"/>
+        <cb ed="#N" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="v8naTA-d1e1749"><!-- v8naTA-l3c5 -->
+        <head xml:id="v8naTA-d1e1749-Hd1e101">Capitulum 5</head>
+        <head xml:id="v8naTA-d1e1749-Hd1e103" type="question-title">Rationes quibus videtur probari
+          quod malum non sit praeter intentionem.</head>
+        <p xml:id="v8naTA-d1e1749-d1e106">
+          <lb ed="#N" n="21"/>Capitulum V rationes quibus videtur probari quod malum non sit praeter intentionem <!-- jumps down --> in rebus et solutio rationum <!-- jumps down --> praemissarum
+        </p>
+        <p xml:id="v8naTA-d1e1749-d1e117">
+          <lb ed="#N" n="22"/>Sunt autem quaedam huic sententiae 
+          <lb ed="#N" n="23"/>quae adversari videntur 
+        </p>
+        <p xml:id="v8naTA-d1e1749-d1e126">
+          <lb ed="#N" n="24"/>Quod enim accidit 
+          <lb ed="#N" n="25"/>praeter intentionem agentis dicitur esse fortuitum et casuale 
+          <lb ed="#N" n="26"/>et in paucioribus accidens malum autem fieri non dicitur fortuitum et 
+          <lb ed="#N" n="27"/>casuale neque ut in paucioribus accidens sed semper vel in pluribus in 
+          <lb ed="#N" n="28"/>naturalibus enim semper generationi corruptio adiungitur in agentibus etiam per voluntatem 
+          <lb ed="#N" n="29"/>in pluribus peccatum accidit cum difficile sit secundum virtutem agere sicut attingere 
+          <lb ed="#N" n="30"/>centrum in circulo ut dicit <ref>aristoteles in II ethicorum</ref> non igitur videtur malum 
+          <lb ed="#N" n="31"/>esse proveniens praeter intentionem 
+        </p>
+        <p xml:id="v8naTA-d1e1749-d1e156">
+          Item <ref xml:id="v8naTA-d1e1749-Rd1e160">aristoteles in III ethicorum</ref> expresse 
+          <lb ed="#N" n="32"/>dicit quod <quote xml:id="v8naTA-d1e1749-Qd1e164">malitia est voluntarium</quote> et hoc probat per hoc quod aliquis operatur <unclear>iniusta</unclear> 
+          <lb ed="#N" n="33"/>voluntarie irralionabile autem est operantem voluntarie iniusta non velle 
+          <lb ed="#N" n="34"/>iniustum esse et voluntarie <unclear>stuprantem</unclear> non velle incontinentem esse 
+          <lb ed="#N" n="35"/>et per hoc etiam legislatores puniunt malos quasi voluntarie 
+          <lb ed="#N" n="36"/>operantes mala <pc type="punctus"/> Non videtur igitur malum praeter voluntatem vel in<lb ed="#N" n="37"/>tentionem 
+          esse
+        </p>
+        <p xml:id="v8naTA-d1e1749-d1e182">
+          praeterea omnis motus naturalis habet finem intentum a natura et corruptio 
+          <lb ed="#N" n="38"/>autem est mutatio naturalis sicut et generatio <pc type="punctus"/> finis igitur eius qui est privatio habens rationem 
+          <lb ed="#N" n="39"/>mali est intentus a natura sicut etiam forma et bonum quae sunt generationis finis <pc type="punctus"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

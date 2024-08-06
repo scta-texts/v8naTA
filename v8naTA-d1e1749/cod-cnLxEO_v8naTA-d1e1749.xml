@@ -1,106 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Capitulum 5</title>
-            <author ref="#Aquinas">Aquinas</author>
-            <respStmt>
-               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
-               <resp>Transcription Editor</resp>
-               <resp>TEI Encoder</resp>
-            </respStmt>
-         </titleStmt>
-         <editionStmt>
-            <edition n="0.0.0-dev">
-               <title>Capitulum 5</title>
-               <date when="2024-07-22">July 07, 2024</date>
-            </edition>
-         </editionStmt>
-         <publicationStmt>
-            <authority>SCTA</authority>
-            <availability status="free">
-               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
-               </p>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listWit>
-               <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
-            </listWit>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
-         <editorialDecl>
-            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
-       guidelines for a diplomatic edition.</p>
-         </editorialDecl>
-      </encodingDesc>
-      <revisionDesc status="draft">
-         <listChange>
-            <change when="2024-07-22" status="draft" n="0.0.0">
-               <p>Created file for the first time.</p>
-            </change>
-         </listChange>
-      </revisionDesc>
-   </teiHeader>
-   <text xml:lang="la">
-      <front>
-         <div xml:id="starts-on">
-            <pb ed="#L" n="14"/>
-            <cb ed="#L" n="a"/>
-         </div>
-      </front>
-      <body>
-         <div xml:id="v8naTA-d1e1749"><!-- v8naTA-l3c5 -->
-            <head xml:id="v8naTA-d1e1749-Hd1e101">Capitulum 5</head>
-            <head xml:id="v8naTA-d1e1749-Hd1e103" type="question-title">Rationes quibus videtur probari
-quod malum non sit praeter intentionem.</head>
-            <p xml:id="v8naTA-d1e1749-d1e106">
-               <cb ed="#L" n="c"/>
-               <lb ed="#L" n="9" type="fixed=14"/>CAPITULUM QUINTUM ET SEXTUM
-<lb ed="#L" n="10"/>RATIONES QUIBUS VIDETUR PROBARI
-<lb ed="#L" n="11"/>QUOD MALUM NON SIT PRAETER INTENTIONEM.
-</p>
-            <p xml:id="v8naTA-d1e1749-d1e117">
-               <cb ed="#L" n="d"/>
-               <lb ed="#L" n="12"/>SUNT autem quaedam quae huic 
-senten<lb ed="#L" break="no" n="13"/>tiae adversari videntur. 
-</p>
-            <p xml:id="v8naTA-d1e1749-d1e126">
-               <lb ed="#L" n="14"/>Quod enim accidit praeter 
-intentio<lb ed="#L" break="no" n="15"/>nem agentis, dicitur esse fortuitum et 
-<lb ed="#L" n="16"/>casuale et in paucioribus accidens. Malum autem ; 
-<lb ed="#L" n="17"/>fieri non dicitur fortuitum et casuale, neque ut 
-<lb ed="#L" n="18"/>in paucioribus accidens, sed semper vel in 
-plu<lb ed="#L" break="no" n="19"/>ribus. In naturalibus enim semper generationi 
-<lb ed="#L" n="20"/>corruptio adiungitur. In agentibus etiam per 
-vo<lb ed="#L" break="no" n="21"/>luntatem in pluribus peccatum accidit: cum diffi- » 
-<lb ed="#L" n="22"/>cile sit. secundum virtutem. agere, sicut. attingere | 
-<lb ed="#L" n="23"/>centrum in circulo, ut dicit Aristoteles, in II 
-Ethi<lb ed="#L" break="no" n="24"/>corum. Non igitur videtur. malum esse 
-prove<lb ed="#L" break="no" n="25"/>niens praeter intentionem. 
-</p>
-            <p xml:id="v8naTA-d1e1749-d1e156">
-               <lb ed="#L" n="26"/>Item. <ref xml:id="v8naTA-d1e1749-Rd1e160">Aristoteles in III Ethic.</ref>, expresse dicit: 
-<lb ed="#L" n="27"/>quod <quote xml:id="v8naTA-d1e1749-Qd1e164">malitia est voluntarium</quote>. Et hoc probat per 
-<lb ed="#L" n="28"/>hoc quod aliquis voluntarie operatur iniusta, 
-irra<lb ed="#L" break="no" n="29"/>lionabile autem. est. operantem. voluntarie iniusta 
-<lb ed="#L" n="30"/>non velle iniustum esse, et voluntarie stuprantem — 
-<lb ed="#L" n="31"/>non velle incontinentem esse; et per hoc quod » 
-<lb ed="#L" n="32"/>legislatores puniunt malos quasi voluntarie 
-ope<lb ed="#L" break="no" n="33"/>rantes mala. Non videtur igitur malum praeter 
-<lb ed="#L" n="34"/>voluntatem vel intentionem esse.
-</p>
-            <p xml:id="v8naTA-d1e1749-d1e182">
-               <lb ed="#L" n="35"/>Praeterea. Omnis motus naturalis habet finem | 
-<lb ed="#L" n="36"/>intentum a natura. Corruptio autem est mutatio  
-<lb ed="#L" n="37"/>naturalis, sicut et generatio. Finis igitur eius, qui 
-<lb ed="#L" n="38"/>est privatio habens rationem mali, est intentus 
-<lb ed="#L" n="39"/>a natura: sicut etiam forma et bonum, quae sunt 
-<lb ed="#L" n="40"/>generationis finis.
-</p>
-         </div>
-      </body>
-   </text>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum 5</title>
+        <author ref="#Aquinas">Aquinas</author>
+        <respStmt>
+          <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+          <resp>Transcription Editor</resp>
+          <resp>TEI Encoder</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Capitulum 5</title>
+          <date when="2024-07-22">July 07, 2024</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+          </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="L" n="cod-cnLxEO">Rome, 1926, Vol. 13</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2024-07-22" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#L" n="14"/>
+        <cb ed="#L" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="v8naTA-d1e1749"><!-- v8naTA-l3c5 -->
+        <head xml:id="v8naTA-d1e1749-Hd1e101">Capitulum 5</head>
+        <head xml:id="v8naTA-d1e1749-Hd1e103" type="question-title">Rationes quibus videtur probari
+          quod malum non sit praeter intentionem.</head>
+        <p xml:id="v8naTA-d1e1749-d1e106">
+          <cb ed="#L" n="c"/>
+          <lb ed="#L" n="9" type="fixed=14"/>CAPITULUM QUINTUM ET SEXTUM
+          <lb ed="#L" n="10"/>RATIONES QUIBUS VIDETUR PROBARI
+          <lb ed="#L" n="11"/>QUOD MALUM NON SIT PRAETER INTENTIONEM.
+        </p>
+        <p xml:id="v8naTA-d1e1749-d1e117">
+          <cb ed="#L" n="d"/>
+          <lb ed="#L" n="12"/>SUNT autem quaedam quae huic 
+          senten<lb ed="#L" break="no" n="13"/>tiae adversari videntur. 
+        </p>
+        <p xml:id="v8naTA-d1e1749-d1e126">
+          <lb ed="#L" n="14"/>Quod enim accidit praeter 
+          intentio<lb ed="#L" break="no" n="15"/>nem agentis, dicitur esse fortuitum et 
+          <lb ed="#L" n="16"/>casuale et in paucioribus accidens. Malum autem ; 
+          <lb ed="#L" n="17"/>fieri non dicitur fortuitum et casuale, neque ut 
+          <lb ed="#L" n="18"/>in paucioribus accidens, sed semper vel in 
+          plu<lb ed="#L" break="no" n="19"/>ribus. In naturalibus enim semper generationi 
+          <lb ed="#L" n="20"/>corruptio adiungitur. In agentibus etiam per 
+          vo<lb ed="#L" break="no" n="21"/>luntatem in pluribus peccatum accidit: cum diffi- » 
+          <lb ed="#L" n="22"/>cile sit. secundum virtutem. agere, sicut. attingere | 
+          <lb ed="#L" n="23"/>centrum in circulo, ut dicit Aristoteles, in II 
+          Ethi<lb ed="#L" break="no" n="24"/>corum. Non igitur videtur. malum esse 
+          prove<lb ed="#L" break="no" n="25"/>niens praeter intentionem. 
+        </p>
+        <p xml:id="v8naTA-d1e1749-d1e156">
+          <lb ed="#L" n="26"/>Item. <ref xml:id="v8naTA-d1e1749-Rd1e160">Aristoteles in III Ethic.</ref>, expresse dicit: 
+          <lb ed="#L" n="27"/>quod <quote xml:id="v8naTA-d1e1749-Qd1e164">malitia est voluntarium</quote>. Et hoc probat per 
+          <lb ed="#L" n="28"/>hoc quod aliquis voluntarie operatur iniusta, 
+          irra<lb ed="#L" break="no" n="29"/>lionabile autem. est. operantem. voluntarie iniusta 
+          <lb ed="#L" n="30"/>non velle iniustum esse, et voluntarie stuprantem — 
+          <lb ed="#L" n="31"/>non velle incontinentem esse; et per hoc quod » 
+          <lb ed="#L" n="32"/>legislatores puniunt malos quasi voluntarie 
+          ope<lb ed="#L" break="no" n="33"/>rantes mala. Non videtur igitur malum praeter 
+          <lb ed="#L" n="34"/>voluntatem vel intentionem esse.
+        </p>
+        <p xml:id="v8naTA-d1e1749-d1e182">
+          <lb ed="#L" n="35"/>Praeterea. Omnis motus naturalis habet finem | 
+          <lb ed="#L" n="36"/>intentum a natura. Corruptio autem est mutatio  
+          <lb ed="#L" n="37"/>naturalis, sicut et generatio. Finis igitur eius, qui 
+          <lb ed="#L" n="38"/>est privatio habens rationem mali, est intentus 
+          <lb ed="#L" n="39"/>a natura: sicut etiam forma et bonum, quae sunt 
+          <lb ed="#L" n="40"/>generationis finis.
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>
