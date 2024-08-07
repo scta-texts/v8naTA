@@ -67,30 +67,30 @@
           <pb ed="#N" n="1-r"/>
           <cb ed="#N" n="a"/>
           <lb ed="#N" n="1"/>inquantum pervenit ad formam quam intendit quam privatio alterius formae de 
-          <lb ed="#N"/>necessitate consequitur transmutatio igitur materiae in generatione et corruptione per se ordinatur 
-          <lb ed="#N"/>ad formam privatio vero consequitur praeter intentionem Et similiter oportet esse in omnibus motibus 
-          <lb ed="#N"/>et ideo in quolibet motu est generatio et corruptio secundum quid sicut cum aliquid alteratur de 
-          <lb ed="#N"/>albo in nigrum corrumpitur album et fit nigrum bonum autem est secundum quod materia est per<lb ed="#N"/>fecta 
+          <lb ed="#N" n="2"/>necessitate consequitur transmutatio igitur materiae in generatione et corruptione per se ordinatur 
+          <lb ed="#N" n="3"/>ad formam privatio vero consequitur praeter intentionem Et similiter oportet esse in omnibus motibus 
+          <lb ed="#N" n="4"/>et ideo in quolibet motu est generatio et corruptio secundum quid sicut cum aliquid alteratur de 
+          <lb ed="#N" n="5"/>albo in nigrum corrumpitur album et fit nigrum bonum autem est secundum quod materia est per<lb ed="#N" n="6" break="no"/>fecta 
           per formam et potentia per actum proprium malum autem secundum quod est privata actu 
-          <lb ed="#N"/>debito omne igitur quod movetur intendit in suo motu pervenire ad 
-          <lb ed="#N"/>bonum pervenit autem ad malum praeter intentionem igitur cum omne agens et mo<lb ed="#N"/>vens 
+          <lb ed="#N" n="7"/>debito omne igitur quod movetur intendit in suo motu pervenire ad 
+          <lb ed="#N" n="8"/>bonum pervenit autem ad malum praeter intentionem igitur cum omne agens et mo<lb ed="#N" n="9" break="no"/>vens 
           intendat ad bonum malum provenit praeter intentionem agentis
         </p>
         <p xml:id="v8naTA-d1e1740-d1e257">
-          <lb ed="#N"/>amplius in agentibus per intellectum et aestimationem quamcumque intentio sequitur 
-          <lb ed="#N"/>apprehensionem In illud enim tendit intentio quod apprehenditur ut finis 
-          <lb ed="#N"/>Si igitur perveniatur ad aliquod quod non habet speciem apprehensam erit praeter intentionem 
-          <lb ed="#N"/>sicut si aliquis intendat comedere mel et comedat fel credens 
-          <lb ed="#N"/>illud esse mel hoc erit praeter intentionem sed omne agens per in<lb ed="#N"/>tellectum in<lb ed="#N"/>tendit 
+          <lb ed="#N" n="10"/>amplius in agentibus per intellectum et aestimationem quamcumque intentio sequitur 
+          <lb ed="#N" n="11"/>apprehensionem In illud enim tendit intentio quod apprehenditur ut finis 
+          <lb ed="#N" n="12"/>Si igitur perveniatur ad aliquod quod non habet speciem apprehensam erit praeter intentionem 
+          <lb ed="#N" n="13"/>sicut si aliquis intendat comedere mel et comedat fel credens 
+          <lb ed="#N" n="14"/>illud esse mel hoc erit praeter intentionem sed omne agens per intellectum in<lb ed="#N" n="15" break="no"/>tendit 
           ad aliquid secundum quod accipit illud sub ratione boni sicut ex superioribus 
-          <lb ed="#N"/>patet si igitur illud non sit bonum sed malum hoc erit praeter intentionem 
-          <lb ed="#N"/>agens igitur per intellectum non operatur malum nisi praeter intentionem cum igitur 
-          <lb ed="#N"/>tendere ad bonum sit commune agenti per intellectum et per naturam malum 
-          <lb ed="#N"/>non consequitur ex intentione alicuius agentis nisi praeter intentionem
+          <lb ed="#N" n="16"/>patet si igitur illud non sit bonum sed malum hoc erit praeter intentionem 
+          <lb ed="#N" n="17"/>agens igitur per intellectum non operatur malum nisi praeter intentionem cum igitur 
+          <lb ed="#N" n="18"/>tendere ad bonum sit commune agenti per intellectum et per naturam malum 
+          <lb ed="#N" n="19"/>non consequitur ex intentione alicuius agentis nisi praeter intentionem
         </p>
         <p xml:id="v8naTA-d1e1740-d1e296">
           hinc est quod 
-          <lb ed="#N"/>dyonysius dicit iv cap. de div. nom. quod malum est praeter intentionem et voluntatem
+          <lb ed="#N" n="20"/>dyonysius dicit iv cap. de div. nom. quod malum est praeter intentionem et voluntatem
         </p>
       </div>
     </body>
